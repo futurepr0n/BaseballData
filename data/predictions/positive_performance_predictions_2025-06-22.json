@@ -1,10 +1,10 @@
 {
   "date": "2025-06-22",
-  "generatedAt": "2025-06-22T08:31:38.771464",
+  "generatedAt": "2025-06-22T23:58:42.686436",
   "totalPlayersAnalyzed": 599,
   "playersWithPositiveMomentum": 358,
   "pythonOptimized": true,
-  "analysisTimeSeconds": 9.1,
+  "analysisTimeSeconds": 9.2,
   "predictions": [
     {
       "playerName": "A. Bohm",
@@ -11033,7 +11033,14 @@
           "hitless_games": 0,
           "strikeout_rate": 0.23529411764705882
         },
-        "crossReferencedCards": [],
+        "crossReferencedCards": [
+          {
+            "card_type": "player_performance",
+            "card_name": "Player Performance",
+            "filename": "player_performance_latest.json",
+            "appears_in": true
+          }
+        ],
         "weatherContext": {
           "available": false,
           "message": "Weather context available via Node.js PositiveMomentumCard integration",
