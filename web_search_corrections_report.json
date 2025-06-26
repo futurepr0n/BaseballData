@@ -1,0 +1,51 @@
+{
+  "timestamp": "2025-06-25T19:08:07.952Z",
+  "applied_corrections": [
+    {
+      "player_name": "A. Cox",
+      "team": "ATL",
+      "type": "pitcher",
+      "original_fullName": "A. Cox",
+      "corrected_fullName": "Austin Cox",
+      "confidence": "high",
+      "source": "mlb.com/espn.com web search",
+      "notes": "Relief pitcher for Atlanta Braves, jersey #68, left-handed",
+      "validation_warnings": []
+    },
+    {
+      "player_name": "A. Garcia",
+      "team": "ARI",
+      "type": "hitter",
+      "original_fullName": "A. Garcia",
+      "corrected_fullName": "Aramis Garcia",
+      "confidence": "high",
+      "source": "user confirmed",
+      "notes": "User confirmed this should be Aramis Garcia",
+      "validation_warnings": []
+    },
+    {
+      "player_name": "A. Martinez",
+      "team": "CLE",
+      "type": "hitter",
+      "original_fullName": "A. Martinez",
+      "corrected_fullName": "Angel Martinez",
+      "confidence": "high",
+      "source": "mlb.com/espn.com web search",
+      "notes": "Center fielder for Cleveland Guardians, confirmed through multiple sources",
+      "validation_warnings": []
+    }
+  ],
+  "skipped_players": [],
+  "validation_warnings": [],
+  "summary": {
+    "total_confirmed_results": 3,
+    "applied_corrections": 3,
+    "skipped_players": 0,
+    "validation_warnings": 0,
+    "success_rate": "100.00",
+    "corrections_by_source": {
+      "mlb.com/espn.com web search": 2,
+      "user confirmed": 1
+    }
+  }
+}
