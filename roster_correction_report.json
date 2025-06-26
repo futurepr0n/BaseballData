@@ -1,0 +1,4589 @@
+{
+  "timestamp": "2025-06-26T01:36:01.233Z",
+  "config": {
+    "rosterFile": "./data/rosters.json",
+    "analysisFile": "./roster_name_analysis.json",
+    "outputFile": "./data/rosters_corrected.json",
+    "backupFile": "./data/rosters_backup.json",
+    "correctionReport": "./roster_correction_report.json"
+  },
+  "corrections": {
+    "total_corrections": 349,
+    "automated_fixes": [
+      {
+        "player_name": "A. Civale",
+        "team": "CHW",
+        "type": "pitcher",
+        "original_fullName": "A. Civale",
+        "corrected_fullName": "Aaron Civale",
+        "confidence": "high",
+        "csv_line": 192,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "A. DeSclafani",
+        "team": "ARI",
+        "type": "pitcher",
+        "original_fullName": "A. DeSclafani",
+        "corrected_fullName": "Anthony DeSclafani",
+        "confidence": "high",
+        "csv_line": 410,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "A. Gomber",
+        "team": "COL",
+        "type": "pitcher",
+        "original_fullName": "A. Gomber",
+        "corrected_fullName": "Austin Gomber",
+        "confidence": "high",
+        "csv_line": 471,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "A. Granillo",
+        "team": "STL",
+        "type": "pitcher",
+        "original_fullName": "A. Granillo",
+        "corrected_fullName": "Andre Granillo",
+        "confidence": "high",
+        "csv_line": 297,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "A. Mazur",
+        "team": "MIA",
+        "type": "pitcher",
+        "original_fullName": "A. Mazur",
+        "corrected_fullName": "Adam Mazur",
+        "confidence": "high",
+        "csv_line": 558,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "A. Molina",
+        "team": "COL",
+        "type": "pitcher",
+        "original_fullName": "A. Molina",
+        "corrected_fullName": "Anthony Molina",
+        "confidence": "high",
+        "csv_line": 197,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "A. Monasterio",
+        "team": "MIL",
+        "type": "hitter",
+        "original_fullName": "A. Monasterio",
+        "corrected_fullName": "Andruw Monasterio",
+        "confidence": "high",
+        "csv_line": 61,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "A. Osuna",
+        "team": "TEX",
+        "type": "hitter",
+        "original_fullName": "A. Osuna",
+        "corrected_fullName": "Alejandro Osuna",
+        "confidence": "high",
+        "csv_line": 44,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "A. Perdomo",
+        "team": "OAK",
+        "type": "pitcher",
+        "original_fullName": "A. Perdomo",
+        "corrected_fullName": "Angel Perdomo",
+        "confidence": "high",
+        "csv_line": 268,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "A. Rangel",
+        "team": "PHI",
+        "type": "pitcher",
+        "original_fullName": "A. Rangel",
+        "corrected_fullName": "Alan Rangel",
+        "confidence": "high",
+        "csv_line": 106,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "A. Roden",
+        "team": "TOR",
+        "type": "hitter",
+        "original_fullName": "A. Roden",
+        "corrected_fullName": "Alan Roden",
+        "confidence": "high",
+        "csv_line": 11,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "A. Slater",
+        "team": "CHW",
+        "type": "hitter",
+        "original_fullName": "A. Slater",
+        "corrected_fullName": "Austin Slater",
+        "confidence": "high",
+        "csv_line": 422,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "A. Winans",
+        "team": "NYY",
+        "type": "pitcher",
+        "original_fullName": "A. Winans",
+        "corrected_fullName": "Allan Winans",
+        "confidence": "high",
+        "csv_line": 302,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "B. Ashcraft",
+        "team": "PIT",
+        "type": "pitcher",
+        "original_fullName": "B. Ashcraft",
+        "corrected_fullName": "Braxton Ashcraft",
+        "confidence": "high",
+        "csv_line": 421,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "B. Castano",
+        "team": "SEA",
+        "type": "pitcher",
+        "original_fullName": "B. Castano",
+        "corrected_fullName": "Blas Castano",
+        "confidence": "high",
+        "csv_line": 429,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "B. Crim",
+        "team": "TEX",
+        "type": "hitter",
+        "original_fullName": "B. Crim",
+        "corrected_fullName": "Blaine Crim",
+        "confidence": "high",
+        "csv_line": 276,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "B. Fisher",
+        "team": "TOR",
+        "type": "pitcher",
+        "original_fullName": "B. Fisher",
+        "corrected_fullName": "Braydon Fisher",
+        "confidence": "high",
+        "csv_line": 277,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "B. Fulford",
+        "team": "COL",
+        "type": "hitter",
+        "original_fullName": "B. Fulford",
+        "corrected_fullName": "Braxton Fulford",
+        "confidence": "high",
+        "csv_line": 163,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "B. Headrick",
+        "team": "NYY",
+        "type": "pitcher",
+        "original_fullName": "B. Headrick",
+        "corrected_fullName": "Brent Headrick",
+        "confidence": "high",
+        "csv_line": 529,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "B. House",
+        "team": "WSH",
+        "type": "hitter",
+        "original_fullName": "B. House",
+        "corrected_fullName": "Brady House",
+        "confidence": "high",
+        "csv_line": 245,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "B. Jarvis",
+        "team": "ARI",
+        "type": "pitcher",
+        "original_fullName": "B. Jarvis",
+        "corrected_fullName": "Bryce Jarvis",
+        "confidence": "high",
+        "csv_line": 426,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "B. Johnson",
+        "team": "SD",
+        "type": "hitter",
+        "original_fullName": "B. Johnson",
+        "corrected_fullName": "Bryce Johnson",
+        "confidence": "high",
+        "csv_line": 501,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "B. Joyce",
+        "team": "LAA",
+        "type": "pitcher",
+        "original_fullName": "B. Joyce",
+        "corrected_fullName": "Ben Joyce",
+        "confidence": "high",
+        "csv_line": 422,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "B. Lockridge",
+        "team": "SD",
+        "type": "hitter",
+        "original_fullName": "B. Lockridge",
+        "corrected_fullName": "Brandon Lockridge",
+        "confidence": "high",
+        "csv_line": 107,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "B. Marsh",
+        "team": "PHI",
+        "type": "hitter",
+        "original_fullName": "B. Marsh",
+        "corrected_fullName": "Brandon Marsh",
+        "confidence": "high",
+        "csv_line": 430,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "B. Snell",
+        "team": "LAD",
+        "type": "pitcher",
+        "original_fullName": "B. Snell",
+        "corrected_fullName": "Blake Snell",
+        "confidence": "high",
+        "csv_line": 467,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "B. Sousa",
+        "team": "HOU",
+        "type": "pitcher",
+        "original_fullName": "B. Sousa",
+        "corrected_fullName": "Bennett Sousa",
+        "confidence": "high",
+        "csv_line": 502,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "B. Tidwell",
+        "team": "NYM",
+        "type": "pitcher",
+        "original_fullName": "B. Tidwell",
+        "corrected_fullName": "Blade Tidwell",
+        "confidence": "high",
+        "csv_line": 195,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "B. Treinen",
+        "team": "LAD",
+        "type": "pitcher",
+        "original_fullName": "B. Treinen",
+        "corrected_fullName": "Blake Treinen",
+        "confidence": "high",
+        "csv_line": 208,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "B. Waddell",
+        "team": "NYM",
+        "type": "pitcher",
+        "original_fullName": "B. Waddell",
+        "corrected_fullName": "Brandon Waddell",
+        "confidence": "high",
+        "csv_line": 243,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "B. Wisely",
+        "team": "SF",
+        "type": "hitter",
+        "original_fullName": "B. Wisely",
+        "corrected_fullName": "Brett Wisely",
+        "confidence": "high",
+        "csv_line": 542,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "B. Young",
+        "team": "BAL",
+        "type": "pitcher",
+        "original_fullName": "B. Young",
+        "corrected_fullName": "Brandon Young",
+        "confidence": "high",
+        "csv_line": 199,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "C. Bolton",
+        "team": "CLE",
+        "type": "pitcher",
+        "original_fullName": "C. Bolton",
+        "corrected_fullName": "Cody Bolton",
+        "confidence": "high",
+        "csv_line": 333,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "C. Brogdon",
+        "team": "LAA",
+        "type": "pitcher",
+        "original_fullName": "C. Brogdon",
+        "corrected_fullName": "Connor Brogdon",
+        "confidence": "high",
+        "csv_line": 621,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "C. Cowser",
+        "team": "BAL",
+        "type": "hitter",
+        "original_fullName": "C. Cowser",
+        "corrected_fullName": "Colton Cowser",
+        "confidence": "high",
+        "csv_line": 39,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "C. Criswell",
+        "team": "BOS",
+        "type": "pitcher",
+        "original_fullName": "C. Criswell",
+        "corrected_fullName": "Cooper Criswell",
+        "confidence": "high",
+        "csv_line": 137,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "C. Dana",
+        "team": "LAA",
+        "type": "pitcher",
+        "original_fullName": "C. Dana",
+        "corrected_fullName": "Caden Dana",
+        "confidence": "high",
+        "csv_line": 425,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "C. Devenski",
+        "team": "NYM",
+        "type": "pitcher",
+        "original_fullName": "C. Devenski",
+        "corrected_fullName": "Chris Devenski",
+        "confidence": "high",
+        "csv_line": 375,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "C. Encarnacion-Strand",
+        "team": "CIN",
+        "type": "hitter",
+        "original_fullName": "C. Encarnacion-Strand",
+        "corrected_fullName": "Christian Encarnacion-Strand",
+        "confidence": "high",
+        "csv_line": 127,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "C. Flexen",
+        "team": "CHC",
+        "type": "pitcher",
+        "original_fullName": "C. Flexen",
+        "corrected_fullName": "Chris Flexen",
+        "confidence": "high",
+        "csv_line": 403,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "C. Freeman",
+        "team": "CHW",
+        "type": "pitcher",
+        "original_fullName": "C. Freeman",
+        "corrected_fullName": "Caleb Freeman",
+        "confidence": "high",
+        "csv_line": 143,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "C. Gibson",
+        "team": "MIA",
+        "type": "pitcher",
+        "original_fullName": "C. Gibson",
+        "corrected_fullName": "Cade Gibson",
+        "confidence": "high",
+        "csv_line": 326,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "C. Gordon",
+        "team": "HOU",
+        "type": "pitcher",
+        "original_fullName": "C. Gordon",
+        "corrected_fullName": "Colton Gordon",
+        "confidence": "high",
+        "csv_line": 228,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "C. Hummel",
+        "team": "HOU",
+        "type": "hitter",
+        "original_fullName": "C. Hummel",
+        "corrected_fullName": "Cooper Hummel",
+        "confidence": "high",
+        "csv_line": 401,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "C. Joe",
+        "team": "CIN",
+        "type": "hitter",
+        "original_fullName": "C. Joe",
+        "corrected_fullName": "Connor Joe",
+        "confidence": "high",
+        "csv_line": 326,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "C. Kershaw",
+        "team": "LAD",
+        "type": "pitcher",
+        "original_fullName": "C. Kershaw",
+        "corrected_fullName": "Clayton Kershaw",
+        "confidence": "high",
+        "csv_line": 357,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "C. Koss",
+        "team": "SF",
+        "type": "hitter",
+        "original_fullName": "C. Koss",
+        "corrected_fullName": "Christian Koss",
+        "confidence": "high",
+        "csv_line": 29,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "C. Lee",
+        "team": "DET",
+        "type": "pitcher",
+        "original_fullName": "C. Lee",
+        "corrected_fullName": "Chase Lee",
+        "confidence": "high",
+        "csv_line": 296,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "C. Mayo",
+        "team": "BAL",
+        "type": "hitter",
+        "original_fullName": "C. Mayo",
+        "corrected_fullName": "Coby Mayo",
+        "confidence": "high",
+        "csv_line": 363,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "C. McDermott",
+        "team": "BAL",
+        "type": "pitcher",
+        "original_fullName": "C. McDermott",
+        "corrected_fullName": "Chayce McDermott",
+        "confidence": "high",
+        "csv_line": 525,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "C. Mena",
+        "team": "ARI",
+        "type": "pitcher",
+        "original_fullName": "C. Mena",
+        "corrected_fullName": "Cristian Mena",
+        "confidence": "high",
+        "csv_line": 139,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "C. Montes",
+        "team": "TB",
+        "type": "hitter",
+        "original_fullName": "C. Montes",
+        "corrected_fullName": "Coco Montes",
+        "confidence": "high",
+        "csv_line": 3,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "C. Moore",
+        "team": "LAA",
+        "type": "hitter",
+        "original_fullName": "C. Moore",
+        "corrected_fullName": "Christian Moore",
+        "confidence": "high",
+        "csv_line": 526,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "C. Petty",
+        "team": "CIN",
+        "type": "pitcher",
+        "original_fullName": "C. Petty",
+        "corrected_fullName": "Chase Petty",
+        "confidence": "high",
+        "csv_line": 168,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "C. Rodriguez",
+        "team": "MIL",
+        "type": "pitcher",
+        "original_fullName": "C. Rodriguez",
+        "corrected_fullName": "Carlos Rodriguez",
+        "confidence": "high",
+        "csv_line": 129,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "C. Roycroft",
+        "team": "STL",
+        "type": "pitcher",
+        "original_fullName": "C. Roycroft",
+        "corrected_fullName": "Chris Roycroft",
+        "confidence": "high",
+        "csv_line": 449,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "C. Schmitt",
+        "team": "SF",
+        "type": "hitter",
+        "original_fullName": "C. Schmitt",
+        "corrected_fullName": "Casey Schmitt",
+        "confidence": "high",
+        "csv_line": 114,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "C. Seabold",
+        "team": "TB",
+        "type": "pitcher",
+        "original_fullName": "C. Seabold",
+        "corrected_fullName": "Connor Seabold",
+        "confidence": "high",
+        "csv_line": 320,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "C. Smith",
+        "team": "HOU",
+        "type": "hitter",
+        "original_fullName": "C. Smith",
+        "corrected_fullName": "Cam Smith",
+        "confidence": "high",
+        "csv_line": 349,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "C. Spiers",
+        "team": "CIN",
+        "type": "pitcher",
+        "original_fullName": "C. Spiers",
+        "corrected_fullName": "Carson Spiers",
+        "confidence": "high",
+        "csv_line": 563,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "C. Stratton",
+        "team": "LAD",
+        "type": "pitcher",
+        "original_fullName": "C. Stratton",
+        "corrected_fullName": "Chris Stratton",
+        "confidence": "high",
+        "csv_line": 213,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "C. Sulser",
+        "team": "TB",
+        "type": "pitcher",
+        "original_fullName": "C. Sulser",
+        "corrected_fullName": "Cole Sulser",
+        "confidence": "high",
+        "csv_line": 311,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "C. Taylor",
+        "team": "LAA",
+        "type": "hitter",
+        "original_fullName": "C. Taylor",
+        "corrected_fullName": "Chris Taylor",
+        "confidence": "high",
+        "csv_line": 515,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "C. Thomas",
+        "team": "MIL",
+        "type": "pitcher",
+        "original_fullName": "C. Thomas",
+        "corrected_fullName": "Connor Thomas",
+        "confidence": "high",
+        "csv_line": 118,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "C. Tromp",
+        "team": "ATL",
+        "type": "hitter",
+        "original_fullName": "C. Tromp",
+        "corrected_fullName": "Chadwick Tromp",
+        "confidence": "high",
+        "csv_line": 360,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "C. Tromp",
+        "team": "BAL",
+        "type": "hitter",
+        "original_fullName": "C. Tromp",
+        "corrected_fullName": "Chadwick Tromp",
+        "confidence": "high",
+        "csv_line": 360,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "C. Winn",
+        "team": "TEX",
+        "type": "pitcher",
+        "original_fullName": "C. Winn",
+        "corrected_fullName": "Cole Winn",
+        "confidence": "high",
+        "csv_line": 437,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "C. Wong",
+        "team": "BOS",
+        "type": "hitter",
+        "original_fullName": "C. Wong",
+        "corrected_fullName": "Connor Wong",
+        "confidence": "high",
+        "csv_line": 391,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "C. Young",
+        "team": "SEA",
+        "type": "hitter",
+        "original_fullName": "C. Young",
+        "corrected_fullName": "Cole Young",
+        "confidence": "high",
+        "csv_line": 131,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "D. Altavilla",
+        "team": "CHW",
+        "type": "pitcher",
+        "original_fullName": "D. Altavilla",
+        "corrected_fullName": "Dan Altavilla",
+        "confidence": "high",
+        "csv_line": 312,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "D. Avans",
+        "team": "OAK",
+        "type": "hitter",
+        "original_fullName": "D. Avans",
+        "corrected_fullName": "Drew Avans",
+        "confidence": "high",
+        "csv_line": 79,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "D. Avans",
+        "team": "MIL",
+        "type": "hitter",
+        "original_fullName": "D. Avans",
+        "corrected_fullName": "Drew Avans",
+        "confidence": "high",
+        "csv_line": 79,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "D. Baldwin",
+        "team": "ATL",
+        "type": "hitter",
+        "original_fullName": "D. Baldwin",
+        "corrected_fullName": "Drake Baldwin",
+        "confidence": "high",
+        "csv_line": 24,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "D. Canzone",
+        "team": "SEA",
+        "type": "hitter",
+        "original_fullName": "D. Canzone",
+        "corrected_fullName": "Dominic Canzone",
+        "confidence": "high",
+        "csv_line": 386,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "D. Clarke",
+        "team": "OAK",
+        "type": "hitter",
+        "original_fullName": "D. Clarke",
+        "corrected_fullName": "Denzel Clarke",
+        "confidence": "high",
+        "csv_line": 57,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "D. Dodd",
+        "team": "ATL",
+        "type": "pitcher",
+        "original_fullName": "D. Dodd",
+        "corrected_fullName": "Dylan Dodd",
+        "confidence": "high",
+        "csv_line": 418,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "D. Dunning",
+        "team": "TEX",
+        "type": "pitcher",
+        "original_fullName": "D. Dunning",
+        "corrected_fullName": "Dane Dunning",
+        "confidence": "high",
+        "csv_line": 202,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "D. Fry",
+        "team": "CLE",
+        "type": "hitter",
+        "original_fullName": "D. Fry",
+        "corrected_fullName": "David Fry",
+        "confidence": "high",
+        "csv_line": 170,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "D. Fuentes",
+        "team": "ATL",
+        "type": "pitcher",
+        "original_fullName": "D. Fuentes",
+        "corrected_fullName": "Didier Fuentes",
+        "confidence": "high",
+        "csv_line": 351,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "D. Hall",
+        "team": "MIL",
+        "type": "pitcher",
+        "original_fullName": "D. Hall",
+        "corrected_fullName": "DL Hall",
+        "confidence": "high",
+        "csv_line": 408,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "D. Hill",
+        "team": "MIA",
+        "type": "hitter",
+        "original_fullName": "D. Hill",
+        "corrected_fullName": "Derek Hill",
+        "confidence": "high",
+        "csv_line": 72,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "D. Johnson",
+        "team": "SF",
+        "type": "hitter",
+        "original_fullName": "D. Johnson",
+        "corrected_fullName": "Daniel Johnson",
+        "confidence": "high",
+        "csv_line": 377,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "D. LeMahieu",
+        "team": "NYY",
+        "type": "hitter",
+        "original_fullName": "D. LeMahieu",
+        "corrected_fullName": "DJ LeMahieu",
+        "confidence": "high",
+        "csv_line": 142,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "D. Lile",
+        "team": "WSH",
+        "type": "hitter",
+        "original_fullName": "D. Lile",
+        "corrected_fullName": "Daylen Lile",
+        "confidence": "high",
+        "csv_line": 531,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "D. McCaughan",
+        "team": "MIN",
+        "type": "pitcher",
+        "original_fullName": "D. McCaughan",
+        "corrected_fullName": "Darren McCaughan",
+        "confidence": "high",
+        "csv_line": 538,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "D. Morgan",
+        "team": "SD",
+        "type": "pitcher",
+        "original_fullName": "D. Morgan",
+        "corrected_fullName": "David Morgan",
+        "confidence": "high",
+        "csv_line": 450,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "D. Pomeranz",
+        "team": "CHC",
+        "type": "pitcher",
+        "original_fullName": "D. Pomeranz",
+        "corrected_fullName": "Drew Pomeranz",
+        "confidence": "high",
+        "csv_line": 601,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "D. Rushing",
+        "team": "LAD",
+        "type": "hitter",
+        "original_fullName": "D. Rushing",
+        "corrected_fullName": "Dalton Rushing",
+        "confidence": "high",
+        "csv_line": 461,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "D. Schneider",
+        "team": "TOR",
+        "type": "hitter",
+        "original_fullName": "D. Schneider",
+        "corrected_fullName": "Davis Schneider",
+        "confidence": "high",
+        "csv_line": 345,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "D. Smith",
+        "team": "DET",
+        "type": "pitcher",
+        "original_fullName": "D. Smith",
+        "corrected_fullName": "Dylan Smith",
+        "confidence": "high",
+        "csv_line": 317,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "D. Varsho",
+        "team": "TOR",
+        "type": "hitter",
+        "original_fullName": "D. Varsho",
+        "corrected_fullName": "Daulton Varsho",
+        "confidence": "high",
+        "csv_line": 429,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "E. Alvarado",
+        "team": "OAK",
+        "type": "pitcher",
+        "original_fullName": "E. Alvarado",
+        "corrected_fullName": "Elvis Alvarado",
+        "confidence": "high",
+        "csv_line": 249,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "E. Carter",
+        "team": "TEX",
+        "type": "hitter",
+        "original_fullName": "E. Carter",
+        "corrected_fullName": "Evan Carter",
+        "confidence": "high",
+        "csv_line": 34,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "E. Duran",
+        "team": "TEX",
+        "type": "hitter",
+        "original_fullName": "E. Duran",
+        "corrected_fullName": "Ezequiel Duran",
+        "confidence": "high",
+        "csv_line": 22,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "E. Lauer",
+        "team": "TOR",
+        "type": "pitcher",
+        "original_fullName": "E. Lauer",
+        "corrected_fullName": "Eric Lauer",
+        "confidence": "high",
+        "csv_line": 443,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "E. McGee",
+        "team": "MIL",
+        "type": "pitcher",
+        "original_fullName": "E. McGee",
+        "corrected_fullName": "Easton McGee",
+        "confidence": "high",
+        "csv_line": 352,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "E. Morgan",
+        "team": "CHC",
+        "type": "pitcher",
+        "original_fullName": "E. Morgan",
+        "corrected_fullName": "Eli Morgan",
+        "confidence": "high",
+        "csv_line": 327,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "E. Peguero",
+        "team": "MIL",
+        "type": "pitcher",
+        "original_fullName": "E. Peguero",
+        "corrected_fullName": "Elvis Peguero",
+        "confidence": "high",
+        "csv_line": 117,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "E. Rivera",
+        "team": "BAL",
+        "type": "hitter",
+        "original_fullName": "E. Rivera",
+        "corrected_fullName": "Emmanuel Rivera",
+        "confidence": "high",
+        "csv_line": 47,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "E. Sheehan",
+        "team": "LAD",
+        "type": "pitcher",
+        "original_fullName": "E. Sheehan",
+        "corrected_fullName": "Emmet Sheehan",
+        "confidence": "high",
+        "csv_line": 365,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "E. Sisk",
+        "team": "KC",
+        "type": "pitcher",
+        "original_fullName": "E. Sisk",
+        "corrected_fullName": "Evan Sisk",
+        "confidence": "high",
+        "csv_line": 13,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "E. Swanson",
+        "team": "TOR",
+        "type": "pitcher",
+        "original_fullName": "E. Swanson",
+        "corrected_fullName": "Erik Swanson",
+        "confidence": "high",
+        "csv_line": 157,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "E. Valdez",
+        "team": "PIT",
+        "type": "hitter",
+        "original_fullName": "E. Valdez",
+        "corrected_fullName": "Enmanuel Valdez",
+        "confidence": "high",
+        "csv_line": 379,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "F. Ellard",
+        "team": "CHW",
+        "type": "pitcher",
+        "original_fullName": "F. Ellard",
+        "corrected_fullName": "Fraser Ellard",
+        "confidence": "high",
+        "csv_line": 486,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "F. Whitley",
+        "team": "TB",
+        "type": "pitcher",
+        "original_fullName": "F. Whitley",
+        "corrected_fullName": "Forrest Whitley",
+        "confidence": "high",
+        "csv_line": 516,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "G. Cabrera",
+        "team": "NYM",
+        "type": "pitcher",
+        "original_fullName": "G. Cabrera",
+        "corrected_fullName": "Génesis Cabrera",
+        "confidence": "high",
+        "csv_line": 28,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "G. Cabrera",
+        "team": "CHC",
+        "type": "pitcher",
+        "original_fullName": "G. Cabrera",
+        "corrected_fullName": "Génesis Cabrera",
+        "confidence": "high",
+        "csv_line": 28,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "G. Campero",
+        "team": "LAA",
+        "type": "hitter",
+        "original_fullName": "G. Campero",
+        "corrected_fullName": "Gustavo Campero",
+        "confidence": "high",
+        "csv_line": 305,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "G. Conine",
+        "team": "MIA",
+        "type": "hitter",
+        "original_fullName": "G. Conine",
+        "corrected_fullName": "Griffin Conine",
+        "confidence": "high",
+        "csv_line": 141,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "G. Garabito",
+        "team": "TEX",
+        "type": "pitcher",
+        "original_fullName": "G. Garabito",
+        "corrected_fullName": "Gerson Garabito",
+        "confidence": "high",
+        "csv_line": 323,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "G. Graceffo",
+        "team": "STL",
+        "type": "pitcher",
+        "original_fullName": "G. Graceffo",
+        "corrected_fullName": "Gordon Graceffo",
+        "confidence": "high",
+        "csv_line": 492,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "G. Hampson",
+        "team": "CIN",
+        "type": "hitter",
+        "original_fullName": "Garrett Hampson",
+        "corrected_fullName": "Garrett Hampson",
+        "confidence": "high",
+        "csv_line": 4,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "G. Hampson",
+        "team": "CIN",
+        "type": "hitter",
+        "original_fullName": "G. Hampson",
+        "corrected_fullName": "Garrett Hampson",
+        "confidence": "high",
+        "csv_line": 4,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "G. Kirby",
+        "team": "SEA",
+        "type": "pitcher",
+        "original_fullName": "G. Kirby",
+        "corrected_fullName": "George Kirby",
+        "confidence": "high",
+        "csv_line": 580,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "G. Santos",
+        "team": "SEA",
+        "type": "pitcher",
+        "original_fullName": "G. Santos",
+        "corrected_fullName": "Gregory Santos",
+        "confidence": "high",
+        "csv_line": 394,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "G. Stanton",
+        "team": "NYY",
+        "type": "hitter",
+        "original_fullName": "G. Stanton",
+        "corrected_fullName": "Giancarlo Stanton",
+        "confidence": "high",
+        "csv_line": 323,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "G. Taylor",
+        "team": "CHW",
+        "type": "pitcher",
+        "original_fullName": "G. Taylor",
+        "corrected_fullName": "Grant Taylor",
+        "confidence": "high",
+        "csv_line": 128,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "G. Workman",
+        "team": "CHC",
+        "type": "hitter",
+        "original_fullName": "G. Workman",
+        "corrected_fullName": "Gage Workman",
+        "confidence": "high",
+        "csv_line": 250,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "H. Harvey",
+        "team": "KC",
+        "type": "pitcher",
+        "original_fullName": "H. Harvey",
+        "corrected_fullName": "Hunter Harvey",
+        "confidence": "high",
+        "csv_line": 391,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "H. Hernandez",
+        "team": "MIA",
+        "type": "hitter",
+        "original_fullName": "H. Hernandez",
+        "corrected_fullName": "Heriberto Hernandez",
+        "confidence": "high",
+        "csv_line": 48,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "H. Kim",
+        "team": "LAD",
+        "type": "hitter",
+        "original_fullName": "H. Kim",
+        "corrected_fullName": "Hyeseong Kim",
+        "confidence": "high",
+        "csv_line": 203,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "H. Neris",
+        "team": "LAA",
+        "type": "pitcher",
+        "original_fullName": "H. Neris",
+        "corrected_fullName": "Héctor Neris",
+        "confidence": "high",
+        "csv_line": 334,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "H. Neris",
+        "team": "ATL",
+        "type": "pitcher",
+        "original_fullName": "H. Neris",
+        "corrected_fullName": "Héctor Neris",
+        "confidence": "high",
+        "csv_line": 334,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "H. Senger",
+        "team": "NYM",
+        "type": "hitter",
+        "original_fullName": "H. Senger",
+        "corrected_fullName": "Hayden Senger",
+        "confidence": "high",
+        "csv_line": 214,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "H. Stratton",
+        "team": "PIT",
+        "type": "pitcher",
+        "original_fullName": "H. Stratton",
+        "corrected_fullName": "Hunter Stratton",
+        "confidence": "high",
+        "csv_line": 608,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "H. Strickland",
+        "team": "LAA",
+        "type": "pitcher",
+        "original_fullName": "H. Strickland",
+        "corrected_fullName": "Hunter Strickland",
+        "confidence": "high",
+        "csv_line": 369,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "I. Herrera",
+        "team": "STL",
+        "type": "hitter",
+        "original_fullName": "I. Herrera",
+        "corrected_fullName": "Iván Herrera",
+        "confidence": "high",
+        "csv_line": 473,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "I. Mattson",
+        "team": "PIT",
+        "type": "pitcher",
+        "original_fullName": "I. Mattson",
+        "corrected_fullName": "Isaac Mattson",
+        "confidence": "high",
+        "csv_line": 337,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "I. Vargas",
+        "team": "ARI",
+        "type": "hitter",
+        "original_fullName": "I. Vargas",
+        "corrected_fullName": "Ildemaro Vargas",
+        "confidence": "high",
+        "csv_line": 228,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Alcala",
+        "team": "BOS",
+        "type": "pitcher",
+        "original_fullName": "J. Alcala",
+        "corrected_fullName": "Jorge Alcala",
+        "confidence": "high",
+        "csv_line": 583,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Alexander",
+        "team": "OAK",
+        "type": "pitcher",
+        "original_fullName": "J. Alexander",
+        "corrected_fullName": "Jason Alexander",
+        "confidence": "high",
+        "csv_line": 397,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Alexander",
+        "team": "HOU",
+        "type": "pitcher",
+        "original_fullName": "J. Alexander",
+        "corrected_fullName": "Jason Alexander",
+        "confidence": "high",
+        "csv_line": 397,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Azocar",
+        "team": "ATL",
+        "type": "hitter",
+        "original_fullName": "J. Azocar",
+        "corrected_fullName": "José Azocar",
+        "confidence": "high",
+        "csv_line": 147,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Bae",
+        "team": "PIT",
+        "type": "hitter",
+        "original_fullName": "J. Bae",
+        "corrected_fullName": "Ji Hwan Bae",
+        "confidence": "high",
+        "csv_line": 279,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Barnes",
+        "team": "TOR",
+        "type": "pitcher",
+        "original_fullName": "J. Barnes",
+        "corrected_fullName": "Jacob Barnes",
+        "confidence": "high",
+        "csv_line": 200,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Barrero",
+        "team": "STL",
+        "type": "hitter",
+        "original_fullName": "J. Barrero",
+        "corrected_fullName": "Jose Barrero",
+        "confidence": "high",
+        "csv_line": 175,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Boyle",
+        "team": "TB",
+        "type": "pitcher",
+        "original_fullName": "J. Boyle",
+        "corrected_fullName": "Joe Boyle",
+        "confidence": "high",
+        "csv_line": 283,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Bride",
+        "team": "MIA",
+        "type": "hitter",
+        "original_fullName": "J. Bride",
+        "corrected_fullName": "Jonah Bride",
+        "confidence": "high",
+        "csv_line": 104,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Brigham",
+        "team": "ARI",
+        "type": "pitcher",
+        "original_fullName": "J. Brigham",
+        "corrected_fullName": "Jeff Brigham",
+        "confidence": "high",
+        "csv_line": 632,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Bruihl",
+        "team": "TOR",
+        "type": "pitcher",
+        "original_fullName": "J. Bruihl",
+        "corrected_fullName": "Justin Bruihl",
+        "confidence": "high",
+        "csv_line": 90,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Caglianone",
+        "team": "KC",
+        "type": "hitter",
+        "original_fullName": "J. Caglianone",
+        "corrected_fullName": "Jac Caglianone",
+        "confidence": "high",
+        "csv_line": 475,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Castillo",
+        "team": "ARI",
+        "type": "pitcher",
+        "original_fullName": "J. Castillo",
+        "corrected_fullName": "José Castillo",
+        "confidence": "high",
+        "csv_line": 328,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Castillo",
+        "team": "NYM",
+        "type": "pitcher",
+        "original_fullName": "J. Castillo",
+        "corrected_fullName": "José Castillo",
+        "confidence": "high",
+        "csv_line": 328,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Clase",
+        "team": "TOR",
+        "type": "hitter",
+        "original_fullName": "J. Clase",
+        "corrected_fullName": "Jonatan Clase",
+        "confidence": "high",
+        "csv_line": 519,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. DeLuca",
+        "team": "TB",
+        "type": "hitter",
+        "original_fullName": "J. DeLuca",
+        "corrected_fullName": "Jonny DeLuca",
+        "confidence": "high",
+        "csv_line": 8,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Duran",
+        "team": "BOS",
+        "type": "hitter",
+        "original_fullName": "J. Duran",
+        "corrected_fullName": "Jarren Duran",
+        "confidence": "high",
+        "csv_line": 246,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Encarnacion",
+        "team": "SF",
+        "type": "hitter",
+        "original_fullName": "J. Encarnacion",
+        "corrected_fullName": "Jerar Encarnacion",
+        "confidence": "high",
+        "csv_line": 262,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Estes",
+        "team": "OAK",
+        "type": "pitcher",
+        "original_fullName": "J. Estes",
+        "corrected_fullName": "Joey Estes",
+        "confidence": "high",
+        "csv_line": 627,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Fermin",
+        "team": "LAA",
+        "type": "pitcher",
+        "original_fullName": "J. Fermin",
+        "corrected_fullName": "José Fermin",
+        "confidence": "high",
+        "csv_line": 144,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Garza",
+        "team": "NYM",
+        "type": "pitcher",
+        "original_fullName": "J. Garza",
+        "corrected_fullName": "Justin Garza",
+        "confidence": "high",
+        "csv_line": 134,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Hagenman",
+        "team": "NYM",
+        "type": "pitcher",
+        "original_fullName": "J. Hagenman",
+        "corrected_fullName": "Justin Hagenman",
+        "confidence": "high",
+        "csv_line": 494,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Hahn",
+        "team": "SEA",
+        "type": "pitcher",
+        "original_fullName": "J. Hahn",
+        "corrected_fullName": "Jesse Hahn",
+        "confidence": "high",
+        "csv_line": 390,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Heyward",
+        "team": "SD",
+        "type": "hitter",
+        "original_fullName": "J. Heyward",
+        "corrected_fullName": "Jason Heyward",
+        "confidence": "high",
+        "csv_line": 28,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Hurtubise",
+        "team": "CIN",
+        "type": "hitter",
+        "original_fullName": "J. Hurtubise",
+        "corrected_fullName": "Jacob Hurtubise",
+        "confidence": "high",
+        "csv_line": 439,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Jones",
+        "team": "DET",
+        "type": "hitter",
+        "original_fullName": "J. Jones",
+        "corrected_fullName": "Jahmai Jones",
+        "confidence": "high",
+        "csv_line": 423,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Junk",
+        "team": "MIA",
+        "type": "pitcher",
+        "original_fullName": "J. Junk",
+        "corrected_fullName": "Janson Junk",
+        "confidence": "high",
+        "csv_line": 460,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Kowar",
+        "team": "SEA",
+        "type": "pitcher",
+        "original_fullName": "J. Kowar",
+        "corrected_fullName": "Jackson Kowar",
+        "confidence": "high",
+        "csv_line": 110,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Lawlar",
+        "team": "ARI",
+        "type": "hitter",
+        "original_fullName": "J. Lawlar",
+        "corrected_fullName": "Jordan Lawlar",
+        "confidence": "high",
+        "csv_line": 201,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Little",
+        "team": "LAD",
+        "type": "pitcher",
+        "original_fullName": "J. Little",
+        "corrected_fullName": "Jack Little",
+        "confidence": "high",
+        "csv_line": 438,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Lopez",
+        "team": "OAK",
+        "type": "pitcher",
+        "original_fullName": "J. Lopez",
+        "corrected_fullName": "Jacob Lopez",
+        "confidence": "high",
+        "csv_line": 491,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Lowe",
+        "team": "TB",
+        "type": "hitter",
+        "original_fullName": "J. Lowe",
+        "corrected_fullName": "Josh Lowe",
+        "confidence": "high",
+        "csv_line": 464,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Lucchesi",
+        "team": "SF",
+        "type": "pitcher",
+        "original_fullName": "J. Lucchesi",
+        "corrected_fullName": "Joey Lucchesi",
+        "confidence": "high",
+        "csv_line": 267,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Mangum",
+        "team": "TB",
+        "type": "hitter",
+        "original_fullName": "J. Mangum",
+        "corrected_fullName": "Jake Mangum",
+        "confidence": "high",
+        "csv_line": 115,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Mantiply",
+        "team": "ARI",
+        "type": "pitcher",
+        "original_fullName": "J. Mantiply",
+        "corrected_fullName": "Joe Mantiply",
+        "confidence": "high",
+        "csv_line": 545,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. McCarthy",
+        "team": "ARI",
+        "type": "hitter",
+        "original_fullName": "J. McCarthy",
+        "corrected_fullName": "Jake McCarthy",
+        "confidence": "high",
+        "csv_line": 311,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Mejia",
+        "team": "COL",
+        "type": "pitcher",
+        "original_fullName": "J. Mejia",
+        "corrected_fullName": "Juan Mejia",
+        "confidence": "high",
+        "csv_line": 342,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Melton",
+        "team": "HOU",
+        "type": "hitter",
+        "original_fullName": "J. Melton",
+        "corrected_fullName": "Jacob Melton",
+        "confidence": "high",
+        "csv_line": 528,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Miranda",
+        "team": "MIN",
+        "type": "hitter",
+        "original_fullName": "J. Miranda",
+        "corrected_fullName": "Jose Miranda",
+        "confidence": "high",
+        "csv_line": 87,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Misiorowski",
+        "team": "MIL",
+        "type": "pitcher",
+        "original_fullName": "J. Misiorowski",
+        "corrected_fullName": "Jacob Misiorowski",
+        "confidence": "high",
+        "csv_line": 98,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Morillo",
+        "team": "ARI",
+        "type": "pitcher",
+        "original_fullName": "J. Morillo",
+        "corrected_fullName": "Juan Morillo",
+        "confidence": "high",
+        "csv_line": 235,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Outman",
+        "team": "LAD",
+        "type": "hitter",
+        "original_fullName": "J. Outman",
+        "corrected_fullName": "James Outman",
+        "confidence": "high",
+        "csv_line": 421,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Perkins",
+        "team": "OAK",
+        "type": "pitcher",
+        "original_fullName": "J. Perkins",
+        "corrected_fullName": "Jack Perkins",
+        "confidence": "high",
+        "csv_line": 17,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Profar",
+        "team": "ATL",
+        "type": "hitter",
+        "original_fullName": "J. Profar",
+        "corrected_fullName": "Jurickson Profar",
+        "confidence": "high",
+        "csv_line": 218,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Rave",
+        "team": "KC",
+        "type": "hitter",
+        "original_fullName": "J. Rave",
+        "corrected_fullName": "John Rave",
+        "confidence": "high",
+        "csv_line": 165,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Rogers",
+        "team": "DET",
+        "type": "hitter",
+        "original_fullName": "J. Rogers",
+        "corrected_fullName": "Jake Rogers",
+        "confidence": "high",
+        "csv_line": 310,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Rojas",
+        "team": "CHW",
+        "type": "hitter",
+        "original_fullName": "Josh Rojas",
+        "corrected_fullName": "Johan Rojas",
+        "confidence": "high",
+        "csv_line": 403,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Rojas",
+        "team": "CHW",
+        "type": "hitter",
+        "original_fullName": "J. Rojas",
+        "corrected_fullName": "Johan Rojas",
+        "confidence": "high",
+        "csv_line": 403,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Ruiz",
+        "team": "ATL",
+        "type": "pitcher",
+        "original_fullName": "J. Ruiz",
+        "corrected_fullName": "José Ruiz",
+        "confidence": "high",
+        "csv_line": 384,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Simpson",
+        "team": "MIA",
+        "type": "pitcher",
+        "original_fullName": "J. Simpson",
+        "corrected_fullName": "Josh Simpson",
+        "confidence": "high",
+        "csv_line": 600,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Siri",
+        "team": "NYM",
+        "type": "hitter",
+        "original_fullName": "J. Siri",
+        "corrected_fullName": "Jose Siri",
+        "confidence": "high",
+        "csv_line": 233,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Suarez",
+        "team": "ATL",
+        "type": "pitcher",
+        "original_fullName": "J. Suarez",
+        "corrected_fullName": "José Suarez",
+        "confidence": "high",
+        "csv_line": 287,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Vivas",
+        "team": "NYY",
+        "type": "hitter",
+        "original_fullName": "J. Vivas",
+        "corrected_fullName": "Jorbit Vivas",
+        "confidence": "high",
+        "csv_line": 400,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Wentz",
+        "team": "MIN",
+        "type": "pitcher",
+        "original_fullName": "J. Wentz",
+        "corrected_fullName": "Joey Wentz",
+        "confidence": "high",
+        "csv_line": 624,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Wrobleski",
+        "team": "LAD",
+        "type": "pitcher",
+        "original_fullName": "J. Wrobleski",
+        "corrected_fullName": "Justin Wrobleski",
+        "confidence": "high",
+        "csv_line": 488,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "J. Young",
+        "team": "WSH",
+        "type": "hitter",
+        "original_fullName": "J. Young",
+        "corrected_fullName": "Jacob Young",
+        "confidence": "high",
+        "csv_line": 66,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "K. Backhus",
+        "team": "ARI",
+        "type": "pitcher",
+        "original_fullName": "K. Backhus",
+        "corrected_fullName": "Kyle Backhus",
+        "confidence": "high",
+        "csv_line": 105,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "K. Bryant",
+        "team": "COL",
+        "type": "hitter",
+        "original_fullName": "K. Bryant",
+        "corrected_fullName": "Kris Bryant",
+        "confidence": "high",
+        "csv_line": 353,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "K. Clemens",
+        "team": "MIN",
+        "type": "hitter",
+        "original_fullName": "K. Clemens",
+        "corrected_fullName": "Kody Clemens",
+        "confidence": "high",
+        "csv_line": 121,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "K. Funderburk",
+        "team": "MIN",
+        "type": "pitcher",
+        "original_fullName": "K. Funderburk",
+        "corrected_fullName": "Kody Funderburk",
+        "confidence": "high",
+        "csv_line": 594,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "K. Ginkel",
+        "team": "ARI",
+        "type": "pitcher",
+        "original_fullName": "K. Ginkel",
+        "corrected_fullName": "Kevin Ginkel",
+        "confidence": "high",
+        "csv_line": 616,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "K. Graveman",
+        "team": "ARI",
+        "type": "pitcher",
+        "original_fullName": "K. Graveman",
+        "corrected_fullName": "Kendall Graveman",
+        "confidence": "high",
+        "csv_line": 448,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "K. Herget",
+        "team": "NYM",
+        "type": "pitcher",
+        "original_fullName": "K. Herget",
+        "corrected_fullName": "Kevin Herget",
+        "confidence": "high",
+        "csv_line": 350,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "K. Hiura",
+        "team": "COL",
+        "type": "hitter",
+        "original_fullName": "K. Hiura",
+        "corrected_fullName": "Keston Hiura",
+        "confidence": "high",
+        "csv_line": 302,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "K. Kelly",
+        "team": "TB",
+        "type": "pitcher",
+        "original_fullName": "K. Kelly",
+        "corrected_fullName": "Kevin Kelly",
+        "confidence": "high",
+        "csv_line": 343,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "K. Lee",
+        "team": "CHW",
+        "type": "hitter",
+        "original_fullName": "K. Lee",
+        "corrected_fullName": "Korey Lee",
+        "confidence": "high",
+        "csv_line": 182,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "K. Ort",
+        "team": "HOU",
+        "type": "pitcher",
+        "original_fullName": "K. Ort",
+        "corrected_fullName": "Kaleb Ort",
+        "confidence": "high",
+        "csv_line": 584,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "K. Teel",
+        "team": "CHW",
+        "type": "hitter",
+        "original_fullName": "K. Teel",
+        "corrected_fullName": "Kyle Teel",
+        "confidence": "high",
+        "csv_line": 402,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "L. Campusano",
+        "team": "SD",
+        "type": "hitter",
+        "original_fullName": "L. Campusano",
+        "corrected_fullName": "Luis Campusano",
+        "confidence": "high",
+        "csv_line": 249,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "L. Contreras",
+        "team": "HOU",
+        "type": "pitcher",
+        "original_fullName": "L. Contreras",
+        "corrected_fullName": "Luis Contreras",
+        "confidence": "high",
+        "csv_line": 355,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "L. Davidson",
+        "team": "OAK",
+        "type": "hitter",
+        "original_fullName": "L. Davidson",
+        "corrected_fullName": "Logan Davidson",
+        "confidence": "high",
+        "csv_line": 338,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "L. Guillorme",
+        "team": "HOU",
+        "type": "hitter",
+        "original_fullName": "L. Guillorme",
+        "corrected_fullName": "Luis Guillorme",
+        "confidence": "high",
+        "csv_line": 51,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "L. Hicks",
+        "team": "MIA",
+        "type": "hitter",
+        "original_fullName": "L. Hicks",
+        "corrected_fullName": "Liam Hicks",
+        "confidence": "high",
+        "csv_line": 189,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "L. Maile",
+        "team": "KC",
+        "type": "hitter",
+        "original_fullName": "L. Maile",
+        "corrected_fullName": "Luke Maile",
+        "confidence": "high",
+        "csv_line": 36,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "L. Mey",
+        "team": "CIN",
+        "type": "pitcher",
+        "original_fullName": "L. Mey",
+        "corrected_fullName": "Luis Mey",
+        "confidence": "high",
+        "csv_line": 50,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "L. Peguero",
+        "team": "PIT",
+        "type": "hitter",
+        "original_fullName": "L. Peguero",
+        "corrected_fullName": "Liover Peguero",
+        "confidence": "high",
+        "csv_line": 78,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "L. Peralta",
+        "team": "COL",
+        "type": "pitcher",
+        "original_fullName": "L. Peralta",
+        "corrected_fullName": "Luis Peralta",
+        "confidence": "high",
+        "csv_line": 534,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "L. Thomas",
+        "team": "CLE",
+        "type": "hitter",
+        "original_fullName": "L. Thomas",
+        "corrected_fullName": "Lane Thomas",
+        "confidence": "high",
+        "csv_line": 472,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "L. Williams",
+        "team": "ATL",
+        "type": "hitter",
+        "original_fullName": "L. Williams",
+        "corrected_fullName": "Luke Williams",
+        "confidence": "high",
+        "csv_line": 133,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "M. Abel",
+        "team": "PHI",
+        "type": "pitcher",
+        "original_fullName": "M. Abel",
+        "corrected_fullName": "Mick Abel",
+        "confidence": "high",
+        "csv_line": 547,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "M. Ballesteros",
+        "team": "CHC",
+        "type": "hitter",
+        "original_fullName": "M. Ballesteros",
+        "corrected_fullName": "Moisés Ballesteros",
+        "confidence": "high",
+        "csv_line": 168,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "M. Brash",
+        "team": "SEA",
+        "type": "pitcher",
+        "original_fullName": "M. Brash",
+        "corrected_fullName": "Matt Brash",
+        "confidence": "high",
+        "csv_line": 476,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "M. Burrows",
+        "team": "PIT",
+        "type": "pitcher",
+        "original_fullName": "M. Burrows",
+        "corrected_fullName": "Mike Burrows",
+        "confidence": "high",
+        "csv_line": 528,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "M. Castro",
+        "team": "CHW",
+        "type": "pitcher",
+        "original_fullName": "M. Castro",
+        "corrected_fullName": "Miguel Castro",
+        "confidence": "high",
+        "csv_line": 187,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "M. Church",
+        "team": "TEX",
+        "type": "pitcher",
+        "original_fullName": "M. Church",
+        "corrected_fullName": "Marc Church",
+        "confidence": "high",
+        "csv_line": 324,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "M. Clevinger",
+        "team": "CHW",
+        "type": "pitcher",
+        "original_fullName": "M. Clevinger",
+        "corrected_fullName": "Mike Clevinger",
+        "confidence": "high",
+        "csv_line": 388,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "M. Darrell-Hicks",
+        "team": "PIT",
+        "type": "pitcher",
+        "original_fullName": "M. Darrell-Hicks",
+        "corrected_fullName": "Michael Darrell-Hicks",
+        "confidence": "high",
+        "csv_line": 635,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "M. Festa",
+        "team": "CLE",
+        "type": "pitcher",
+        "original_fullName": "M. Festa",
+        "corrected_fullName": "Matt Festa",
+        "confidence": "high",
+        "csv_line": 591,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "M. Fulmer",
+        "team": "BOS",
+        "type": "pitcher",
+        "original_fullName": "M. Fulmer",
+        "corrected_fullName": "Michael Fulmer",
+        "confidence": "high",
+        "csv_line": 96,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "M. Fulmer",
+        "team": "CHC",
+        "type": "pitcher",
+        "original_fullName": "M. Fulmer",
+        "corrected_fullName": "Michael Fulmer",
+        "confidence": "high",
+        "csv_line": 96,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "M. Gage",
+        "team": "DET",
+        "type": "pitcher",
+        "original_fullName": "M. Gage",
+        "corrected_fullName": "Matt Gage",
+        "confidence": "high",
+        "csv_line": 142,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "M. Gorski",
+        "team": "PIT",
+        "type": "hitter",
+        "original_fullName": "M. Gorski",
+        "corrected_fullName": "Matt Gorski",
+        "confidence": "high",
+        "csv_line": 513,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "M. Handley",
+        "team": "BAL",
+        "type": "hitter",
+        "original_fullName": "M. Handley",
+        "corrected_fullName": "Maverick Handley",
+        "confidence": "high",
+        "csv_line": 5,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "M. Kelly",
+        "team": "ARI",
+        "type": "pitcher",
+        "original_fullName": "Merrill Kelly",
+        "corrected_fullName": "Michael Kelly",
+        "confidence": "high",
+        "csv_line": 271,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "M. Kelly",
+        "team": "ARI",
+        "type": "pitcher",
+        "original_fullName": "M. Kelly",
+        "corrected_fullName": "Michael Kelly",
+        "confidence": "high",
+        "csv_line": 271,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "M. Kopech",
+        "team": "LAD",
+        "type": "pitcher",
+        "original_fullName": "M. Kopech",
+        "corrected_fullName": "Michael Kopech",
+        "confidence": "high",
+        "csv_line": 188,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "M. Krook",
+        "team": "OAK",
+        "type": "pitcher",
+        "original_fullName": "M. Krook",
+        "corrected_fullName": "Matt Krook",
+        "confidence": "high",
+        "csv_line": 497,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "M. Lazar",
+        "team": "PHI",
+        "type": "pitcher",
+        "original_fullName": "M. Lazar",
+        "corrected_fullName": "Max Lazar",
+        "confidence": "high",
+        "csv_line": 82,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "M. Lugo",
+        "team": "LAA",
+        "type": "hitter",
+        "original_fullName": "M. Lugo",
+        "corrected_fullName": "Matthew Lugo",
+        "confidence": "high",
+        "csv_line": 434,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "M. Margot",
+        "team": "DET",
+        "type": "hitter",
+        "original_fullName": "M. Margot",
+        "corrected_fullName": "Manuel Margot",
+        "confidence": "high",
+        "csv_line": 243,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "M. Mayer",
+        "team": "BOS",
+        "type": "hitter",
+        "original_fullName": "M. Mayer",
+        "corrected_fullName": "Marcelo Mayer",
+        "confidence": "high",
+        "csv_line": 256,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "M. McGreevy",
+        "team": "STL",
+        "type": "pitcher",
+        "original_fullName": "M. McGreevy",
+        "corrected_fullName": "Michael McGreevy",
+        "confidence": "high",
+        "csv_line": 18,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "M. Mercado",
+        "team": "PHI",
+        "type": "pitcher",
+        "original_fullName": "M. Mercado",
+        "corrected_fullName": "Michael Mercado",
+        "confidence": "high",
+        "csv_line": 245,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "M. Petersen",
+        "team": "ATL",
+        "type": "pitcher",
+        "original_fullName": "M. Petersen",
+        "corrected_fullName": "Michael Petersen",
+        "confidence": "high",
+        "csv_line": 221,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "M. Scherzer",
+        "team": "TOR",
+        "type": "pitcher",
+        "original_fullName": "M. Scherzer",
+        "corrected_fullName": "Max Scherzer",
+        "confidence": "high",
+        "csv_line": 332,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "M. Shaw",
+        "team": "CHC",
+        "type": "hitter",
+        "original_fullName": "M. Shaw",
+        "corrected_fullName": "Matt Shaw",
+        "confidence": "high",
+        "csv_line": 410,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "M. Stefanic",
+        "team": "TOR",
+        "type": "hitter",
+        "original_fullName": "M. Stefanic",
+        "corrected_fullName": "Michael Stefanic",
+        "confidence": "high",
+        "csv_line": 341,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "M. Stroman",
+        "team": "NYY",
+        "type": "pitcher",
+        "original_fullName": "M. Stroman",
+        "corrected_fullName": "Marcus Stroman",
+        "confidence": "high",
+        "csv_line": 178,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "M. Tauchman",
+        "team": "CHW",
+        "type": "hitter",
+        "original_fullName": "M. Tauchman",
+        "corrected_fullName": "Mike Tauchman",
+        "confidence": "high",
+        "csv_line": 365,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "M. Thaiss",
+        "team": "TB",
+        "type": "hitter",
+        "original_fullName": "M. Thaiss",
+        "corrected_fullName": "Matt Thaiss",
+        "confidence": "high",
+        "csv_line": 192,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "M. Vierling",
+        "team": "DET",
+        "type": "hitter",
+        "original_fullName": "M. Vierling",
+        "corrected_fullName": "Matt Vierling",
+        "confidence": "high",
+        "csv_line": 32,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "M. Wallner",
+        "team": "MIN",
+        "type": "hitter",
+        "original_fullName": "M. Wallner",
+        "corrected_fullName": "Matt Wallner",
+        "confidence": "high",
+        "csv_line": 535,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "N. Burdi",
+        "team": "BOS",
+        "type": "pitcher",
+        "original_fullName": "N. Burdi",
+        "corrected_fullName": "Nick Burdi",
+        "confidence": "high",
+        "csv_line": 577,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "N. Enright",
+        "team": "CLE",
+        "type": "pitcher",
+        "original_fullName": "N. Enright",
+        "corrected_fullName": "Nic Enright",
+        "confidence": "high",
+        "csv_line": 116,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "N. Fortes",
+        "team": "MIA",
+        "type": "hitter",
+        "original_fullName": "N. Fortes",
+        "corrected_fullName": "Nick Fortes",
+        "confidence": "high",
+        "csv_line": 62,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "N. Gonzales",
+        "team": "PIT",
+        "type": "hitter",
+        "original_fullName": "N. Gonzales",
+        "corrected_fullName": "Nick Gonzales",
+        "confidence": "high",
+        "csv_line": 222,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "N. Hernandez",
+        "team": "HOU",
+        "type": "pitcher",
+        "original_fullName": "N. Hernandez",
+        "corrected_fullName": "Nick Hernandez",
+        "confidence": "high",
+        "csv_line": 59,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "N. Kurtz",
+        "team": "OAK",
+        "type": "hitter",
+        "original_fullName": "N. Kurtz",
+        "corrected_fullName": "Nick Kurtz",
+        "confidence": "high",
+        "csv_line": 375,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "N. Loftin",
+        "team": "KC",
+        "type": "hitter",
+        "original_fullName": "N. Loftin",
+        "corrected_fullName": "Nick Loftin",
+        "confidence": "high",
+        "csv_line": 318,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "N. Lopez",
+        "team": "LAA",
+        "type": "hitter",
+        "original_fullName": "N. Lopez",
+        "corrected_fullName": "Nicky Lopez",
+        "confidence": "high",
+        "csv_line": 278,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "N. Pearson",
+        "team": "CHC",
+        "type": "pitcher",
+        "original_fullName": "N. Pearson",
+        "corrected_fullName": "Nate Pearson",
+        "confidence": "high",
+        "csv_line": 638,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "N. Sandlin",
+        "team": "TOR",
+        "type": "pitcher",
+        "original_fullName": "N. Sandlin",
+        "corrected_fullName": "Nick Sandlin",
+        "confidence": "high",
+        "csv_line": 183,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "N. Sogard",
+        "team": "BOS",
+        "type": "hitter",
+        "original_fullName": "N. Sogard",
+        "corrected_fullName": "Nick Sogard",
+        "confidence": "high",
+        "csv_line": 100,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "N. Solak",
+        "team": "PIT",
+        "type": "hitter",
+        "original_fullName": "N. Solak",
+        "corrected_fullName": "Nick Solak",
+        "confidence": "high",
+        "csv_line": 319,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "O. Arcia",
+        "team": "COL",
+        "type": "hitter",
+        "original_fullName": "O. Arcia",
+        "corrected_fullName": "Orlando Arcia",
+        "confidence": "high",
+        "csv_line": 340,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "O. Cruz",
+        "team": "SD",
+        "type": "pitcher",
+        "original_fullName": "O. Cruz",
+        "corrected_fullName": "Omar Cruz",
+        "confidence": "high",
+        "csv_line": 73,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "O. Dunn",
+        "team": "MIL",
+        "type": "hitter",
+        "original_fullName": "O. Dunn",
+        "corrected_fullName": "Oliver Dunn",
+        "confidence": "high",
+        "csv_line": 110,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "O. Gonzalez",
+        "team": "SD",
+        "type": "hitter",
+        "original_fullName": "O. Gonzalez",
+        "corrected_fullName": "Oscar Gonzalez",
+        "confidence": "high",
+        "csv_line": 413,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "O. Kemp",
+        "team": "PHI",
+        "type": "hitter",
+        "original_fullName": "O. Kemp",
+        "corrected_fullName": "Otto Kemp",
+        "confidence": "high",
+        "csv_line": 470,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "O. Peraza",
+        "team": "NYY",
+        "type": "hitter",
+        "original_fullName": "O. Peraza",
+        "corrected_fullName": "Oswald Peraza",
+        "confidence": "high",
+        "csv_line": 312,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "O. Ribalta",
+        "team": "WSH",
+        "type": "pitcher",
+        "original_fullName": "O. Ribalta",
+        "corrected_fullName": "Orlando Ribalta",
+        "confidence": "high",
+        "csv_line": 81,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "O. White",
+        "team": "CHW",
+        "type": "pitcher",
+        "original_fullName": "O. White",
+        "corrected_fullName": "Owen White",
+        "confidence": "high",
+        "csv_line": 107,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "P. Blackburn",
+        "team": "NYM",
+        "type": "pitcher",
+        "original_fullName": "P. Blackburn",
+        "corrected_fullName": "Paul Blackburn",
+        "confidence": "high",
+        "csv_line": 263,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "P. DeJong",
+        "team": "WSH",
+        "type": "hitter",
+        "original_fullName": "P. DeJong",
+        "corrected_fullName": "Paul DeJong",
+        "confidence": "high",
+        "csv_line": 521,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "P. Meadows",
+        "team": "DET",
+        "type": "hitter",
+        "original_fullName": "P. Meadows",
+        "corrected_fullName": "Parker Meadows",
+        "confidence": "high",
+        "csv_line": 445,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "P. Monteverde",
+        "team": "MIA",
+        "type": "pitcher",
+        "original_fullName": "P. Monteverde",
+        "corrected_fullName": "Patrick Monteverde",
+        "confidence": "high",
+        "csv_line": 153,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "P. Schultz",
+        "team": "TOR",
+        "type": "pitcher",
+        "original_fullName": "P. Schultz",
+        "corrected_fullName": "Paxton Schultz",
+        "confidence": "high",
+        "csv_line": 161,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "R. Anthony",
+        "team": "BOS",
+        "type": "hitter",
+        "original_fullName": "R. Anthony",
+        "corrected_fullName": "Roman Anthony",
+        "confidence": "high",
+        "csv_line": 68,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "R. Bergert",
+        "team": "SD",
+        "type": "pitcher",
+        "original_fullName": "R. Bergert",
+        "corrected_fullName": "Ryan Bergert",
+        "confidence": "high",
+        "csv_line": 242,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "R. Bliss",
+        "team": "SEA",
+        "type": "hitter",
+        "original_fullName": "R. Bliss",
+        "corrected_fullName": "Ryan Bliss",
+        "confidence": "high",
+        "csv_line": 164,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "R. Brasier",
+        "team": "CHC",
+        "type": "pitcher",
+        "original_fullName": "R. Brasier",
+        "corrected_fullName": "Ryan Brasier",
+        "confidence": "high",
+        "csv_line": 564,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "R. Devers",
+        "team": "SF",
+        "type": "hitter",
+        "original_fullName": "R. Devers",
+        "corrected_fullName": "Rafael Devers",
+        "confidence": "high",
+        "csv_line": 209,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "R. Dobnak",
+        "team": "MIN",
+        "type": "pitcher",
+        "original_fullName": "R. Dobnak",
+        "corrected_fullName": "Randy Dobnak",
+        "confidence": "high",
+        "csv_line": 385,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "R. Gonzalez",
+        "team": "BOS",
+        "type": "hitter",
+        "original_fullName": "R. Gonzalez",
+        "corrected_fullName": "Romy Gonzalez",
+        "confidence": "high",
+        "csv_line": 252,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "R. Hinds",
+        "team": "CIN",
+        "type": "hitter",
+        "original_fullName": "R. Hinds",
+        "corrected_fullName": "Rece Hinds",
+        "confidence": "high",
+        "csv_line": 334,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "R. Lewis",
+        "team": "MIN",
+        "type": "hitter",
+        "original_fullName": "R. Lewis",
+        "corrected_fullName": "Royce Lewis",
+        "confidence": "high",
+        "csv_line": 299,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "R. Loutos",
+        "team": "LAD",
+        "type": "pitcher",
+        "original_fullName": "R. Loutos",
+        "corrected_fullName": "Ryan Loutos",
+        "confidence": "high",
+        "csv_line": 156,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "R. Loutos",
+        "team": "WSH",
+        "type": "pitcher",
+        "original_fullName": "R. Loutos",
+        "corrected_fullName": "Ryan Loutos",
+        "confidence": "high",
+        "csv_line": 156,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "R. Lovelady",
+        "team": "TOR",
+        "type": "pitcher",
+        "original_fullName": "R. Lovelady",
+        "corrected_fullName": "Richard Lovelady",
+        "confidence": "high",
+        "csv_line": 610,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "R. Lovelady",
+        "team": "NYM",
+        "type": "pitcher",
+        "original_fullName": "R. Lovelady",
+        "corrected_fullName": "Richard Lovelady",
+        "confidence": "high",
+        "csv_line": 610,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "R. Mauricio",
+        "team": "NYM",
+        "type": "hitter",
+        "original_fullName": "R. Mauricio",
+        "corrected_fullName": "Ronny Mauricio",
+        "confidence": "high",
+        "csv_line": 242,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "R. McGuire",
+        "team": "CHC",
+        "type": "hitter",
+        "original_fullName": "R. McGuire",
+        "corrected_fullName": "Reese McGuire",
+        "confidence": "high",
+        "csv_line": 125,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "R. Noda",
+        "team": "CHW",
+        "type": "hitter",
+        "original_fullName": "R. Noda",
+        "corrected_fullName": "Ryan Noda",
+        "confidence": "high",
+        "csv_line": 320,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "R. Ritter",
+        "team": "COL",
+        "type": "hitter",
+        "original_fullName": "R. Ritter",
+        "corrected_fullName": "Ryan Ritter",
+        "confidence": "high",
+        "csv_line": 459,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "R. Rolison",
+        "team": "COL",
+        "type": "pitcher",
+        "original_fullName": "R. Rolison",
+        "corrected_fullName": "Ryan Rolison",
+        "confidence": "high",
+        "csv_line": 637,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "R. Simon",
+        "team": "MIA",
+        "type": "hitter",
+        "original_fullName": "R. Simon",
+        "corrected_fullName": "Ronny Simon",
+        "confidence": "high",
+        "csv_line": 212,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "R. Stock",
+        "team": "BOS",
+        "type": "pitcher",
+        "original_fullName": "R. Stock",
+        "corrected_fullName": "Robert Stock",
+        "confidence": "high",
+        "csv_line": 84,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "R. Thomas",
+        "team": "SEA",
+        "type": "hitter",
+        "original_fullName": "R. Thomas",
+        "corrected_fullName": "Rhylan Thomas",
+        "confidence": "high",
+        "csv_line": 303,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "R. Vilade",
+        "team": "STL",
+        "type": "hitter",
+        "original_fullName": "R. Vilade",
+        "corrected_fullName": "Ryan Vilade",
+        "confidence": "high",
+        "csv_line": 304,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "R. Weathers",
+        "team": "MIA",
+        "type": "pitcher",
+        "original_fullName": "R. Weathers",
+        "corrected_fullName": "Ryan Weathers",
+        "confidence": "high",
+        "csv_line": 401,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "R. Zastryzny",
+        "team": "MIL",
+        "type": "pitcher",
+        "original_fullName": "R. Zastryzny",
+        "corrected_fullName": "Rob Zastryzny",
+        "confidence": "high",
+        "csv_line": 35,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "S. Aldegheri",
+        "team": "LAA",
+        "type": "pitcher",
+        "original_fullName": "S. Aldegheri",
+        "corrected_fullName": "Sam Aldegheri",
+        "confidence": "high",
+        "csv_line": 472,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "S. Anderson",
+        "team": "LAA",
+        "type": "pitcher",
+        "original_fullName": "S. Anderson",
+        "corrected_fullName": "Shaun Anderson",
+        "confidence": "high",
+        "csv_line": 339,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "S. Arrighetti",
+        "team": "HOU",
+        "type": "pitcher",
+        "original_fullName": "S. Arrighetti",
+        "corrected_fullName": "Spencer Arrighetti",
+        "confidence": "high",
+        "csv_line": 119,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "S. Bachman",
+        "team": "LAA",
+        "type": "pitcher",
+        "original_fullName": "S. Bachman",
+        "corrected_fullName": "Sam Bachman",
+        "confidence": "high",
+        "csv_line": 298,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "S. Cecconi",
+        "team": "CLE",
+        "type": "pitcher",
+        "original_fullName": "S. Cecconi",
+        "corrected_fullName": "Slade Cecconi",
+        "confidence": "high",
+        "csv_line": 519,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "S. Dubin",
+        "team": "HOU",
+        "type": "pitcher",
+        "original_fullName": "S. Dubin",
+        "corrected_fullName": "Shawn Dubin",
+        "confidence": "high",
+        "csv_line": 274,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "S. Haggerty",
+        "team": "TEX",
+        "type": "hitter",
+        "original_fullName": "S. Haggerty",
+        "corrected_fullName": "Sam Haggerty",
+        "confidence": "high",
+        "csv_line": 364,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "S. Hilliard",
+        "team": "COL",
+        "type": "hitter",
+        "original_fullName": "S. Hilliard",
+        "corrected_fullName": "Sam Hilliard",
+        "confidence": "high",
+        "csv_line": 196,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "S. Hjelle",
+        "team": "SF",
+        "type": "pitcher",
+        "original_fullName": "S. Hjelle",
+        "corrected_fullName": "Sean Hjelle",
+        "confidence": "high",
+        "csv_line": 571,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "S. Horwitz",
+        "team": "PIT",
+        "type": "hitter",
+        "original_fullName": "S. Horwitz",
+        "corrected_fullName": "Spencer Horwitz",
+        "confidence": "high",
+        "csv_line": 223,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "S. Kingery",
+        "team": "LAA",
+        "type": "hitter",
+        "original_fullName": "S. Kingery",
+        "corrected_fullName": "Scott Kingery",
+        "confidence": "high",
+        "csv_line": 157,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "S. Long",
+        "team": "KC",
+        "type": "pitcher",
+        "original_fullName": "S. Long",
+        "corrected_fullName": "Sam Long",
+        "confidence": "high",
+        "csv_line": 185,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "S. McGough",
+        "team": "ARI",
+        "type": "pitcher",
+        "original_fullName": "S. McGough",
+        "corrected_fullName": "Scott McGough",
+        "confidence": "high",
+        "csv_line": 69,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "S. Moll",
+        "team": "CIN",
+        "type": "pitcher",
+        "original_fullName": "S. Moll",
+        "corrected_fullName": "Sam Moll",
+        "confidence": "high",
+        "csv_line": 487,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "S. Newcomb",
+        "team": "OAK",
+        "type": "pitcher",
+        "original_fullName": "S. Newcomb",
+        "corrected_fullName": "Sean Newcomb",
+        "confidence": "high",
+        "csv_line": 319,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "S. Reynolds",
+        "team": "SD",
+        "type": "pitcher",
+        "original_fullName": "S. Reynolds",
+        "corrected_fullName": "Sean Reynolds",
+        "confidence": "high",
+        "csv_line": 456,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "S. Strider",
+        "team": "ATL",
+        "type": "pitcher",
+        "original_fullName": "S. Strider",
+        "corrected_fullName": "Spencer Strider",
+        "confidence": "high",
+        "csv_line": 303,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "S. Turnbull",
+        "team": "TOR",
+        "type": "pitcher",
+        "original_fullName": "S. Turnbull",
+        "corrected_fullName": "Spencer Turnbull",
+        "confidence": "high",
+        "csv_line": 5,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "T. Adcock",
+        "team": "NYM",
+        "type": "pitcher",
+        "original_fullName": "T. Adcock",
+        "corrected_fullName": "Ty Adcock",
+        "confidence": "high",
+        "csv_line": 489,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "T. Alexander",
+        "team": "CHW",
+        "type": "pitcher",
+        "original_fullName": "T. Alexander",
+        "corrected_fullName": "Tyler Alexander",
+        "confidence": "high",
+        "csv_line": 191,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "T. Anderson",
+        "team": "LAA",
+        "type": "pitcher",
+        "original_fullName": "T. Anderson",
+        "corrected_fullName": "Tyler Anderson",
+        "confidence": "high",
+        "csv_line": 479,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "T. Barnhart",
+        "team": "TEX",
+        "type": "hitter",
+        "original_fullName": "T. Barnhart",
+        "corrected_fullName": "Tucker Barnhart",
+        "confidence": "high",
+        "csv_line": 392,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "T. Beck",
+        "team": "SF",
+        "type": "pitcher",
+        "original_fullName": "T. Beck",
+        "corrected_fullName": "Tristan Beck",
+        "confidence": "high",
+        "csv_line": 573,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "T. Clarke",
+        "team": "KC",
+        "type": "pitcher",
+        "original_fullName": "T. Clarke",
+        "corrected_fullName": "Taylor Clarke",
+        "confidence": "high",
+        "csv_line": 504,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "T. Cosgrove",
+        "team": "CHC",
+        "type": "pitcher",
+        "original_fullName": "T. Cosgrove",
+        "corrected_fullName": "Tom Cosgrove",
+        "confidence": "high",
+        "csv_line": 579,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "T. Elko",
+        "team": "CHW",
+        "type": "hitter",
+        "original_fullName": "T. Elko",
+        "corrected_fullName": "Tim Elko",
+        "confidence": "high",
+        "csv_line": 493,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "T. Estrada",
+        "team": "COL",
+        "type": "hitter",
+        "original_fullName": "T. Estrada",
+        "corrected_fullName": "Thairo Estrada",
+        "confidence": "high",
+        "csv_line": 281,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "T. Freeman",
+        "team": "COL",
+        "type": "hitter",
+        "original_fullName": "T. Freeman",
+        "corrected_fullName": "Tyler Freeman",
+        "confidence": "high",
+        "csv_line": 136,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "T. Gordon",
+        "team": "COL",
+        "type": "pitcher",
+        "original_fullName": "T. Gordon",
+        "corrected_fullName": "Tanner Gordon",
+        "confidence": "high",
+        "csv_line": 640,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "T. Henry",
+        "team": "ARI",
+        "type": "pitcher",
+        "original_fullName": "T. Henry",
+        "corrected_fullName": "Tommy Henry",
+        "confidence": "high",
+        "csv_line": 175,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "T. Jankowski",
+        "team": "CHW",
+        "type": "hitter",
+        "original_fullName": "T. Jankowski",
+        "corrected_fullName": "Travis Jankowski",
+        "confidence": "high",
+        "csv_line": 460,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "T. Matzek",
+        "team": "NYY",
+        "type": "pitcher",
+        "original_fullName": "T. Matzek",
+        "corrected_fullName": "Tyler Matzek",
+        "confidence": "high",
+        "csv_line": 7,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "T. Mayza",
+        "team": "PIT",
+        "type": "pitcher",
+        "original_fullName": "T. Mayza",
+        "corrected_fullName": "Tim Mayza",
+        "confidence": "high",
+        "csv_line": 167,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "T. McKenzie",
+        "team": "CLE",
+        "type": "pitcher",
+        "original_fullName": "T. McKenzie",
+        "corrected_fullName": "Triston McKenzie",
+        "confidence": "high",
+        "csv_line": 85,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "T. Rainey",
+        "team": "PIT",
+        "type": "pitcher",
+        "original_fullName": "T. Rainey",
+        "corrected_fullName": "Tanner Rainey",
+        "confidence": "high",
+        "csv_line": 212,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "T. Richards",
+        "team": "KC",
+        "type": "pitcher",
+        "original_fullName": "T. Richards",
+        "corrected_fullName": "Trevor Richards",
+        "confidence": "high",
+        "csv_line": 477,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "T. Rogers",
+        "team": "BAL",
+        "type": "pitcher",
+        "original_fullName": "Taylor Rogers",
+        "corrected_fullName": "Tyler Rogers",
+        "confidence": "high",
+        "csv_line": 34,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "T. Rogers",
+        "team": "BAL",
+        "type": "pitcher",
+        "original_fullName": "T. Rogers",
+        "corrected_fullName": "Tyler Rogers",
+        "confidence": "high",
+        "csv_line": 34,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "T. Scott",
+        "team": "ARI",
+        "type": "pitcher",
+        "original_fullName": "T. Scott",
+        "corrected_fullName": "Tayler Scott",
+        "confidence": "high",
+        "csv_line": 20,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "T. Stephenson",
+        "team": "CIN",
+        "type": "hitter",
+        "original_fullName": "T. Stephenson",
+        "corrected_fullName": "Tyler Stephenson",
+        "confidence": "high",
+        "csv_line": 487,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "T. Tawa",
+        "team": "ARI",
+        "type": "hitter",
+        "original_fullName": "T. Tawa",
+        "corrected_fullName": "Tim Tawa",
+        "confidence": "high",
+        "csv_line": 537,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "T. Toussaint",
+        "team": "LAA",
+        "type": "pitcher",
+        "original_fullName": "T. Toussaint",
+        "corrected_fullName": "Touki Toussaint",
+        "confidence": "high",
+        "csv_line": 490,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "V. Capra",
+        "team": "CHW",
+        "type": "hitter",
+        "original_fullName": "V. Capra",
+        "corrected_fullName": "Vinny Capra",
+        "confidence": "high",
+        "csv_line": 105,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "V. Robles",
+        "team": "SEA",
+        "type": "hitter",
+        "original_fullName": "V. Robles",
+        "corrected_fullName": "Victor Robles",
+        "confidence": "high",
+        "csv_line": 7,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "V. Vodnik",
+        "team": "COL",
+        "type": "pitcher",
+        "original_fullName": "V. Vodnik",
+        "corrected_fullName": "Victor Vodnik",
+        "confidence": "high",
+        "csv_line": 165,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "W. Benson",
+        "team": "CIN",
+        "type": "hitter",
+        "original_fullName": "W. Benson",
+        "corrected_fullName": "Will Benson",
+        "confidence": "high",
+        "csv_line": 225,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "W. Brennan",
+        "team": "CLE",
+        "type": "hitter",
+        "original_fullName": "W. Brennan",
+        "corrected_fullName": "Will Brennan",
+        "confidence": "high",
+        "csv_line": 314,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "W. MacIver",
+        "team": "OAK",
+        "type": "hitter",
+        "original_fullName": "W. MacIver",
+        "corrected_fullName": "Willie MacIver",
+        "confidence": "high",
+        "csv_line": 450,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "W. Robertson",
+        "team": "TOR",
+        "type": "hitter",
+        "original_fullName": "W. Robertson",
+        "corrected_fullName": "Will Robertson",
+        "confidence": "high",
+        "csv_line": 283,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "W. Wilson",
+        "team": "PHI",
+        "type": "hitter",
+        "original_fullName": "W. Wilson",
+        "corrected_fullName": "Weston Wilson",
+        "confidence": "high",
+        "csv_line": 154,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "X. Curry",
+        "team": "MIA",
+        "type": "pitcher",
+        "original_fullName": "X. Curry",
+        "corrected_fullName": "Xzavion Curry",
+        "confidence": "high",
+        "csv_line": 33,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "Y. Moncada",
+        "team": "LAA",
+        "type": "hitter",
+        "original_fullName": "Y. Moncada",
+        "corrected_fullName": "Yoán Moncada",
+        "confidence": "high",
+        "csv_line": 33,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "Y. Pozo",
+        "team": "STL",
+        "type": "hitter",
+        "original_fullName": "Y. Pozo",
+        "corrected_fullName": "Yohel Pozo",
+        "confidence": "high",
+        "csv_line": 138,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "Y. Rodriguez",
+        "team": "TOR",
+        "type": "pitcher",
+        "original_fullName": "Y. Rodriguez",
+        "corrected_fullName": "Yariel Rodriguez",
+        "confidence": "high",
+        "csv_line": 523,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "Z. Brzykcy",
+        "team": "WSH",
+        "type": "pitcher",
+        "original_fullName": "Z. Brzykcy",
+        "corrected_fullName": "Zach Brzykcy",
+        "confidence": "high",
+        "csv_line": 60,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "Z. Kent",
+        "team": "CLE",
+        "type": "pitcher",
+        "original_fullName": "Z. Kent",
+        "corrected_fullName": "Zak Kent",
+        "confidence": "high",
+        "csv_line": 251,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "Z. Matthews",
+        "team": "MIN",
+        "type": "pitcher",
+        "original_fullName": "Z. Matthews",
+        "corrected_fullName": "Zebby Matthews",
+        "confidence": "high",
+        "csv_line": 329,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "Z. Pop",
+        "team": "SEA",
+        "type": "pitcher",
+        "original_fullName": "Z. Pop",
+        "corrected_fullName": "Zach Pop",
+        "confidence": "high",
+        "csv_line": 568,
+        "validation_warnings": []
+      },
+      {
+        "player_name": "Z. Thompson",
+        "team": "ATL",
+        "type": "pitcher",
+        "original_fullName": "Z. Thompson",
+        "corrected_fullName": "Zach Thompson",
+        "confidence": "high",
+        "csv_line": 565,
+        "validation_warnings": []
+      }
+    ],
+    "manual_review_needed": [
+      {
+        "player_name": "A. Cox",
+        "team": "ATL",
+        "type": "pitcher",
+        "current_fullName": "A. Cox",
+        "suggested_fix": "NOT_FOUND_IN_CSV",
+        "csv_found": false,
+        "confidence": "none",
+        "validation_issues": [
+          "Last name mismatch: cox vs not_found_in_csv",
+          "No CSV match found - requires manual review"
+        ],
+        "reason": "no_csv_match"
+      },
+      {
+        "player_name": "A. Garcia",
+        "team": "ARI",
+        "type": "hitter",
+        "current_fullName": "A. Garcia",
+        "suggested_fix": "NOT_FOUND_IN_CSV",
+        "csv_found": false,
+        "confidence": "none",
+        "validation_issues": [
+          "Last name mismatch: garcia vs not_found_in_csv",
+          "No CSV match found - requires manual review"
+        ],
+        "reason": "no_csv_match"
+      },
+      {
+        "player_name": "A. Martinez",
+        "team": "CLE",
+        "type": "hitter",
+        "current_fullName": "A. Martinez",
+        "suggested_fix": "NOT_FOUND_IN_CSV",
+        "csv_found": false,
+        "confidence": "none",
+        "validation_issues": [
+          "Last name mismatch: martinez vs not_found_in_csv",
+          "No CSV match found - requires manual review"
+        ],
+        "reason": "no_csv_match"
+      }
+    ],
+    "accent_corrections": [
+      {
+        "player_name": "A. Chaparro",
+        "team": "WSH",
+        "current_fullName": "Andrés Chaparro",
+        "potential_issues": [
+          {
+            "pattern": "contains_accents",
+            "suggestion": "Verify accent characters are preserved correctly",
+            "confidence": "high"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "A. García",
+        "team": "TEX",
+        "current_fullName": "Adolis García",
+        "potential_issues": [
+          {
+            "pattern": "contains_accents",
+            "suggestion": "Verify accent characters are preserved correctly",
+            "confidence": "high"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "A. Martinez",
+        "team": "CLE",
+        "current_fullName": "A. Martinez",
+        "potential_issues": [
+          {
+            "pattern": "martinez",
+            "suggestion": "Martínez",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "A. Ramirez",
+        "team": "MIA",
+        "current_fullName": "A. Ramirez",
+        "potential_issues": [
+          {
+            "pattern": "ramirez",
+            "suggestion": "Ramírez",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "A. Sanchez",
+        "team": "TOR",
+        "current_fullName": "Aaron Sanchez",
+        "potential_issues": [
+          {
+            "pattern": "sanchez",
+            "suggestion": "Sánchez",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "C. Carrasco",
+        "team": "NYY",
+        "current_fullName": "Carlos Carrasco",
+        "potential_issues": [
+          {
+            "pattern": "carlos",
+            "suggestion": "Carlos",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "C. Correa",
+        "team": "MIN",
+        "current_fullName": "Carlos Correa",
+        "potential_issues": [
+          {
+            "pattern": "carlos",
+            "suggestion": "Carlos",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "C. Hernandez",
+        "team": "DET",
+        "current_fullName": "C. Hernandez",
+        "potential_issues": [
+          {
+            "pattern": "hernandez",
+            "suggestion": "Hernández",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "C. Perez",
+        "team": "BAL",
+        "current_fullName": "C. Perez",
+        "potential_issues": [
+          {
+            "pattern": "perez",
+            "suggestion": "Pérez",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "C. Rodriguez",
+        "team": "MIL",
+        "current_fullName": "C. Rodriguez",
+        "potential_issues": [
+          {
+            "pattern": "rodriguez",
+            "suggestion": "Rodríguez",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "C. Sanchez",
+        "team": "PHI",
+        "current_fullName": "C. Sanchez",
+        "potential_issues": [
+          {
+            "pattern": "sanchez",
+            "suggestion": "Sánchez",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "C. Santana",
+        "team": "CLE",
+        "current_fullName": "Carlos Santana",
+        "potential_issues": [
+          {
+            "pattern": "carlos",
+            "suggestion": "Carlos",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "C. Vargas",
+        "team": "SEA",
+        "current_fullName": "Carlos Vargas",
+        "potential_issues": [
+          {
+            "pattern": "carlos",
+            "suggestion": "Carlos",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "D. Hernandez",
+        "team": "ATL",
+        "current_fullName": "D. Hernandez",
+        "potential_issues": [
+          {
+            "pattern": "hernandez",
+            "suggestion": "Hernández",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "E. Hernández",
+        "team": "LAD",
+        "current_fullName": "Enrique Hernández",
+        "potential_issues": [
+          {
+            "pattern": "contains_accents",
+            "suggestion": "Verify accent characters are preserved correctly",
+            "confidence": "high"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "E. Perez",
+        "team": "MIA",
+        "current_fullName": "Eury Perez",
+        "potential_issues": [
+          {
+            "pattern": "perez",
+            "suggestion": "Pérez",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "E. Rodriguez",
+        "team": "ARI",
+        "current_fullName": "Elvin Rodriguez",
+        "potential_issues": [
+          {
+            "pattern": "rodriguez",
+            "suggestion": "Rodríguez",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "E. Rodriguez",
+        "team": "PIT",
+        "current_fullName": "E. Rodriguez",
+        "potential_issues": [
+          {
+            "pattern": "rodriguez",
+            "suggestion": "Rodríguez",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "E. Rodriguez",
+        "team": "MIL",
+        "current_fullName": "Elvin Rodriguez",
+        "potential_issues": [
+          {
+            "pattern": "rodriguez",
+            "suggestion": "Rodríguez",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "F. Bautista",
+        "team": "BAL",
+        "current_fullName": "Félix Bautista",
+        "potential_issues": [
+          {
+            "pattern": "contains_accents",
+            "suggestion": "Verify accent characters are preserved correctly",
+            "confidence": "high"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "G. Sanchez",
+        "team": "BAL",
+        "current_fullName": "G. Sanchez",
+        "potential_issues": [
+          {
+            "pattern": "sanchez",
+            "suggestion": "Sánchez",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "H. Hernandez",
+        "team": "MIA",
+        "current_fullName": "H. Hernandez",
+        "potential_issues": [
+          {
+            "pattern": "hernandez",
+            "suggestion": "Hernández",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "J. Altuve",
+        "team": "HOU",
+        "current_fullName": "Jose Altuve",
+        "potential_issues": [
+          {
+            "pattern": "jose",
+            "suggestion": "José",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "J. Alvarado",
+        "team": "PHI",
+        "current_fullName": "José Alvarado",
+        "potential_issues": [
+          {
+            "pattern": "contains_accents",
+            "suggestion": "Verify accent characters are preserved correctly",
+            "confidence": "high"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "J. Berrios",
+        "team": "TOR",
+        "current_fullName": "Jose Berrios",
+        "potential_issues": [
+          {
+            "pattern": "jose",
+            "suggestion": "José",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "J. Caballero",
+        "team": "TB",
+        "current_fullName": "José Caballero",
+        "potential_issues": [
+          {
+            "pattern": "contains_accents",
+            "suggestion": "Verify accent characters are preserved correctly",
+            "confidence": "high"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "J. Ferrer",
+        "team": "WSH",
+        "current_fullName": "Jose A. Ferrer",
+        "potential_issues": [
+          {
+            "pattern": "jose",
+            "suggestion": "José",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "J. Herrera",
+        "team": "ARI",
+        "current_fullName": "José Herrera",
+        "potential_issues": [
+          {
+            "pattern": "contains_accents",
+            "suggestion": "Verify accent characters are preserved correctly",
+            "confidence": "high"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "J. Iglesias",
+        "team": "SD",
+        "current_fullName": "Jose Iglesias",
+        "potential_issues": [
+          {
+            "pattern": "jose",
+            "suggestion": "José",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "J. Leclerc",
+        "team": "OAK",
+        "current_fullName": "José Leclerc",
+        "potential_issues": [
+          {
+            "pattern": "contains_accents",
+            "suggestion": "Verify accent characters are preserved correctly",
+            "confidence": "high"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "J. Lopez",
+        "team": "WSH",
+        "current_fullName": "Jacob Lopez",
+        "potential_issues": [
+          {
+            "pattern": "lopez",
+            "suggestion": "López",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "J. Lopez",
+        "team": "OAK",
+        "current_fullName": "J. Lopez",
+        "potential_issues": [
+          {
+            "pattern": "lopez",
+            "suggestion": "López",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "J. Luzardo",
+        "team": "PHI",
+        "current_fullName": "Jesús Luzardo",
+        "potential_issues": [
+          {
+            "pattern": "contains_accents",
+            "suggestion": "Verify accent characters are preserved correctly",
+            "confidence": "high"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "J. Quintana",
+        "team": "MIL",
+        "current_fullName": "Jose Quintana",
+        "potential_issues": [
+          {
+            "pattern": "jose",
+            "suggestion": "José",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "J. Ramirez",
+        "team": "CLE",
+        "current_fullName": "Jose Ramirez",
+        "potential_issues": [
+          {
+            "pattern": "jose",
+            "suggestion": "José",
+            "confidence": "medium"
+          },
+          {
+            "pattern": "ramirez",
+            "suggestion": "Ramírez",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "J. Rodriguez",
+        "team": "CLE",
+        "current_fullName": "J. Rodriguez",
+        "potential_issues": [
+          {
+            "pattern": "rodriguez",
+            "suggestion": "Rodríguez",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "J. Rodriguez",
+        "team": "CLE",
+        "current_fullName": "J. Rodriguez",
+        "potential_issues": [
+          {
+            "pattern": "rodriguez",
+            "suggestion": "Rodríguez",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "J. Rodriguez",
+        "team": "SEA",
+        "current_fullName": "J. Rodriguez",
+        "potential_issues": [
+          {
+            "pattern": "rodriguez",
+            "suggestion": "Rodríguez",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "J. Ruiz",
+        "team": "PHI",
+        "current_fullName": "José Ruiz",
+        "potential_issues": [
+          {
+            "pattern": "contains_accents",
+            "suggestion": "Verify accent characters are preserved correctly",
+            "confidence": "high"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "J. Sánchez",
+        "team": "MIA",
+        "current_fullName": "Jesús Sánchez",
+        "potential_issues": [
+          {
+            "pattern": "contains_accents",
+            "suggestion": "Verify accent characters are preserved correctly",
+            "confidence": "high"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "J. Soriano",
+        "team": "LAA",
+        "current_fullName": "José Soriano",
+        "potential_issues": [
+          {
+            "pattern": "contains_accents",
+            "suggestion": "Verify accent characters are preserved correctly",
+            "confidence": "high"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "J. Soto",
+        "team": "NYM",
+        "current_fullName": "Juan Soto",
+        "potential_issues": [
+          {
+            "pattern": "juan",
+            "suggestion": "Juan",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "J. Tena",
+        "team": "WSH",
+        "current_fullName": "José Tena",
+        "potential_issues": [
+          {
+            "pattern": "contains_accents",
+            "suggestion": "Verify accent characters are preserved correctly",
+            "confidence": "high"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "J. Trevino",
+        "team": "CIN",
+        "current_fullName": "Jose Trevino",
+        "potential_issues": [
+          {
+            "pattern": "jose",
+            "suggestion": "José",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "L. Arraez",
+        "team": "SD",
+        "current_fullName": "Luis Arraez",
+        "potential_issues": [
+          {
+            "pattern": "luis",
+            "suggestion": "Luis",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "L. Castillo",
+        "team": "SEA",
+        "current_fullName": "Luis Castillo",
+        "potential_issues": [
+          {
+            "pattern": "luis",
+            "suggestion": "Luis",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "L. Guerrero",
+        "team": "BOS",
+        "current_fullName": "Luis Guerrero",
+        "potential_issues": [
+          {
+            "pattern": "luis",
+            "suggestion": "Luis",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "L. Matos",
+        "team": "SF",
+        "current_fullName": "Luis Matos",
+        "potential_issues": [
+          {
+            "pattern": "luis",
+            "suggestion": "Luis",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "L. Ortiz",
+        "team": "CLE",
+        "current_fullName": "Luis Ortiz",
+        "potential_issues": [
+          {
+            "pattern": "luis",
+            "suggestion": "Luis",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "L. Rengifo",
+        "team": "LAA",
+        "current_fullName": "Luis Rengifo",
+        "potential_issues": [
+          {
+            "pattern": "luis",
+            "suggestion": "Luis",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "L. Robert Jr.",
+        "team": "CHW",
+        "current_fullName": "Luis Robert Jr.",
+        "potential_issues": [
+          {
+            "pattern": "luis",
+            "suggestion": "Luis",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "L. Severino",
+        "team": "OAK",
+        "current_fullName": "Luis Severino",
+        "potential_issues": [
+          {
+            "pattern": "luis",
+            "suggestion": "Luis",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "L. Torrens",
+        "team": "NYM",
+        "current_fullName": "Luis Torrens",
+        "potential_issues": [
+          {
+            "pattern": "luis",
+            "suggestion": "Luis",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "M. Maldonado",
+        "team": "SD",
+        "current_fullName": "Martín Maldonado",
+        "potential_issues": [
+          {
+            "pattern": "contains_accents",
+            "suggestion": "Verify accent characters are preserved correctly",
+            "confidence": "high"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "M. Perez",
+        "team": "CHW",
+        "current_fullName": "M. Perez",
+        "potential_issues": [
+          {
+            "pattern": "perez",
+            "suggestion": "Pérez",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "N. Hernandez",
+        "team": "HOU",
+        "current_fullName": "N. Hernandez",
+        "potential_issues": [
+          {
+            "pattern": "hernandez",
+            "suggestion": "Hernández",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "N. Lopez",
+        "team": "CHC",
+        "current_fullName": "Nicky Lopez",
+        "potential_issues": [
+          {
+            "pattern": "lopez",
+            "suggestion": "López",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "N. Lopez",
+        "team": "LAA",
+        "current_fullName": "N. Lopez",
+        "potential_issues": [
+          {
+            "pattern": "lopez",
+            "suggestion": "López",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "N. Martinez",
+        "team": "CIN",
+        "current_fullName": "Nick Martinez",
+        "potential_issues": [
+          {
+            "pattern": "martinez",
+            "suggestion": "Martínez",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "O. Gonzalez",
+        "team": "SD",
+        "current_fullName": "O. Gonzalez",
+        "potential_issues": [
+          {
+            "pattern": "gonzalez",
+            "suggestion": "González",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "O. Lopez",
+        "team": "MIA",
+        "current_fullName": "Otto Lopez",
+        "potential_issues": [
+          {
+            "pattern": "lopez",
+            "suggestion": "López",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "P. Lopez",
+        "team": "MIN",
+        "current_fullName": "P. Lopez",
+        "potential_issues": [
+          {
+            "pattern": "lopez",
+            "suggestion": "López",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "R. Fernandez",
+        "team": "STL",
+        "current_fullName": "Ryan Fernandez",
+        "potential_issues": [
+          {
+            "pattern": "fernandez",
+            "suggestion": "Fernández",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "R. Gonzalez",
+        "team": "BOS",
+        "current_fullName": "R. Gonzalez",
+        "potential_issues": [
+          {
+            "pattern": "gonzalez",
+            "suggestion": "González",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "R. Laureano",
+        "team": "BAL",
+        "current_fullName": "Ramón Laureano",
+        "potential_issues": [
+          {
+            "pattern": "contains_accents",
+            "suggestion": "Verify accent characters are preserved correctly",
+            "confidence": "high"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "R. Lopez",
+        "team": "ATL",
+        "current_fullName": "R. Lopez",
+        "potential_issues": [
+          {
+            "pattern": "lopez",
+            "suggestion": "López",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "R. Rodriguez",
+        "team": "SF",
+        "current_fullName": "R. Rodriguez",
+        "potential_issues": [
+          {
+            "pattern": "rodriguez",
+            "suggestion": "Rodríguez",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "S. Perez",
+        "team": "KC",
+        "current_fullName": "Salvador Perez",
+        "potential_issues": [
+          {
+            "pattern": "perez",
+            "suggestion": "Pérez",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "T. Hernández",
+        "team": "LAD",
+        "current_fullName": "Teoscar Hernández",
+        "potential_issues": [
+          {
+            "pattern": "contains_accents",
+            "suggestion": "Verify accent characters are preserved correctly",
+            "confidence": "high"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "T. Nido",
+        "team": "DET",
+        "current_fullName": "Tomás Nido",
+        "potential_issues": [
+          {
+            "pattern": "contains_accents",
+            "suggestion": "Verify accent characters are preserved correctly",
+            "confidence": "high"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "T. Walker",
+        "team": "PHI",
+        "current_fullName": "Taijuan Walker",
+        "potential_issues": [
+          {
+            "pattern": "juan",
+            "suggestion": "Juan",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "V. Mederos",
+        "team": "LAA",
+        "current_fullName": "Víctor Mederos",
+        "potential_issues": [
+          {
+            "pattern": "contains_accents",
+            "suggestion": "Verify accent characters are preserved correctly",
+            "confidence": "high"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "W. Gonzalez",
+        "team": "CHW",
+        "current_fullName": "W. Gonzalez",
+        "potential_issues": [
+          {
+            "pattern": "gonzalez",
+            "suggestion": "González",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "W. Perez",
+        "team": "DET",
+        "current_fullName": "W. Perez",
+        "potential_issues": [
+          {
+            "pattern": "perez",
+            "suggestion": "Pérez",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      },
+      {
+        "player_name": "Y. Rodriguez",
+        "team": "TOR",
+        "current_fullName": "Y. Rodriguez",
+        "potential_issues": [
+          {
+            "pattern": "rodriguez",
+            "suggestion": "Rodríguez",
+            "confidence": "medium"
+          }
+        ],
+        "action": "manual_review_suggested"
+      }
+    ],
+    "validation_warnings": [
+      {
+        "player": "A. Cox",
+        "warnings": [
+          "Last name mismatch: cox vs not_found_in_csv",
+          "No CSV match found - requires manual review"
+        ]
+      },
+      {
+        "player": "A. Garcia",
+        "warnings": [
+          "Last name mismatch: garcia vs not_found_in_csv",
+          "No CSV match found - requires manual review"
+        ]
+      },
+      {
+        "player": "A. Martinez",
+        "warnings": [
+          "Last name mismatch: martinez vs not_found_in_csv",
+          "No CSV match found - requires manual review"
+        ]
+      }
+    ],
+    "summary": {
+      "total_players_processed": 1180,
+      "total_corrections_applied": 349,
+      "automated_fixes_count": 349,
+      "manual_review_count": 3,
+      "accent_issues_count": 75,
+      "validation_warnings_count": 3,
+      "success_rate": "74.10",
+      "timestamp": "2025-06-26T01:36:01.222Z",
+      "corrections_by_confidence": {
+        "high": 349
+      },
+      "top_teams_corrected": [
+        {
+          "team": "CHW",
+          "count": 19
+        },
+        {
+          "team": "ARI",
+          "count": 19
+        },
+        {
+          "team": "LAA",
+          "count": 18
+        },
+        {
+          "team": "TOR",
+          "count": 17
+        },
+        {
+          "team": "COL",
+          "count": 15
+        }
+      ]
+    }
+  }
+}

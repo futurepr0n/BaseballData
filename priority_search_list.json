@@ -1,0 +1,54 @@
+{
+  "priority_cases": [
+    {
+      "name": "A. Cox",
+      "team": "ATL",
+      "type": "pitcher",
+      "reason": "no_csv_match",
+      "currentFullName": "A. Cox",
+      "teamFullName": "Atlanta Braves",
+      "priority": "high",
+      "suggested_full_name": "",
+      "confidence": "",
+      "source": "needs_research",
+      "status": "needs_research"
+    },
+    {
+      "name": "A. Garcia",
+      "team": "ARI",
+      "type": "hitter",
+      "reason": "no_csv_match",
+      "currentFullName": "A. Garcia",
+      "teamFullName": "Arizona Diamondbacks",
+      "priority": "high",
+      "suggested_full_name": "Aramis Garcia",
+      "confidence": "high",
+      "source": "user_confirmed",
+      "status": "confirmed"
+    },
+    {
+      "name": "A. Martinez",
+      "team": "CLE",
+      "type": "hitter",
+      "reason": "no_csv_match",
+      "currentFullName": "A. Martinez",
+      "teamFullName": "Cleveland Guardians",
+      "priority": "high",
+      "suggested_full_name": "",
+      "confidence": "",
+      "source": "needs_research",
+      "status": "needs_research"
+    }
+  ],
+  "instructions": [
+    "PRIORITY SEARCH LIST",
+    "===================",
+    "",
+    "These are the highest priority players mentioned in discussions:",
+    "1. A. Garcia (ARI) - Confirmed as 'Aramis Garcia'",
+    "2. A. Martinez (CLE) - Needs immediate research",
+    "3. A. Cox (ATL) - Needs immediate research",
+    "",
+    "Focus on these first before processing the full list."
+  ]
+}

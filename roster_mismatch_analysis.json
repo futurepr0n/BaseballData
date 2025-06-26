@@ -1,0 +1,2262 @@
+{
+  "timestamp": "2025-06-25T19:00:03.973Z",
+  "summary": {
+    "total_issues": 272,
+    "high_severity": 118,
+    "categories": {
+      "first_initial_conflicts": 0,
+      "suspicious_patterns": 20,
+      "format_issues": 244,
+      "potential_team_conflicts": 8
+    }
+  },
+  "mismatches": {
+    "first_initial_conflicts": [],
+    "suspicious_patterns": [
+      {
+        "name": "C. Correa",
+        "fullName": "Carlos Correa",
+        "team": "MIN",
+        "type": "hitter",
+        "issue": "type_name_mismatch",
+        "severity": "medium"
+      },
+      {
+        "name": "C. Santana",
+        "fullName": "Carlos Santana",
+        "team": "CLE",
+        "type": "hitter",
+        "issue": "type_name_mismatch",
+        "severity": "medium"
+      },
+      {
+        "name": "J. Altuve",
+        "fullName": "Jose Altuve",
+        "team": "HOU",
+        "type": "hitter",
+        "issue": "type_name_mismatch",
+        "severity": "medium"
+      },
+      {
+        "name": "J. Barrero",
+        "fullName": "Jose Barrero",
+        "team": "STL",
+        "type": "hitter",
+        "issue": "type_name_mismatch",
+        "severity": "medium"
+      },
+      {
+        "name": "J. Iglesias",
+        "fullName": "Jose Iglesias",
+        "team": "SD",
+        "type": "hitter",
+        "issue": "type_name_mismatch",
+        "severity": "medium"
+      },
+      {
+        "name": "J. Miranda",
+        "fullName": "Jose Miranda",
+        "team": "MIN",
+        "type": "hitter",
+        "issue": "type_name_mismatch",
+        "severity": "medium"
+      },
+      {
+        "name": "J. Ramirez",
+        "fullName": "Jose Ramirez",
+        "team": "CLE",
+        "type": "hitter",
+        "issue": "type_name_mismatch",
+        "severity": "medium"
+      },
+      {
+        "name": "J. Siri",
+        "fullName": "Jose Siri",
+        "team": "NYM",
+        "type": "hitter",
+        "issue": "type_name_mismatch",
+        "severity": "medium"
+      },
+      {
+        "name": "J. Trevino",
+        "fullName": "Jose Trevino",
+        "team": "CIN",
+        "type": "hitter",
+        "issue": "type_name_mismatch",
+        "severity": "medium"
+      },
+      {
+        "name": "L. Arraez",
+        "fullName": "Luis Arraez",
+        "team": "SD",
+        "type": "hitter",
+        "issue": "type_name_mismatch",
+        "severity": "medium"
+      },
+      {
+        "name": "L. Campusano",
+        "fullName": "Luis Campusano",
+        "team": "SD",
+        "type": "hitter",
+        "issue": "type_name_mismatch",
+        "severity": "medium"
+      },
+      {
+        "name": "L. Guillorme",
+        "fullName": "Luis Guillorme",
+        "team": "HOU",
+        "type": "hitter",
+        "issue": "type_name_mismatch",
+        "severity": "medium"
+      },
+      {
+        "name": "L. Matos",
+        "fullName": "Luis Matos",
+        "team": "SF",
+        "type": "hitter",
+        "issue": "type_name_mismatch",
+        "severity": "medium"
+      },
+      {
+        "name": "L. Rengifo",
+        "fullName": "Luis Rengifo",
+        "team": "LAA",
+        "type": "hitter",
+        "issue": "type_name_mismatch",
+        "severity": "medium"
+      },
+      {
+        "name": "L. Robert Jr.",
+        "fullName": "Luis Robert Jr.",
+        "team": "CHW",
+        "type": "hitter",
+        "issue": "type_name_mismatch",
+        "severity": "medium"
+      },
+      {
+        "name": "L. Torrens",
+        "fullName": "Luis Torrens",
+        "team": "NYM",
+        "type": "hitter",
+        "issue": "type_name_mismatch",
+        "severity": "medium"
+      },
+      {
+        "name": "M. Amaya",
+        "fullName": "Miguel Amaya",
+        "team": "CHC",
+        "type": "hitter",
+        "issue": "type_name_mismatch",
+        "severity": "medium"
+      },
+      {
+        "name": "M. Andujar",
+        "fullName": "Miguel Andujar",
+        "team": "OAK",
+        "type": "hitter",
+        "issue": "type_name_mismatch",
+        "severity": "medium"
+      },
+      {
+        "name": "M. Rojas",
+        "fullName": "Miguel Rojas",
+        "team": "LAD",
+        "type": "hitter",
+        "issue": "type_name_mismatch",
+        "severity": "medium"
+      },
+      {
+        "name": "M. Vargas",
+        "fullName": "Miguel Vargas",
+        "team": "CHW",
+        "type": "hitter",
+        "issue": "type_name_mismatch",
+        "severity": "medium"
+      }
+    ],
+    "format_issues": [
+      {
+        "name": "A. Cox",
+        "fullName": "A. Cox",
+        "team": "ATL",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "A. Cox",
+        "fullName": "A. Cox",
+        "team": "ATL",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "A. Garcia",
+        "fullName": "A. Garcia",
+        "team": "ARI",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "A. Garcia",
+        "fullName": "A. Garcia",
+        "team": "ARI",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "A. Gimenez",
+        "fullName": "A. Gimenez",
+        "team": "TOR",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "A. Gimenez",
+        "fullName": "A. Gimenez",
+        "team": "TOR",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "A. Martinez",
+        "fullName": "A. Martinez",
+        "team": "CLE",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "A. Martinez",
+        "fullName": "A. Martinez",
+        "team": "CLE",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "A. Munoz",
+        "fullName": "A. Munoz",
+        "team": "SEA",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "A. Munoz",
+        "fullName": "A. Munoz",
+        "team": "SEA",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "A. Ottavino",
+        "fullName": "A. Ottavino",
+        "team": "NYY",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "A. Ottavino",
+        "fullName": "A. Ottavino",
+        "team": "NYY",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "A. Ramirez",
+        "fullName": "A. Ramirez",
+        "team": "MIA",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "A. Ramirez",
+        "fullName": "A. Ramirez",
+        "team": "MIA",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "B. Cook",
+        "fullName": "B. Cook",
+        "team": "PIT",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "B. Cook",
+        "fullName": "B. Cook",
+        "team": "PIT",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "B. Cruz",
+        "fullName": "B. De La Cruz",
+        "team": "ATL",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "B. Hoeing",
+        "fullName": "B. Hoeing",
+        "team": "SD",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "B. Hoeing",
+        "fullName": "B. Hoeing",
+        "team": "SD",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "B. Kennedy",
+        "fullName": "B. Kennedy",
+        "team": "PHI",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "B. Kennedy",
+        "fullName": "B. Kennedy",
+        "team": "PHI",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "B. Kriske",
+        "fullName": "B. Kriske",
+        "team": "CHC",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "B. Kriske",
+        "fullName": "B. Kriske",
+        "team": "CHC",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "B. Sullivan",
+        "fullName": "B. Sullivan",
+        "team": "PIT",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "B. Sullivan",
+        "fullName": "B. Sullivan",
+        "team": "PIT",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "C. Alexander",
+        "fullName": "C. Alexander",
+        "team": "OAK",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "C. Alexander",
+        "fullName": "C. Alexander",
+        "team": "OAK",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "C. Burns",
+        "fullName": "C. Burns",
+        "team": "CIN",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "C. Burns",
+        "fullName": "C. Burns",
+        "team": "CIN",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "C. Duran",
+        "fullName": "C. Duran",
+        "team": "OAK",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "C. Duran",
+        "fullName": "C. Duran",
+        "team": "OAK",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "C. Estevez",
+        "fullName": "C. Estevez",
+        "team": "KC",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "C. Estevez",
+        "fullName": "C. Estevez",
+        "team": "KC",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "C. Hernandez",
+        "fullName": "C. Hernandez",
+        "team": "DET",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "C. Hernandez",
+        "fullName": "C. Hernandez",
+        "team": "DET",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "C. Heuer",
+        "fullName": "C. Heuer",
+        "team": "TEX",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "C. Heuer",
+        "fullName": "C. Heuer",
+        "team": "TEX",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "C. Kimbrel",
+        "fullName": "C. Kimbrel",
+        "team": "ATL",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "C. Kimbrel",
+        "fullName": "C. Kimbrel",
+        "team": "ATL",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "C. McCusker",
+        "fullName": "C. McCusker",
+        "team": "MIN",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "C. McCusker",
+        "fullName": "C. McCusker",
+        "team": "MIN",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "C. Narvaez",
+        "fullName": "C. Narvaez",
+        "team": "BOS",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "C. Narvaez",
+        "fullName": "C. Narvaez",
+        "team": "BOS",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "C. Oca",
+        "fullName": "C. Montes De Oca",
+        "team": "ARI",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "C. Perez",
+        "fullName": "C. Perez",
+        "team": "BAL",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "C. Perez",
+        "fullName": "C. Perez",
+        "team": "BAL",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "C. Phillips",
+        "fullName": "C. Phillips",
+        "team": "CIN",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "C. Phillips",
+        "fullName": "C. Phillips",
+        "team": "CIN",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "C. Rodon",
+        "fullName": "C. Rodon",
+        "team": "NYY",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "C. Rodon",
+        "fullName": "C. Rodon",
+        "team": "NYY",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "C. Salazar",
+        "fullName": "C. Salazar",
+        "team": "HOU",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "C. Salazar",
+        "fullName": "C. Salazar",
+        "team": "HOU",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "C. Sanchez",
+        "fullName": "C. Sanchez",
+        "team": "PHI",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "C. Sanchez",
+        "fullName": "C. Sanchez",
+        "team": "PHI",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "C. Vazquez",
+        "fullName": "C. Vazquez",
+        "team": "MIN",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "C. Vazquez",
+        "fullName": "C. Vazquez",
+        "team": "MIN",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "D. Blanco",
+        "fullName": "D. Blanco",
+        "team": "KC",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "D. Blanco",
+        "fullName": "D. Blanco",
+        "team": "KC",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "D. Hernandez",
+        "fullName": "D. Hernandez",
+        "team": "ATL",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "D. Hernandez",
+        "fullName": "D. Hernandez",
+        "team": "ATL",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "D. Keirsey Jr.",
+        "fullName": "D. Keirsey Jr.",
+        "team": "MIN",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "D. Keirsey Jr.",
+        "fullName": "D. Keirsey Jr.",
+        "team": "MIN",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "D. Lynch",
+        "fullName": "D. Lynch",
+        "team": "KC",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "D. Lynch",
+        "fullName": "D. Lynch",
+        "team": "KC",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "D. Nunez",
+        "fullName": "D. Nunez",
+        "team": "NYM",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "D. Nunez",
+        "fullName": "D. Nunez",
+        "team": "NYM",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "D. Nunez",
+        "fullName": "D. Nunez",
+        "team": "CLE",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "D. Nunez",
+        "fullName": "D. Nunez",
+        "team": "CLE",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "D. Robert",
+        "fullName": "D. Robert",
+        "team": "PHI",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "D. Robert",
+        "fullName": "D. Robert",
+        "team": "PHI",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "E. Diaz",
+        "fullName": "E. Diaz",
+        "team": "SD",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "E. Diaz",
+        "fullName": "E. Diaz",
+        "team": "SD",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "E. Pagan",
+        "fullName": "E. Pagan",
+        "team": "CIN",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "E. Pagan",
+        "fullName": "E. Pagan",
+        "team": "CIN",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "E. Rodriguez",
+        "fullName": "E. Rodriguez",
+        "team": "PIT",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "E. Rodriguez",
+        "fullName": "E. Rodriguez",
+        "team": "PIT",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "E. Rosario",
+        "fullName": "E. Rosario",
+        "team": "ATL",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "E. Rosario",
+        "fullName": "E. Rosario",
+        "team": "ATL",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "E. Rosario",
+        "fullName": "E. Rosario",
+        "team": "LAD",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "E. Rosario",
+        "fullName": "E. Rosario",
+        "team": "LAD",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "E. Suarez",
+        "fullName": "E. Suarez",
+        "team": "ARI",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "E. Suarez",
+        "fullName": "E. Suarez",
+        "team": "ARI",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "F. Montas",
+        "fullName": "F. Montas",
+        "team": "NYM",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "F. Montas",
+        "fullName": "F. Montas",
+        "team": "NYM",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "F. Tarnok",
+        "fullName": "F. Tarnok",
+        "team": "MIA",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "F. Tarnok",
+        "fullName": "F. Tarnok",
+        "team": "MIA",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "G. Jones",
+        "fullName": "G. Jones",
+        "team": "CHW",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "G. Jones",
+        "fullName": "G. Jones",
+        "team": "CHW",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "G. Marquez",
+        "fullName": "G. Marquez",
+        "team": "COL",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "G. Marquez",
+        "fullName": "G. Marquez",
+        "team": "COL",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "G. Sanchez",
+        "fullName": "G. Sanchez",
+        "team": "BAL",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "G. Sanchez",
+        "fullName": "G. Sanchez",
+        "team": "BAL",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "H. Brazoban",
+        "fullName": "H. Brazoban",
+        "team": "NYM",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "H. Brazoban",
+        "fullName": "H. Brazoban",
+        "team": "NYM",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "H. Feduccia",
+        "fullName": "H. Feduccia",
+        "team": "LAD",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "H. Feduccia",
+        "fullName": "H. Feduccia",
+        "team": "LAD",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "I. Seymour",
+        "fullName": "I. Seymour",
+        "team": "TB",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "I. Seymour",
+        "fullName": "I. Seymour",
+        "team": "TB",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "J. Adams",
+        "fullName": "J. Adams",
+        "team": "BAL",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "J. Adams",
+        "fullName": "J. Adams",
+        "team": "BAL",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "J. Baez",
+        "fullName": "J. Baez",
+        "team": "DET",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "J. Baez",
+        "fullName": "J. Baez",
+        "team": "DET",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "J. Brubaker",
+        "fullName": "J. Brubaker",
+        "team": "NYY",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "J. Brubaker",
+        "fullName": "J. Brubaker",
+        "team": "NYY",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "J. Butto",
+        "fullName": "J. Butto",
+        "team": "NYM",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "J. Butto",
+        "fullName": "J. Butto",
+        "team": "NYM",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "J. Diaz",
+        "fullName": "J. Diaz",
+        "team": "SEA",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "J. Diaz",
+        "fullName": "J. Diaz",
+        "team": "SEA",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "J. Dominguez",
+        "fullName": "J. Dominguez",
+        "team": "NYY",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "J. Dominguez",
+        "fullName": "J. Dominguez",
+        "team": "NYY",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "J. Foscue",
+        "fullName": "J. Foscue",
+        "team": "TEX",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "J. Foscue",
+        "fullName": "J. Foscue",
+        "team": "TEX",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "J. Loaisiga",
+        "fullName": "J. Loaisiga",
+        "team": "NYY",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "J. Loaisiga",
+        "fullName": "J. Loaisiga",
+        "team": "NYY",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "J. Ornelas",
+        "fullName": "J. Ornelas",
+        "team": "TEX",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "J. Ornelas",
+        "fullName": "J. Ornelas",
+        "team": "TEX",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "J. Palisch",
+        "fullName": "J. Palisch",
+        "team": "CHW",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "J. Palisch",
+        "fullName": "J. Palisch",
+        "team": "CHW",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "J. Pena",
+        "fullName": "J. Pena",
+        "team": "HOU",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "J. Pena",
+        "fullName": "J. Pena",
+        "team": "HOU",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "J. Rodriguez",
+        "fullName": "J. Rodriguez",
+        "team": "CLE",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "J. Rodriguez",
+        "fullName": "J. Rodriguez",
+        "team": "CLE",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "J. Rodriguez",
+        "fullName": "J. Rodriguez",
+        "team": "CLE",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "J. Rodriguez",
+        "fullName": "J. Rodriguez",
+        "team": "CLE",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "J. Rodriguez",
+        "fullName": "J. Rodriguez",
+        "team": "SEA",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "J. Rodriguez",
+        "fullName": "J. Rodriguez",
+        "team": "SEA",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "J. Sorsa",
+        "fullName": "J. La Sorsa",
+        "team": "CIN",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "J. Urena",
+        "fullName": "J. Urena",
+        "team": "TOR",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "J. Urena",
+        "fullName": "J. Urena",
+        "team": "TOR",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "J. Urena",
+        "fullName": "J. Urena",
+        "team": "NYM",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "J. Urena",
+        "fullName": "J. Urena",
+        "team": "NYM",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "J. Urena",
+        "fullName": "J. Urena",
+        "team": "LAD",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "J. Urena",
+        "fullName": "J. Urena",
+        "team": "LAD",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "J. Winkler",
+        "fullName": "J. Winkler",
+        "team": "MIA",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "J. Winkler",
+        "fullName": "J. Winkler",
+        "team": "MIA",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "K. Strowd",
+        "fullName": "K. Strowd",
+        "team": "BAL",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "K. Strowd",
+        "fullName": "K. Strowd",
+        "team": "BAL",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "L. Acuna",
+        "fullName": "L. Acuna",
+        "team": "NYM",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "L. Acuna",
+        "fullName": "L. Acuna",
+        "team": "NYM",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "L. Garcia",
+        "fullName": "L. Garcia",
+        "team": "LAD",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "L. Garcia",
+        "fullName": "L. Garcia",
+        "team": "LAD",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "L. Garcia Jr.",
+        "fullName": "L. Gurriel Jr.",
+        "team": "ARI",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "L. Jr.",
+        "fullName": "L. McCullers Jr.",
+        "team": "HOU",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "L. Jr.",
+        "fullName": "L. Wade Jr.",
+        "team": "LAA",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "L. Little",
+        "fullName": "L. Little",
+        "team": "CHC",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "L. Little",
+        "fullName": "L. Little",
+        "team": "CHC",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "L. Porter",
+        "fullName": "L. Porter",
+        "team": "SF",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "L. Porter",
+        "fullName": "L. Porter",
+        "team": "SF",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "L. Urias",
+        "fullName": "L. Urias",
+        "team": "OAK",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "L. Urias",
+        "fullName": "L. Urias",
+        "team": "OAK",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "L. Vazquez",
+        "fullName": "L. Vazquez",
+        "team": "BAL",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "L. Vazquez",
+        "fullName": "L. Vazquez",
+        "team": "BAL",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "M. Dubon",
+        "fullName": "M. Dubon",
+        "team": "HOU",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "M. Dubon",
+        "fullName": "M. Dubon",
+        "team": "HOU",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "M. Harris",
+        "fullName": "M. Harris",
+        "team": "ATL",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "M. Harris",
+        "fullName": "M. Harris",
+        "team": "ATL",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "M. Melendez",
+        "fullName": "M. Melendez",
+        "team": "KC",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "M. Melendez",
+        "fullName": "M. Melendez",
+        "team": "KC",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "M. Otanez",
+        "fullName": "M. Otanez",
+        "team": "OAK",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "M. Otanez",
+        "fullName": "M. Otanez",
+        "team": "OAK",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "M. Perez",
+        "fullName": "M. Perez",
+        "team": "CHW",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "M. Perez",
+        "fullName": "M. Perez",
+        "team": "CHW",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "N. Cortes",
+        "fullName": "N. Cortes",
+        "team": "MIL",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "N. Cortes",
+        "fullName": "N. Cortes",
+        "team": "MIL",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "N. Eaton",
+        "fullName": "N. Eaton",
+        "team": "BOS",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "N. Eaton",
+        "fullName": "N. Eaton",
+        "team": "BOS",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "N. Kavadas",
+        "fullName": "N. Kavadas",
+        "team": "LAA",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "N. Kavadas",
+        "fullName": "N. Kavadas",
+        "team": "LAA",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "N. Nunez",
+        "fullName": "N. Nunez",
+        "team": "WSH",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "N. Nunez",
+        "fullName": "N. Nunez",
+        "team": "WSH",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "O. Narvaez",
+        "fullName": "O. Narvaez",
+        "team": "CHW",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "O. Narvaez",
+        "fullName": "O. Narvaez",
+        "team": "CHW",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "P. Gervase",
+        "fullName": "P. Gervase",
+        "team": "TB",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "P. Gervase",
+        "fullName": "P. Gervase",
+        "team": "TB",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "P. Lopez",
+        "fullName": "P. Lopez",
+        "team": "MIN",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "P. Lopez",
+        "fullName": "P. Lopez",
+        "team": "MIN",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "P. Pages",
+        "fullName": "P. Pages",
+        "team": "STL",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "P. Pages",
+        "fullName": "P. Pages",
+        "team": "STL",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "R. Fitzgerald",
+        "fullName": "R. Fitzgerald",
+        "team": "MIN",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "R. Fitzgerald",
+        "fullName": "R. Fitzgerald",
+        "team": "MIN",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "R. Hassell",
+        "fullName": "R. Hassell",
+        "team": "WSH",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "R. Hassell",
+        "fullName": "R. Hassell",
+        "team": "WSH",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "R. Lopez",
+        "fullName": "R. Lopez",
+        "team": "ATL",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "R. Lopez",
+        "fullName": "R. Lopez",
+        "team": "ATL",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "R. Marchan",
+        "fullName": "R. Marchan",
+        "team": "PHI",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "R. Marchan",
+        "fullName": "R. Marchan",
+        "team": "PHI",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "R. Munoz",
+        "fullName": "R. Munoz",
+        "team": "STL",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "R. Munoz",
+        "fullName": "R. Munoz",
+        "team": "STL",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "R. Palacios",
+        "fullName": "R. Palacios",
+        "team": "TB",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "R. Palacios",
+        "fullName": "R. Palacios",
+        "team": "TB",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "R. Pina",
+        "fullName": "R. Pina",
+        "team": "MIA",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "R. Pina",
+        "fullName": "R. Pina",
+        "team": "MIA",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "R. Rodriguez",
+        "fullName": "R. Rodriguez",
+        "team": "SF",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "R. Rodriguez",
+        "fullName": "R. Rodriguez",
+        "team": "SF",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "R. Stephenson",
+        "fullName": "R. Stephenson",
+        "team": "LAA",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "R. Stephenson",
+        "fullName": "R. Stephenson",
+        "team": "LAA",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "R. Urias",
+        "fullName": "R. Urias",
+        "team": "BAL",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "R. Urias",
+        "fullName": "R. Urias",
+        "team": "BAL",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "S. Dominguez",
+        "fullName": "S. Dominguez",
+        "team": "BAL",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "S. Dominguez",
+        "fullName": "S. Dominguez",
+        "team": "BAL",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "S. Effross",
+        "fullName": "S. Effross",
+        "team": "NYY",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "S. Effross",
+        "fullName": "S. Effross",
+        "team": "NYY",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "S. Johnson",
+        "fullName": "S. Johnson",
+        "team": "PHI",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "S. Johnson",
+        "fullName": "S. Johnson",
+        "team": "PHI",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "S. Taylor",
+        "fullName": "S. Taylor",
+        "team": "SEA",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "S. Taylor",
+        "fullName": "S. Taylor",
+        "team": "SEA",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "S. Whitcomb",
+        "fullName": "S. Whitcomb",
+        "team": "HOU",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "S. Whitcomb",
+        "fullName": "S. Whitcomb",
+        "team": "HOU",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "T. Brooks",
+        "fullName": "T. Brooks",
+        "team": "SD",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "T. Brooks",
+        "fullName": "T. Brooks",
+        "team": "SD",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "T. Callihan",
+        "fullName": "T. Callihan",
+        "team": "CIN",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "T. Callihan",
+        "fullName": "T. Callihan",
+        "team": "CIN",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "T. Cheng",
+        "fullName": "T. Cheng",
+        "team": "PIT",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "T. Cheng",
+        "fullName": "T. Cheng",
+        "team": "PIT",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "T. Harrington",
+        "fullName": "T. Harrington",
+        "team": "PIT",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "T. Harrington",
+        "fullName": "T. Harrington",
+        "team": "PIT",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "T. Owens",
+        "fullName": "T. Owens",
+        "team": "DET",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "T. Owens",
+        "fullName": "T. Owens",
+        "team": "DET",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "T. Tolbert",
+        "fullName": "T. Tolbert",
+        "team": "KC",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "T. Tolbert",
+        "fullName": "T. Tolbert",
+        "team": "KC",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "T. Zuber",
+        "fullName": "T. Zuber",
+        "team": "NYM",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "T. Zuber",
+        "fullName": "T. Zuber",
+        "team": "NYM",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "V. Brujan",
+        "fullName": "V. Brujan",
+        "team": "CHC",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "V. Brujan",
+        "fullName": "V. Brujan",
+        "team": "CHC",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "V. Jr.",
+        "fullName": "V. Mesa Jr.",
+        "team": "MIA",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "V. Scott",
+        "fullName": "V. Scott",
+        "team": "STL",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "V. Scott",
+        "fullName": "V. Scott",
+        "team": "STL",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "W. Gonzalez",
+        "fullName": "W. Gonzalez",
+        "team": "CHW",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "W. Gonzalez",
+        "fullName": "W. Gonzalez",
+        "team": "CHW",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "W. Klein",
+        "fullName": "W. Klein",
+        "team": "LAD",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "W. Klein",
+        "fullName": "W. Klein",
+        "team": "LAD",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "W. Perez",
+        "fullName": "W. Perez",
+        "team": "DET",
+        "type": "hitter",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "W. Perez",
+        "fullName": "W. Perez",
+        "team": "DET",
+        "type": "hitter",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "Y. Garcia",
+        "fullName": "Y. Garcia",
+        "team": "TOR",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "Y. Garcia",
+        "fullName": "Y. Garcia",
+        "team": "TOR",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "Y. Gomez",
+        "fullName": "Y. Gomez",
+        "team": "LAD",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "Y. Gomez",
+        "fullName": "Y. Gomez",
+        "team": "LAD",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "Y. Gomez",
+        "fullName": "Y. Gomez",
+        "team": "CHW",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "Y. Gomez",
+        "fullName": "Y. Gomez",
+        "team": "CHW",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "Y. Hiraldo",
+        "fullName": "Y. Hiraldo",
+        "team": "BAL",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "Y. Hiraldo",
+        "fullName": "Y. Hiraldo",
+        "team": "BAL",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      },
+      {
+        "name": "Y. Santos",
+        "fullName": "Y. De los Santos",
+        "team": "NYY",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "Y. Zulueta",
+        "fullName": "Y. Zulueta",
+        "team": "CIN",
+        "type": "pitcher",
+        "issue": "still_abbreviated",
+        "severity": "medium"
+      },
+      {
+        "name": "Y. Zulueta",
+        "fullName": "Y. Zulueta",
+        "team": "CIN",
+        "type": "pitcher",
+        "issue": "identical_abbreviated",
+        "severity": "high"
+      }
+    ],
+    "potential_team_conflicts": [
+      {
+        "name": "A. Garcia",
+        "fullName": "A. Garcia",
+        "team": "ARI",
+        "type": "hitter",
+        "issue": "potential_cross_team_confusion",
+        "confusionGroup": {
+          "lastName": "garcia",
+          "teams": [
+            "ARI",
+            "KC",
+            "TOR"
+          ]
+        },
+        "severity": "medium"
+      },
+      {
+        "name": "A. Martinez",
+        "fullName": "A. Martinez",
+        "team": "CLE",
+        "type": "hitter",
+        "issue": "potential_cross_team_confusion",
+        "confusionGroup": {
+          "lastName": "martinez",
+          "teams": [
+            "CLE",
+            "HOU",
+            "BOS"
+          ]
+        },
+        "severity": "medium"
+      },
+      {
+        "name": "J. Rodriguez",
+        "fullName": "J. Rodriguez",
+        "team": "CLE",
+        "type": "hitter",
+        "issue": "potential_cross_team_confusion",
+        "confusionGroup": {
+          "lastName": "rodriguez",
+          "teams": [
+            "CLE",
+            "SEA",
+            "SF"
+          ]
+        },
+        "severity": "medium"
+      },
+      {
+        "name": "J. Rodriguez",
+        "fullName": "J. Rodriguez",
+        "team": "CLE",
+        "type": "hitter",
+        "issue": "potential_cross_team_confusion",
+        "confusionGroup": {
+          "lastName": "rodriguez",
+          "teams": [
+            "CLE",
+            "SEA",
+            "SF"
+          ]
+        },
+        "severity": "medium"
+      },
+      {
+        "name": "J. Rodriguez",
+        "fullName": "J. Rodriguez",
+        "team": "SEA",
+        "type": "hitter",
+        "issue": "potential_cross_team_confusion",
+        "confusionGroup": {
+          "lastName": "rodriguez",
+          "teams": [
+            "CLE",
+            "SEA",
+            "SF"
+          ]
+        },
+        "severity": "medium"
+      },
+      {
+        "name": "M. Garcia",
+        "fullName": "Maikel Garcia",
+        "team": "KC",
+        "type": "hitter",
+        "issue": "potential_cross_team_confusion",
+        "confusionGroup": {
+          "lastName": "garcia",
+          "teams": [
+            "ARI",
+            "KC",
+            "TOR"
+          ]
+        },
+        "severity": "medium"
+      },
+      {
+        "name": "R. Rodriguez",
+        "fullName": "R. Rodriguez",
+        "team": "SF",
+        "type": "pitcher",
+        "issue": "potential_cross_team_confusion",
+        "confusionGroup": {
+          "lastName": "rodriguez",
+          "teams": [
+            "CLE",
+            "SEA",
+            "SF"
+          ]
+        },
+        "severity": "medium"
+      },
+      {
+        "name": "Y. Garcia",
+        "fullName": "Y. Garcia",
+        "team": "TOR",
+        "type": "pitcher",
+        "issue": "potential_cross_team_confusion",
+        "confusionGroup": {
+          "lastName": "garcia",
+          "teams": [
+            "ARI",
+            "KC",
+            "TOR"
+          ]
+        },
+        "severity": "medium"
+      }
+    ]
+  }
+}
