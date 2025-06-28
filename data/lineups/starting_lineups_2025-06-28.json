@@ -1,169 +1,21 @@
 {
-  "date": "2025-06-27",
-  "lastUpdated": "2025-06-27T22:30:01.456908",
+  "date": "2025-06-28",
+  "lastUpdated": "2025-06-28T09:35:24.818577",
   "updateCount": 1,
   "totalGames": 15,
   "gamesWithLineups": 15,
   "metadata": {
     "scrapedFrom": "https://statsapi.mlb.com/api/v1",
     "dataQuality": "complete",
-    "nextUpdateScheduled": "2025-06-27T23:00:01.456908"
+    "nextUpdateScheduled": "2025-06-28T10:05:24.818577"
   },
   "games": [
     {
-      "gameId": "777341",
-      "date": "2025-06-27",
-      "gameTime": "22:40",
+      "gameId": "777326",
+      "date": "2025-06-28",
+      "gameTime": "17:05",
       "timezone": "UTC",
-      "status": "Final",
-      "venue": {
-        "name": "PNC Park",
-        "city": "",
-        "state": ""
-      },
-      "weather": {},
-      "teams": {
-        "home": {
-          "abbr": "PIT",
-          "name": "Pittsburgh Pirates",
-          "record": {
-            "wins": 33,
-            "losses": 50
-          }
-        },
-        "away": {
-          "abbr": "NYM",
-          "name": "New York Mets",
-          "record": {
-            "wins": 48,
-            "losses": 35
-          }
-        }
-      },
-      "pitchers": {
-        "home": {
-          "name": "Mitch Keller",
-          "id": "656605",
-          "throws": "",
-          "era": 0.0,
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "lastStart": "",
-          "status": "probable",
-          "confidence": 90
-        },
-        "away": {
-          "name": "David Peterson",
-          "id": "656849",
-          "throws": "",
-          "era": 0.0,
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "lastStart": "",
-          "status": "probable",
-          "confidence": 90
-        }
-      },
-      "lineups": {
-        "home": {
-          "confirmed": false,
-          "lastUpdated": "2025-06-27T22:30:01.456419",
-          "batting_order": []
-        },
-        "away": {
-          "confirmed": false,
-          "lastUpdated": "2025-06-27T22:30:01.456433",
-          "batting_order": []
-        }
-      },
-      "updates": [],
-      "matchupKey": "NYM@PIT_22:40",
-      "pitcherMatchup": "David Peterson vs Mitch Keller"
-    },
-    {
-      "gameId": "777343",
-      "date": "2025-06-27",
-      "gameTime": "23:05",
-      "timezone": "UTC",
-      "status": "In Progress",
-      "venue": {
-        "name": "Oriole Park at Camden Yards",
-        "city": "",
-        "state": ""
-      },
-      "weather": {},
-      "teams": {
-        "home": {
-          "abbr": "BAL",
-          "name": "Baltimore Orioles",
-          "record": {
-            "wins": 34,
-            "losses": 46
-          }
-        },
-        "away": {
-          "abbr": "TB",
-          "name": "Tampa Bay Rays",
-          "record": {
-            "wins": 46,
-            "losses": 35
-          }
-        }
-      },
-      "pitchers": {
-        "home": {
-          "name": "Tomoyuki Sugano",
-          "id": "608372",
-          "throws": "",
-          "era": 0.0,
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "lastStart": "",
-          "status": "probable",
-          "confidence": 90
-        },
-        "away": {
-          "name": "Ryan Pepiot",
-          "id": "686752",
-          "throws": "",
-          "era": 0.0,
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "lastStart": "",
-          "status": "probable",
-          "confidence": 90
-        }
-      },
-      "lineups": {
-        "home": {
-          "confirmed": false,
-          "lastUpdated": "2025-06-27T22:30:01.456478",
-          "batting_order": []
-        },
-        "away": {
-          "confirmed": false,
-          "lastUpdated": "2025-06-27T22:30:01.456481",
-          "batting_order": []
-        }
-      },
-      "updates": [],
-      "matchupKey": "TB@BAL_23:05",
-      "pitcherMatchup": "Ryan Pepiot vs Tomoyuki Sugano"
-    },
-    {
-      "gameId": "777337",
-      "date": "2025-06-27",
-      "gameTime": "23:05",
-      "timezone": "UTC",
-      "status": "Final",
+      "status": "Scheduled",
       "venue": {
         "name": "Yankee Stadium",
         "city": "",
@@ -190,8 +42,8 @@
       },
       "pitchers": {
         "home": {
-          "name": "Will Warren",
-          "id": "701542",
+          "name": "Clarke Schmidt",
+          "id": "657376",
           "throws": "",
           "era": 0.0,
           "record": {
@@ -203,82 +55,8 @@
           "confidence": 90
         },
         "away": {
-          "name": "Mitch Spence",
-          "id": "687765",
-          "throws": "",
-          "era": 0.0,
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "lastStart": "",
-          "status": "probable",
-          "confidence": 90
-        }
-      },
-      "lineups": {
-        "home": {
-          "confirmed": false,
-          "lastUpdated": "2025-06-27T22:30:01.456515",
-          "batting_order": []
-        },
-        "away": {
-          "confirmed": false,
-          "lastUpdated": "2025-06-27T22:30:01.456517",
-          "batting_order": []
-        }
-      },
-      "updates": [],
-      "matchupKey": "OAK@NYY_23:05",
-      "pitcherMatchup": "Mitch Spence vs Will Warren"
-    },
-    {
-      "gameId": "777346",
-      "date": "2025-06-27",
-      "gameTime": "23:10",
-      "timezone": "UTC",
-      "status": "Final",
-      "venue": {
-        "name": "Great American Ball Park",
-        "city": "",
-        "state": ""
-      },
-      "weather": {},
-      "teams": {
-        "home": {
-          "abbr": "CIN",
-          "name": "Cincinnati Reds",
-          "record": {
-            "wins": 43,
-            "losses": 39
-          }
-        },
-        "away": {
-          "abbr": "SD",
-          "name": "San Diego Padres",
-          "record": {
-            "wins": 44,
-            "losses": 37
-          }
-        }
-      },
-      "pitchers": {
-        "home": {
-          "name": "Nick Martinez",
-          "id": "607259",
-          "throws": "",
-          "era": 0.0,
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "lastStart": "",
-          "status": "probable",
-          "confidence": 90
-        },
-        "away": {
-          "name": "Dylan Cease",
-          "id": "656302",
+          "name": "JP Sears",
+          "id": "676664",
           "throws": "",
           "era": 0.0,
           "record": {
@@ -293,173 +71,25 @@
       "lineups": {
         "home": {
           "confirmed": false,
-          "lastUpdated": "2025-06-27T22:30:01.456542",
+          "lastUpdated": "2025-06-28T09:35:24.817901",
           "batting_order": []
         },
         "away": {
           "confirmed": false,
-          "lastUpdated": "2025-06-27T22:30:01.456544",
+          "lastUpdated": "2025-06-28T09:35:24.817916",
           "batting_order": []
         }
       },
       "updates": [],
-      "matchupKey": "SD@CIN_23:10",
-      "pitcherMatchup": "Dylan Cease vs Nick Martinez"
+      "matchupKey": "OAK@NYY_17:05",
+      "pitcherMatchup": "JP Sears vs Clarke Schmidt"
     },
     {
-      "gameId": "777349",
-      "date": "2025-06-27",
-      "gameTime": "23:10",
+      "gameId": "777324",
+      "date": "2025-06-28",
+      "gameTime": "17:10",
       "timezone": "UTC",
-      "status": "Final",
-      "venue": {
-        "name": "Progressive Field",
-        "city": "",
-        "state": ""
-      },
-      "weather": {},
-      "teams": {
-        "home": {
-          "abbr": "CLE",
-          "name": "Cleveland Guardians",
-          "record": {
-            "wins": 40,
-            "losses": 40
-          }
-        },
-        "away": {
-          "abbr": "STL",
-          "name": "St. Louis Cardinals",
-          "record": {
-            "wins": 45,
-            "losses": 38
-          }
-        }
-      },
-      "pitchers": {
-        "home": {
-          "name": "Luis L. Ortiz",
-          "id": "682847",
-          "throws": "",
-          "era": 0.0,
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "lastStart": "",
-          "status": "probable",
-          "confidence": 90
-        },
-        "away": {
-          "name": "Sonny Gray",
-          "id": "543243",
-          "throws": "",
-          "era": 0.0,
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "lastStart": "",
-          "status": "probable",
-          "confidence": 90
-        }
-      },
-      "lineups": {
-        "home": {
-          "confirmed": false,
-          "lastUpdated": "2025-06-27T22:30:01.456580",
-          "batting_order": []
-        },
-        "away": {
-          "confirmed": false,
-          "lastUpdated": "2025-06-27T22:30:01.456582",
-          "batting_order": []
-        }
-      },
-      "updates": [],
-      "matchupKey": "STL@CLE_23:10",
-      "pitcherMatchup": "Sonny Gray vs Luis L. Ortiz"
-    },
-    {
-      "gameId": "777345",
-      "date": "2025-06-27",
-      "gameTime": "23:10",
-      "timezone": "UTC",
-      "status": "Final",
-      "venue": {
-        "name": "Fenway Park",
-        "city": "",
-        "state": ""
-      },
-      "weather": {},
-      "teams": {
-        "home": {
-          "abbr": "BOS",
-          "name": "Boston Red Sox",
-          "record": {
-            "wins": 40,
-            "losses": 43
-          }
-        },
-        "away": {
-          "abbr": "TOR",
-          "name": "Toronto Blue Jays",
-          "record": {
-            "wins": 44,
-            "losses": 37
-          }
-        }
-      },
-      "pitchers": {
-        "home": {
-          "name": "Brayan Bello",
-          "id": "678394",
-          "throws": "",
-          "era": 0.0,
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "lastStart": "",
-          "status": "probable",
-          "confidence": 90
-        },
-        "away": {
-          "name": "José Berríos",
-          "id": "621244",
-          "throws": "",
-          "era": 0.0,
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "lastStart": "",
-          "status": "probable",
-          "confidence": 90
-        }
-      },
-      "lineups": {
-        "home": {
-          "confirmed": false,
-          "lastUpdated": "2025-06-27T22:30:01.456612",
-          "batting_order": []
-        },
-        "away": {
-          "confirmed": false,
-          "lastUpdated": "2025-06-27T22:30:01.456614",
-          "batting_order": []
-        }
-      },
-      "updates": [],
-      "matchupKey": "TOR@BOS_23:10",
-      "pitcherMatchup": "José Berríos vs Brayan Bello"
-    },
-    {
-      "gameId": "777334",
-      "date": "2025-06-27",
-      "gameTime": "23:10",
-      "timezone": "UTC",
-      "status": "Final",
+      "status": "Pre-Game",
       "venue": {
         "name": "Comerica Park",
         "city": "",
@@ -486,8 +116,8 @@
       },
       "pitchers": {
         "home": {
-          "name": "Sawyer Gipson-Long",
-          "id": "687830",
+          "name": "Casey Mize",
+          "id": "663554",
           "throws": "",
           "era": 0.0,
           "record": {
@@ -499,8 +129,8 @@
           "confidence": 90
         },
         "away": {
-          "name": "David Festa",
-          "id": "701581",
+          "name": "Bailey Ober",
+          "id": "641927",
           "throws": "",
           "era": 0.0,
           "record": {
@@ -515,53 +145,53 @@
       "lineups": {
         "home": {
           "confirmed": false,
-          "lastUpdated": "2025-06-27T22:30:01.456639",
+          "lastUpdated": "2025-06-28T09:35:24.817963",
           "batting_order": []
         },
         "away": {
           "confirmed": false,
-          "lastUpdated": "2025-06-27T22:30:01.456641",
+          "lastUpdated": "2025-06-28T09:35:24.817966",
           "batting_order": []
         }
       },
       "updates": [],
-      "matchupKey": "MIN@DET_23:10",
-      "pitcherMatchup": "David Festa vs Sawyer Gipson-Long"
+      "matchupKey": "MIN@DET_17:10",
+      "pitcherMatchup": "Bailey Ober vs Casey Mize"
     },
     {
-      "gameId": "777342",
-      "date": "2025-06-27",
-      "gameTime": "23:15",
+      "gameId": "777325",
+      "date": "2025-06-28",
+      "gameTime": "20:05",
       "timezone": "UTC",
-      "status": "In Progress",
+      "status": "Scheduled",
       "venue": {
-        "name": "Truist Park",
+        "name": "PNC Park",
         "city": "",
         "state": ""
       },
       "weather": {},
       "teams": {
         "home": {
-          "abbr": "ATL",
-          "name": "Atlanta Braves",
+          "abbr": "PIT",
+          "name": "Pittsburgh Pirates",
           "record": {
-            "wins": 37,
-            "losses": 43
+            "wins": 33,
+            "losses": 50
           }
         },
         "away": {
-          "abbr": "PHI",
-          "name": "Philadelphia Phillies",
+          "abbr": "NYM",
+          "name": "New York Mets",
           "record": {
-            "wins": 47,
-            "losses": 34
+            "wins": 48,
+            "losses": 35
           }
         }
       },
       "pitchers": {
         "home": {
-          "name": "Bryce Elder",
-          "id": "693821",
+          "name": "Bailey Falter",
+          "id": "663559",
           "throws": "",
           "era": 0.0,
           "record": {
@@ -573,8 +203,8 @@
           "confidence": 90
         },
         "away": {
-          "name": "Mick Abel",
-          "id": "690953",
+          "name": "Paul Blackburn",
+          "id": "621112",
           "throws": "",
           "era": 0.0,
           "record": {
@@ -589,25 +219,469 @@
       "lineups": {
         "home": {
           "confirmed": false,
-          "lastUpdated": "2025-06-27T22:30:01.456676",
+          "lastUpdated": "2025-06-28T09:35:24.818009",
           "batting_order": []
         },
         "away": {
           "confirmed": false,
-          "lastUpdated": "2025-06-27T22:30:01.456678",
+          "lastUpdated": "2025-06-28T09:35:24.818012",
           "batting_order": []
         }
       },
       "updates": [],
-      "matchupKey": "PHI@ATL_23:15",
-      "pitcherMatchup": "Mick Abel vs Bryce Elder"
+      "matchupKey": "NYM@PIT_20:05",
+      "pitcherMatchup": "Paul Blackburn vs Bailey Falter"
     },
     {
-      "gameId": "777338",
-      "date": "2025-06-27",
-      "gameTime": "23:40",
+      "gameId": "777330",
+      "date": "2025-06-28",
+      "gameTime": "20:05",
       "timezone": "UTC",
-      "status": "Game Over",
+      "status": "Scheduled",
+      "venue": {
+        "name": "Oriole Park at Camden Yards",
+        "city": "",
+        "state": ""
+      },
+      "weather": {},
+      "teams": {
+        "home": {
+          "abbr": "BAL",
+          "name": "Baltimore Orioles",
+          "record": {
+            "wins": 35,
+            "losses": 46
+          }
+        },
+        "away": {
+          "abbr": "TB",
+          "name": "Tampa Bay Rays",
+          "record": {
+            "wins": 46,
+            "losses": 36
+          }
+        }
+      },
+      "pitchers": {
+        "home": {
+          "name": "Zach Eflin",
+          "id": "621107",
+          "throws": "",
+          "era": 0.0,
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "lastStart": "",
+          "status": "probable",
+          "confidence": 90
+        },
+        "away": {
+          "name": "Zack Littell",
+          "id": "641793",
+          "throws": "",
+          "era": 0.0,
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "lastStart": "",
+          "status": "probable",
+          "confidence": 90
+        }
+      },
+      "lineups": {
+        "home": {
+          "confirmed": false,
+          "lastUpdated": "2025-06-28T09:35:24.818048",
+          "batting_order": []
+        },
+        "away": {
+          "confirmed": false,
+          "lastUpdated": "2025-06-28T09:35:24.818050",
+          "batting_order": []
+        }
+      },
+      "updates": [],
+      "matchupKey": "TB@BAL_20:05",
+      "pitcherMatchup": "Zack Littell vs Zach Eflin"
+    },
+    {
+      "gameId": "777322",
+      "date": "2025-06-28",
+      "gameTime": "20:05",
+      "timezone": "UTC",
+      "status": "Scheduled",
+      "venue": {
+        "name": "Globe Life Field",
+        "city": "",
+        "state": ""
+      },
+      "weather": {},
+      "teams": {
+        "home": {
+          "abbr": "TEX",
+          "name": "Texas Rangers",
+          "record": {
+            "wins": 40,
+            "losses": 42
+          }
+        },
+        "away": {
+          "abbr": "SEA",
+          "name": "Seattle Mariners",
+          "record": {
+            "wins": 42,
+            "losses": 39
+          }
+        }
+      },
+      "pitchers": {
+        "home": {
+          "name": "Kumar Rocker",
+          "id": "677958",
+          "throws": "",
+          "era": 0.0,
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "lastStart": "",
+          "status": "probable",
+          "confidence": 90
+        },
+        "away": {
+          "name": "Bryan Woo",
+          "id": "693433",
+          "throws": "",
+          "era": 0.0,
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "lastStart": "",
+          "status": "probable",
+          "confidence": 90
+        }
+      },
+      "lineups": {
+        "home": {
+          "confirmed": false,
+          "lastUpdated": "2025-06-28T09:35:24.818084",
+          "batting_order": []
+        },
+        "away": {
+          "confirmed": false,
+          "lastUpdated": "2025-06-28T09:35:24.818086",
+          "batting_order": []
+        }
+      },
+      "updates": [],
+      "matchupKey": "SEA@TEX_20:05",
+      "pitcherMatchup": "Bryan Woo vs Kumar Rocker"
+    },
+    {
+      "gameId": "777319",
+      "date": "2025-06-28",
+      "gameTime": "20:10",
+      "timezone": "UTC",
+      "status": "Scheduled",
+      "venue": {
+        "name": "Kauffman Stadium",
+        "city": "",
+        "state": ""
+      },
+      "weather": {},
+      "teams": {
+        "home": {
+          "abbr": "KC",
+          "name": "Kansas City Royals",
+          "record": {
+            "wins": 38,
+            "losses": 44
+          }
+        },
+        "away": {
+          "abbr": "LAD",
+          "name": "Los Angeles Dodgers",
+          "record": {
+            "wins": 52,
+            "losses": 31
+          }
+        }
+      },
+      "pitchers": {
+        "home": {
+          "name": "Seth Lugo",
+          "id": "607625",
+          "throws": "",
+          "era": 0.0,
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "lastStart": "",
+          "status": "probable",
+          "confidence": 90
+        },
+        "away": {
+          "name": "Shohei Ohtani",
+          "id": "660271",
+          "throws": "",
+          "era": 0.0,
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "lastStart": "",
+          "status": "probable",
+          "confidence": 90
+        }
+      },
+      "lineups": {
+        "home": {
+          "confirmed": false,
+          "lastUpdated": "2025-06-28T09:35:24.818120",
+          "batting_order": []
+        },
+        "away": {
+          "confirmed": false,
+          "lastUpdated": "2025-06-28T09:35:24.818122",
+          "batting_order": []
+        }
+      },
+      "updates": [],
+      "matchupKey": "LAD@KC_20:10",
+      "pitcherMatchup": "Shohei Ohtani vs Seth Lugo"
+    },
+    {
+      "gameId": "777328",
+      "date": "2025-06-28",
+      "gameTime": "20:10",
+      "timezone": "UTC",
+      "status": "Scheduled",
+      "venue": {
+        "name": "Great American Ball Park",
+        "city": "",
+        "state": ""
+      },
+      "weather": {},
+      "teams": {
+        "home": {
+          "abbr": "CIN",
+          "name": "Cincinnati Reds",
+          "record": {
+            "wins": 43,
+            "losses": 39
+          }
+        },
+        "away": {
+          "abbr": "SD",
+          "name": "San Diego Padres",
+          "record": {
+            "wins": 44,
+            "losses": 37
+          }
+        }
+      },
+      "pitchers": {
+        "home": {
+          "name": "Andrew Abbott",
+          "id": "671096",
+          "throws": "",
+          "era": 0.0,
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "lastStart": "",
+          "status": "probable",
+          "confidence": 90
+        },
+        "away": {
+          "name": "Randy Vásquez",
+          "id": "681190",
+          "throws": "",
+          "era": 0.0,
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "lastStart": "",
+          "status": "probable",
+          "confidence": 90
+        }
+      },
+      "lineups": {
+        "home": {
+          "confirmed": false,
+          "lastUpdated": "2025-06-28T09:35:24.818152",
+          "batting_order": []
+        },
+        "away": {
+          "confirmed": false,
+          "lastUpdated": "2025-06-28T09:35:24.818154",
+          "batting_order": []
+        }
+      },
+      "updates": [],
+      "matchupKey": "SD@CIN_20:10",
+      "pitcherMatchup": "Randy Vásquez vs Andrew Abbott"
+    },
+    {
+      "gameId": "777329",
+      "date": "2025-06-28",
+      "gameTime": "20:10",
+      "timezone": "UTC",
+      "status": "Scheduled",
+      "venue": {
+        "name": "Progressive Field",
+        "city": "",
+        "state": ""
+      },
+      "weather": {},
+      "teams": {
+        "home": {
+          "abbr": "CLE",
+          "name": "Cleveland Guardians",
+          "record": {
+            "wins": 40,
+            "losses": 40
+          }
+        },
+        "away": {
+          "abbr": "STL",
+          "name": "St. Louis Cardinals",
+          "record": {
+            "wins": 45,
+            "losses": 38
+          }
+        }
+      },
+      "pitchers": {
+        "home": {
+          "name": "Slade Cecconi",
+          "id": "677944",
+          "throws": "",
+          "era": 0.0,
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "lastStart": "",
+          "status": "probable",
+          "confidence": 90
+        },
+        "away": {
+          "name": "Miles Mikolas",
+          "id": "571945",
+          "throws": "",
+          "era": 0.0,
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "lastStart": "",
+          "status": "probable",
+          "confidence": 90
+        }
+      },
+      "lineups": {
+        "home": {
+          "confirmed": false,
+          "lastUpdated": "2025-06-28T09:35:24.818191",
+          "batting_order": []
+        },
+        "away": {
+          "confirmed": false,
+          "lastUpdated": "2025-06-28T09:35:24.818193",
+          "batting_order": []
+        }
+      },
+      "updates": [],
+      "matchupKey": "STL@CLE_20:10",
+      "pitcherMatchup": "Miles Mikolas vs Slade Cecconi"
+    },
+    {
+      "gameId": "777323",
+      "date": "2025-06-28",
+      "gameTime": "20:10",
+      "timezone": "UTC",
+      "status": "Scheduled",
+      "venue": {
+        "name": "Fenway Park",
+        "city": "",
+        "state": ""
+      },
+      "weather": {},
+      "teams": {
+        "home": {
+          "abbr": "BOS",
+          "name": "Boston Red Sox",
+          "record": {
+            "wins": 40,
+            "losses": 43
+          }
+        },
+        "away": {
+          "abbr": "TOR",
+          "name": "Toronto Blue Jays",
+          "record": {
+            "wins": 44,
+            "losses": 37
+          }
+        }
+      },
+      "pitchers": {
+        "home": {
+          "name": "Lucas Giolito",
+          "id": "608337",
+          "throws": "",
+          "era": 0.0,
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "lastStart": "",
+          "status": "probable",
+          "confidence": 90
+        },
+        "away": {
+          "name": "Chris Bassitt",
+          "id": "605135",
+          "throws": "",
+          "era": 0.0,
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "lastStart": "",
+          "status": "probable",
+          "confidence": 90
+        }
+      },
+      "lineups": {
+        "home": {
+          "confirmed": false,
+          "lastUpdated": "2025-06-28T09:35:24.818252",
+          "batting_order": []
+        },
+        "away": {
+          "confirmed": false,
+          "lastUpdated": "2025-06-28T09:35:24.818255",
+          "batting_order": []
+        }
+      },
+      "updates": [],
+      "matchupKey": "TOR@BOS_20:10",
+      "pitcherMatchup": "Chris Bassitt vs Lucas Giolito"
+    },
+    {
+      "gameId": "777327",
+      "date": "2025-06-28",
+      "gameTime": "20:10",
+      "timezone": "UTC",
+      "status": "Scheduled",
       "venue": {
         "name": "Rate Field",
         "city": "",
@@ -634,8 +708,8 @@
       },
       "pitchers": {
         "home": {
-          "name": "Aaron Civale",
-          "id": "650644",
+          "name": "Adrian Houser",
+          "id": "605288",
           "throws": "",
           "era": 0.0,
           "record": {
@@ -647,82 +721,8 @@
           "confidence": 90
         },
         "away": {
-          "name": "Landen Roupp",
-          "id": "694738",
-          "throws": "",
-          "era": 0.0,
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "lastStart": "",
-          "status": "probable",
-          "confidence": 90
-        }
-      },
-      "lineups": {
-        "home": {
-          "confirmed": false,
-          "lastUpdated": "2025-06-27T22:30:01.456706",
-          "batting_order": []
-        },
-        "away": {
-          "confirmed": false,
-          "lastUpdated": "2025-06-27T22:30:01.456708",
-          "batting_order": []
-        }
-      },
-      "updates": [],
-      "matchupKey": "SF@CWS_23:40",
-      "pitcherMatchup": "Landen Roupp vs Aaron Civale"
-    },
-    {
-      "gameId": "777340",
-      "date": "2025-06-28",
-      "gameTime": "00:05",
-      "timezone": "UTC",
-      "status": "In Progress",
-      "venue": {
-        "name": "Globe Life Field",
-        "city": "",
-        "state": ""
-      },
-      "weather": {},
-      "teams": {
-        "home": {
-          "abbr": "TEX",
-          "name": "Texas Rangers",
-          "record": {
-            "wins": 40,
-            "losses": 41
-          }
-        },
-        "away": {
-          "abbr": "SEA",
-          "name": "Seattle Mariners",
-          "record": {
-            "wins": 41,
-            "losses": 39
-          }
-        }
-      },
-      "pitchers": {
-        "home": {
-          "name": "Nathan Eovaldi",
-          "id": "543135",
-          "throws": "",
-          "era": 0.0,
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "lastStart": "",
-          "status": "probable",
-          "confidence": 90
-        },
-        "away": {
-          "name": "Logan Gilbert",
-          "id": "669302",
+          "name": "Robbie Ray",
+          "id": "592662",
           "throws": "",
           "era": 0.0,
           "record": {
@@ -737,321 +737,25 @@
       "lineups": {
         "home": {
           "confirmed": false,
-          "lastUpdated": "2025-06-27T22:30:01.456736",
+          "lastUpdated": "2025-06-28T09:35:24.818289",
           "batting_order": []
         },
         "away": {
           "confirmed": false,
-          "lastUpdated": "2025-06-27T22:30:01.456740",
+          "lastUpdated": "2025-06-28T09:35:24.818291",
           "batting_order": []
         }
       },
       "updates": [],
-      "matchupKey": "SEA@TEX_00:05",
-      "pitcherMatchup": "Logan Gilbert vs Nathan Eovaldi"
+      "matchupKey": "SF@CWS_20:10",
+      "pitcherMatchup": "Robbie Ray vs Adrian Houser"
     },
     {
-      "gameId": "777336",
+      "gameId": "777318",
       "date": "2025-06-28",
-      "gameTime": "00:10",
+      "gameTime": "20:10",
       "timezone": "UTC",
-      "status": "In Progress",
-      "venue": {
-        "name": "Daikin Park",
-        "city": "",
-        "state": ""
-      },
-      "weather": {},
-      "teams": {
-        "home": {
-          "abbr": "HOU",
-          "name": "Houston Astros",
-          "record": {
-            "wins": 48,
-            "losses": 33
-          }
-        },
-        "away": {
-          "abbr": "CHC",
-          "name": "Chicago Cubs",
-          "record": {
-            "wins": 48,
-            "losses": 33
-          }
-        }
-      },
-      "pitchers": {
-        "home": {
-          "name": "Brandon Walter",
-          "id": "687888",
-          "throws": "",
-          "era": 0.0,
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "lastStart": "",
-          "status": "probable",
-          "confidence": 90
-        },
-        "away": {
-          "name": "Cade Horton",
-          "id": "690990",
-          "throws": "",
-          "era": 0.0,
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "lastStart": "",
-          "status": "probable",
-          "confidence": 90
-        }
-      },
-      "lineups": {
-        "home": {
-          "confirmed": false,
-          "lastUpdated": "2025-06-27T22:30:01.456765",
-          "batting_order": []
-        },
-        "away": {
-          "confirmed": false,
-          "lastUpdated": "2025-06-27T22:30:01.456767",
-          "batting_order": []
-        }
-      },
-      "updates": [],
-      "matchupKey": "CHC@HOU_00:10",
-      "pitcherMatchup": "Cade Horton vs Brandon Walter"
-    },
-    {
-      "gameId": "777335",
-      "date": "2025-06-28",
-      "gameTime": "00:10",
-      "timezone": "UTC",
-      "status": "In Progress",
-      "venue": {
-        "name": "Kauffman Stadium",
-        "city": "",
-        "state": ""
-      },
-      "weather": {},
-      "teams": {
-        "home": {
-          "abbr": "KC",
-          "name": "Kansas City Royals",
-          "record": {
-            "wins": 38,
-            "losses": 43
-          }
-        },
-        "away": {
-          "abbr": "LAD",
-          "name": "Los Angeles Dodgers",
-          "record": {
-            "wins": 51,
-            "losses": 31
-          }
-        }
-      },
-      "pitchers": {
-        "home": {
-          "name": "Noah Cameron",
-          "id": "702070",
-          "throws": "",
-          "era": 0.0,
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "lastStart": "",
-          "status": "probable",
-          "confidence": 90
-        },
-        "away": {
-          "name": "Dustin May",
-          "id": "669160",
-          "throws": "",
-          "era": 0.0,
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "lastStart": "",
-          "status": "probable",
-          "confidence": 90
-        }
-      },
-      "lineups": {
-        "home": {
-          "confirmed": false,
-          "lastUpdated": "2025-06-27T22:30:01.456796",
-          "batting_order": []
-        },
-        "away": {
-          "confirmed": false,
-          "lastUpdated": "2025-06-27T22:30:01.456798",
-          "batting_order": []
-        }
-      },
-      "updates": [],
-      "matchupKey": "LAD@KC_00:10",
-      "pitcherMatchup": "Dustin May vs Noah Cameron"
-    },
-    {
-      "gameId": "777339",
-      "date": "2025-06-28",
-      "gameTime": "00:10",
-      "timezone": "UTC",
-      "status": "In Progress",
-      "venue": {
-        "name": "American Family Field",
-        "city": "",
-        "state": ""
-      },
-      "weather": {},
-      "teams": {
-        "home": {
-          "abbr": "MIL",
-          "name": "Milwaukee Brewers",
-          "record": {
-            "wins": 45,
-            "losses": 36
-          }
-        },
-        "away": {
-          "abbr": "COL",
-          "name": "Colorado Rockies",
-          "record": {
-            "wins": 18,
-            "losses": 63
-          }
-        }
-      },
-      "pitchers": {
-        "home": {
-          "name": "Jose Quintana",
-          "id": "500779",
-          "throws": "",
-          "era": 0.0,
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "lastStart": "",
-          "status": "probable",
-          "confidence": 90
-        },
-        "away": {
-          "name": "Kyle Freeland",
-          "id": "607536",
-          "throws": "",
-          "era": 0.0,
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "lastStart": "",
-          "status": "probable",
-          "confidence": 90
-        }
-      },
-      "lineups": {
-        "home": {
-          "confirmed": false,
-          "lastUpdated": "2025-06-27T22:30:01.456827",
-          "batting_order": []
-        },
-        "away": {
-          "confirmed": false,
-          "lastUpdated": "2025-06-27T22:30:01.456829",
-          "batting_order": []
-        }
-      },
-      "updates": [],
-      "matchupKey": "COL@MIL_00:10",
-      "pitcherMatchup": "Kyle Freeland vs Jose Quintana"
-    },
-    {
-      "gameId": "777331",
-      "date": "2025-06-28",
-      "gameTime": "01:38",
-      "timezone": "UTC",
-      "status": "In Progress",
-      "venue": {
-        "name": "Angel Stadium",
-        "city": "",
-        "state": ""
-      },
-      "weather": {},
-      "teams": {
-        "home": {
-          "abbr": "LAA",
-          "name": "Los Angeles Angels",
-          "record": {
-            "wins": 40,
-            "losses": 40
-          }
-        },
-        "away": {
-          "abbr": "WSH",
-          "name": "Washington Nationals",
-          "record": {
-            "wins": 33,
-            "losses": 48
-          }
-        }
-      },
-      "pitchers": {
-        "home": {
-          "name": "José Soriano",
-          "id": "667755",
-          "throws": "",
-          "era": 0.0,
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "lastStart": "",
-          "status": "probable",
-          "confidence": 90
-        },
-        "away": {
-          "name": "Jake Irvin",
-          "id": "663623",
-          "throws": "",
-          "era": 0.0,
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "lastStart": "",
-          "status": "probable",
-          "confidence": 90
-        }
-      },
-      "lineups": {
-        "home": {
-          "confirmed": false,
-          "lastUpdated": "2025-06-27T22:30:01.456857",
-          "batting_order": []
-        },
-        "away": {
-          "confirmed": false,
-          "lastUpdated": "2025-06-27T22:30:01.456859",
-          "batting_order": []
-        }
-      },
-      "updates": [],
-      "matchupKey": "WSH@LAA_01:38",
-      "pitcherMatchup": "Jake Irvin vs José Soriano"
-    },
-    {
-      "gameId": "777332",
-      "date": "2025-06-28",
-      "gameTime": "01:40",
-      "timezone": "UTC",
-      "status": "In Progress",
+      "status": "Scheduled",
       "venue": {
         "name": "Chase Field",
         "city": "",
@@ -1064,22 +768,22 @@
           "name": "Arizona Diamondbacks",
           "record": {
             "wins": 41,
-            "losses": 39
+            "losses": 40
           }
         },
         "away": {
           "abbr": "MIA",
           "name": "Miami Marlins",
           "record": {
-            "wins": 34,
+            "wins": 35,
             "losses": 45
           }
         }
       },
       "pitchers": {
         "home": {
-          "name": "Merrill Kelly",
-          "id": "518876",
+          "name": "Brandon Pfaadt",
+          "id": "694297",
           "throws": "",
           "era": 0.0,
           "record": {
@@ -1091,8 +795,8 @@
           "confidence": 90
         },
         "away": {
-          "name": "Eury Pérez",
-          "id": "691587",
+          "name": "Sandy Alcantara",
+          "id": "645261",
           "throws": "",
           "era": 0.0,
           "record": {
@@ -1107,443 +811,739 @@
       "lineups": {
         "home": {
           "confirmed": false,
-          "lastUpdated": "2025-06-27T22:30:01.456888",
+          "lastUpdated": "2025-06-28T09:35:24.818325",
           "batting_order": []
         },
         "away": {
           "confirmed": false,
-          "lastUpdated": "2025-06-27T22:30:01.456890",
+          "lastUpdated": "2025-06-28T09:35:24.818327",
           "batting_order": []
         }
       },
       "updates": [],
-      "matchupKey": "MIA@ARI_01:40",
-      "pitcherMatchup": "Eury Pérez vs Merrill Kelly"
+      "matchupKey": "MIA@ARI_20:10",
+      "pitcherMatchup": "Sandy Alcantara vs Brandon Pfaadt"
+    },
+    {
+      "gameId": "777321",
+      "date": "2025-06-28",
+      "gameTime": "20:10",
+      "timezone": "UTC",
+      "status": "Scheduled",
+      "venue": {
+        "name": "American Family Field",
+        "city": "",
+        "state": ""
+      },
+      "weather": {},
+      "teams": {
+        "home": {
+          "abbr": "MIL",
+          "name": "Milwaukee Brewers",
+          "record": {
+            "wins": 46,
+            "losses": 36
+          }
+        },
+        "away": {
+          "abbr": "COL",
+          "name": "Colorado Rockies",
+          "record": {
+            "wins": 18,
+            "losses": 64
+          }
+        }
+      },
+      "pitchers": {
+        "home": {
+          "name": "Quinn Priester",
+          "id": "682990",
+          "throws": "",
+          "era": 0.0,
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "lastStart": "",
+          "status": "probable",
+          "confidence": 90
+        },
+        "away": {
+          "name": "Antonio Senzatela",
+          "id": "622608",
+          "throws": "",
+          "era": 0.0,
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "lastStart": "",
+          "status": "probable",
+          "confidence": 90
+        }
+      },
+      "lineups": {
+        "home": {
+          "confirmed": false,
+          "lastUpdated": "2025-06-28T09:35:24.818360",
+          "batting_order": []
+        },
+        "away": {
+          "confirmed": false,
+          "lastUpdated": "2025-06-28T09:35:24.818362",
+          "batting_order": []
+        }
+      },
+      "updates": [],
+      "matchupKey": "COL@MIL_20:10",
+      "pitcherMatchup": "Antonio Senzatela vs Quinn Priester"
+    },
+    {
+      "gameId": "777320",
+      "date": "2025-06-28",
+      "gameTime": "23:15",
+      "timezone": "UTC",
+      "status": "Scheduled",
+      "venue": {
+        "name": "Daikin Park",
+        "city": "",
+        "state": ""
+      },
+      "weather": {},
+      "teams": {
+        "home": {
+          "abbr": "HOU",
+          "name": "Houston Astros",
+          "record": {
+            "wins": 49,
+            "losses": 33
+          }
+        },
+        "away": {
+          "abbr": "CHC",
+          "name": "Chicago Cubs",
+          "record": {
+            "wins": 48,
+            "losses": 34
+          }
+        }
+      },
+      "pitchers": {
+        "home": {
+          "name": "Lance McCullers Jr.",
+          "id": "621121",
+          "throws": "",
+          "era": 0.0,
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "lastStart": "",
+          "status": "probable",
+          "confidence": 90
+        },
+        "away": {
+          "name": "Colin Rea",
+          "id": "607067",
+          "throws": "",
+          "era": 0.0,
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "lastStart": "",
+          "status": "probable",
+          "confidence": 90
+        }
+      },
+      "lineups": {
+        "home": {
+          "confirmed": false,
+          "lastUpdated": "2025-06-28T09:35:24.818394",
+          "batting_order": []
+        },
+        "away": {
+          "confirmed": false,
+          "lastUpdated": "2025-06-28T09:35:24.818396",
+          "batting_order": []
+        }
+      },
+      "updates": [],
+      "matchupKey": "CHC@HOU_23:15",
+      "pitcherMatchup": "Colin Rea vs Lance McCullers Jr."
+    },
+    {
+      "gameId": "777333",
+      "date": "2025-06-28",
+      "gameTime": "23:15",
+      "timezone": "UTC",
+      "status": "Scheduled",
+      "venue": {
+        "name": "Truist Park",
+        "city": "",
+        "state": ""
+      },
+      "weather": {},
+      "teams": {
+        "home": {
+          "abbr": "ATL",
+          "name": "Atlanta Braves",
+          "record": {
+            "wins": 37,
+            "losses": 44
+          }
+        },
+        "away": {
+          "abbr": "PHI",
+          "name": "Philadelphia Phillies",
+          "record": {
+            "wins": 48,
+            "losses": 34
+          }
+        }
+      },
+      "pitchers": {
+        "home": {
+          "name": "Spencer Schwellenbach",
+          "id": "680885",
+          "throws": "",
+          "era": 0.0,
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "lastStart": "",
+          "status": "probable",
+          "confidence": 90
+        },
+        "away": {
+          "name": "Jesús Luzardo",
+          "id": "666200",
+          "throws": "",
+          "era": 0.0,
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "lastStart": "",
+          "status": "probable",
+          "confidence": 90
+        }
+      },
+      "lineups": {
+        "home": {
+          "confirmed": false,
+          "lastUpdated": "2025-06-28T09:35:24.818516",
+          "batting_order": []
+        },
+        "away": {
+          "confirmed": false,
+          "lastUpdated": "2025-06-28T09:35:24.818518",
+          "batting_order": []
+        }
+      },
+      "updates": [],
+      "matchupKey": "PHI@ATL_23:15",
+      "pitcherMatchup": "Jesús Luzardo vs Spencer Schwellenbach"
+    },
+    {
+      "gameId": "777315",
+      "date": "2025-06-29",
+      "gameTime": "01:38",
+      "timezone": "UTC",
+      "status": "Scheduled",
+      "venue": {
+        "name": "Angel Stadium",
+        "city": "",
+        "state": ""
+      },
+      "weather": {},
+      "teams": {
+        "home": {
+          "abbr": "LAA",
+          "name": "Los Angeles Angels",
+          "record": {
+            "wins": 40,
+            "losses": 41
+          }
+        },
+        "away": {
+          "abbr": "WSH",
+          "name": "Washington Nationals",
+          "record": {
+            "wins": 34,
+            "losses": 48
+          }
+        }
+      },
+      "pitchers": {
+        "home": {
+          "name": "Kyle Hendricks",
+          "id": "543294",
+          "throws": "",
+          "era": 0.0,
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "lastStart": "",
+          "status": "probable",
+          "confidence": 90
+        },
+        "away": {
+          "name": "Michael Soroka",
+          "id": "647336",
+          "throws": "",
+          "era": 0.0,
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "lastStart": "",
+          "status": "probable",
+          "confidence": 90
+        }
+      },
+      "lineups": {
+        "home": {
+          "confirmed": false,
+          "lastUpdated": "2025-06-28T09:35:24.818550",
+          "batting_order": []
+        },
+        "away": {
+          "confirmed": false,
+          "lastUpdated": "2025-06-28T09:35:24.818552",
+          "batting_order": []
+        }
+      },
+      "updates": [],
+      "matchupKey": "WSH@LAA_01:38",
+      "pitcherMatchup": "Michael Soroka vs Kyle Hendricks"
     }
   ],
   "quickLookup": {
     "byTeam": {
-      "PIT": {
-        "pitcher": "Mitch Keller",
-        "opponent": "NYM",
-        "opponentPitcher": "David Peterson",
-        "gameTime": "22:40",
-        "homeAway": "home"
-      },
-      "NYM": {
-        "pitcher": "David Peterson",
-        "opponent": "PIT",
-        "opponentPitcher": "Mitch Keller",
-        "gameTime": "22:40",
-        "homeAway": "away"
-      },
-      "BAL": {
-        "pitcher": "Tomoyuki Sugano",
-        "opponent": "TB",
-        "opponentPitcher": "Ryan Pepiot",
-        "gameTime": "23:05",
-        "homeAway": "home"
-      },
-      "TB": {
-        "pitcher": "Ryan Pepiot",
-        "opponent": "BAL",
-        "opponentPitcher": "Tomoyuki Sugano",
-        "gameTime": "23:05",
-        "homeAway": "away"
-      },
       "NYY": {
-        "pitcher": "Will Warren",
+        "pitcher": "Clarke Schmidt",
         "opponent": "OAK",
-        "opponentPitcher": "Mitch Spence",
-        "gameTime": "23:05",
+        "opponentPitcher": "JP Sears",
+        "gameTime": "17:05",
         "homeAway": "home"
       },
       "OAK": {
-        "pitcher": "Mitch Spence",
+        "pitcher": "JP Sears",
         "opponent": "NYY",
-        "opponentPitcher": "Will Warren",
-        "gameTime": "23:05",
-        "homeAway": "away"
-      },
-      "CIN": {
-        "pitcher": "Nick Martinez",
-        "opponent": "SD",
-        "opponentPitcher": "Dylan Cease",
-        "gameTime": "23:10",
-        "homeAway": "home"
-      },
-      "SD": {
-        "pitcher": "Dylan Cease",
-        "opponent": "CIN",
-        "opponentPitcher": "Nick Martinez",
-        "gameTime": "23:10",
-        "homeAway": "away"
-      },
-      "CLE": {
-        "pitcher": "Luis L. Ortiz",
-        "opponent": "STL",
-        "opponentPitcher": "Sonny Gray",
-        "gameTime": "23:10",
-        "homeAway": "home"
-      },
-      "STL": {
-        "pitcher": "Sonny Gray",
-        "opponent": "CLE",
-        "opponentPitcher": "Luis L. Ortiz",
-        "gameTime": "23:10",
-        "homeAway": "away"
-      },
-      "BOS": {
-        "pitcher": "Brayan Bello",
-        "opponent": "TOR",
-        "opponentPitcher": "José Berríos",
-        "gameTime": "23:10",
-        "homeAway": "home"
-      },
-      "TOR": {
-        "pitcher": "José Berríos",
-        "opponent": "BOS",
-        "opponentPitcher": "Brayan Bello",
-        "gameTime": "23:10",
+        "opponentPitcher": "Clarke Schmidt",
+        "gameTime": "17:05",
         "homeAway": "away"
       },
       "DET": {
-        "pitcher": "Sawyer Gipson-Long",
+        "pitcher": "Casey Mize",
         "opponent": "MIN",
-        "opponentPitcher": "David Festa",
-        "gameTime": "23:10",
+        "opponentPitcher": "Bailey Ober",
+        "gameTime": "17:10",
         "homeAway": "home"
       },
       "MIN": {
-        "pitcher": "David Festa",
+        "pitcher": "Bailey Ober",
         "opponent": "DET",
-        "opponentPitcher": "Sawyer Gipson-Long",
-        "gameTime": "23:10",
+        "opponentPitcher": "Casey Mize",
+        "gameTime": "17:10",
+        "homeAway": "away"
+      },
+      "PIT": {
+        "pitcher": "Bailey Falter",
+        "opponent": "NYM",
+        "opponentPitcher": "Paul Blackburn",
+        "gameTime": "20:05",
+        "homeAway": "home"
+      },
+      "NYM": {
+        "pitcher": "Paul Blackburn",
+        "opponent": "PIT",
+        "opponentPitcher": "Bailey Falter",
+        "gameTime": "20:05",
+        "homeAway": "away"
+      },
+      "BAL": {
+        "pitcher": "Zach Eflin",
+        "opponent": "TB",
+        "opponentPitcher": "Zack Littell",
+        "gameTime": "20:05",
+        "homeAway": "home"
+      },
+      "TB": {
+        "pitcher": "Zack Littell",
+        "opponent": "BAL",
+        "opponentPitcher": "Zach Eflin",
+        "gameTime": "20:05",
+        "homeAway": "away"
+      },
+      "TEX": {
+        "pitcher": "Kumar Rocker",
+        "opponent": "SEA",
+        "opponentPitcher": "Bryan Woo",
+        "gameTime": "20:05",
+        "homeAway": "home"
+      },
+      "SEA": {
+        "pitcher": "Bryan Woo",
+        "opponent": "TEX",
+        "opponentPitcher": "Kumar Rocker",
+        "gameTime": "20:05",
+        "homeAway": "away"
+      },
+      "KC": {
+        "pitcher": "Seth Lugo",
+        "opponent": "LAD",
+        "opponentPitcher": "Shohei Ohtani",
+        "gameTime": "20:10",
+        "homeAway": "home"
+      },
+      "LAD": {
+        "pitcher": "Shohei Ohtani",
+        "opponent": "KC",
+        "opponentPitcher": "Seth Lugo",
+        "gameTime": "20:10",
+        "homeAway": "away"
+      },
+      "CIN": {
+        "pitcher": "Andrew Abbott",
+        "opponent": "SD",
+        "opponentPitcher": "Randy Vásquez",
+        "gameTime": "20:10",
+        "homeAway": "home"
+      },
+      "SD": {
+        "pitcher": "Randy Vásquez",
+        "opponent": "CIN",
+        "opponentPitcher": "Andrew Abbott",
+        "gameTime": "20:10",
+        "homeAway": "away"
+      },
+      "CLE": {
+        "pitcher": "Slade Cecconi",
+        "opponent": "STL",
+        "opponentPitcher": "Miles Mikolas",
+        "gameTime": "20:10",
+        "homeAway": "home"
+      },
+      "STL": {
+        "pitcher": "Miles Mikolas",
+        "opponent": "CLE",
+        "opponentPitcher": "Slade Cecconi",
+        "gameTime": "20:10",
+        "homeAway": "away"
+      },
+      "BOS": {
+        "pitcher": "Lucas Giolito",
+        "opponent": "TOR",
+        "opponentPitcher": "Chris Bassitt",
+        "gameTime": "20:10",
+        "homeAway": "home"
+      },
+      "TOR": {
+        "pitcher": "Chris Bassitt",
+        "opponent": "BOS",
+        "opponentPitcher": "Lucas Giolito",
+        "gameTime": "20:10",
+        "homeAway": "away"
+      },
+      "CWS": {
+        "pitcher": "Adrian Houser",
+        "opponent": "SF",
+        "opponentPitcher": "Robbie Ray",
+        "gameTime": "20:10",
+        "homeAway": "home"
+      },
+      "SF": {
+        "pitcher": "Robbie Ray",
+        "opponent": "CWS",
+        "opponentPitcher": "Adrian Houser",
+        "gameTime": "20:10",
+        "homeAway": "away"
+      },
+      "ARI": {
+        "pitcher": "Brandon Pfaadt",
+        "opponent": "MIA",
+        "opponentPitcher": "Sandy Alcantara",
+        "gameTime": "20:10",
+        "homeAway": "home"
+      },
+      "MIA": {
+        "pitcher": "Sandy Alcantara",
+        "opponent": "ARI",
+        "opponentPitcher": "Brandon Pfaadt",
+        "gameTime": "20:10",
+        "homeAway": "away"
+      },
+      "MIL": {
+        "pitcher": "Quinn Priester",
+        "opponent": "COL",
+        "opponentPitcher": "Antonio Senzatela",
+        "gameTime": "20:10",
+        "homeAway": "home"
+      },
+      "COL": {
+        "pitcher": "Antonio Senzatela",
+        "opponent": "MIL",
+        "opponentPitcher": "Quinn Priester",
+        "gameTime": "20:10",
+        "homeAway": "away"
+      },
+      "HOU": {
+        "pitcher": "Lance McCullers Jr.",
+        "opponent": "CHC",
+        "opponentPitcher": "Colin Rea",
+        "gameTime": "23:15",
+        "homeAway": "home"
+      },
+      "CHC": {
+        "pitcher": "Colin Rea",
+        "opponent": "HOU",
+        "opponentPitcher": "Lance McCullers Jr.",
+        "gameTime": "23:15",
         "homeAway": "away"
       },
       "ATL": {
-        "pitcher": "Bryce Elder",
+        "pitcher": "Spencer Schwellenbach",
         "opponent": "PHI",
-        "opponentPitcher": "Mick Abel",
+        "opponentPitcher": "Jesús Luzardo",
         "gameTime": "23:15",
         "homeAway": "home"
       },
       "PHI": {
-        "pitcher": "Mick Abel",
+        "pitcher": "Jesús Luzardo",
         "opponent": "ATL",
-        "opponentPitcher": "Bryce Elder",
+        "opponentPitcher": "Spencer Schwellenbach",
         "gameTime": "23:15",
         "homeAway": "away"
       },
-      "CWS": {
-        "pitcher": "Aaron Civale",
-        "opponent": "SF",
-        "opponentPitcher": "Landen Roupp",
-        "gameTime": "23:40",
-        "homeAway": "home"
-      },
-      "SF": {
-        "pitcher": "Landen Roupp",
-        "opponent": "CWS",
-        "opponentPitcher": "Aaron Civale",
-        "gameTime": "23:40",
-        "homeAway": "away"
-      },
-      "TEX": {
-        "pitcher": "Nathan Eovaldi",
-        "opponent": "SEA",
-        "opponentPitcher": "Logan Gilbert",
-        "gameTime": "00:05",
-        "homeAway": "home"
-      },
-      "SEA": {
-        "pitcher": "Logan Gilbert",
-        "opponent": "TEX",
-        "opponentPitcher": "Nathan Eovaldi",
-        "gameTime": "00:05",
-        "homeAway": "away"
-      },
-      "HOU": {
-        "pitcher": "Brandon Walter",
-        "opponent": "CHC",
-        "opponentPitcher": "Cade Horton",
-        "gameTime": "00:10",
-        "homeAway": "home"
-      },
-      "CHC": {
-        "pitcher": "Cade Horton",
-        "opponent": "HOU",
-        "opponentPitcher": "Brandon Walter",
-        "gameTime": "00:10",
-        "homeAway": "away"
-      },
-      "KC": {
-        "pitcher": "Noah Cameron",
-        "opponent": "LAD",
-        "opponentPitcher": "Dustin May",
-        "gameTime": "00:10",
-        "homeAway": "home"
-      },
-      "LAD": {
-        "pitcher": "Dustin May",
-        "opponent": "KC",
-        "opponentPitcher": "Noah Cameron",
-        "gameTime": "00:10",
-        "homeAway": "away"
-      },
-      "MIL": {
-        "pitcher": "Jose Quintana",
-        "opponent": "COL",
-        "opponentPitcher": "Kyle Freeland",
-        "gameTime": "00:10",
-        "homeAway": "home"
-      },
-      "COL": {
-        "pitcher": "Kyle Freeland",
-        "opponent": "MIL",
-        "opponentPitcher": "Jose Quintana",
-        "gameTime": "00:10",
-        "homeAway": "away"
-      },
       "LAA": {
-        "pitcher": "José Soriano",
+        "pitcher": "Kyle Hendricks",
         "opponent": "WSH",
-        "opponentPitcher": "Jake Irvin",
+        "opponentPitcher": "Michael Soroka",
         "gameTime": "01:38",
         "homeAway": "home"
       },
       "WSH": {
-        "pitcher": "Jake Irvin",
+        "pitcher": "Michael Soroka",
         "opponent": "LAA",
-        "opponentPitcher": "José Soriano",
+        "opponentPitcher": "Kyle Hendricks",
         "gameTime": "01:38",
-        "homeAway": "away"
-      },
-      "ARI": {
-        "pitcher": "Merrill Kelly",
-        "opponent": "MIA",
-        "opponentPitcher": "Eury Pérez",
-        "gameTime": "01:40",
-        "homeAway": "home"
-      },
-      "MIA": {
-        "pitcher": "Eury Pérez",
-        "opponent": "ARI",
-        "opponentPitcher": "Merrill Kelly",
-        "gameTime": "01:40",
         "homeAway": "away"
       }
     },
     "byPitcher": {
-      "Mitch Keller": {
-        "team": "PIT",
-        "opponent": "NYM",
-        "opponentPitcher": "David Peterson",
-        "gameTime": "22:40",
-        "venue": "PNC Park"
-      },
-      "David Peterson": {
-        "team": "NYM",
-        "opponent": "PIT",
-        "opponentPitcher": "Mitch Keller",
-        "gameTime": "22:40",
-        "venue": "PNC Park"
-      },
-      "Tomoyuki Sugano": {
-        "team": "BAL",
-        "opponent": "TB",
-        "opponentPitcher": "Ryan Pepiot",
-        "gameTime": "23:05",
-        "venue": "Oriole Park at Camden Yards"
-      },
-      "Ryan Pepiot": {
-        "team": "TB",
-        "opponent": "BAL",
-        "opponentPitcher": "Tomoyuki Sugano",
-        "gameTime": "23:05",
-        "venue": "Oriole Park at Camden Yards"
-      },
-      "Will Warren": {
+      "Clarke Schmidt": {
         "team": "NYY",
         "opponent": "OAK",
-        "opponentPitcher": "Mitch Spence",
-        "gameTime": "23:05",
+        "opponentPitcher": "JP Sears",
+        "gameTime": "17:05",
         "venue": "Yankee Stadium"
       },
-      "Mitch Spence": {
+      "JP Sears": {
         "team": "OAK",
         "opponent": "NYY",
-        "opponentPitcher": "Will Warren",
-        "gameTime": "23:05",
+        "opponentPitcher": "Clarke Schmidt",
+        "gameTime": "17:05",
         "venue": "Yankee Stadium"
       },
-      "Nick Martinez": {
-        "team": "CIN",
-        "opponent": "SD",
-        "opponentPitcher": "Dylan Cease",
-        "gameTime": "23:10",
-        "venue": "Great American Ball Park"
-      },
-      "Dylan Cease": {
-        "team": "SD",
-        "opponent": "CIN",
-        "opponentPitcher": "Nick Martinez",
-        "gameTime": "23:10",
-        "venue": "Great American Ball Park"
-      },
-      "Luis L. Ortiz": {
-        "team": "CLE",
-        "opponent": "STL",
-        "opponentPitcher": "Sonny Gray",
-        "gameTime": "23:10",
-        "venue": "Progressive Field"
-      },
-      "Sonny Gray": {
-        "team": "STL",
-        "opponent": "CLE",
-        "opponentPitcher": "Luis L. Ortiz",
-        "gameTime": "23:10",
-        "venue": "Progressive Field"
-      },
-      "Brayan Bello": {
-        "team": "BOS",
-        "opponent": "TOR",
-        "opponentPitcher": "José Berríos",
-        "gameTime": "23:10",
-        "venue": "Fenway Park"
-      },
-      "José Berríos": {
-        "team": "TOR",
-        "opponent": "BOS",
-        "opponentPitcher": "Brayan Bello",
-        "gameTime": "23:10",
-        "venue": "Fenway Park"
-      },
-      "Sawyer Gipson-Long": {
+      "Casey Mize": {
         "team": "DET",
         "opponent": "MIN",
-        "opponentPitcher": "David Festa",
-        "gameTime": "23:10",
+        "opponentPitcher": "Bailey Ober",
+        "gameTime": "17:10",
         "venue": "Comerica Park"
       },
-      "David Festa": {
+      "Bailey Ober": {
         "team": "MIN",
         "opponent": "DET",
-        "opponentPitcher": "Sawyer Gipson-Long",
-        "gameTime": "23:10",
+        "opponentPitcher": "Casey Mize",
+        "gameTime": "17:10",
         "venue": "Comerica Park"
       },
-      "Bryce Elder": {
-        "team": "ATL",
-        "opponent": "PHI",
-        "opponentPitcher": "Mick Abel",
-        "gameTime": "23:15",
-        "venue": "Truist Park"
+      "Bailey Falter": {
+        "team": "PIT",
+        "opponent": "NYM",
+        "opponentPitcher": "Paul Blackburn",
+        "gameTime": "20:05",
+        "venue": "PNC Park"
       },
-      "Mick Abel": {
-        "team": "PHI",
-        "opponent": "ATL",
-        "opponentPitcher": "Bryce Elder",
-        "gameTime": "23:15",
-        "venue": "Truist Park"
+      "Paul Blackburn": {
+        "team": "NYM",
+        "opponent": "PIT",
+        "opponentPitcher": "Bailey Falter",
+        "gameTime": "20:05",
+        "venue": "PNC Park"
       },
-      "Aaron Civale": {
-        "team": "CWS",
-        "opponent": "SF",
-        "opponentPitcher": "Landen Roupp",
-        "gameTime": "23:40",
-        "venue": "Rate Field"
+      "Zach Eflin": {
+        "team": "BAL",
+        "opponent": "TB",
+        "opponentPitcher": "Zack Littell",
+        "gameTime": "20:05",
+        "venue": "Oriole Park at Camden Yards"
       },
-      "Landen Roupp": {
-        "team": "SF",
-        "opponent": "CWS",
-        "opponentPitcher": "Aaron Civale",
-        "gameTime": "23:40",
-        "venue": "Rate Field"
+      "Zack Littell": {
+        "team": "TB",
+        "opponent": "BAL",
+        "opponentPitcher": "Zach Eflin",
+        "gameTime": "20:05",
+        "venue": "Oriole Park at Camden Yards"
       },
-      "Nathan Eovaldi": {
+      "Kumar Rocker": {
         "team": "TEX",
         "opponent": "SEA",
-        "opponentPitcher": "Logan Gilbert",
-        "gameTime": "00:05",
+        "opponentPitcher": "Bryan Woo",
+        "gameTime": "20:05",
         "venue": "Globe Life Field"
       },
-      "Logan Gilbert": {
+      "Bryan Woo": {
         "team": "SEA",
         "opponent": "TEX",
-        "opponentPitcher": "Nathan Eovaldi",
-        "gameTime": "00:05",
+        "opponentPitcher": "Kumar Rocker",
+        "gameTime": "20:05",
         "venue": "Globe Life Field"
       },
-      "Brandon Walter": {
-        "team": "HOU",
-        "opponent": "CHC",
-        "opponentPitcher": "Cade Horton",
-        "gameTime": "00:10",
-        "venue": "Daikin Park"
-      },
-      "Cade Horton": {
-        "team": "CHC",
-        "opponent": "HOU",
-        "opponentPitcher": "Brandon Walter",
-        "gameTime": "00:10",
-        "venue": "Daikin Park"
-      },
-      "Noah Cameron": {
+      "Seth Lugo": {
         "team": "KC",
         "opponent": "LAD",
-        "opponentPitcher": "Dustin May",
-        "gameTime": "00:10",
+        "opponentPitcher": "Shohei Ohtani",
+        "gameTime": "20:10",
         "venue": "Kauffman Stadium"
       },
-      "Dustin May": {
+      "Shohei Ohtani": {
         "team": "LAD",
         "opponent": "KC",
-        "opponentPitcher": "Noah Cameron",
-        "gameTime": "00:10",
+        "opponentPitcher": "Seth Lugo",
+        "gameTime": "20:10",
         "venue": "Kauffman Stadium"
       },
-      "Jose Quintana": {
-        "team": "MIL",
-        "opponent": "COL",
-        "opponentPitcher": "Kyle Freeland",
-        "gameTime": "00:10",
-        "venue": "American Family Field"
+      "Andrew Abbott": {
+        "team": "CIN",
+        "opponent": "SD",
+        "opponentPitcher": "Randy Vásquez",
+        "gameTime": "20:10",
+        "venue": "Great American Ball Park"
       },
-      "Kyle Freeland": {
-        "team": "COL",
-        "opponent": "MIL",
-        "opponentPitcher": "Jose Quintana",
-        "gameTime": "00:10",
-        "venue": "American Family Field"
+      "Randy Vásquez": {
+        "team": "SD",
+        "opponent": "CIN",
+        "opponentPitcher": "Andrew Abbott",
+        "gameTime": "20:10",
+        "venue": "Great American Ball Park"
       },
-      "José Soriano": {
-        "team": "LAA",
-        "opponent": "WSH",
-        "opponentPitcher": "Jake Irvin",
-        "gameTime": "01:38",
-        "venue": "Angel Stadium"
+      "Slade Cecconi": {
+        "team": "CLE",
+        "opponent": "STL",
+        "opponentPitcher": "Miles Mikolas",
+        "gameTime": "20:10",
+        "venue": "Progressive Field"
       },
-      "Jake Irvin": {
-        "team": "WSH",
-        "opponent": "LAA",
-        "opponentPitcher": "José Soriano",
-        "gameTime": "01:38",
-        "venue": "Angel Stadium"
+      "Miles Mikolas": {
+        "team": "STL",
+        "opponent": "CLE",
+        "opponentPitcher": "Slade Cecconi",
+        "gameTime": "20:10",
+        "venue": "Progressive Field"
       },
-      "Merrill Kelly": {
+      "Lucas Giolito": {
+        "team": "BOS",
+        "opponent": "TOR",
+        "opponentPitcher": "Chris Bassitt",
+        "gameTime": "20:10",
+        "venue": "Fenway Park"
+      },
+      "Chris Bassitt": {
+        "team": "TOR",
+        "opponent": "BOS",
+        "opponentPitcher": "Lucas Giolito",
+        "gameTime": "20:10",
+        "venue": "Fenway Park"
+      },
+      "Adrian Houser": {
+        "team": "CWS",
+        "opponent": "SF",
+        "opponentPitcher": "Robbie Ray",
+        "gameTime": "20:10",
+        "venue": "Rate Field"
+      },
+      "Robbie Ray": {
+        "team": "SF",
+        "opponent": "CWS",
+        "opponentPitcher": "Adrian Houser",
+        "gameTime": "20:10",
+        "venue": "Rate Field"
+      },
+      "Brandon Pfaadt": {
         "team": "ARI",
         "opponent": "MIA",
-        "opponentPitcher": "Eury Pérez",
-        "gameTime": "01:40",
+        "opponentPitcher": "Sandy Alcantara",
+        "gameTime": "20:10",
         "venue": "Chase Field"
       },
-      "Eury Pérez": {
+      "Sandy Alcantara": {
         "team": "MIA",
         "opponent": "ARI",
-        "opponentPitcher": "Merrill Kelly",
-        "gameTime": "01:40",
+        "opponentPitcher": "Brandon Pfaadt",
+        "gameTime": "20:10",
         "venue": "Chase Field"
+      },
+      "Quinn Priester": {
+        "team": "MIL",
+        "opponent": "COL",
+        "opponentPitcher": "Antonio Senzatela",
+        "gameTime": "20:10",
+        "venue": "American Family Field"
+      },
+      "Antonio Senzatela": {
+        "team": "COL",
+        "opponent": "MIL",
+        "opponentPitcher": "Quinn Priester",
+        "gameTime": "20:10",
+        "venue": "American Family Field"
+      },
+      "Lance McCullers Jr.": {
+        "team": "HOU",
+        "opponent": "CHC",
+        "opponentPitcher": "Colin Rea",
+        "gameTime": "23:15",
+        "venue": "Daikin Park"
+      },
+      "Colin Rea": {
+        "team": "CHC",
+        "opponent": "HOU",
+        "opponentPitcher": "Lance McCullers Jr.",
+        "gameTime": "23:15",
+        "venue": "Daikin Park"
+      },
+      "Spencer Schwellenbach": {
+        "team": "ATL",
+        "opponent": "PHI",
+        "opponentPitcher": "Jesús Luzardo",
+        "gameTime": "23:15",
+        "venue": "Truist Park"
+      },
+      "Jesús Luzardo": {
+        "team": "PHI",
+        "opponent": "ATL",
+        "opponentPitcher": "Spencer Schwellenbach",
+        "gameTime": "23:15",
+        "venue": "Truist Park"
+      },
+      "Kyle Hendricks": {
+        "team": "LAA",
+        "opponent": "WSH",
+        "opponentPitcher": "Michael Soroka",
+        "gameTime": "01:38",
+        "venue": "Angel Stadium"
+      },
+      "Michael Soroka": {
+        "team": "WSH",
+        "opponent": "LAA",
+        "opponentPitcher": "Kyle Hendricks",
+        "gameTime": "01:38",
+        "venue": "Angel Stadium"
       }
     }
   },
