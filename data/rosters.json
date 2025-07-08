@@ -41,7 +41,29 @@
     "fullName": "Aaron Ashby",
     "ph": "R",
     "pitches": [],
-    "playerId": 666023
+    "playerId": 666023,
+    "injuries": [
+      {
+        "id": "2025-07-08_general_34fec84f",
+        "status": "Day-To-Day",
+        "estimatedReturn": "2025-07-08",
+        "originalEstimatedReturn": "2025-07-08",
+        "position": "RP",
+        "comment": "Jul 7: Ashby gave up three hits and no walks in three scoreless innings of relief, earning the save in Thursday's 6-0 win over the Cardinals.",
+        "firstReported": "2025-07-08",
+        "lastUpdated": "2025-07-08",
+        "active": true,
+        "progression": "initial",
+        "progressionHistory": [
+          {
+            "date": "2025-07-08",
+            "estimatedReturn": "2025-07-08",
+            "status": "Day-To-Day",
+            "progression": "initial"
+          }
+        ]
+      }
+    ]
   },
   {
     "name": "A. Baddoo",
@@ -261,14 +283,14 @@
       {
         "id": "2025-06-25_quad_4cb51ce9",
         "status": "10-Day-IL",
-        "estimatedReturn": "2025-07-18",
+        "estimatedReturn": "2025-07-10",
         "originalEstimatedReturn": "2025-07-01",
         "position": "3B",
-        "comment": "Jun 30: Red Sox manager Alex Cora said Monday that Bregman (quadriceps) is \"feeling great\" and will have his status reassessed this weekend, Gabrielle Starr of the Boston Herald reports.",
+        "comment": "Jul 7: Red Sox manager Alex Cora said Monday that Bregman (quadriceps) will be activated from the 10-day injured list \"sooner rather than later,\" Christopher Smith of MassLive.com reports.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
-        "progression": "on_track",
+        "progression": "moved_up",
         "progressionHistory": [
           {
             "date": "2025-06-25",
@@ -281,6 +303,12 @@
             "estimatedReturn": "2025-07-18",
             "status": "10-Day-IL",
             "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-08",
+            "estimatedReturn": "2025-07-10",
+            "status": "10-Day-IL",
+            "progression": "moved_up"
           }
         ]
       }
@@ -408,7 +436,8 @@
         ],
         "resolvedDate": "2025-07-04"
       }
-    ]
+    ],
+    "playerId": 666252
   },
   {
     "name": "A. Chaparro",
@@ -595,21 +624,39 @@
     "injuries": [
       {
         "id": "2025-07-04_general_0d11b124",
-        "status": "Day-To-Day",
-        "estimatedReturn": "2025-07-04",
+        "status": "10-Day-IL",
+        "estimatedReturn": "2025-07-18",
         "originalEstimatedReturn": "2025-07-04",
         "position": "2B",
-        "comment": "Jul 3: Gimenez isn't in the lineup for Thursday's game against the Yankees.",
+        "comment": "Jul 6: Blue Jays manager John Schneider said Sunday that Gimenez (ankle) will be confined to a walking boot for the next 5-to-7 days before being re-evaluated, Arden Zwelling of Sportsnet.ca reports.",
         "firstReported": "2025-07-04",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
-        "progression": "initial",
+        "progression": "on_track",
         "progressionHistory": [
           {
             "date": "2025-07-04",
             "estimatedReturn": "2025-07-04",
             "status": "Day-To-Day",
             "progression": "initial"
+          },
+          {
+            "date": "2025-07-05",
+            "estimatedReturn": "2025-07-05",
+            "status": "Day-To-Day",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-06",
+            "estimatedReturn": "2025-07-06",
+            "status": "Day-To-Day",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-07-18",
+            "status": "10-Day-IL",
+            "progression": "pushed_back"
           }
         ]
       }
@@ -1103,12 +1150,12 @@
       {
         "id": "2025-06-25_ankle_40a9f7d1",
         "status": "60-Day-IL",
-        "estimatedReturn": "2025-07-18",
+        "estimatedReturn": "2025-08-01",
         "originalEstimatedReturn": "2025-07-18",
         "position": "SP",
-        "comment": "Jun 19: Nola (ankle) will be shut down for at least two weeks after an MRI showed a stress reaction in his right rib cage, Matt Gelb of The Athletic reports.",
+        "comment": "Jul 6: Nola (ankle, rib) threw a bullpen session prior to Sunday's series finale against the Reds, per MLB.com.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -1117,6 +1164,12 @@
             "estimatedReturn": "2025-07-18",
             "status": "60-Day-IL",
             "progression": "initial"
+          },
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-08-01",
+            "status": "60-Day-IL",
+            "progression": "pushed_back"
           }
         ]
       }
@@ -1278,12 +1331,12 @@
       {
         "id": "2025-06-25_elbow_c8ca8158",
         "status": "60-Day-IL",
-        "estimatedReturn": "2025-07-01",
+        "estimatedReturn": "2025-08-01",
         "originalEstimatedReturn": "2025-07-01",
         "position": "RP",
         "comment": "Jun 20: Diamondbacks Torey Lovullo told reporters Friday that Puk (elbow) underwent Tommy John surgery Thursday, John Gambadoro of Arizona Sports 98.7 FM reports.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -1292,6 +1345,12 @@
             "estimatedReturn": "2025-07-01",
             "status": "60-Day-IL",
             "progression": "initial"
+          },
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-08-01",
+            "status": "60-Day-IL",
+            "progression": "pushed_back"
           }
         ]
       }
@@ -1484,7 +1543,7 @@
         "position": "C",
         "comment": "Jun 29: Rutschman (oblique) said Sunday that he's improving, but he admitted that he's uncertain if he'll be activated from the 10-day injured list for the Orioles' first game following the All-Star break, Roch Kubatko of MASNSports.com reports.",
         "firstReported": "2025-06-21",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -1603,21 +1662,27 @@
       },
       {
         "id": "2025-07-04_shoulder_52eb39be",
-        "status": "10-Day-IL",
-        "estimatedReturn": "2025-07-18",
+        "status": "60-Day-IL",
+        "estimatedReturn": "2025-07-30",
         "originalEstimatedReturn": "2025-07-18",
         "position": "RF",
-        "comment": "Jun 30: Blue Jays general manager Ross Atkins said Monday that Santander (shoulder) is \"nearing\" the start of a hitting progression, Shi Davidi of Sportsnet.ca reports.",
+        "comment": "Jul 7: Blue Jays manager John Schneider said Monday that Santander (shoulder) has not resumed hitting but could do so \"hopefully soon,\" Shi Davidi of Sportsnet.ca reports.",
         "firstReported": "2025-07-04",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
-        "progression": "initial",
+        "progression": "on_track",
         "progressionHistory": [
           {
             "date": "2025-07-04",
             "estimatedReturn": "2025-07-18",
             "status": "10-Day-IL",
             "progression": "initial"
+          },
+          {
+            "date": "2025-07-05",
+            "estimatedReturn": "2025-07-30",
+            "status": "60-Day-IL",
+            "progression": "pushed_back"
           }
         ]
       }
@@ -1743,9 +1808,9 @@
         "position": "SP",
         "comment": "Jun 9: Atlanta announced Monday that Smith-Shawver (elbow) underwent Tommy John surgery and will miss the remainder of the 2025 season.",
         "firstReported": "2025-07-04",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
-        "progression": "initial",
+        "progression": "on_track",
         "progressionHistory": [
           {
             "date": "2025-07-04",
@@ -1805,7 +1870,7 @@
         "position": "RP",
         "comment": "Jun 27: Suarez (shoulder) played catch Friday and remains without a timetable for return, Jake Rill of MLB.com reports.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -1916,7 +1981,7 @@
   },
   {
     "name": "A. Vaughn",
-    "team": "CHW",
+    "team": "MIL",
     "type": "hitter",
     "bats": "R",
     "fullName": "Andrew Vaughn",
@@ -2086,9 +2151,9 @@
         "position": "RP",
         "comment": "Jun 9: Walter underwent surgery Monday to repair his right lat, Tim Stebbins of MLB.com reports.",
         "firstReported": "2025-07-04",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
-        "progression": "initial",
+        "progression": "on_track",
         "progressionHistory": [
           {
             "date": "2025-07-04",
@@ -2262,7 +2327,7 @@
         "position": "RP",
         "comment": "May 5: Minter will undergo surgery May 12 to repair a torn left lat, Mike Puma of the New York Post reports.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -2491,7 +2556,7 @@
         "comment": "Jul 3: Bichette (knee) remains out of the lineup for Thursday's game against the Yankees.",
         "firstReported": "2025-07-01",
         "lastUpdated": "2025-07-04",
-        "active": true,
+        "active": false,
         "progression": "pushed_back",
         "progressionHistory": [
           {
@@ -2518,7 +2583,8 @@
             "status": "Day-To-Day",
             "progression": "pushed_back"
           }
-        ]
+        ],
+        "resolvedDate": "2025-07-05"
       }
     ],
     "playerId": 665311
@@ -2914,12 +2980,12 @@
       {
         "id": "2025-06-18_shoulder_a42ed0b4",
         "status": "15-Day-IL",
-        "estimatedReturn": "2025-07-06",
+        "estimatedReturn": "2025-07-12",
         "originalEstimatedReturn": "2025-06-30",
         "position": "SP",
         "comment": "Jun 27: Francis (shoulder) resumed playing catch from 60-to-90 feet Friday, Arden Zwelling of Sportsnet.ca reports.",
         "firstReported": "2025-06-18",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -2932,6 +2998,12 @@
           {
             "date": "2025-06-21",
             "estimatedReturn": "2025-07-06",
+            "status": "15-Day-IL",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-07-12",
             "status": "15-Day-IL",
             "progression": "pushed_back"
           }
@@ -3143,7 +3215,8 @@
     "type": "pitcher",
     "fullName": "Bryce Jarvis",
     "ph": "R",
-    "pitches": []
+    "pitches": [],
+    "playerId": 666259
   },
   {
     "playerId": 665273,
@@ -3205,7 +3278,7 @@
         "position": "RP",
         "comment": "May 14: Joyce underwent surgery to repair his right shoulder Wednesday and is expected to miss the rest of the season.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -3366,7 +3439,7 @@
         "position": "SP",
         "comment": "May 29: Lively will undergo season-ending surgery to reconstruct his right elbow UCL and repair his flexor tendon.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -3438,7 +3511,35 @@
       "2024_OBP": 0.299,
       "2024_OPS": 0.772
     },
-    "playerId": 665002
+    "playerId": 665002,
+    "injuries": [
+      {
+        "id": "2025-07-07_general_6e672e43",
+        "status": "Day-To-Day",
+        "estimatedReturn": "2025-07-08",
+        "originalEstimatedReturn": "2025-07-07",
+        "position": "2B",
+        "comment": "Jul 7: Lowe (side) is not in the lineup for Monday's game in Detroit, Marc Topkin of the Tampa Bay Times reports.",
+        "firstReported": "2025-07-07",
+        "lastUpdated": "2025-07-08",
+        "active": true,
+        "progression": "pushed_back",
+        "progressionHistory": [
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-07-07",
+            "status": "Day-To-Day",
+            "progression": "initial"
+          },
+          {
+            "date": "2025-07-08",
+            "estimatedReturn": "2025-07-08",
+            "status": "Day-To-Day",
+            "progression": "pushed_back"
+          }
+        ]
+      }
+    ]
   },
   {
     "name": "B. Marsh",
@@ -3564,7 +3665,7 @@
         "position": "SP",
         "comment": "Jul 1: Miller (elbow) resumed a light throwing program last week in Arizona, Adam Jude of The Seattle Times reports.",
         "firstReported": "2025-06-11",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -3688,9 +3789,9 @@
         "estimatedReturn": "2025-07-19",
         "originalEstimatedReturn": "2025-07-19",
         "position": "SP",
-        "comment": "Jul 2: Ober (4-6) took the loss Saturday, coughing up seven runs on 11 hits -- including four home runs -- and a walk over 5.2 innings as the Twins were downed 10-5 by the Tigers. He struck out five.",
+        "comment": "Jul 5: Ober continues to throw while on the injured list and has received medicine to eliminate inflammation in his injured left hip, Dan Hayes of The Athletic reports.",
         "firstReported": "2025-07-03",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -3872,12 +3973,12 @@
       {
         "id": "2025-06-19_oblique_8af5a6f9",
         "status": "10-Day-IL",
-        "estimatedReturn": "2025-07-05",
+        "estimatedReturn": "2025-07-12",
         "originalEstimatedReturn": "2025-06-25",
         "position": "2B",
         "comment": "Jun 18: The Astros placed Rodgers on the 10-day injured list Wednesday, retroactive to June 15, due to a left oblique strain, Julia Morales of AT&amp;T SportsNet Southwest reports.",
         "firstReported": "2025-06-19",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -3896,6 +3997,18 @@
           {
             "date": "2025-07-01",
             "estimatedReturn": "2025-07-05",
+            "status": "10-Day-IL",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-06",
+            "estimatedReturn": "2025-07-06",
+            "status": "10-Day-IL",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-07-12",
             "status": "10-Day-IL",
             "progression": "pushed_back"
           }
@@ -4033,9 +4146,9 @@
         "estimatedReturn": "2025-07-25",
         "originalEstimatedReturn": "2025-07-07",
         "position": "SP",
-        "comment": "Jul 1: Snell (shoulder) is expected to face live hitters Wednesday, Alden Gonzalez of ESPN.com reports.",
+        "comment": "Jul 5: Snell (shoulder) will throw two innings in a rehab game next week and could return to the big-league rotation in late July, Bill Plunkett of The Orange County Register reports.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -4203,9 +4316,9 @@
         "estimatedReturn": "2025-07-18",
         "originalEstimatedReturn": "2025-07-01",
         "position": "RP",
-        "comment": "Jul 1: Treinen (forearm) will participate in live at-bats Wednesday, Alden Gonzalez of ESPN.com reports.",
+        "comment": "Jul 4: Treinen (forearm) is scheduled to throw to hitters Saturday, and his following step could be a minor-league rehab assignment, Sonja Chen of MLB.com reports.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -4328,6 +4441,15 @@
       "SI"
     ],
     "playerId": 665424
+  },
+  {
+    "playerId": 666265,
+    "name": "B. Woodruff",
+    "team": "MIL",
+    "type": "pitcher",
+    "fullName": "B. Woodruff",
+    "ph": "R",
+    "pitches": []
   },
   {
     "name": "B. Young",
@@ -4525,12 +4647,12 @@
       {
         "id": "2025-06-21_shoulder_e80f6b81",
         "status": "15-Day-IL",
-        "estimatedReturn": "2025-07-05",
+        "estimatedReturn": "2025-07-11",
         "originalEstimatedReturn": "2025-07-05",
         "position": "RP",
         "comment": "Jun 20: The White Sox placed Booser on the 15-day injured list Friday due to a left shoulder strain.",
         "firstReported": "2025-06-21",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -4539,6 +4661,18 @@
             "estimatedReturn": "2025-07-05",
             "status": "15-Day-IL",
             "progression": "initial"
+          },
+          {
+            "date": "2025-07-06",
+            "estimatedReturn": "2025-07-06",
+            "status": "15-Day-IL",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-07-11",
+            "status": "15-Day-IL",
+            "progression": "pushed_back"
           }
         ]
       }
@@ -4618,9 +4752,9 @@
         "position": "SP",
         "comment": "Jun 7: The Diamondbacks transferred Burnes (elbow) to the 60-day injured list Saturday.",
         "firstReported": "2025-07-04",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
-        "progression": "initial",
+        "progression": "on_track",
         "progressionHistory": [
           {
             "date": "2025-07-04",
@@ -4681,13 +4815,13 @@
       {
         "id": "2025-06-19_general_3051d5e5",
         "status": "10-Day-IL",
-        "estimatedReturn": "2025-07-07",
+        "estimatedReturn": "2025-07-05",
         "originalEstimatedReturn": "2025-06-19",
         "position": "RF",
-        "comment": "Jul 3: Carroll (wrist) began a rehab assignment with the Arizona Complex League Diamondbacks on Thursday, Jody Jackson of Bally Sports Arizona reports.",
+        "comment": "Jul 4: Diamondbacks manager Torey Lovullo said Friday that Carroll (wrist) could be activated off the injured list this weekend, Nick Piecoro of The Arizona Republic reports.",
         "firstReported": "2025-06-19",
-        "lastUpdated": "2025-07-04",
-        "active": true,
+        "lastUpdated": "2025-07-05",
+        "active": false,
         "progression": "moved_up",
         "progressionHistory": [
           {
@@ -4743,8 +4877,15 @@
             "estimatedReturn": "2025-07-07",
             "status": "10-Day-IL",
             "progression": "moved_up"
+          },
+          {
+            "date": "2025-07-05",
+            "estimatedReturn": "2025-07-05",
+            "status": "10-Day-IL",
+            "progression": "moved_up"
           }
-        ]
+        ],
+        "resolvedDate": "2025-07-06"
       }
     ]
   },
@@ -5097,7 +5238,29 @@
     "fullName": "Colton Gordon",
     "ph": "R",
     "pitches": [],
-    "playerId": 666016
+    "playerId": 666016,
+    "injuries": [
+      {
+        "id": "2025-07-08_general_e58f1f34",
+        "status": "Day-To-Day",
+        "estimatedReturn": "2025-07-13",
+        "originalEstimatedReturn": "2025-07-13",
+        "position": "SP",
+        "comment": "Jul 7: Gordon did not factor into the decision Tuesday, allowing four runs on nine hits and two walks over 4.2 innings against the Rockies. He struck out three.",
+        "firstReported": "2025-07-08",
+        "lastUpdated": "2025-07-08",
+        "active": true,
+        "progression": "initial",
+        "progressionHistory": [
+          {
+            "date": "2025-07-08",
+            "estimatedReturn": "2025-07-13",
+            "status": "Day-To-Day",
+            "progression": "initial"
+          }
+        ]
+      }
+    ]
   },
   {
     "name": "C. Green",
@@ -5148,7 +5311,7 @@
         "comment": "May 29: Holderman (thumb) received a cortisone injection Wednesday and will not throw for at least one week, MLB.com reports.",
         "firstReported": "2025-05-25",
         "lastUpdated": "2025-06-24",
-        "active": true,
+        "active": false,
         "progression": "on_track",
         "progressionHistory": [
           {
@@ -5175,19 +5338,20 @@
             "status": "15-Day-IL",
             "progression": "pushed_back"
           }
-        ]
+        ],
+        "resolvedDate": "2025-07-08"
       },
       {
         "id": "2025-06-25_thumb_6c0c9c2d",
         "status": "15-Day-IL",
-        "estimatedReturn": "2025-07-04",
+        "estimatedReturn": "2025-07-07",
         "originalEstimatedReturn": "2025-06-28",
         "position": "RP",
         "comment": "Jun 28: Holderman (thumb) began a rehab assignment with Single-A Bradenton on Thursday and gave up one run on one hit while striking out three over one inning.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
-        "active": true,
-        "progression": "on_track",
+        "lastUpdated": "2025-07-07",
+        "active": false,
+        "progression": "pushed_back",
         "progressionHistory": [
           {
             "date": "2025-06-25",
@@ -5200,8 +5364,27 @@
             "estimatedReturn": "2025-07-04",
             "status": "15-Day-IL",
             "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-05",
+            "estimatedReturn": "2025-07-05",
+            "status": "15-Day-IL",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-06",
+            "estimatedReturn": "2025-07-06",
+            "status": "15-Day-IL",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-07-07",
+            "status": "15-Day-IL",
+            "progression": "pushed_back"
           }
-        ]
+        ],
+        "resolvedDate": "2025-07-08"
       }
     ]
   },
@@ -5304,10 +5487,10 @@
         "estimatedReturn": "2025-07-07",
         "originalEstimatedReturn": "2025-07-02",
         "position": "RF",
-        "comment": "Jun 25: Joe will start in right field and bat seventh in Wednesday's game against the Guardians.",
+        "comment": "Jul 5: Joe (illness) started at first base and went 0-for-3 for Triple-A Louisville on Friday.",
         "firstReported": "2025-06-26",
-        "lastUpdated": "2025-07-04",
-        "active": true,
+        "lastUpdated": "2025-07-07",
+        "active": false,
         "progression": "on_track",
         "progressionHistory": [
           {
@@ -5322,7 +5505,8 @@
             "status": "10-Day-IL",
             "progression": "pushed_back"
           }
-        ]
+        ],
+        "resolvedDate": "2025-07-08"
       }
     ]
   },
@@ -5433,7 +5617,7 @@
         "position": "2B",
         "comment": "Jul 1: Koss suffered a left hamstring injury in Monday night's 4-2 loss to the Diamondbacks and will not play Tuesday, Justice delos Santos of The San Jose Mercury News reports.",
         "firstReported": "2025-07-01",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -5492,7 +5676,7 @@
   },
   {
     "name": "C. Martin",
-    "team": "BAL",
+    "team": "TEX",
     "type": "pitcher",
     "ph": "R",
     "fullName": "Chris Martin",
@@ -5668,9 +5852,9 @@
         "position": "LF",
         "comment": "Jul 3: McCormick (oblique) will begin a rehab assignment with Triple-A Sugar Land on Friday, Matt Kawahara of the Houston Chronicle reports.",
         "firstReported": "2025-07-04",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
-        "progression": "initial",
+        "progression": "on_track",
         "progressionHistory": [
           {
             "date": "2025-07-04",
@@ -5737,7 +5921,7 @@
         "position": "RP",
         "comment": "Jun 10: Mena has been diagnosed with a teres major strain in his right shoulder and is expected to be out for multiple weeks, Jack Sommers of SI.com reports.",
         "firstReported": "2025-06-08",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -5832,6 +6016,30 @@
     }
   },
   {
+    "playerId": 666246,
+    "name": "C. Montgomery",
+    "team": "CHW",
+    "type": "hitter",
+    "fullName": "C. Montgomery",
+    "bats": "R",
+    "stats": {
+      "2024_Games": 0,
+      "2024_AB": 0,
+      "2024_R": 0,
+      "2024_H": 0,
+      "2024_2B": 0,
+      "2024_3B": 0,
+      "2024_HR": 0,
+      "2024_SB": 0,
+      "2024_BB": 0,
+      "2024_SO": 0,
+      "2024_AVG": 0,
+      "2024_SLG": 0,
+      "2024_OBP": 0,
+      "2024_OPS": 0
+    }
+  },
+  {
     "name": "C. Moore",
     "team": "LAA",
     "type": "hitter",
@@ -5863,9 +6071,9 @@
         "position": "2B",
         "comment": "Jul 3: Moore was pulled from Wednesday's game versus Atlanta due to left thumb irritation.",
         "firstReported": "2025-07-03",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
-        "progression": "pushed_back",
+        "progression": "on_track",
         "progressionHistory": [
           {
             "date": "2025-07-03",
@@ -6185,12 +6393,12 @@
       {
         "id": "2025-06-25_shoulder_ce0123aa",
         "status": "60-Day-IL",
-        "estimatedReturn": "2025-07-04",
+        "estimatedReturn": "2025-08-12",
         "originalEstimatedReturn": "2025-07-03",
         "position": "RP",
-        "comment": "May 30: The Orioles transferred Poteet (shoulder) to the 60-day injured list Friday.",
+        "comment": "Jul 5: Poteet (shoulder) recently received an injection and is likely to start throwing in the next several days, Jake Rill of MLB.com reports.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -6203,6 +6411,24 @@
           {
             "date": "2025-06-30",
             "estimatedReturn": "2025-07-04",
+            "status": "60-Day-IL",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-05",
+            "estimatedReturn": "2025-07-05",
+            "status": "60-Day-IL",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-06",
+            "estimatedReturn": "2025-07-18",
+            "status": "60-Day-IL",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-08-12",
             "status": "60-Day-IL",
             "progression": "pushed_back"
           }
@@ -6231,7 +6457,7 @@
         "position": "SP",
         "comment": "Jun 30: Povich has been pulled off his rehab assignment due to renewed soreness in his left hip, Andy Kostka of TheBaltimoreBanner.com reports.",
         "firstReported": "2025-06-17",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -6362,12 +6588,12 @@
       {
         "id": "2025-06-12_groin_999278b3",
         "status": "15-Day-IL",
-        "estimatedReturn": "2025-07-23",
+        "estimatedReturn": "2025-08-01",
         "originalEstimatedReturn": "2025-07-02",
         "position": "SP",
-        "comment": "Jun 18: A second opinion Tuesday confirmed that Ragans has a rotator cuff strain in his left shoulder, Anne Rogers of MLB.com reports.",
+        "comment": "Jul 6: Royals manager Matt Quatraro said that Ragans (shoulder) is likely to resume throwing Monday, Anne Rogers of MLB.com reports.",
         "firstReported": "2025-06-12",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -6386,6 +6612,12 @@
           {
             "date": "2025-06-29",
             "estimatedReturn": "2025-07-23",
+            "status": "15-Day-IL",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-08-01",
             "status": "15-Day-IL",
             "progression": "pushed_back"
           }
@@ -6453,12 +6685,32 @@
         "position": "C",
         "comment": "Jun 3: Rodriguez was placed on the full-season injured list Monday due to an undisclosed injury, per MiLB transactions log.",
         "firstReported": "2025-06-05",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-05",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
           {
             "date": "2025-06-05",
+            "estimatedReturn": "2025-02-01",
+            "status": "Day-To-Day",
+            "progression": "initial"
+          }
+        ]
+      },
+      {
+        "id": "2025-07-06_general_63153f42",
+        "status": "Day-To-Day",
+        "estimatedReturn": "2025-02-01",
+        "originalEstimatedReturn": "2025-02-01",
+        "position": "C",
+        "comment": "Jun 3: Rodriguez was placed on the full-season injured list Monday due to an undisclosed injury, per MiLB transactions log.",
+        "firstReported": "2025-07-06",
+        "lastUpdated": "2025-07-08",
+        "active": true,
+        "progression": "on_track",
+        "progressionHistory": [
+          {
+            "date": "2025-07-06",
             "estimatedReturn": "2025-02-01",
             "status": "Day-To-Day",
             "progression": "initial"
@@ -6519,7 +6771,7 @@
         "position": "SP",
         "comment": "Jul 1: Atlanta manager Brian Snitker said Monday that while the team fully anticipates Sale to pitch again this season, it won't have a timeline until it sees how the pitcher's fractured left ribcage heals, David O'Brien of The Athletic reports.",
         "firstReported": "2025-06-22",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -6640,21 +6892,33 @@
     "injuries": [
       {
         "id": "2025-07-04_forearm_55f91bb3",
-        "status": "Day-To-Day",
-        "estimatedReturn": "2025-07-09",
+        "status": "15-Day-IL",
+        "estimatedReturn": "2025-02-01",
         "originalEstimatedReturn": "2025-07-09",
         "position": "SP",
-        "comment": "Jul 3: Schmidt will undergo an MRI on his forearm Friday, Chris Kirschner of The Athletic reports.",
+        "comment": "Jul 5: Manager Aaron Boone said Saturday that Schmidt (forearm) will likely need Tommy John surgery, Max Goodman of NJ.com reports.",
         "firstReported": "2025-07-04",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
-        "progression": "initial",
+        "progression": "on_track",
         "progressionHistory": [
           {
             "date": "2025-07-04",
             "estimatedReturn": "2025-07-09",
             "status": "Day-To-Day",
             "progression": "initial"
+          },
+          {
+            "date": "2025-07-05",
+            "estimatedReturn": "2025-07-19",
+            "status": "15-Day-IL",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-06",
+            "estimatedReturn": "2025-02-01",
+            "status": "15-Day-IL",
+            "progression": "moved_up"
           }
         ]
       }
@@ -6713,7 +6977,7 @@
         "comment": "Jun 26: Schmitt went 4-for-4 with a solo home run, a double and two additional runs scored in Sunday's 9-5 victory over the Red Sox.",
         "firstReported": "2025-06-26",
         "lastUpdated": "2025-06-26",
-        "active": true,
+        "active": false,
         "progression": "initial",
         "progressionHistory": [
           {
@@ -6722,7 +6986,8 @@
             "status": "Day-To-Day",
             "progression": "initial"
           }
-        ]
+        ],
+        "resolvedDate": "2025-07-08"
       },
       {
         "id": "2025-06-27_back_348788a0",
@@ -6730,10 +6995,10 @@
         "estimatedReturn": "2025-07-07",
         "originalEstimatedReturn": "2025-06-27",
         "position": "3B",
-        "comment": "Jun 30: Schmitt is expected to require a stint on the 10-day injured list due to a bone bruise in his left wrist, Alex Pavlovic of NBC Sports Bay Area reports.",
+        "comment": "Jul 4: Schmitt (hand) resumed swinging a bat Friday, Susan Slusser of the San Francisco Chronicle reports.",
         "firstReported": "2025-06-27",
-        "lastUpdated": "2025-07-04",
-        "active": true,
+        "lastUpdated": "2025-07-07",
+        "active": false,
         "progression": "on_track",
         "progressionHistory": [
           {
@@ -6766,7 +7031,8 @@
             "status": "10-Day-IL",
             "progression": "pushed_back"
           }
-        ]
+        ],
+        "resolvedDate": "2025-07-08"
       }
     ],
     "playerId": 665373
@@ -6923,22 +7189,41 @@
       {
         "id": "2025-07-04_back_c5de2d33",
         "status": "Day-To-Day",
-        "estimatedReturn": "2025-07-04",
+        "estimatedReturn": "2025-07-07",
         "originalEstimatedReturn": "2025-07-04",
         "position": "RP",
         "comment": "Jul 3: Smith took a comebacker off his forehead Friday but remained in the game, Josh Kirshenbaum of MLB.com reports.",
         "firstReported": "2025-07-04",
-        "lastUpdated": "2025-07-04",
-        "active": true,
-        "progression": "initial",
+        "lastUpdated": "2025-07-07",
+        "active": false,
+        "progression": "pushed_back",
         "progressionHistory": [
           {
             "date": "2025-07-04",
             "estimatedReturn": "2025-07-04",
             "status": "Day-To-Day",
             "progression": "initial"
+          },
+          {
+            "date": "2025-07-05",
+            "estimatedReturn": "2025-07-05",
+            "status": "Day-To-Day",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-06",
+            "estimatedReturn": "2025-07-06",
+            "status": "Day-To-Day",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-07-07",
+            "status": "Day-To-Day",
+            "progression": "pushed_back"
           }
-        ]
+        ],
+        "resolvedDate": "2025-07-08"
       }
     ]
   },
@@ -7020,7 +7305,7 @@
         "position": "RP",
         "comment": "Jun 4: Snider recorded two outs in Sunday's 5-3 loss to the Astros. He allowed one walk and struck out one.",
         "firstReported": "2025-06-05",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-05",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -7067,6 +7352,26 @@
             "progression": "pushed_back"
           }
         ]
+      },
+      {
+        "id": "2025-07-06_forearm_50eaf216",
+        "status": "15-Day-IL",
+        "estimatedReturn": "2025-07-11",
+        "originalEstimatedReturn": "2025-07-11",
+        "position": "RP",
+        "comment": "Jul 6: Snider (forearm) began a minor-league rehab assignment with Triple-A Tacoma on Saturday, giving up two hits and no walks in one scoreless inning. He struck out one.",
+        "firstReported": "2025-07-06",
+        "lastUpdated": "2025-07-08",
+        "active": true,
+        "progression": "on_track",
+        "progressionHistory": [
+          {
+            "date": "2025-07-06",
+            "estimatedReturn": "2025-07-11",
+            "status": "15-Day-IL",
+            "progression": "initial"
+          }
+        ]
       }
     ],
     "playerId": 665862
@@ -7111,9 +7416,9 @@
         "estimatedReturn": "2025-07-18",
         "originalEstimatedReturn": "2025-07-01",
         "position": "SP",
-        "comment": "Jun 28: Spiers (shoulder) will begin a rehab assignment July 3 with the Reds' affiliate in the Arizona Complex League, MLB.com reports.",
+        "comment": "Jul 6: Spiers (shoulder) is expected to have his rehab assignment shifted from the rookie-level Arizona Complex League to Triple-A Louisville on Tuesday, MLB.com reports.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -7257,12 +7562,12 @@
       {
         "id": "2025-06-11_general_4ee86794",
         "status": "10-Day-IL",
-        "estimatedReturn": "2025-07-07",
+        "estimatedReturn": "2025-07-18",
         "originalEstimatedReturn": "2025-07-01",
         "position": "CF",
-        "comment": "Jun 10: Taylor went 2-for-3 with a solo home run, an RBI double and a second run scored in Saturday's 8-6 win over the Mariners. He was also hit by two pitches.",
+        "comment": "Jul 6: Taylor (hand) recently had his brace removed and has begun participating in \"light baseball activities,\" per MLB.com.",
         "firstReported": "2025-06-11",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -7275,6 +7580,12 @@
           {
             "date": "2025-06-16",
             "estimatedReturn": "2025-07-07",
+            "status": "10-Day-IL",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-07-18",
             "status": "10-Day-IL",
             "progression": "pushed_back"
           }
@@ -7332,7 +7643,7 @@
         "position": "RP",
         "comment": "Jul 1: Thomas will undergo surgery to have a loose body removed from his left elbow in mid-July, and it's also possible that he requires Tommy John surgery, Adam McCalvy of MLB.com reports.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -7431,7 +7742,7 @@
         "position": "C",
         "comment": "",
         "firstReported": "2025-07-01",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -7527,6 +7838,26 @@
           }
         ],
         "resolvedDate": "2025-06-03"
+      },
+      {
+        "id": "2025-07-08_general_36c23615",
+        "status": "paternity",
+        "estimatedReturn": "2025-07-11",
+        "originalEstimatedReturn": "2025-07-11",
+        "position": "1B",
+        "comment": "Jul 7: Walker went 1-for-5 with a solo home run Sunday against the Dodgers.",
+        "firstReported": "2025-07-08",
+        "lastUpdated": "2025-07-08",
+        "active": true,
+        "progression": "initial",
+        "progressionHistory": [
+          {
+            "date": "2025-07-08",
+            "estimatedReturn": "2025-07-11",
+            "status": "paternity",
+            "progression": "initial"
+          }
+        ]
       }
     ],
     "playerId": 665168
@@ -8017,7 +8348,7 @@
         "position": "RF",
         "comment": "Jul 2: Crews (oblique) has begun hitting off a tee and taking soft-toss batting practice, Mark Zuckerman of MASN Sports reports.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -8496,12 +8827,12 @@
       {
         "id": "2025-06-21_forearm_b2a1987e",
         "status": "15-Day-IL",
-        "estimatedReturn": "2025-07-04",
+        "estimatedReturn": "2025-07-25",
         "originalEstimatedReturn": "2025-07-02",
         "position": "SP",
-        "comment": "Jun 20: The White Sox placed Martin on the 15-day injured list Friday due to a right forearm strain.",
+        "comment": "Jul 7: White Sox general manager Chris Getz said Monday that Martin (forearm) will head out on a minor-league rehab assignment later this week, Jack Ankony of SI.com reports.",
         "firstReported": "2025-06-21",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "pushed_back",
         "progressionHistory": [
@@ -8520,6 +8851,30 @@
           {
             "date": "2025-07-04",
             "estimatedReturn": "2025-07-04",
+            "status": "15-Day-IL",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-05",
+            "estimatedReturn": "2025-07-05",
+            "status": "15-Day-IL",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-06",
+            "estimatedReturn": "2025-07-06",
+            "status": "15-Day-IL",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-07-12",
+            "status": "15-Day-IL",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-08",
+            "estimatedReturn": "2025-07-25",
             "status": "15-Day-IL",
             "progression": "pushed_back"
           }
@@ -8693,7 +9048,9 @@
   {
     "name": "D. Nikhazy",
     "team": "CLE",
-    "type": "pitcher"
+    "type": "pitcher",
+    "playerId": 666247,
+    "fullName": "D. Nikhazy"
   },
   {
     "playerId": 666147,
@@ -8707,20 +9064,26 @@
       {
         "id": "2025-07-04_general_5aab3bda",
         "status": "15-Day-IL",
-        "estimatedReturn": "2025-07-18",
+        "estimatedReturn": "2025-08-01",
         "originalEstimatedReturn": "2025-07-18",
         "position": "RP",
-        "comment": "Jul 3: The Mets recalled Nunez from Triple-A Syracuse on Thursday.",
+        "comment": "Jul 4: Nunez (elbow) may require Tommy john surgery, Anthony DiComo of MLB.com reports.",
         "firstReported": "2025-07-04",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
-        "progression": "initial",
+        "progression": "on_track",
         "progressionHistory": [
           {
             "date": "2025-07-04",
             "estimatedReturn": "2025-07-18",
             "status": "15-Day-IL",
             "progression": "initial"
+          },
+          {
+            "date": "2025-07-05",
+            "estimatedReturn": "2025-08-01",
+            "status": "15-Day-IL",
+            "progression": "pushed_back"
           }
         ]
       }
@@ -9080,20 +9443,32 @@
       {
         "id": "2025-07-04_hamstring_29df9bde",
         "status": "10-Day-IL",
-        "estimatedReturn": "2025-07-04",
+        "estimatedReturn": "2025-07-18",
         "originalEstimatedReturn": "2025-07-04",
         "position": "CF",
-        "comment": "Jun 25: Varsho (hamstring) resumed running in the outfield Wednesday, Arden Zwelling of Sportsnet.ca reports.",
+        "comment": "Jul 7: Varsho (hamstring) ran the bases Monday and will do so again Wednesday, Shi Davidi of Sportsnet.ca reports.",
         "firstReported": "2025-07-04",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
-        "progression": "initial",
+        "progression": "pushed_back",
         "progressionHistory": [
           {
             "date": "2025-07-04",
             "estimatedReturn": "2025-07-04",
             "status": "10-Day-IL",
             "progression": "initial"
+          },
+          {
+            "date": "2025-07-05",
+            "estimatedReturn": "2025-07-11",
+            "status": "10-Day-IL",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-08",
+            "estimatedReturn": "2025-07-18",
+            "status": "10-Day-IL",
+            "progression": "pushed_back"
           }
         ]
       }
@@ -9195,7 +9570,7 @@
         "position": "RP",
         "comment": "May 4: The Mets transferred Young (elbow) from the 15-day injured list to the 60-day IL on Sunday.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -9322,7 +9697,7 @@
         "comment": "Jul 1: The Rangers expect Carter (personal) to rejoin the team Wednesday, Jeff Wilson of AllDLLS.com reports.",
         "firstReported": "2025-07-01",
         "lastUpdated": "2025-07-04",
-        "active": true,
+        "active": false,
         "progression": "pushed_back",
         "progressionHistory": [
           {
@@ -9349,7 +9724,8 @@
             "status": "bereavement",
             "progression": "pushed_back"
           }
-        ]
+        ],
+        "resolvedDate": "2025-07-05"
       }
     ],
     "playerId": 665440
@@ -9597,7 +9973,35 @@
     "type": "pitcher",
     "ph": "L",
     "fullName": "Erik Miller",
-    "playerId": 665269
+    "playerId": 665269,
+    "injuries": [
+      {
+        "id": "2025-07-06_general_d0096de1",
+        "status": "15-Day-IL",
+        "estimatedReturn": "2025-08-09",
+        "originalEstimatedReturn": "2025-07-18",
+        "position": "RP",
+        "comment": "Jul 7: Miller (elbow) is optimistic about returning from the 15-day injured list in five weeks, Shayna Rubin of the San Francisco Chronicle reports.",
+        "firstReported": "2025-07-06",
+        "lastUpdated": "2025-07-08",
+        "active": true,
+        "progression": "pushed_back",
+        "progressionHistory": [
+          {
+            "date": "2025-07-06",
+            "estimatedReturn": "2025-07-18",
+            "status": "15-Day-IL",
+            "progression": "initial"
+          },
+          {
+            "date": "2025-07-08",
+            "estimatedReturn": "2025-08-09",
+            "status": "15-Day-IL",
+            "progression": "pushed_back"
+          }
+        ]
+      }
+    ]
   },
   {
     "name": "E. Morgan",
@@ -9647,7 +10051,7 @@
         "position": "RP",
         "comment": "Jun 29: Cubs manager Craig Counsell said Thursday that Morgan (elbow) is seeking a second opinion on his injury after he suffered a setback during his second rehab appearance with Triple-A Iowa on June 17, MLB.com reports.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -9739,9 +10143,9 @@
         "position": "SP",
         "comment": "Jul 3: Perez (elbow) has progressed to throwing bullpen sessions, MLB.com reports.",
         "firstReported": "2025-06-26",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
-        "progression": "moved_up",
+        "progression": "on_track",
         "progressionHistory": [
           {
             "date": "2025-06-26",
@@ -9806,7 +10210,7 @@
         "position": "RP",
         "comment": "May 30: Phillips (elbow) will undergo Tommy John surgery Wednesday, Bill Shaikin of the Los Angeles Times reports.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -10164,20 +10568,26 @@
       {
         "id": "2025-07-04_oblique_e22f08e3",
         "status": "10-Day-IL",
-        "estimatedReturn": "2025-07-18",
+        "estimatedReturn": "2025-07-11",
         "originalEstimatedReturn": "2025-07-18",
         "position": "SS",
-        "comment": "Jul 3: Rockies interim manager Warren Schaeffer said Thursday that the team is close to scheduling Tovar's (oblique) rehab assignment, Thomas Harding of MLB.com reports.",
+        "comment": "Jul 6: Tovar (oblique) played five innings at shortstop and went 0-for-3 with two strikeouts in a rehab game with Triple-A Albuquerque on Saturday.",
         "firstReported": "2025-07-04",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
-        "progression": "initial",
+        "progression": "on_track",
         "progressionHistory": [
           {
             "date": "2025-07-04",
             "estimatedReturn": "2025-07-18",
             "status": "10-Day-IL",
             "progression": "initial"
+          },
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-07-11",
+            "status": "10-Day-IL",
+            "progression": "moved_up"
           }
         ]
       }
@@ -10224,7 +10634,7 @@
         "position": "1B",
         "comment": "May 21: Pirates director of sports medicine Todd Tomczyk said Wednesday that Valdez recently underwent season-ending surgery on his dislocated left shoulder, Danny Demilio of PittsburghBaseballNow.com reports.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -10384,7 +10794,7 @@
         "position": "RP",
         "comment": "Jun 30: Manager Aaron Boone said Monday that Cruz (oblique) has a \"high grade\" strain, Erik Boland of Newsday reports.",
         "firstReported": "2025-07-01",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -10422,7 +10832,7 @@
         "comment": "Jun 17: Ellard (lat) was assigned to Triple-A Charlotte on Tuesday to begin a rehab assignment.",
         "firstReported": "2025-05-25",
         "lastUpdated": "2025-06-24",
-        "active": true,
+        "active": false,
         "progression": "on_track",
         "progressionHistory": [
           {
@@ -10449,7 +10859,8 @@
             "status": "60-Day-IL",
             "progression": "pushed_back"
           }
-        ]
+        ],
+        "resolvedDate": "2025-07-05"
       },
       {
         "id": "2025-06-25_lat_b2f9d529",
@@ -10460,7 +10871,7 @@
         "comment": "Jun 17: Ellard (lat) was assigned to Triple-A Charlotte on Tuesday to begin a rehab assignment.",
         "firstReported": "2025-06-25",
         "lastUpdated": "2025-07-04",
-        "active": true,
+        "active": false,
         "progression": "pushed_back",
         "progressionHistory": [
           {
@@ -10475,7 +10886,8 @@
             "status": "60-Day-IL",
             "progression": "pushed_back"
           }
-        ]
+        ],
+        "resolvedDate": "2025-07-05"
       }
     ]
   },
@@ -10680,9 +11092,9 @@
         "estimatedReturn": "2025-07-10",
         "originalEstimatedReturn": "2025-07-01",
         "position": "SS",
-        "comment": "Jul 4: no",
+        "comment": "Jul 8: no",
         "firstReported": "2025-06-30",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -10722,7 +11134,7 @@
         "comment": "Jul 3: Ashcraft (groin) threw about 20 pitches in a live batting practice session Wednesday, Molly Burkhardt of MLB.com reports.",
         "firstReported": "2025-06-18",
         "lastUpdated": "2025-07-04",
-        "active": true,
+        "active": false,
         "progression": "on_track",
         "progressionHistory": [
           {
@@ -10737,7 +11149,8 @@
             "status": "15-Day-IL",
             "progression": "pushed_back"
           }
-        ]
+        ],
+        "resolvedDate": "2025-07-05"
       }
     ],
     "playerId": 665647
@@ -10839,7 +11252,7 @@
         "position": "SP",
         "comment": "Jun 27: Mets manager Carlos Mendoza said following Thursday's win over Atlanta that the organization believes Canning likely suffered an Achilles injury, Will Sammon of The Athletic reports.",
         "firstReported": "2025-06-27",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -10924,7 +11337,7 @@
         "position": "LF",
         "comment": "Apr 30: Conine is expected to miss the remainder of the 2025 season after undergoing surgery Tuesday to repair a dislocated left shoulder, Barry Jackson of the Miami Herald reports.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -11096,9 +11509,9 @@
         "position": "SP",
         "comment": "Jun 22: The Athletics transferred Hoglund (hip) from the 15-day injured list to the 60-day IL on Sunday.",
         "firstReported": "2025-07-04",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
-        "progression": "initial",
+        "progression": "on_track",
         "progressionHistory": [
           {
             "date": "2025-07-04",
@@ -11362,13 +11775,13 @@
       },
       {
         "id": "2025-06-25_shoulder_c484a8a5",
-        "status": "10-Day-IL",
+        "status": "60-Day-IL",
         "estimatedReturn": "2025-02-01",
         "originalEstimatedReturn": "2025-07-07",
         "position": "CF",
-        "comment": "Jul 1: Mitchell (shoulder) is undergoing surgery on his left shoulder Tuesday, and the goal is for him to be healthy for spring training next year, Adam McCalvy of MLB.com reports.",
+        "comment": "Jul 6: Mitchell (shoulder) is undergoing surgery on his left shoulder Tuesday, and the goal is for him to be healthy for spring training next year, Adam McCalvy of MLB.com reports.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -11389,6 +11802,12 @@
             "estimatedReturn": "2025-02-01",
             "status": "10-Day-IL",
             "progression": "moved_up"
+          },
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-02-01",
+            "status": "60-Day-IL",
+            "progression": "on_track"
           }
         ]
       }
@@ -11459,12 +11878,12 @@
       {
         "id": "2025-06-18_general_1283d899",
         "status": "10-Day-IL",
-        "estimatedReturn": "2025-07-04",
+        "estimatedReturn": "2025-07-25",
         "originalEstimatedReturn": "2025-06-18",
         "position": "C",
-        "comment": "Jun 20: Moreno was diagnosed with a hairline fracture in his right pointer finger, Alex Weiner of ArizonaSports.com reports.",
+        "comment": "Jul 6: Arizona manager Torey Lovullo said Sunday that Moreno (finger) has resumed running on the bases and working on receiving, MLB.com reports.",
         "firstReported": "2025-06-18",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -11489,6 +11908,24 @@
           {
             "date": "2025-06-21",
             "estimatedReturn": "2025-07-04",
+            "status": "10-Day-IL",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-05",
+            "estimatedReturn": "2025-07-05",
+            "status": "10-Day-IL",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-06",
+            "estimatedReturn": "2025-07-06",
+            "status": "10-Day-IL",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-07-25",
             "status": "10-Day-IL",
             "progression": "pushed_back"
           }
@@ -11570,6 +12007,32 @@
           }
         ],
         "resolvedDate": "2025-07-03"
+      },
+      {
+        "id": "2025-07-06_finger_8941a02d",
+        "status": "10-Day-IL",
+        "estimatedReturn": "2025-07-24",
+        "originalEstimatedReturn": "2025-07-06",
+        "position": "C",
+        "comment": "Jul 6: Orioles interim manager Tony Mansolino said Sunday that Sanchez has been diagnosed with a moderate PCL sprain in his right knee, Matt Weyrich of The Baltimore Sun reports.",
+        "firstReported": "2025-07-06",
+        "lastUpdated": "2025-07-08",
+        "active": true,
+        "progression": "on_track",
+        "progressionHistory": [
+          {
+            "date": "2025-07-06",
+            "estimatedReturn": "2025-07-06",
+            "status": "Day-To-Day",
+            "progression": "initial"
+          },
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-07-24",
+            "status": "10-Day-IL",
+            "progression": "pushed_back"
+          }
+        ]
       }
     ]
   },
@@ -11615,7 +12078,7 @@
         "position": "RP",
         "comment": "Jul 1: Mariners general manager Justin Hollander said Monday that Santos (knee) threw three \"light bullpens\" last week, Circling Seattle Sports reports.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -11820,7 +12283,36 @@
       "2024_OBP": 0.325,
       "2024_OPS": 0.703
     },
-    "playerId": 665201
+    "playerId": 665201,
+    "injuries": [
+      {
+        "id": "2025-07-06_general_b397e8e4",
+        "status": "Day-To-Day",
+        "estimatedReturn": "2025-07-07",
+        "originalEstimatedReturn": "2025-07-06",
+        "position": "2B",
+        "comment": "Jul 6: Torres (neck) is out of the lineup for Sunday's game against the Guardians.",
+        "firstReported": "2025-07-06",
+        "lastUpdated": "2025-07-07",
+        "active": false,
+        "progression": "pushed_back",
+        "progressionHistory": [
+          {
+            "date": "2025-07-06",
+            "estimatedReturn": "2025-07-06",
+            "status": "Day-To-Day",
+            "progression": "initial"
+          },
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-07-07",
+            "status": "Day-To-Day",
+            "progression": "pushed_back"
+          }
+        ],
+        "resolvedDate": "2025-07-08"
+      }
+    ]
   },
   {
     "name": "G. Urshela",
@@ -12062,7 +12554,7 @@
         "position": "RP",
         "comment": "Jun 19: Bigge (lat) is being evaluated at a local hospital after taking a 105-mph liner to the side of his face while in the dugout of Thursday's game against Baltimore, Ryan Bass reports.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -12149,9 +12641,9 @@
         "estimatedReturn": "2025-07-10",
         "originalEstimatedReturn": "2025-07-06",
         "position": "SP",
-        "comment": "Jul 1: Dobbins (elbow) will begin a rehab assignment with Double-A Portland this weekend, Andrew Parker of Beyond the Monster reports.",
+        "comment": "Jul 6: Dobbins (elbow) allowed one run on two hits while striking out eight over five scoreless innings for Double-A Portland on Saturday.",
         "firstReported": "2025-06-22",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -12330,6 +12822,32 @@
             "progression": "moved_up"
           }
         ]
+      },
+      {
+        "id": "2025-07-05_back_4f886841",
+        "status": "15-Day-IL",
+        "estimatedReturn": "2025-08-01",
+        "originalEstimatedReturn": "2025-07-13",
+        "position": "SP",
+        "comment": "Jul 7: The team announced Monday that Greene's MRI didn't reveal any significant damage, and manager Terry Francona noted the right-hander is likely experiencing fatigue, Charlie Goldsmith of Fox 19 Now Cincinnati reports.",
+        "firstReported": "2025-07-05",
+        "lastUpdated": "2025-07-08",
+        "active": true,
+        "progression": "pushed_back",
+        "progressionHistory": [
+          {
+            "date": "2025-07-05",
+            "estimatedReturn": "2025-07-13",
+            "status": "15-Day-IL",
+            "progression": "initial"
+          },
+          {
+            "date": "2025-07-08",
+            "estimatedReturn": "2025-08-01",
+            "status": "15-Day-IL",
+            "progression": "pushed_back"
+          }
+        ]
       }
     ]
   },
@@ -12390,20 +12908,26 @@
       {
         "id": "2025-06-25_shoulder_56eabbe1",
         "status": "60-Day-IL",
-        "estimatedReturn": "2025-07-07",
+        "estimatedReturn": "2025-07-11",
         "originalEstimatedReturn": "2025-07-07",
         "position": "RP",
         "comment": "Jun 16: Harvey (shoulder) was cleared to continue playing catch after a positive re-evaluation Wednesday, MLB.com reports.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
-        "progression": "on_track",
+        "progression": "pushed_back",
         "progressionHistory": [
           {
             "date": "2025-06-25",
             "estimatedReturn": "2025-07-07",
             "status": "60-Day-IL",
             "progression": "initial"
+          },
+          {
+            "date": "2025-07-08",
+            "estimatedReturn": "2025-07-11",
+            "status": "60-Day-IL",
+            "progression": "pushed_back"
           }
         ]
       }
@@ -12435,7 +12959,7 @@
   },
   {
     "name": "H. Kim",
-    "team": "LAD",
+    "team": "TB",
     "type": "hitter",
     "fullName": "Hyeseong Kim",
     "bats": "R",
@@ -12455,7 +12979,65 @@
       "2024_OBP": 0,
       "2024_OPS": 0
     },
-    "playerId": 665519
+    "playerId": 665519,
+    "injuries": [
+      {
+        "id": "2025-07-06_calf_8d52749b",
+        "status": "Day-To-Day",
+        "estimatedReturn": "2025-07-08",
+        "originalEstimatedReturn": "2025-07-06",
+        "position": "SS",
+        "comment": "Jul 7: Kim (calf) remains out of the lineup for Monday's contest in Detroit, Marc Topkin of the Tampa Bay Times reports.",
+        "firstReported": "2025-07-06",
+        "lastUpdated": "2025-07-08",
+        "active": true,
+        "progression": "pushed_back",
+        "progressionHistory": [
+          {
+            "date": "2025-07-06",
+            "estimatedReturn": "2025-07-06",
+            "status": "Day-To-Day",
+            "progression": "initial"
+          },
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-07-07",
+            "status": "Day-To-Day",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-08",
+            "estimatedReturn": "2025-07-08",
+            "status": "Day-To-Day",
+            "progression": "pushed_back"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "playerId": 665661,
+    "name": "H. Kim",
+    "team": "LAD",
+    "type": "hitter",
+    "fullName": "H. Kim",
+    "bats": "R",
+    "stats": {
+      "2024_Games": 0,
+      "2024_AB": 0,
+      "2024_R": 0,
+      "2024_H": 0,
+      "2024_2B": 0,
+      "2024_3B": 0,
+      "2024_HR": 0,
+      "2024_SB": 0,
+      "2024_BB": 0,
+      "2024_SO": 0,
+      "2024_AVG": 0,
+      "2024_SLG": 0,
+      "2024_OBP": 0,
+      "2024_OPS": 0
+    }
   },
   {
     "name": "H. Kjerstad",
@@ -12494,7 +13076,7 @@
   },
   {
     "name": "H. Neris",
-    "team": "LAA",
+    "team": "HOU",
     "type": "pitcher",
     "fullName": "Héctor Neris",
     "ph": "R",
@@ -12580,7 +13162,29 @@
     "fullName": "Hunter Strickland",
     "ph": "R",
     "pitches": [],
-    "playerId": 665056
+    "playerId": 665056,
+    "injuries": [
+      {
+        "id": "2025-07-08_shoulder_23e0a696",
+        "status": "15-Day-IL",
+        "estimatedReturn": "2025-07-21",
+        "originalEstimatedReturn": "2025-07-21",
+        "position": "RP",
+        "comment": "Jul 7: Strickland was placed on the 15-day injured list Monday due to right shoulder inflammation.",
+        "firstReported": "2025-07-08",
+        "lastUpdated": "2025-07-08",
+        "active": true,
+        "progression": "initial",
+        "progressionHistory": [
+          {
+            "date": "2025-07-08",
+            "estimatedReturn": "2025-07-21",
+            "status": "15-Day-IL",
+            "progression": "initial"
+          }
+        ]
+      }
+    ]
   },
   {
     "name": "H. Wesneski",
@@ -12621,7 +13225,7 @@
         "position": "SP",
         "comment": "May 20: The Astros transferred Wesneski (elbow) to the 60-day injured list Tuesday.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -12688,7 +13292,7 @@
         "position": "RP",
         "comment": "Jun 30: no",
         "firstReported": "2025-07-01",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -12761,12 +13365,12 @@
       {
         "id": "2025-06-21_hamstring_00fb4431",
         "status": "10-Day-IL",
-        "estimatedReturn": "2025-07-04",
+        "estimatedReturn": "2025-07-18",
         "originalEstimatedReturn": "2025-07-04",
         "position": "C",
-        "comment": "Jun 20: An MRI on Friday revealed a Grade 2 strain in Herrera's left hamstring, John Denton of MLB.com reports.",
+        "comment": "Jul 4: Herrera (hamstring) may begin a rehab assignment before the All-Star break, but he is not expected to be activated until after the break, per president of baseball operations John Mozeliak on Friday, Derrick Goold of the St. Louis Post-Dispatch reports.",
         "firstReported": "2025-06-21",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -12775,6 +13379,12 @@
             "estimatedReturn": "2025-07-04",
             "status": "10-Day-IL",
             "progression": "initial"
+          },
+          {
+            "date": "2025-07-05",
+            "estimatedReturn": "2025-07-18",
+            "status": "10-Day-IL",
+            "progression": "pushed_back"
           }
         ]
       }
@@ -12898,7 +13508,7 @@
         "position": "2B",
         "comment": "Jun 25: The Diamondbacks placed Vargas on the 10-day injured list Wednesday with a fractured fifth metatarsal in his right foot.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -13456,7 +14066,8 @@
     "type": "pitcher",
     "fullName": "Joe Boyle",
     "ph": "R",
-    "pitches": []
+    "pitches": [],
+    "playerId": 666260
   },
   {
     "name": "J. Brebbia",
@@ -13614,7 +14225,29 @@
     "type": "pitcher",
     "fullName": "J. Butto",
     "ph": "R",
-    "pitches": []
+    "pitches": [],
+    "injuries": [
+      {
+        "id": "2025-07-05_general_5e246b68",
+        "status": "15-Day-IL",
+        "estimatedReturn": "2025-07-21",
+        "originalEstimatedReturn": "2025-07-21",
+        "position": "RP",
+        "comment": "Jul 4: Butto was placed on the 15-day injured list Tuesday due to an unspecified illness, Anthony DiComo of MLB.com reports.",
+        "firstReported": "2025-07-05",
+        "lastUpdated": "2025-07-08",
+        "active": true,
+        "progression": "on_track",
+        "progressionHistory": [
+          {
+            "date": "2025-07-05",
+            "estimatedReturn": "2025-07-21",
+            "status": "15-Day-IL",
+            "progression": "initial"
+          }
+        ]
+      }
+    ]
   },
   {
     "name": "J. Caballero",
@@ -13638,7 +14271,30 @@
       "2024_OBP": 0.263,
       "2024_OPS": 0.61
     },
-    "playerId": 665148
+    "playerId": 665148,
+    "injuries": [
+      {
+        "id": "2025-07-07_general_28c89e37",
+        "status": "Day-To-Day",
+        "estimatedReturn": "2025-07-07",
+        "originalEstimatedReturn": "2025-07-07",
+        "position": "SS",
+        "comment": "Jul 6: Caballero is not in the starting lineup for Friday's game against the Twins.",
+        "firstReported": "2025-07-07",
+        "lastUpdated": "2025-07-07",
+        "active": false,
+        "progression": "initial",
+        "progressionHistory": [
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-07-07",
+            "status": "Day-To-Day",
+            "progression": "initial"
+          }
+        ],
+        "resolvedDate": "2025-07-08"
+      }
+    ]
   },
   {
     "name": "J. Caglianone",
@@ -13990,6 +14646,26 @@
           }
         ],
         "resolvedDate": "2025-06-15"
+      },
+      {
+        "id": "2025-07-07_general_09dbd995",
+        "status": "Day-To-Day",
+        "estimatedReturn": "2025-07-08",
+        "originalEstimatedReturn": "2025-07-08",
+        "position": "2B",
+        "comment": "",
+        "firstReported": "2025-07-07",
+        "lastUpdated": "2025-07-08",
+        "active": true,
+        "progression": "on_track",
+        "progressionHistory": [
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-07-08",
+            "status": "Day-To-Day",
+            "progression": "initial"
+          }
+        ]
       }
     ],
     "playerId": 665152
@@ -14186,12 +14862,12 @@
       {
         "id": "2025-06-25_shoulder_38be0e2f",
         "status": "60-Day-IL",
-        "estimatedReturn": "2025-07-07",
+        "estimatedReturn": "2025-07-25",
         "originalEstimatedReturn": "2025-07-07",
         "position": "CF",
-        "comment": "Jun 4: DeLuca will be shut down for three more weeks following another setback last week with his injured right shoulder, Marc Topkin of the Tampa Bay Times reports.",
+        "comment": "Jul 5: DeLuca (shoulder) resumed baseball activities in late June but a rehab assignment has not yet been scheduled, MLB.com reports.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -14200,6 +14876,18 @@
             "estimatedReturn": "2025-07-07",
             "status": "60-Day-IL",
             "progression": "initial"
+          },
+          {
+            "date": "2025-07-06",
+            "estimatedReturn": "2025-07-18",
+            "status": "60-Day-IL",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-07-25",
+            "status": "60-Day-IL",
+            "progression": "pushed_back"
           }
         ]
       }
@@ -14330,14 +15018,14 @@
       {
         "id": "2025-06-18_general_96285e8c",
         "status": "10-Day-IL",
-        "estimatedReturn": "2025-07-07",
+        "estimatedReturn": "2025-07-08",
         "originalEstimatedReturn": "2025-06-27",
         "position": "RF",
         "comment": "Jun 17: Encarnacion went 2-for-4 with a double and a run scored in Saturday's 11-5 loss to the Dodgers.",
         "firstReported": "2025-06-18",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
-        "progression": "on_track",
+        "progression": "pushed_back",
         "progressionHistory": [
           {
             "date": "2025-06-18",
@@ -14354,6 +15042,12 @@
           {
             "date": "2025-06-30",
             "estimatedReturn": "2025-07-07",
+            "status": "10-Day-IL",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-08",
+            "estimatedReturn": "2025-07-08",
             "status": "10-Day-IL",
             "progression": "pushed_back"
           }
@@ -14415,6 +15109,15 @@
     ],
     "playerId": 665825,
     "fullName": "José Fermin"
+  },
+  {
+    "playerId": 666270,
+    "name": "J. Fernandez",
+    "team": "LAD",
+    "type": "pitcher",
+    "fullName": "J. Fernandez",
+    "ph": "R",
+    "pitches": []
   },
   {
     "name": "J. Ferrer",
@@ -14525,7 +15228,7 @@
         "position": "RF",
         "comment": "Jun 30: Fraley (shoulder) was given a shot of cortisone Saturday in an effort to avoid undergoing surgery and keep playing, Mark Sheldon of MLB.com reports.",
         "firstReported": "2025-06-26",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -15042,9 +15745,9 @@
         "position": "SP",
         "comment": "Jun 12: Jobe (elbow) will undergo Tommy John surgery, Evan Petzold of the Detroit Free Press reports.",
         "firstReported": "2025-07-04",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
-        "progression": "initial",
+        "progression": "on_track",
         "progressionHistory": [
           {
             "date": "2025-07-04",
@@ -15318,12 +16021,12 @@
       {
         "id": "2025-06-25_elbow_41d737e8",
         "status": "60-Day-IL",
-        "estimatedReturn": "2025-07-11",
+        "estimatedReturn": "2025-07-28",
         "originalEstimatedReturn": "2025-07-01",
         "position": "RP",
-        "comment": "May 21: Lawrence recently received a platelet-rich plasma injection in his right elbow and will rest for three weeks before beginning a throwing program, Danny Demilio of PittsburghBaseballNow.com reports.",
+        "comment": "Jul 6: Lawrence (elbow) progressed to throwing from 120 feet Wednesday, MLB.com reports.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -15342,6 +16045,18 @@
           {
             "date": "2025-07-03",
             "estimatedReturn": "2025-07-11",
+            "status": "60-Day-IL",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-06",
+            "estimatedReturn": "2025-07-25",
+            "status": "60-Day-IL",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-07-28",
             "status": "60-Day-IL",
             "progression": "pushed_back"
           }
@@ -15472,6 +16187,30 @@
         "resolvedDate": "2025-07-02"
       }
     ]
+  },
+  {
+    "playerId": 666261,
+    "name": "J. Loperfido",
+    "team": "TOR",
+    "type": "hitter",
+    "fullName": "J. Loperfido",
+    "bats": "R",
+    "stats": {
+      "2024_Games": 0,
+      "2024_AB": 0,
+      "2024_R": 0,
+      "2024_H": 0,
+      "2024_2B": 0,
+      "2024_3B": 0,
+      "2024_HR": 0,
+      "2024_SB": 0,
+      "2024_BB": 0,
+      "2024_SO": 0,
+      "2024_AVG": 0,
+      "2024_SLG": 0,
+      "2024_OBP": 0,
+      "2024_OPS": 0
+    }
   },
   {
     "name": "J. Lopez",
@@ -15622,7 +16361,7 @@
         "position": "RP",
         "comment": "Jun 15: The Diamondbacks (elbow) transferred Martinez (elbow) to the 60-day injured list Sunday.",
         "firstReported": "2025-06-10",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -15679,13 +16418,13 @@
     "injuries": [
       {
         "id": "2025-06-11_elbow_70e608aa",
-        "status": "10-Day-IL",
+        "status": "60-Day-IL",
         "estimatedReturn": "2025-09-01",
         "originalEstimatedReturn": "2025-06-17",
         "position": "SS",
-        "comment": "Jul 1: Mateo was diagnosed with a strained left hamstring Tuesday and is expected to miss 8-to-12 weeks, Roch Kubatko of MASNSports.com reports.",
+        "comment": "Jul 6: The Orioles transferred Mateo (hamstring) from the 10-day injured list to the 60-day IL on Sunday.",
         "firstReported": "2025-06-11",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -15730,6 +16469,12 @@
             "estimatedReturn": "2025-09-01",
             "status": "10-Day-IL",
             "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-09-01",
+            "status": "60-Day-IL",
+            "progression": "on_track"
           }
         ]
       }
@@ -15882,7 +16627,7 @@
         "position": "LF",
         "comment": "Jun 15: GM Dana Brown said Sunday that Melton will require \"at least four weeks or so\" to recover from his right ankle sprain, Chandler Rome of The Athletic reports.",
         "firstReported": "2025-06-27",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -15988,7 +16733,35 @@
       "2024_OBP": 0.265,
       "2024_OPS": 0.625
     },
-    "playerId": 665169
+    "playerId": 665169,
+    "injuries": [
+      {
+        "id": "2025-07-07_general_509e077c",
+        "status": "Day-To-Day",
+        "estimatedReturn": "2025-07-08",
+        "originalEstimatedReturn": "2025-07-07",
+        "position": "CF",
+        "comment": "Jul 7: Meyers (calf) is out of the lineup for Monday's game against the Guardians, Matt Kawahara of the Houston Chronicle reports.",
+        "firstReported": "2025-07-07",
+        "lastUpdated": "2025-07-08",
+        "active": true,
+        "progression": "pushed_back",
+        "progressionHistory": [
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-07-07",
+            "status": "Day-To-Day",
+            "progression": "initial"
+          },
+          {
+            "date": "2025-07-08",
+            "estimatedReturn": "2025-07-08",
+            "status": "Day-To-Day",
+            "progression": "pushed_back"
+          }
+        ]
+      }
+    ]
   },
   {
     "name": "J. Miranda",
@@ -16192,7 +16965,8 @@
       "2024_SLG": 0.486,
       "2024_OBP": 0.263,
       "2024_OPS": 0.749
-    }
+    },
+    "playerId": 666271
   },
   {
     "name": "J. Ortiz",
@@ -16327,9 +17101,9 @@
         "position": "1B",
         "comment": "Jul 3: Rangers manager Bruce Bochy said Wednesday that Pederson (hand) is likely to return from the 10-day injured list in about three weeks, Jeff Wilson of AllDLLS.com reports.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
-        "progression": "pushed_back",
+        "progression": "on_track",
         "progressionHistory": [
           {
             "date": "2025-06-25",
@@ -16381,12 +17155,12 @@
       {
         "id": "2025-06-28_back_b34bf1a6",
         "status": "10-Day-IL",
-        "estimatedReturn": "2025-07-18",
+        "estimatedReturn": "2025-07-11",
         "originalEstimatedReturn": "2025-06-28",
         "position": "SS",
-        "comment": "Jul 3: Astros general manager Dana Brown said that Pena (rib) could resume baseball activities this weekend, Chandler Rome of The Athletic reports.",
+        "comment": "Jul 6: Astros general manager Dana Brown said Sunday that Pena (rib) has an \"outside chance\" of returning from the 10-day injured list prior to the All-Star break, Chandler Rome of The Athletic reports.",
         "firstReported": "2025-06-28",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -16413,6 +17187,12 @@
             "estimatedReturn": "2025-07-18",
             "status": "10-Day-IL",
             "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-07-11",
+            "status": "10-Day-IL",
+            "progression": "moved_up"
           }
         ]
       }
@@ -16709,7 +17489,7 @@
   },
   {
     "name": "J. Rojas",
-    "team": "PHI",
+    "team": "CHW",
     "type": "hitter",
     "bats": "L",
     "fullName": "Johan Rojas",
@@ -16845,6 +17625,15 @@
     "playerId": 665058
   },
   {
+    "playerId": 666258,
+    "name": "J. Sandridge",
+    "team": "NYY",
+    "type": "pitcher",
+    "fullName": "J. Sandridge",
+    "ph": "R",
+    "pitches": []
+  },
+  {
     "name": "J. Sanoja",
     "team": "MIA",
     "type": "hitter",
@@ -16903,12 +17692,12 @@
       {
         "id": "2025-06-09_general_f2da3807",
         "status": "15-Day-IL",
-        "estimatedReturn": "2025-07-07",
+        "estimatedReturn": "2025-07-08",
         "originalEstimatedReturn": "2025-06-20",
         "position": "RP",
         "comment": "Jul 3: Shuster (finger) threw one scoreless inning in a rehab appearance with Triple-A Charlotte on Wednesday, MLB.com reports.",
         "firstReported": "2025-06-09",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "pushed_back",
         "progressionHistory": [
@@ -16945,6 +17734,12 @@
           {
             "date": "2025-07-04",
             "estimatedReturn": "2025-07-07",
+            "status": "15-Day-IL",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-08",
+            "estimatedReturn": "2025-07-08",
             "status": "15-Day-IL",
             "progression": "pushed_back"
           }
@@ -17036,7 +17831,7 @@
         "position": "CF",
         "comment": "Jun 23: Siri suffered a setback in his recovery from a fractured tibia and has been shut down from all baseball activities, Mike Puma of the New York Post reports.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -17109,9 +17904,9 @@
         "position": "RP",
         "comment": "Jun 28: The Red Sox transferred Slaten (shoulder) to the 60-day injured list Saturday.",
         "firstReported": "2025-07-04",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
-        "progression": "initial",
+        "progression": "on_track",
         "progressionHistory": [
           {
             "date": "2025-07-04",
@@ -17436,7 +18231,7 @@
         "position": "SP",
         "comment": "Apr 23: The Cubs transferred Steele (elbow) to the 60-day injured list Wednesday, Sahadev Sharma of The Athletic reports.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -17503,7 +18298,29 @@
       "FF",
       "ST"
     ],
-    "playerId": 666053
+    "playerId": 666053,
+    "injuries": [
+      {
+        "id": "2025-07-05_general_a2614035",
+        "status": "15-Day-IL",
+        "estimatedReturn": "2025-08-12",
+        "originalEstimatedReturn": "2025-08-12",
+        "position": "SP",
+        "comment": "",
+        "firstReported": "2025-07-05",
+        "lastUpdated": "2025-07-08",
+        "active": true,
+        "progression": "on_track",
+        "progressionHistory": [
+          {
+            "date": "2025-07-05",
+            "estimatedReturn": "2025-08-12",
+            "status": "15-Day-IL",
+            "progression": "initial"
+          }
+        ]
+      }
+    ]
   },
   {
     "name": "J. Tena",
@@ -17539,14 +18356,14 @@
       {
         "id": "2025-06-07_general_7b3b5b01",
         "status": "15-Day-IL",
-        "estimatedReturn": "2025-07-04",
+        "estimatedReturn": "2025-07-11",
         "originalEstimatedReturn": "2025-06-18",
         "position": "RP",
         "comment": "Jun 16: Tinoco (forearm) resumed a throwing program Monday, Christina De Nicola of MLB.com reports.",
         "firstReported": "2025-06-07",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-07",
         "active": true,
-        "progression": "on_track",
+        "progression": "pushed_back",
         "progressionHistory": [
           {
             "date": "2025-06-07",
@@ -17571,6 +18388,44 @@
             "estimatedReturn": "2025-07-04",
             "status": "15-Day-IL",
             "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-05",
+            "estimatedReturn": "2025-07-05",
+            "status": "15-Day-IL",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-06",
+            "estimatedReturn": "2025-07-06",
+            "status": "15-Day-IL",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-07-11",
+            "status": "15-Day-IL",
+            "progression": "pushed_back"
+          }
+        ]
+      },
+      {
+        "id": "2025-07-08_forearm_44986b3d",
+        "status": "15-Day-IL",
+        "estimatedReturn": "2025-07-11",
+        "originalEstimatedReturn": "2025-07-11",
+        "position": "RP",
+        "comment": "Jun 16: Tinoco (forearm) resumed a throwing program Monday, Christina De Nicola of MLB.com reports.",
+        "firstReported": "2025-07-08",
+        "lastUpdated": "2025-07-08",
+        "active": true,
+        "progression": "initial",
+        "progressionHistory": [
+          {
+            "date": "2025-07-08",
+            "estimatedReturn": "2025-07-11",
+            "status": "15-Day-IL",
+            "progression": "initial"
           }
         ]
       }
@@ -17820,12 +18675,12 @@
       {
         "id": "2025-06-26_general_e97aba11",
         "status": "10-Day-IL",
-        "estimatedReturn": "2025-07-08",
+        "estimatedReturn": "2025-07-18",
         "originalEstimatedReturn": "2025-07-08",
         "position": "RF",
-        "comment": "Jul 1: Walker (appendix) is rejoining the team this week in Pittsburgh to meet with the training staff before heading out on a rehab assignment, Derrick Goold of the St. Louis Post-Dispatch reports.",
+        "comment": "Jul 5: Cardinals president of baseball operations John Mozeliak said Friday that he hopes Walker (appendix) will be ready for activation from the 10-day injured list within the next two weeks, Derrick Goold of the St. Louis Post-Dispatch reports.",
         "firstReported": "2025-06-26",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -17856,6 +18711,12 @@
           {
             "date": "2025-07-02",
             "estimatedReturn": "2025-07-08",
+            "status": "10-Day-IL",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-06",
+            "estimatedReturn": "2025-07-18",
             "status": "10-Day-IL",
             "progression": "pushed_back"
           }
@@ -18034,7 +18895,7 @@
         "comment": "Jul 2: Westburg (finger) remains out of the lineup for Wednesday's game against the Rangers.",
         "firstReported": "2025-06-28",
         "lastUpdated": "2025-07-04",
-        "active": true,
+        "active": false,
         "progression": "on_track",
         "progressionHistory": [
           {
@@ -18073,7 +18934,8 @@
             "status": "Day-To-Day",
             "progression": "pushed_back"
           }
-        ]
+        ],
+        "resolvedDate": "2025-07-05"
       }
     ],
     "playerId": 665075
@@ -18083,7 +18945,8 @@
     "team": "CHC",
     "type": "pitcher",
     "ph": "L",
-    "fullName": "Jordan Wicks"
+    "fullName": "Jordan Wicks",
+    "playerId": 666262
   },
   {
     "name": "J. Wilson",
@@ -18144,7 +19007,7 @@
         "comment": "Jul 2: Wilson (hamstring) remains out of the lineup for Wednesday's game against the Rays.",
         "firstReported": "2025-07-03",
         "lastUpdated": "2025-07-04",
-        "active": true,
+        "active": false,
         "progression": "on_track",
         "progressionHistory": [
           {
@@ -18153,7 +19016,8 @@
             "status": "Day-To-Day",
             "progression": "initial"
           }
-        ]
+        ],
+        "resolvedDate": "2025-07-05"
       }
     ],
     "playerId": 665951
@@ -18181,7 +19045,7 @@
         "position": "RP",
         "comment": "Jun 7: Winckowski was placed on the 7-day injured list at Triple-A Worcester on Wednesday due to right elbow inflammation, Chris Cotillo of MassLive.com reports.",
         "firstReported": "2025-06-08",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -18256,9 +19120,9 @@
         "estimatedReturn": "2025-07-08",
         "originalEstimatedReturn": "2025-07-04",
         "position": "LF",
-        "comment": "Jun 26: Winker (oblique) will begin a rehab assignment with High-A Brooklyn on Sunday, Andrew Tredinnick of The Bergen Record reports.",
+        "comment": "Jul 6: Manager Carlos Mendoza said Sunday that Winker (oblique) could return from the 60-day injured list when the Mets open their three-game series in Baltimore on Tuesday, Anthony DiComo of MLB.com reports.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -18607,7 +19471,7 @@
         "position": "RP",
         "comment": "Jul 2: Akin will serve as the Orioles' opening pitcher in Thursday's game versus the Tigers, Matt Weyrich of The Baltimore Sun reports.",
         "firstReported": "2025-07-03",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -18716,20 +19580,26 @@
       {
         "id": "2025-07-04_general_0fd7ac22",
         "status": "60-Day-IL",
-        "estimatedReturn": "2025-08-01",
+        "estimatedReturn": "2025-08-10",
         "originalEstimatedReturn": "2025-08-01",
         "position": "DH",
-        "comment": "Jul 3: Bryant acknowledged June 11 that he still experiences discomfort while running during his rehab program, Thomas Harding of MLB.com reports. \"I'm just being completely honest. When I do run, I am sore -- not just sore, but hurting. We've determined to keep trying and see if it continues, if it improves. That's where I'm at,\" Bryant said. \"I'd be lying if I said I wasn't thinking that some days I see light at the end of the tunnel, some days I don't.\"",
+        "comment": "Jul 6: Bryant (back) said that he will consult with a doctor over the phone Monday before visiting another specialist in Dallas soon thereafter to try \"experimental treatments\" for his degenerative disk disease, Thomas Harding of MLB.com reports.",
         "firstReported": "2025-07-04",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
-        "progression": "initial",
+        "progression": "on_track",
         "progressionHistory": [
           {
             "date": "2025-07-04",
             "estimatedReturn": "2025-08-01",
             "status": "60-Day-IL",
             "progression": "initial"
+          },
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-08-10",
+            "status": "60-Day-IL",
+            "progression": "pushed_back"
           }
         ]
       }
@@ -18808,7 +19678,7 @@
         "position": "RF",
         "comment": "Jul 2: Tigers manager A.J. Hinch said Tuesday that Carpenter (hamstring) will be placed on the 10-day injured list, Jim Duquette of MLB Network Radio reports.",
         "firstReported": "2025-06-30",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -18881,6 +19751,30 @@
       "2024_OPS": 0
     },
     "playerId": 665354
+  },
+  {
+    "playerId": 666273,
+    "name": "K. Corona",
+    "team": "HOU",
+    "type": "hitter",
+    "fullName": "K. Corona",
+    "bats": "R",
+    "stats": {
+      "2024_Games": 0,
+      "2024_AB": 0,
+      "2024_R": 0,
+      "2024_H": 0,
+      "2024_2B": 0,
+      "2024_3B": 0,
+      "2024_HR": 0,
+      "2024_SB": 0,
+      "2024_BB": 0,
+      "2024_SO": 0,
+      "2024_AVG": 0,
+      "2024_SLG": 0,
+      "2024_OBP": 0,
+      "2024_OPS": 0
+    }
   },
   {
     "name": "K. Farmer",
@@ -19038,12 +19932,12 @@
       {
         "id": "2025-06-10_general_83997eb0",
         "status": "15-Day-IL",
-        "estimatedReturn": "2025-07-07",
+        "estimatedReturn": "2025-07-18",
         "originalEstimatedReturn": "2025-06-23",
         "position": "RP",
-        "comment": "Jun 28: Graveman (hip) threw a bullpen session Friday, Alex Weiner of Arizona Sports reports.",
+        "comment": "Jul 6: Graveman (hip) will make a rehab appearance in the rookie-level Arizona Complex League on Tuesday, MLB.com reports.",
         "firstReported": "2025-06-10",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -19062,6 +19956,12 @@
           {
             "date": "2025-07-01",
             "estimatedReturn": "2025-07-07",
+            "status": "15-Day-IL",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-07-18",
             "status": "15-Day-IL",
             "progression": "pushed_back"
           }
@@ -19108,7 +20008,8 @@
     "pitches": [
       "ST"
     ],
-    "fullName": "Kyle Hart"
+    "fullName": "Kyle Hart",
+    "playerId": 666266
   },
   {
     "name": "K. Hayes",
@@ -19421,7 +20322,29 @@
       "2024_OBP": 0.276,
       "2024_OPS": 0.697
     },
-    "playerId": 665418
+    "playerId": 665418,
+    "injuries": [
+      {
+        "id": "2025-07-08_general_9f31bb74",
+        "status": "bereavement",
+        "estimatedReturn": "2025-07-10",
+        "originalEstimatedReturn": "2025-07-10",
+        "position": "1B",
+        "comment": "Jul 7: Manzardo isn't in the lineup for Saturday's game against the Tigers.",
+        "firstReported": "2025-07-08",
+        "lastUpdated": "2025-07-08",
+        "active": true,
+        "progression": "initial",
+        "progressionHistory": [
+          {
+            "date": "2025-07-08",
+            "estimatedReturn": "2025-07-10",
+            "status": "bereavement",
+            "progression": "initial"
+          }
+        ]
+      }
+    ]
   },
   {
     "name": "K. Marte",
@@ -19472,6 +20395,26 @@
           }
         ],
         "resolvedDate": "2025-06-03"
+      },
+      {
+        "id": "2025-07-08_groin_e7818049",
+        "status": "Day-To-Day",
+        "estimatedReturn": "2025-07-08",
+        "originalEstimatedReturn": "2025-07-08",
+        "position": "2B",
+        "comment": "Jul 8: Marte (groin) has a good chance to play in Tuesday's game against San Diego, Jose M. Romero of The Arizona Republic reports.",
+        "firstReported": "2025-07-08",
+        "lastUpdated": "2025-07-08",
+        "active": true,
+        "progression": "initial",
+        "progressionHistory": [
+          {
+            "date": "2025-07-08",
+            "estimatedReturn": "2025-07-08",
+            "status": "Day-To-Day",
+            "progression": "initial"
+          }
+        ]
       }
     ],
     "playerId": 665483
@@ -19505,7 +20448,8 @@
     "team": "DET",
     "type": "pitcher",
     "ph": "R",
-    "fullName": "Keider Montero"
+    "fullName": "Keider Montero",
+    "playerId": 666268
   },
   {
     "name": "K. Newman",
@@ -19724,7 +20668,7 @@
         "comment": "Jun 27: Ruiz was moved to the 7-day injured list Friday after being diagnosed with a concussion, Spencer Nusbaum of The Washington Post reports.",
         "firstReported": "2025-06-24",
         "lastUpdated": "2025-07-04",
-        "active": true,
+        "active": false,
         "progression": "on_track",
         "progressionHistory": [
           {
@@ -19757,7 +20701,8 @@
             "status": "7-Day IL",
             "progression": "pushed_back"
           }
-        ]
+        ],
+        "resolvedDate": "2025-07-05"
       }
     ]
   },
@@ -19800,14 +20745,14 @@
       {
         "id": "2025-06-13_general_4ba3ec85",
         "status": "15-Day-IL",
-        "estimatedReturn": "2025-07-12",
+        "estimatedReturn": "2025-07-11",
         "originalEstimatedReturn": "2025-06-28",
         "position": "SP",
-        "comment": "Jul 3: Mets manager Carlos Mendoza said Thursday that Senga (hamstring) will begin a rehab assignment either Saturday or Sunday, Anthony DiComo of MLB.com reports.",
+        "comment": "Jul 6: Mets manager Carlos Mendoza said Sunday that Senga (hamstring) is likely to return from the 15-day injured list next weekend and is expected to start either Friday or Saturday in Kansas City, Anthony DiComo of MLB.com reports. \"When he went down [with a right hamstring strain], in my head it was more like after the All-Star break,\" Mendoza said. \"For him to be in play for us now before we go into the All-Star break, it's huge for us.\"",
         "firstReported": "2025-06-13",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
-        "progression": "moved_up",
+        "progression": "on_track",
         "progressionHistory": [
           {
             "date": "2025-06-13",
@@ -19830,6 +20775,12 @@
           {
             "date": "2025-07-04",
             "estimatedReturn": "2025-07-12",
+            "status": "15-Day-IL",
+            "progression": "moved_up"
+          },
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-07-11",
             "status": "15-Day-IL",
             "progression": "moved_up"
           }
@@ -20250,6 +21201,15 @@
     "playerId": 665579
   },
   {
+    "playerId": 666255,
+    "name": "L. Estrada",
+    "team": "TOR",
+    "type": "pitcher",
+    "fullName": "L. Estrada",
+    "ph": "R",
+    "pitches": []
+  },
+  {
     "name": "L. Evans",
     "team": "SEA",
     "type": "pitcher",
@@ -20455,7 +21415,7 @@
         "position": "RP",
         "comment": "Jun 28: The Red Sox recalled Guerrero from Triple-A Worcester on Sunday.",
         "firstReported": "2025-06-29",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -20501,7 +21461,7 @@
         "position": "3B",
         "comment": "Jul 2: The Astros selected Guillorme's contract from Triple-A Sugar Land on Saturday, Brian McTaggart of MLB.com reports.",
         "firstReported": "2025-07-03",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -20572,20 +21532,38 @@
       {
         "id": "2025-07-04_hip_2dbabde2",
         "status": "15-Day-IL",
-        "estimatedReturn": "2025-07-04",
+        "estimatedReturn": "2025-07-12",
         "originalEstimatedReturn": "2025-07-04",
         "position": "RP",
         "comment": "Jun 13: Hendriks (hip) has begun playing catch, Christopher Smith of MassLive.com reports.",
         "firstReported": "2025-07-04",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
-        "progression": "initial",
+        "progression": "on_track",
         "progressionHistory": [
           {
             "date": "2025-07-04",
             "estimatedReturn": "2025-07-04",
             "status": "15-Day-IL",
             "progression": "initial"
+          },
+          {
+            "date": "2025-07-05",
+            "estimatedReturn": "2025-07-05",
+            "status": "15-Day-IL",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-06",
+            "estimatedReturn": "2025-07-06",
+            "status": "15-Day-IL",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-07-12",
+            "status": "15-Day-IL",
+            "progression": "pushed_back"
           }
         ]
       }
@@ -20636,7 +21614,7 @@
   {
     "playerId": 665050,
     "name": "L. Jr.",
-    "team": "WSH",
+    "team": "ARI",
     "type": "hitter",
     "fullName": "L. McCullers Jr.",
     "bats": "R",
@@ -20685,12 +21663,12 @@
       {
         "id": "2025-06-25_forearm_5eaf0a46",
         "status": "60-Day-IL",
-        "estimatedReturn": "2025-07-18",
+        "estimatedReturn": "2025-07-25",
         "originalEstimatedReturn": "2025-07-18",
         "position": "2B",
-        "comment": "Jun 24: Keaschall (forearm) has started hitting off a tee, MLB.com reports.",
+        "comment": "Jul 5: Keaschall (forearm) has been hitting off a pitching machine and is awaiting final clearance before facing live pitching, Dan Hayes of The Athletic reports.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -20699,6 +21677,12 @@
             "estimatedReturn": "2025-07-18",
             "status": "60-Day-IL",
             "progression": "initial"
+          },
+          {
+            "date": "2025-07-05",
+            "estimatedReturn": "2025-07-25",
+            "status": "60-Day-IL",
+            "progression": "pushed_back"
           }
         ]
       }
@@ -20733,7 +21717,8 @@
       "2024_SLG": 0,
       "2024_OBP": 0,
       "2024_OPS": 0
-    }
+    },
+    "playerId": 666269
   },
   {
     "name": "L. Matos",
@@ -21112,14 +22097,14 @@
       {
         "id": "2025-06-26_back_067f3a71",
         "status": "10-Day-IL",
-        "estimatedReturn": "2025-07-06",
+        "estimatedReturn": "2025-07-08",
         "originalEstimatedReturn": "2025-06-27",
         "position": "CF",
-        "comment": "Jul 3: Robert (hamstring) ran and took batting practice prior to Wednesday's game against the Dodgers, MLB.com reports.",
+        "comment": "Jul 7: White Sox general manager Chris Getz said Monday that Robert (hamstring) is expected to be activated from the 10-day injured list within the next couple days, Scott Merkin of MLB.com reports.",
         "firstReported": "2025-06-26",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
-        "progression": "on_track",
+        "progression": "pushed_back",
         "progressionHistory": [
           {
             "date": "2025-06-26",
@@ -21142,6 +22127,18 @@
           {
             "date": "2025-06-30",
             "estimatedReturn": "2025-07-06",
+            "status": "10-Day-IL",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-07-07",
+            "status": "10-Day-IL",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-08",
+            "estimatedReturn": "2025-07-08",
             "status": "10-Day-IL",
             "progression": "pushed_back"
           }
@@ -21353,6 +22350,38 @@
           }
         ],
         "resolvedDate": "2025-06-10"
+      },
+      {
+        "id": "2025-07-05_general_9c30b0f8",
+        "status": "10-Day-IL",
+        "estimatedReturn": "2025-07-18",
+        "originalEstimatedReturn": "2025-07-05",
+        "position": "CF",
+        "comment": "Jul 6: Thomas (foot) isn't in the lineup for Saturday's game against the Tigers.",
+        "firstReported": "2025-07-05",
+        "lastUpdated": "2025-07-08",
+        "active": true,
+        "progression": "on_track",
+        "progressionHistory": [
+          {
+            "date": "2025-07-05",
+            "estimatedReturn": "2025-07-05",
+            "status": "Day-To-Day",
+            "progression": "initial"
+          },
+          {
+            "date": "2025-07-06",
+            "estimatedReturn": "2025-07-06",
+            "status": "Day-To-Day",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-07-18",
+            "status": "10-Day-IL",
+            "progression": "pushed_back"
+          }
+        ]
       }
     ],
     "playerId": 665415
@@ -21656,7 +22685,7 @@
         "position": "C",
         "comment": "Jul 2: Cubs manager Craig Counsell said Tuesday that Amaya (oblique) is \"not close\" to a return to game action, MLB.com reports.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -21702,7 +22731,7 @@
         "position": "LF",
         "comment": "Jul 2: Andujar (oblique) is scheduled to begin a rehab assignment at Triple-A Las Vegas on Wednesday, Martin Gallegos of MLB.com reports.",
         "firstReported": "2025-06-14",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -21804,6 +22833,15 @@
       }
     ],
     "playerId": 665063
+  },
+  {
+    "playerId": 666254,
+    "name": "M. Black",
+    "team": "SF",
+    "type": "pitcher",
+    "fullName": "M. Black",
+    "ph": "R",
+    "pitches": []
   },
   {
     "name": "M. Bowman",
@@ -21967,7 +23005,7 @@
         "position": "RP",
         "comment": "",
         "firstReported": "2025-06-29",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -22010,11 +23048,11 @@
         "estimatedReturn": "2025-07-05",
         "originalEstimatedReturn": "2025-06-10",
         "position": "3B",
-        "comment": "Jul 3: Chapman (hand) is expected to begin a rehab assignment with Double-A Sacramento on Friday, Shayna Rubin of the San Francisco Chronicle reports.",
+        "comment": "Jul 4: Manager Bob Melvin said Friday that he expects Chapman (hand) to return from the injured list Saturday, Susan Slusser of the San Francisco Chronicle reports.",
         "firstReported": "2025-06-09",
-        "lastUpdated": "2025-07-04",
-        "active": true,
-        "progression": "moved_up",
+        "lastUpdated": "2025-07-05",
+        "active": false,
+        "progression": "on_track",
         "progressionHistory": [
           {
             "date": "2025-06-09",
@@ -22064,7 +23102,8 @@
             "status": "10-Day-IL",
             "progression": "moved_up"
           }
-        ]
+        ],
+        "resolvedDate": "2025-07-06"
       }
     ],
     "playerId": 665715
@@ -22395,7 +23434,7 @@
         "position": "C",
         "comment": "Jun 23: The Orioles recalled Handley from Triple-A Norfolk on Saturday.",
         "firstReported": "2025-06-22",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -22497,7 +23536,7 @@
   },
   {
     "name": "M. Kelly",
-    "team": "ARI",
+    "team": "OAK",
     "type": "pitcher",
     "fullName": "Michael Kelly",
     "ph": "R",
@@ -22587,13 +23626,13 @@
       },
       {
         "id": "2025-06-25_shoulder_9c4f98a0",
-        "status": "15-Day-IL",
+        "status": "60-Day-IL",
         "estimatedReturn": "2025-07-25",
         "originalEstimatedReturn": "2025-07-18",
         "position": "SP",
-        "comment": "Jun 27: King (shoulder) played catch Wednesday, MLB.com reports.",
+        "comment": "Jul 7: King (shoulder) will throw a \"touch and feel\" bullpen session Thursday, Jeff Sanders of The San Diego Union-Tribune reports.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -22608,6 +23647,12 @@
             "estimatedReturn": "2025-07-25",
             "status": "15-Day-IL",
             "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-08",
+            "estimatedReturn": "2025-07-25",
+            "status": "60-Day-IL",
+            "progression": "on_track"
           }
         ]
       }
@@ -22631,7 +23676,7 @@
         "position": "RP",
         "comment": "Jul 1: Kopech notched a hold against the Rockies on Thursday, striking out one batter in one perfect inning.",
         "firstReported": "2025-07-02",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -22663,7 +23708,7 @@
         "position": "RP",
         "comment": "Jun 21: MRI results revealed a minor flexor strain in Kranick's right elbow Saturday, Anthony DiComo of MLB.com reports.",
         "firstReported": "2025-06-20",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -22907,9 +23952,9 @@
         "position": "2B",
         "comment": "Jul 3: Massey (ankle) was returned from his rehab assignment Thursday and will be re-evaluated.",
         "firstReported": "2025-06-11",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
-        "progression": "pushed_back",
+        "progression": "on_track",
         "progressionHistory": [
           {
             "date": "2025-06-11",
@@ -23244,6 +24289,26 @@
             "progression": "on_track"
           }
         ]
+      },
+      {
+        "id": "2025-07-05_hip_dbfab57b",
+        "status": "60-Day-IL",
+        "estimatedReturn": "2025-02-01",
+        "originalEstimatedReturn": "2025-02-01",
+        "position": "SP",
+        "comment": "Jul 1: Meyer underwent labral repair surgery on his left hip Friday, Christina De Nicola of MLB.com reports.",
+        "firstReported": "2025-07-05",
+        "lastUpdated": "2025-07-08",
+        "active": true,
+        "progression": "on_track",
+        "progressionHistory": [
+          {
+            "date": "2025-07-05",
+            "estimatedReturn": "2025-02-01",
+            "status": "60-Day-IL",
+            "progression": "initial"
+          }
+        ]
       }
     ]
   },
@@ -23353,7 +24418,7 @@
   },
   {
     "name": "M. Muncy",
-    "team": "LAD",
+    "team": "OAK",
     "type": "hitter",
     "fullName": "Max Muncy",
     "bats": "R",
@@ -23381,11 +24446,11 @@
         "estimatedReturn": "2025-08-15",
         "originalEstimatedReturn": "2025-08-15",
         "position": "3B",
-        "comment": "Jul 3: Muncy (knee) will be sidelined for at least six weeks, David Vassegh of AM 570 LA Sports reports.",
+        "comment": "Jul 3: Muncy (knee) said Thursday he expects to be sidelined for at least six weeks, David Vassegh of AM 570 LA Sports reports.",
         "firstReported": "2025-07-04",
-        "lastUpdated": "2025-07-04",
-        "active": true,
-        "progression": "initial",
+        "lastUpdated": "2025-07-05",
+        "active": false,
+        "progression": "on_track",
         "progressionHistory": [
           {
             "date": "2025-07-04",
@@ -23393,7 +24458,8 @@
             "status": "10-Day-IL",
             "progression": "initial"
           }
-        ]
+        ],
+        "resolvedDate": "2025-07-06"
       }
     ]
   },
@@ -23475,14 +24541,14 @@
       {
         "id": "2025-06-12_general_169203f7",
         "status": "15-Day-IL",
-        "estimatedReturn": "2025-07-04",
+        "estimatedReturn": "2025-07-11",
         "originalEstimatedReturn": "2025-06-25",
         "position": "RP",
         "comment": "Jul 2: Rodriguez (forearm) threw a bullpen session Tuesday, MLB.com reports.",
         "firstReported": "2025-06-12",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
-        "progression": "on_track",
+        "progression": "pushed_back",
         "progressionHistory": [
           {
             "date": "2025-06-12",
@@ -23493,6 +24559,30 @@
           {
             "date": "2025-06-26",
             "estimatedReturn": "2025-07-04",
+            "status": "15-Day-IL",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-05",
+            "estimatedReturn": "2025-07-05",
+            "status": "15-Day-IL",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-06",
+            "estimatedReturn": "2025-07-06",
+            "status": "15-Day-IL",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-07-07",
+            "status": "15-Day-IL",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-08",
+            "estimatedReturn": "2025-07-11",
             "status": "15-Day-IL",
             "progression": "pushed_back"
           }
@@ -23656,6 +24746,26 @@
           }
         ],
         "resolvedDate": "2025-07-04"
+      },
+      {
+        "id": "2025-07-06_thumb_91403a19",
+        "status": "Day-To-Day",
+        "estimatedReturn": "2025-07-11",
+        "originalEstimatedReturn": "2025-07-11",
+        "position": "SP",
+        "comment": "Jul 5: Blue Jays manager John Schneider said that Scherzer (thumb/forearm) will start Saturday's game against the Angels, Rob Longley of the Toronto Sun reports.",
+        "firstReported": "2025-07-06",
+        "lastUpdated": "2025-07-08",
+        "active": true,
+        "progression": "on_track",
+        "progressionHistory": [
+          {
+            "date": "2025-07-06",
+            "estimatedReturn": "2025-07-11",
+            "status": "Day-To-Day",
+            "progression": "initial"
+          }
+        ]
       }
     ],
     "playerId": 666180
@@ -24050,13 +25160,13 @@
       {
         "id": "2025-07-03_general_b1a64cfa",
         "status": "Day-To-Day",
-        "estimatedReturn": "2025-07-04",
+        "estimatedReturn": "2025-07-06",
         "originalEstimatedReturn": "2025-07-03",
         "position": "RF",
         "comment": "Jul 3: Taylor will start in center field and bat eighth in Sunday's game against the Giants.",
         "firstReported": "2025-07-03",
-        "lastUpdated": "2025-07-04",
-        "active": true,
+        "lastUpdated": "2025-07-06",
+        "active": false,
         "progression": "pushed_back",
         "progressionHistory": [
           {
@@ -24070,8 +25180,21 @@
             "estimatedReturn": "2025-07-04",
             "status": "Day-To-Day",
             "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-05",
+            "estimatedReturn": "2025-07-05",
+            "status": "Day-To-Day",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-06",
+            "estimatedReturn": "2025-07-06",
+            "status": "Day-To-Day",
+            "progression": "pushed_back"
           }
-        ]
+        ],
+        "resolvedDate": "2025-07-07"
       }
     ]
   },
@@ -24121,6 +25244,15 @@
       "2024_OPS": 0
     },
     "playerId": 665278
+  },
+  {
+    "playerId": 666264,
+    "name": "M. Thompson",
+    "team": "WSH",
+    "type": "pitcher",
+    "fullName": "M. Thompson",
+    "ph": "R",
+    "pitches": []
   },
   {
     "name": "M. Toglia",
@@ -24684,7 +25816,7 @@
         "comment": "Jul 2: Arenado (finger) is out of the lineup for Wednesday's game against the Pirates, Katie Woo of The Athletic reports.",
         "firstReported": "2025-07-02",
         "lastUpdated": "2025-07-04",
-        "active": true,
+        "active": false,
         "progression": "on_track",
         "progressionHistory": [
           {
@@ -24696,6 +25828,33 @@
           {
             "date": "2025-07-03",
             "estimatedReturn": "2025-07-04",
+            "status": "Day-To-Day",
+            "progression": "pushed_back"
+          }
+        ],
+        "resolvedDate": "2025-07-05"
+      },
+      {
+        "id": "2025-07-06_shoulder_f047d038",
+        "status": "Day-To-Day",
+        "estimatedReturn": "2025-07-08",
+        "originalEstimatedReturn": "2025-07-06",
+        "position": "3B",
+        "comment": "Jul 6: Arenado (shoulder) is out of the lineup for Sunday's game against the Cubs, Derrick Goold of the St. Louis Post-Dispatch reports.",
+        "firstReported": "2025-07-06",
+        "lastUpdated": "2025-07-08",
+        "active": true,
+        "progression": "on_track",
+        "progressionHistory": [
+          {
+            "date": "2025-07-06",
+            "estimatedReturn": "2025-07-06",
+            "status": "Day-To-Day",
+            "progression": "initial"
+          },
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-07-08",
             "status": "Day-To-Day",
             "progression": "pushed_back"
           }
@@ -24767,6 +25926,26 @@
             "progression": "pushed_back"
           }
         ]
+      },
+      {
+        "id": "2025-07-05_hip_6691ed98",
+        "status": "15-Day-IL",
+        "estimatedReturn": "2025-07-18",
+        "originalEstimatedReturn": "2025-07-18",
+        "position": "RP",
+        "comment": "Jun 27: Burdi (foot) has been shut down due to a hip injury, Gabrielle Starr of the Boston Herald reports.",
+        "firstReported": "2025-07-05",
+        "lastUpdated": "2025-07-08",
+        "active": true,
+        "progression": "on_track",
+        "progressionHistory": [
+          {
+            "date": "2025-07-05",
+            "estimatedReturn": "2025-07-18",
+            "status": "15-Day-IL",
+            "progression": "initial"
+          }
+        ]
       }
     ]
   },
@@ -24808,7 +25987,8 @@
     "team": "LAD",
     "type": "pitcher",
     "ph": "R",
-    "fullName": "Noah Davis"
+    "fullName": "Noah Davis",
+    "playerId": 666250
   },
   {
     "playerId": 665286,
@@ -25346,7 +26526,7 @@
         "comment": "Jun 21: Marte (oblique) started at third base and went 2-for-3 with two RBI Friday in a rehab game in the rookie-level Arizona Complex League.",
         "firstReported": "2025-05-25",
         "lastUpdated": "2025-06-24",
-        "active": true,
+        "active": false,
         "progression": "on_track",
         "progressionHistory": [
           {
@@ -25385,7 +26565,8 @@
             "status": "10-Day-IL",
             "progression": "moved_up"
           }
-        ]
+        ],
+        "resolvedDate": "2025-07-05"
       },
       {
         "id": "2025-06-25_oblique_41b7357e",
@@ -25396,7 +26577,7 @@
         "comment": "Jul 2: Marte (oblique) went 2-for-3 with two walks, a home run and five RBI for Triple-A Louisville on Tuesday.",
         "firstReported": "2025-06-25",
         "lastUpdated": "2025-07-04",
-        "active": true,
+        "active": false,
         "progression": "on_track",
         "progressionHistory": [
           {
@@ -25417,9 +26598,12 @@
             "status": "10-Day-IL",
             "progression": "pushed_back"
           }
-        ]
+        ],
+        "resolvedDate": "2025-07-05"
       }
-    ]
+    ],
+    "playerId": 666251,
+    "fullName": "N. Marte"
   },
   {
     "name": "N. Martinez",
@@ -25795,7 +26979,7 @@
         "position": "3B",
         "comment": "Jun 19: Yankees manager Aaron Boone said Thursday that there is a \"small possibility\" that Cabrera (ankle) could return to action this season, Bryan Hoch of MLB.com reports.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -26033,12 +27217,12 @@
       {
         "id": "2025-06-25_biceps_a1e36b17",
         "status": "15-Day-IL",
-        "estimatedReturn": "2025-07-05",
+        "estimatedReturn": "2025-07-10",
         "originalEstimatedReturn": "2025-06-25",
         "position": "RP",
         "comment": "May 9: Ribalta (biceps) will throw a 20-to-25 pitch bullpen session Saturday, Mark Zuckerman of MASNSports.com reports.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -26051,6 +27235,18 @@
           {
             "date": "2025-06-26",
             "estimatedReturn": "2025-07-05",
+            "status": "15-Day-IL",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-06",
+            "estimatedReturn": "2025-07-06",
+            "status": "15-Day-IL",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-07-10",
             "status": "15-Day-IL",
             "progression": "pushed_back"
           }
@@ -26155,20 +27351,26 @@
       {
         "id": "2025-07-04_general_ce94fa4b",
         "status": "15-Day-IL",
-        "estimatedReturn": "2025-07-18",
+        "estimatedReturn": "2025-07-21",
         "originalEstimatedReturn": "2025-07-18",
         "position": "SP",
-        "comment": "Jul 3: Blackburn (0-3) took the loss against the Pirates on Saturday, allowing three runs on six hits while striking out two in one inning. He did not issue a walk.",
+        "comment": "Jul 6: Blackburn (shoulder) played catch out to 75 feet Sunday, MLB.com reports.",
         "firstReported": "2025-07-04",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
-        "progression": "initial",
+        "progression": "on_track",
         "progressionHistory": [
           {
             "date": "2025-07-04",
             "estimatedReturn": "2025-07-18",
             "status": "15-Day-IL",
             "progression": "initial"
+          },
+          {
+            "date": "2025-07-05",
+            "estimatedReturn": "2025-07-21",
+            "status": "15-Day-IL",
+            "progression": "pushed_back"
           }
         ]
       }
@@ -26512,7 +27714,7 @@
         "position": "RP",
         "comment": "Jun 29: The Blue Jays placed Schultz on the 15-day injured list Sunday due to right middle finger inflammation.",
         "firstReported": "2025-06-30",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -26545,7 +27747,7 @@
         "comment": "Jun 21: Sewald (shoulder) threw 25 pitches in a live batting practice session Friday, MLB.com reports.",
         "firstReported": "2025-05-25",
         "lastUpdated": "2025-06-24",
-        "active": true,
+        "active": false,
         "progression": "on_track",
         "progressionHistory": [
           {
@@ -26584,7 +27786,8 @@
             "status": "15-Day-IL",
             "progression": "pushed_back"
           }
-        ]
+        ],
+        "resolvedDate": "2025-07-06"
       },
       {
         "id": "2025-06-25_shoulder_868fa56c",
@@ -26594,8 +27797,8 @@
         "position": "RP",
         "comment": "Jun 25: Sewald (shoulder) allowed one hit and struck out one over one scoreless inning for Double-A Akron on Tuesday.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
-        "active": true,
+        "lastUpdated": "2025-07-05",
+        "active": false,
         "progression": "on_track",
         "progressionHistory": [
           {
@@ -26610,9 +27813,11 @@
             "status": "15-Day-IL",
             "progression": "pushed_back"
           }
-        ]
+        ],
+        "resolvedDate": "2025-07-06"
       }
-    ]
+    ],
+    "playerId": 666257
   },
   {
     "name": "P. Skenes",
@@ -26649,7 +27854,29 @@
       "2024_OBP": 0.348,
       "2024_OPS": 0.895
     },
-    "playerId": 665487
+    "playerId": 665487,
+    "injuries": [
+      {
+        "id": "2025-07-07_general_aa6bcba8",
+        "status": "10-Day-IL",
+        "estimatedReturn": "2025-07-18",
+        "originalEstimatedReturn": "2025-07-18",
+        "position": "1B",
+        "comment": "",
+        "firstReported": "2025-07-07",
+        "lastUpdated": "2025-07-08",
+        "active": true,
+        "progression": "on_track",
+        "progressionHistory": [
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-07-18",
+            "status": "10-Day-IL",
+            "progression": "initial"
+          }
+        ]
+      }
+    ]
   },
   {
     "name": "Q. Priester",
@@ -26738,7 +27965,7 @@
         "position": "RP",
         "comment": "Apr 2: The White Sox announced that Adams underwent successful Tommy John surgery Wednesday, Scott Merkin of MLB.com reports.",
         "firstReported": "2025-06-26",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -26834,9 +28061,9 @@
         "estimatedReturn": "2025-07-10",
         "originalEstimatedReturn": "2025-07-10",
         "position": "SP",
-        "comment": "Jun 25: The Padres placed Bergert (forearm) on the 15-day injured list Wednesday.",
+        "comment": "Jul 5: Bergert (forearm) is expected to throw 50-to-60 pitches in a rehab start with Triple-A El Paso on Sunday, Jeff Sanders of The San Diego Union-Tribune reports.",
         "firstReported": "2025-06-26",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -26902,7 +28129,7 @@
         "position": "SP",
         "comment": "Jun 6: Blanco's (elbow) Tommy John procedure included an internal brace and a repair of the flexor tendon in his forearm, Chandler Rome of The Athletic reported Friday.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -26967,7 +28194,7 @@
         "position": "2B",
         "comment": "Apr 13: The Mariners transferred Bliss (biceps) from the 10-day injured list to the 60-day IL on Sunday.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -26998,12 +28225,12 @@
       {
         "id": "2025-06-21_general_ce8f87a6",
         "status": "15-Day-IL",
-        "estimatedReturn": "2025-07-06",
+        "estimatedReturn": "2025-07-11",
         "originalEstimatedReturn": "2025-06-21",
         "position": "RP",
-        "comment": "Jun 21: The Pirates placed Borucki on the 15-day injured list Saturday with a lower-back injury, Colin Beazley of the Pittsburgh Post-Gazette reports.",
+        "comment": "Jul 5: Borucki (back) resumed throwing bullpen sessions Wednesday, MLB.com reports.",
         "firstReported": "2025-06-21",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -27016,6 +28243,12 @@
           {
             "date": "2025-06-22",
             "estimatedReturn": "2025-07-06",
+            "status": "15-Day-IL",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-06",
+            "estimatedReturn": "2025-07-11",
             "status": "15-Day-IL",
             "progression": "pushed_back"
           }
@@ -27075,12 +28308,12 @@
       {
         "id": "2025-06-25_lat_aa1050ab",
         "status": "60-Day-IL",
-        "estimatedReturn": "2025-07-04",
+        "estimatedReturn": "2025-07-11",
         "originalEstimatedReturn": "2025-06-25",
         "position": "C",
-        "comment": "Jun 18: Brantly (lat) began a rehab assignment with Triple-A Jacksonville on Tuesday, going 0-for-3 with two strikeouts.",
+        "comment": "Jul 6: Brantly (lat/knee) was cleared to resume his rehab assignment at Triple-A Jacksonville on Sunday, Kevin Barral of FishonFirst.com reports.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -27107,6 +28340,24 @@
             "estimatedReturn": "2025-07-04",
             "status": "60-Day-IL",
             "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-05",
+            "estimatedReturn": "2025-07-05",
+            "status": "60-Day-IL",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-06",
+            "estimatedReturn": "2025-07-06",
+            "status": "60-Day-IL",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-07-11",
+            "status": "60-Day-IL",
+            "progression": "pushed_back"
           }
         ]
       }
@@ -27120,6 +28371,15 @@
     "ph": "R",
     "pitches": [],
     "playerId": 666063
+  },
+  {
+    "playerId": 666267,
+    "name": "R. Burr",
+    "team": "TOR",
+    "type": "pitcher",
+    "fullName": "R. Burr",
+    "ph": "R",
+    "pitches": []
   },
   {
     "name": "R. Detmers",
@@ -27208,7 +28468,7 @@
         "comment": "Jun 20: Feltner (back) is expected to go three innings in a start Saturday with Triple-A Albuquerque, Patrick Lyons of JustBaseball.com reports.",
         "firstReported": "2025-05-25",
         "lastUpdated": "2025-06-24",
-        "active": true,
+        "active": false,
         "progression": "on_track",
         "progressionHistory": [
           {
@@ -27241,7 +28501,8 @@
             "status": "60-Day-IL",
             "progression": "moved_up"
           }
-        ]
+        ],
+        "resolvedDate": "2025-07-05"
       },
       {
         "id": "2025-06-25_back_3af80dbd",
@@ -27252,7 +28513,7 @@
         "comment": "Jun 29: Feltner (back) allowed six runs (five earned) on seven hits and four walks while striking out three batters over 3.2 innings in the third start of his rehab assignment Friday with Triple-A Albuquerque.",
         "firstReported": "2025-06-25",
         "lastUpdated": "2025-07-04",
-        "active": true,
+        "active": false,
         "progression": "on_track",
         "progressionHistory": [
           {
@@ -27267,7 +28528,8 @@
             "status": "60-Day-IL",
             "progression": "pushed_back"
           }
-        ]
+        ],
+        "resolvedDate": "2025-07-05"
       }
     ]
   },
@@ -27318,7 +28580,7 @@
   },
   {
     "name": "R. Garcia",
-    "team": "TEX",
+    "team": "NYM",
     "type": "pitcher",
     "ph": "L",
     "fullName": "Robert Garcia",
@@ -27486,7 +28748,41 @@
       "2024_OBP": 0.288,
       "2024_OPS": 0.707
     },
-    "playerId": 665454
+    "playerId": 665454,
+    "injuries": [
+      {
+        "id": "2025-07-06_thumb_088b0d9d",
+        "status": "10-Day-IL",
+        "estimatedReturn": "2025-07-18",
+        "originalEstimatedReturn": "2025-07-09",
+        "position": "1B",
+        "comment": "Jul 7: The Brewers placed Hoskins on the 10-day injured list Monday with a Grade 2 left thumb sprain.",
+        "firstReported": "2025-07-06",
+        "lastUpdated": "2025-07-08",
+        "active": true,
+        "progression": "on_track",
+        "progressionHistory": [
+          {
+            "date": "2025-07-06",
+            "estimatedReturn": "2025-07-09",
+            "status": "Day-To-Day",
+            "progression": "initial"
+          },
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-07-18",
+            "status": "Out",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-08",
+            "estimatedReturn": "2025-07-18",
+            "status": "10-Day-IL",
+            "progression": "on_track"
+          }
+        ]
+      }
+    ]
   },
   {
     "name": "R. Iglesias",
@@ -27961,9 +29257,9 @@
         "position": "1B",
         "comment": "Jun 27: Mountcastle (hamstring) said Friday that he began a hitting progression this week and is hoping to return once he's eligible for reinstatement July 30, Matt Weyrich of The Baltimore Sun reports.",
         "firstReported": "2025-07-04",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
-        "progression": "initial",
+        "progression": "on_track",
         "progressionHistory": [
           {
             "date": "2025-07-04",
@@ -28009,7 +29305,29 @@
       "2024_OBP": 0,
       "2024_OPS": 0
     },
-    "playerId": 665261
+    "playerId": 665261,
+    "injuries": [
+      {
+        "id": "2025-07-08_quad_45b3f86f",
+        "status": "10-Day-IL",
+        "estimatedReturn": "2025-07-18",
+        "originalEstimatedReturn": "2025-07-18",
+        "position": "1B",
+        "comment": "Jul 7: The White Sox placed Noda on the 10-day injured list Monday with a right quad strain.",
+        "firstReported": "2025-07-08",
+        "lastUpdated": "2025-07-08",
+        "active": true,
+        "progression": "initial",
+        "progressionHistory": [
+          {
+            "date": "2025-07-08",
+            "estimatedReturn": "2025-07-18",
+            "status": "10-Day-IL",
+            "progression": "initial"
+          }
+        ]
+      }
+    ]
   },
   {
     "name": "R. O'Brien",
@@ -28093,7 +29411,7 @@
         "comment": "Jun 22: Tigers manager A.J. Hinch said Friday that Olson (finger) is expected to require one more rehab start before being activated from the 15-day injured list, Evan Petzold of the Detroit Free Press reports.",
         "firstReported": "2025-05-25",
         "lastUpdated": "2025-06-24",
-        "active": true,
+        "active": false,
         "progression": "on_track",
         "progressionHistory": [
           {
@@ -28126,7 +29444,8 @@
             "status": "15-Day-IL",
             "progression": "pushed_back"
           }
-        ]
+        ],
+        "resolvedDate": "2025-07-05"
       },
       {
         "id": "2025-06-25_finger_4082095e",
@@ -28137,7 +29456,7 @@
         "comment": "Jul 2: Tigers manager A.J. Hinch said that Olson's (finger) next start will be in the majors, and the right-hander could be activated from the 15-day injured list to pitch Friday in Cleveland, Chris McCosky of The Detroit News reports.",
         "firstReported": "2025-06-25",
         "lastUpdated": "2025-07-04",
-        "active": true,
+        "active": false,
         "progression": "on_track",
         "progressionHistory": [
           {
@@ -28158,9 +29477,11 @@
             "status": "15-Day-IL",
             "progression": "pushed_back"
           }
-        ]
+        ],
+        "resolvedDate": "2025-07-05"
       }
-    ]
+    ],
+    "playerId": 666248
   },
   {
     "name": "R. Pepiot",
@@ -28174,6 +29495,15 @@
       "SL"
     ],
     "playerId": 665098
+  },
+  {
+    "playerId": 666096,
+    "name": "R. Pina",
+    "team": "TOR",
+    "type": "pitcher",
+    "fullName": "R. Pina",
+    "ph": "R",
+    "pitches": []
   },
   {
     "name": "R. Pressly",
@@ -28313,12 +29643,12 @@
       {
         "id": "2025-06-25_shoulder_eb1c6e83",
         "status": "60-Day-IL",
-        "estimatedReturn": "2025-07-25",
+        "estimatedReturn": "2025-08-01",
         "originalEstimatedReturn": "2025-07-18",
         "position": "SP",
-        "comment": "Jun 20: Manager Dave Roberts said Friday that Sasaki (shoulder) has restarted his throwing program by playing catch from 60-to-90 feet, Fabian Ardaya of The Athletic reports.",
+        "comment": "Jul 6: In a pregame interview Friday, Dodgers manager Dave Roberts said that Sasaki's (shoulder) velocity while throwing from flat ground has \"ticked up\" to the upper-80s but indicated that the rookie hurler isn't yet ready for mound work, per The Dodgers Bleed Los Podcast.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -28331,6 +29661,12 @@
           {
             "date": "2025-06-29",
             "estimatedReturn": "2025-07-25",
+            "status": "60-Day-IL",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-08-01",
             "status": "60-Day-IL",
             "progression": "pushed_back"
           }
@@ -28440,7 +29776,29 @@
       "SL",
       "SI"
     ],
-    "playerId": 665403
+    "playerId": 665403,
+    "injuries": [
+      {
+        "id": "2025-07-07_back_b44a0710",
+        "status": "15-Day-IL",
+        "estimatedReturn": "2025-07-20",
+        "originalEstimatedReturn": "2025-07-20",
+        "position": "RP",
+        "comment": "Jul 6: The Diamondbacks placed Thompson on the 15-day injured list Sunday due to right scapular strain.",
+        "firstReported": "2025-07-07",
+        "lastUpdated": "2025-07-08",
+        "active": true,
+        "progression": "on_track",
+        "progressionHistory": [
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-07-20",
+            "status": "15-Day-IL",
+            "progression": "initial"
+          }
+        ]
+      }
+    ]
   },
   {
     "playerId": 665077,
@@ -28548,7 +29906,7 @@
         "position": "SP",
         "comment": "Jun 9: The Marlins placed Weathers on the 60-day injured list Monday due to a left lat strain.",
         "firstReported": "2025-06-08",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -28619,12 +29977,12 @@
       {
         "id": "2025-06-26_oblique_3343f768",
         "status": "15-Day-IL",
-        "estimatedReturn": "2025-07-05",
+        "estimatedReturn": "2025-07-18",
         "originalEstimatedReturn": "2025-07-05",
         "position": "SP",
-        "comment": "Jun 22: The Yankees placed Yarbrough on the 15-day injured list Sunday due to a right oblique strain.",
+        "comment": "Jul 5: Yarbrough (oblique) has yet to resume throwing, per MLB.com.",
         "firstReported": "2025-06-26",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -28633,6 +29991,12 @@
             "estimatedReturn": "2025-07-05",
             "status": "15-Day-IL",
             "progression": "initial"
+          },
+          {
+            "date": "2025-07-06",
+            "estimatedReturn": "2025-07-18",
+            "status": "15-Day-IL",
+            "progression": "pushed_back"
           }
         ]
       }
@@ -28655,7 +30019,7 @@
         "position": "RP",
         "comment": "Jul 1: Zastryzny will be available out of the bullpen Saturday versus Philadelphia, Curt Hogg of the Milwaukee Journal Sentinel reports.",
         "firstReported": "2025-07-02",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -28688,7 +30052,7 @@
   },
   {
     "name": "S. Alcantara",
-    "team": "MIA",
+    "team": "SF",
     "type": "pitcher",
     "pitches": [
       "SI",
@@ -28775,12 +30139,12 @@
       {
         "id": "2025-06-25_thumb_98fc8b56",
         "status": "60-Day-IL",
-        "estimatedReturn": "2025-07-24",
+        "estimatedReturn": "2025-07-28",
         "originalEstimatedReturn": "2025-07-03",
         "position": "SP",
-        "comment": "Jun 29: Arrighetti (thumb) completed another bullpen session Friday, his second since landing on the injured list April 8, MLB.com reports.",
+        "comment": "Jul 6: Astros manager Joe Espada said Friday that Arrighetti (thumb) is expected to complete one more bullpen session before he faces live hitters, Matt Kawahara of the Houston Chronicle reports.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -28799,6 +30163,12 @@
           {
             "date": "2025-06-30",
             "estimatedReturn": "2025-07-24",
+            "status": "60-Day-IL",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-07-28",
             "status": "60-Day-IL",
             "progression": "pushed_back"
           }
@@ -28995,12 +30365,12 @@
       {
         "id": "2025-06-25_forearm_1fd2ab2e",
         "status": "15-Day-IL",
-        "estimatedReturn": "2025-07-06",
+        "estimatedReturn": "2025-07-18",
         "originalEstimatedReturn": "2025-07-06",
         "position": "RP",
         "comment": "Jun 24: The Astros placed Dubin on the 15-day injured list Tuesday with a right forearm strain, Matt Kawahara of the Houston Chronicle reports.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -29009,10 +30379,25 @@
             "estimatedReturn": "2025-07-06",
             "status": "15-Day-IL",
             "progression": "initial"
+          },
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-07-18",
+            "status": "15-Day-IL",
+            "progression": "pushed_back"
           }
         ]
       }
     ]
+  },
+  {
+    "playerId": 665267,
+    "name": "S. Effross",
+    "team": "NYY",
+    "type": "pitcher",
+    "fullName": "S. Effross",
+    "ph": "R",
+    "pitches": []
   },
   {
     "name": "S. Espinal",
@@ -29150,7 +30535,7 @@
         "position": "SP",
         "comment": "Jul 2: Gipson-Long (0-1) took the loss Friday against the Twins, giving up three runs on four hits and two walks in 5.1 innings. He struck out five.",
         "firstReported": "2025-07-03",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -29183,7 +30568,35 @@
     "team": "DET",
     "type": "pitcher",
     "ph": "L",
-    "fullName": "Sean Guenther"
+    "fullName": "Sean Guenther",
+    "injuries": [
+      {
+        "id": "2025-07-07_hip_bb362591",
+        "status": "60-Day-IL",
+        "estimatedReturn": "2025-02-01",
+        "originalEstimatedReturn": "2025-09-01",
+        "position": "RP",
+        "comment": "Jul 6: The Tigers recalled Guenther from Triple-A Toledo and placed him on the 60-day injured list while he recovers from a left hip arthroscopy.",
+        "firstReported": "2025-07-07",
+        "lastUpdated": "2025-07-08",
+        "active": true,
+        "progression": "moved_up",
+        "progressionHistory": [
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-09-01",
+            "status": "60-Day-IL",
+            "progression": "initial"
+          },
+          {
+            "date": "2025-07-08",
+            "estimatedReturn": "2025-02-01",
+            "status": "60-Day-IL",
+            "progression": "moved_up"
+          }
+        ]
+      }
+    ]
   },
   {
     "name": "S. Haggerty",
@@ -29710,7 +31123,29 @@
       "2024_OBP": 0.316,
       "2024_OPS": 0.704
     },
-    "playerId": 665524
+    "playerId": 665524,
+    "injuries": [
+      {
+        "id": "2025-07-07_general_dedeb42d",
+        "status": "Day-To-Day",
+        "estimatedReturn": "2025-07-08",
+        "originalEstimatedReturn": "2025-07-08",
+        "position": "LF",
+        "comment": "Jul 6: Marte is out of the lineup for Sunday's game against the Rays, Anthony DiComo of MLB.com reports.",
+        "firstReported": "2025-07-07",
+        "lastUpdated": "2025-07-08",
+        "active": true,
+        "progression": "on_track",
+        "progressionHistory": [
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-07-08",
+            "status": "Day-To-Day",
+            "progression": "initial"
+          }
+        ]
+      }
+    ]
   },
   {
     "name": "S. Matz",
@@ -29740,7 +31175,29 @@
     "pitches": [
       "FF"
     ],
-    "playerId": 665405
+    "playerId": 665405,
+    "injuries": [
+      {
+        "id": "2025-07-08_forearm_3af31aaa",
+        "status": "15-Day-IL",
+        "estimatedReturn": "2025-07-20",
+        "originalEstimatedReturn": "2025-07-20",
+        "position": "RP",
+        "comment": "Jul 7: Miller was placed on the 15-day injured list due to a right forearm strain, retroactive to Sunday.",
+        "firstReported": "2025-07-08",
+        "lastUpdated": "2025-07-08",
+        "active": true,
+        "progression": "initial",
+        "progressionHistory": [
+          {
+            "date": "2025-07-08",
+            "estimatedReturn": "2025-07-20",
+            "status": "15-Day-IL",
+            "progression": "initial"
+          }
+        ]
+      }
+    ]
   },
   {
     "name": "S. Miller",
@@ -29799,6 +31256,15 @@
     "ph": "R",
     "pitches": [],
     "playerId": 665495
+  },
+  {
+    "playerId": 666263,
+    "name": "S. Ogasawara",
+    "team": "WSH",
+    "type": "pitcher",
+    "fullName": "S. Ogasawara",
+    "ph": "R",
+    "pitches": []
   },
   {
     "name": "S. Ohtani",
@@ -29884,13 +31350,13 @@
     "injuries": [
       {
         "id": "2025-07-03_elbow_fb9aa74d",
-        "status": "15-Day-IL",
+        "status": "60-Day-IL",
         "estimatedReturn": "2025-09-01",
         "originalEstimatedReturn": "2025-09-01",
         "position": "SP",
-        "comment": "Jul 2: Atlanta placed Schwellenbach on the 15-day injured list Wednesday with a fractured right elbow.",
+        "comment": "Jul 6: Atlanta transferred Schwellenbach (elbow) from the 15-day injured list to the 60-day IL on Sunday.",
         "firstReported": "2025-07-03",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -29899,6 +31365,12 @@
             "estimatedReturn": "2025-09-01",
             "status": "15-Day-IL",
             "progression": "initial"
+          },
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-09-01",
+            "status": "60-Day-IL",
+            "progression": "on_track"
           }
         ]
       }
@@ -29949,7 +31421,7 @@
         "comment": "Jul 3: The Reds announced Wednesday that X-rays on Steer's right hand returned negative, Charlie Goldsmith of Fox 19 Now Cincinnati reports.",
         "firstReported": "2025-07-03",
         "lastUpdated": "2025-07-04",
-        "active": true,
+        "active": false,
         "progression": "on_track",
         "progressionHistory": [
           {
@@ -29958,7 +31430,8 @@
             "status": "Day-To-Day",
             "progression": "initial"
           }
-        ]
+        ],
+        "resolvedDate": "2025-07-05"
       }
     ]
   },
@@ -30070,6 +31543,15 @@
     ],
     "fullName": "Simeon Woods Richardson",
     "playerId": 666139
+  },
+  {
+    "playerId": 666256,
+    "name": "T. Adams",
+    "team": "MIN",
+    "type": "pitcher",
+    "fullName": "T. Adams",
+    "ph": "R",
+    "pitches": []
   },
   {
     "name": "T. Adcock",
@@ -30251,7 +31733,7 @@
         "position": "1B",
         "comment": "Jun 3: Casas (knee) will be off crutches in two weeks and expects to be ready for Opening Day next season, Jen McCaffrey of The Athletic reports.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -30349,6 +31831,32 @@
           }
         ],
         "resolvedDate": "2025-06-06"
+      },
+      {
+        "id": "2025-07-07_general_506e04eb",
+        "status": "Day-To-Day",
+        "estimatedReturn": "2025-07-09",
+        "originalEstimatedReturn": "2025-07-07",
+        "position": "2B",
+        "comment": "Jul 7: Dodgers manager Dave Roberts said that Edman (toe) could be available off the bench Monday and Tuesday in Milwaukee before possibly returning to the lineup Wednesday, Sonja Chen of MLB.com reports.",
+        "firstReported": "2025-07-07",
+        "lastUpdated": "2025-07-08",
+        "active": true,
+        "progression": "pushed_back",
+        "progressionHistory": [
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-07-07",
+            "status": "Day-To-Day",
+            "progression": "initial"
+          },
+          {
+            "date": "2025-07-08",
+            "estimatedReturn": "2025-07-09",
+            "status": "Day-To-Day",
+            "progression": "pushed_back"
+          }
+        ]
       }
     ],
     "playerId": 665071
@@ -30528,7 +32036,30 @@
       "2024_OBP": 0,
       "2024_OPS": 0
     },
-    "playerId": 665135
+    "playerId": 665135,
+    "injuries": [
+      {
+        "id": "2025-07-07_hamstring_a95fe8d0",
+        "status": "Day-To-Day",
+        "estimatedReturn": "2025-07-07",
+        "originalEstimatedReturn": "2025-07-07",
+        "position": "RF",
+        "comment": "Jul 6: Freeman is out of the lineup for Sunday's game against the White Sox due to right hamstring soreness, Thomas Harding of MLB.com reports.",
+        "firstReported": "2025-07-07",
+        "lastUpdated": "2025-07-07",
+        "active": false,
+        "progression": "initial",
+        "progressionHistory": [
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-07-07",
+            "status": "Day-To-Day",
+            "progression": "initial"
+          }
+        ],
+        "resolvedDate": "2025-07-08"
+      }
+    ]
   },
   {
     "name": "T. Friedl",
@@ -30675,11 +32206,11 @@
         "estimatedReturn": "2025-07-09",
         "originalEstimatedReturn": "2025-07-11",
         "position": "SP",
-        "comment": "Jul 3: Glasnow (shoulder) allowed three earned runs on six hits and one walk while striking out eight across 4.1 innings in a rehab outing with Triple-A Oklahoma City on Thursday, Alex Freedman, the Communications Director for Oklahoma City  reports.",
+        "comment": "Jul 7: Dodgers manager Dave Roberts said Monday that Glasnow (shoulder) will rejoin the rotation Wednesday in Milwaukee, Kirsten Watson of Spectrum SportsNet LA reports.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
-        "progression": "on_track",
+        "progression": "moved_up",
         "progressionHistory": [
           {
             "date": "2025-06-25",
@@ -30695,6 +32226,18 @@
           },
           {
             "date": "2025-07-02",
+            "estimatedReturn": "2025-07-09",
+            "status": "60-Day-IL",
+            "progression": "moved_up"
+          },
+          {
+            "date": "2025-07-06",
+            "estimatedReturn": "2025-07-11",
+            "status": "60-Day-IL",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-08",
             "estimatedReturn": "2025-07-09",
             "status": "60-Day-IL",
             "progression": "moved_up"
@@ -30719,7 +32262,7 @@
         "position": "SP",
         "comment": "Jun 19: Gonsolin (elbow) was transferred  to the 60-day injured list Thursday.",
         "firstReported": "2025-06-08",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -30925,7 +32468,29 @@
     "type": "pitcher",
     "fullName": "Tommy Henry",
     "ph": "R",
-    "pitches": []
+    "pitches": [],
+    "injuries": [
+      {
+        "id": "2025-07-07_elbow_665178da",
+        "status": "60-Day-IL",
+        "estimatedReturn": "2025-09-01",
+        "originalEstimatedReturn": "2025-09-01",
+        "position": "RP",
+        "comment": "Jul 6: Henry (elbow) is scheduled to undergo Tommy John surgery, Patrick Lyons of JustBaseball.com reports.",
+        "firstReported": "2025-07-07",
+        "lastUpdated": "2025-07-08",
+        "active": true,
+        "progression": "on_track",
+        "progressionHistory": [
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-09-01",
+            "status": "60-Day-IL",
+            "progression": "initial"
+          }
+        ]
+      }
+    ]
   },
   {
     "name": "T. Hernández",
@@ -31040,12 +32605,12 @@
       {
         "id": "2025-06-25_elbow_49010541",
         "status": "15-Day-IL",
-        "estimatedReturn": "2025-07-09",
+        "estimatedReturn": "2025-07-21",
         "originalEstimatedReturn": "2025-07-04",
         "position": "SP",
-        "comment": "Jul 3: Houck (elbow) is scheduled to make his next rehab start with Double-A Portland on Friday, MLB.com reports.",
+        "comment": "Jul 5: Manager Alex Cora said Saturday that Houck (elbow) will make another rehab start in the minors this week, Tim Healey of The Boston Globe reports.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -31058,6 +32623,12 @@
           {
             "date": "2025-06-29",
             "estimatedReturn": "2025-07-09",
+            "status": "15-Day-IL",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-06",
+            "estimatedReturn": "2025-07-21",
             "status": "15-Day-IL",
             "progression": "pushed_back"
           }
@@ -31264,7 +32835,7 @@
         "position": "SP",
         "comment": "Jul 1: Mahle (shoulder) was transferred to the 60-day injured list Tuesday.",
         "firstReported": "2025-06-15",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -31348,12 +32919,12 @@
       {
         "id": "2025-06-25_shoulder_6af82fe9",
         "status": "60-Day-IL",
-        "estimatedReturn": "2025-07-11",
+        "estimatedReturn": "2025-07-28",
         "originalEstimatedReturn": "2025-07-01",
         "position": "RP",
-        "comment": "Jun 4: Mayza underwent imaging on his left shoulder last week and will do a plyometric program for the next two weeks, Colin Beazley of the Pittsburgh Post-Gazette reports.",
+        "comment": "Jul 5: Mayza (shoulder) progressed to throwing from 120 feet Wednesday, MLB.com reports.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -31372,6 +32943,18 @@
           {
             "date": "2025-07-03",
             "estimatedReturn": "2025-07-11",
+            "status": "60-Day-IL",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-06",
+            "estimatedReturn": "2025-07-25",
+            "status": "60-Day-IL",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-07-28",
             "status": "60-Day-IL",
             "progression": "pushed_back"
           }
@@ -31411,12 +32994,12 @@
       {
         "id": "2025-06-18_elbow_64f120e9",
         "status": "15-Day-IL",
-        "estimatedReturn": "2025-07-23",
+        "estimatedReturn": "2025-07-25",
         "originalEstimatedReturn": "2025-07-18",
         "position": "SP",
-        "comment": "Jun 17: The Mets placed Megill on the 15-day injured list Tuesday with a right elbow sprain.",
+        "comment": "Jul 4: Megill (elbow) has been cleared to restart a throwing program, Anthony DiComo of MLB.com reports.",
         "firstReported": "2025-06-18",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -31431,6 +33014,18 @@
             "estimatedReturn": "2025-07-23",
             "status": "15-Day-IL",
             "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-05",
+            "estimatedReturn": "2025-08-01",
+            "status": "15-Day-IL",
+            "progression": "pushed_back"
+          },
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-07-25",
+            "status": "15-Day-IL",
+            "progression": "moved_up"
           }
         ]
       }
@@ -31501,7 +33096,7 @@
         "comment": "Jun 22: Orioles interim manager Tony Mansolino indicated before Sunday's game that O'Neill (shoulder) was ready to resume his rehab assignment with High-A Aberdeen, Matt Weyrich of The Baltimore Sun reports.",
         "firstReported": "2025-05-25",
         "lastUpdated": "2025-06-24",
-        "active": true,
+        "active": false,
         "progression": "on_track",
         "progressionHistory": [
           {
@@ -31558,7 +33153,8 @@
             "status": "10-Day-IL",
             "progression": "moved_up"
           }
-        ]
+        ],
+        "resolvedDate": "2025-07-05"
       },
       {
         "id": "2025-06-25_shoulder_38dd5b57",
@@ -31569,7 +33165,7 @@
         "comment": "Jul 2: The Orioles are expected to activate O'Neill (shoulder) from the injured list Friday, Andy Kostka of TheBaltimoreBanner.com reports.",
         "firstReported": "2025-06-25",
         "lastUpdated": "2025-07-04",
-        "active": true,
+        "active": false,
         "progression": "on_track",
         "progressionHistory": [
           {
@@ -31584,9 +33180,11 @@
             "status": "10-Day-IL",
             "progression": "pushed_back"
           }
-        ]
+        ],
+        "resolvedDate": "2025-07-05"
       }
-    ]
+    ],
+    "playerId": 666245
   },
   {
     "name": "T. Ornelas",
@@ -32131,7 +33729,29 @@
       "ST",
       "CH"
     ],
-    "playerId": 666050
+    "playerId": 666050,
+    "injuries": [
+      {
+        "id": "2025-07-05_general_e535575b",
+        "status": "15-Day-IL",
+        "estimatedReturn": "2025-07-18",
+        "originalEstimatedReturn": "2025-07-18",
+        "position": "SP",
+        "comment": "Jul 4: Williams (3-10) took the loss in the first game of Wednesday's doubleheader against the Tigers, allowing seven runs on nine hits and one walk with four strikeouts over three innings.",
+        "firstReported": "2025-07-05",
+        "lastUpdated": "2025-07-08",
+        "active": true,
+        "progression": "on_track",
+        "progressionHistory": [
+          {
+            "date": "2025-07-05",
+            "estimatedReturn": "2025-07-18",
+            "status": "15-Day-IL",
+            "progression": "initial"
+          }
+        ]
+      }
+    ]
   },
   {
     "name": "T.J. McFarland",
@@ -32323,6 +33943,27 @@
           }
         ],
         "resolvedDate": "2025-06-28"
+      },
+      {
+        "id": "2025-07-05_general_cd47892e",
+        "status": "Day-To-Day",
+        "estimatedReturn": "2025-07-05",
+        "originalEstimatedReturn": "2025-07-05",
+        "position": "1B",
+        "comment": "Jul 4: Guerrero is not in the starting lineup for Friday's game against the Angels.",
+        "firstReported": "2025-07-05",
+        "lastUpdated": "2025-07-05",
+        "active": false,
+        "progression": "initial",
+        "progressionHistory": [
+          {
+            "date": "2025-07-05",
+            "estimatedReturn": "2025-07-05",
+            "status": "Day-To-Day",
+            "progression": "initial"
+          }
+        ],
+        "resolvedDate": "2025-07-06"
       }
     ]
   },
@@ -32331,7 +33972,8 @@
     "team": "LAA",
     "type": "pitcher",
     "ph": "R",
-    "fullName": "Víctor Mederos"
+    "fullName": "Víctor Mederos",
+    "playerId": 666274
   },
   {
     "name": "V. Pasquantino",
@@ -32412,9 +34054,9 @@
         "estimatedReturn": "2025-09-01",
         "originalEstimatedReturn": "2025-09-01",
         "position": "RF",
-        "comment": "May 27: Mariners general manager Justin Hollander said Tuesday that Robles (shoulder) may not return until September, Tim Booth of the Seattle Times reports.",
+        "comment": "Jul 7: Robles (shoulder) may advance to baseball activities before the end of July, but he is not expected back before September, MLB.com reports.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -32654,7 +34296,7 @@
         "position": "RF",
         "comment": "Jun 27: The Guardians transferred Brennan (elbow) to the 60-day injured list Friday.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -32822,7 +34464,7 @@
         "comment": "Jul 2: Contreras (wrist) is out of the lineup for Wednesday's game against the Pirates, Katie Woo of The Athletic reports.",
         "firstReported": "2025-07-02",
         "lastUpdated": "2025-07-04",
-        "active": true,
+        "active": false,
         "progression": "on_track",
         "progressionHistory": [
           {
@@ -32837,7 +34479,8 @@
             "status": "Day-To-Day",
             "progression": "pushed_back"
           }
-        ]
+        ],
+        "resolvedDate": "2025-07-05"
       }
     ],
     "playerId": 665616
@@ -32934,8 +34577,8 @@
         "position": "LF",
         "comment": "Jul 3: Langford (oblique) will begin a rehab assignment with Double-A Frisco on Thursday.",
         "firstReported": "2025-06-26",
-        "lastUpdated": "2025-07-04",
-        "active": true,
+        "lastUpdated": "2025-07-05",
+        "active": false,
         "progression": "on_track",
         "progressionHistory": [
           {
@@ -32950,7 +34593,8 @@
             "status": "10-Day-IL",
             "progression": "pushed_back"
           }
-        ]
+        ],
+        "resolvedDate": "2025-07-06"
       }
     ]
   },
@@ -32994,7 +34638,7 @@
         "position": "SP",
         "comment": "Jun 20: The Reds placed Miley on the 15-day injured list Friday due to a left flexor strain.",
         "firstReported": "2025-06-21",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -33282,6 +34926,27 @@
           }
         ],
         "resolvedDate": "2025-06-28"
+      },
+      {
+        "id": "2025-07-05_hamstring_c755b799",
+        "status": "Day-To-Day",
+        "estimatedReturn": "2025-07-05",
+        "originalEstimatedReturn": "2025-07-05",
+        "position": "SS",
+        "comment": "Jul 4: Bogaerts was removed from Friday's game against the Rangers with an apparent hamstring injury, AJ Cassavell of MLB.com reports.",
+        "firstReported": "2025-07-05",
+        "lastUpdated": "2025-07-05",
+        "active": false,
+        "progression": "initial",
+        "progressionHistory": [
+          {
+            "date": "2025-07-05",
+            "estimatedReturn": "2025-07-05",
+            "status": "Day-To-Day",
+            "progression": "initial"
+          }
+        ],
+        "resolvedDate": "2025-07-06"
       }
     ],
     "playerId": 665123
@@ -33422,7 +35087,7 @@
         "position": "LF",
         "comment": "Jul 3: Alvarez was administered two injections in his right hand after a hand specialist determined Wednesday that the Alvarez is dealing with inflammation, Chandler Rome of The Athletic reports.",
         "firstReported": "2025-06-25",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -33455,6 +35120,15 @@
     "ph": "R",
     "fullName": "Yennier Cano",
     "playerId": 665573
+  },
+  {
+    "playerId": 666272,
+    "name": "Y. Darvish",
+    "team": "SD",
+    "type": "pitcher",
+    "fullName": "Y. Darvish",
+    "ph": "R",
+    "pitches": []
   },
   {
     "name": "Y. Diaz",
@@ -33539,7 +35213,29 @@
     "type": "pitcher",
     "fullName": "Y. Garcia",
     "ph": "R",
-    "pitches": []
+    "pitches": [],
+    "injuries": [
+      {
+        "id": "2025-07-06_ankle_6b01c194",
+        "status": "15-Day-IL",
+        "estimatedReturn": "2025-07-20",
+        "originalEstimatedReturn": "2025-07-20",
+        "position": "RP",
+        "comment": "Jul 5: The Blue Jays placed Garcia on the 15-day injured list Saturday with a left ankle sprain.",
+        "firstReported": "2025-07-06",
+        "lastUpdated": "2025-07-08",
+        "active": true,
+        "progression": "on_track",
+        "progressionHistory": [
+          {
+            "date": "2025-07-06",
+            "estimatedReturn": "2025-07-20",
+            "status": "15-Day-IL",
+            "progression": "initial"
+          }
+        ]
+      }
+    ]
   },
   {
     "name": "Y. Gomez",
@@ -33669,12 +35365,12 @@
       {
         "id": "2025-06-29_knee_719fde52",
         "status": "10-Day-IL",
-        "estimatedReturn": "2025-07-07",
+        "estimatedReturn": "2025-07-11",
         "originalEstimatedReturn": "2025-07-07",
         "position": "3B",
-        "comment": "Jun 30: Moncada (knee) has been sent to the rookie-level Arizona Complex League Angels to begin a rehab assignment, MLB.com reports.",
+        "comment": "Jul 4: Moncada (knee) is beginning his rehab assignment Friday in the Arizona Complex League.",
         "firstReported": "2025-06-29",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -33683,6 +35379,12 @@
             "estimatedReturn": "2025-07-07",
             "status": "10-Day-IL",
             "progression": "initial"
+          },
+          {
+            "date": "2025-07-05",
+            "estimatedReturn": "2025-07-11",
+            "status": "10-Day-IL",
+            "progression": "pushed_back"
           }
         ]
       }
@@ -33742,7 +35444,9 @@
         ],
         "resolvedDate": "2025-06-07"
       }
-    ]
+    ],
+    "playerId": 666249,
+    "fullName": "Z. Agnos"
   },
   {
     "name": "Z. Brzykcy",
@@ -33817,20 +35521,26 @@
       {
         "id": "2025-07-04_general_43f30877",
         "status": "10-Day-IL",
-        "estimatedReturn": "2025-07-11",
+        "estimatedReturn": "2025-07-18",
         "originalEstimatedReturn": "2025-07-11",
         "position": "LF",
         "comment": "Jun 19: Dezenzo (hand) has not resumed hitting since being placed on the injured list June 3, Matt Kawahara of the Houston Chronicle reports.",
         "firstReported": "2025-07-04",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
-        "progression": "initial",
+        "progression": "on_track",
         "progressionHistory": [
           {
             "date": "2025-07-04",
             "estimatedReturn": "2025-07-11",
             "status": "10-Day-IL",
             "progression": "initial"
+          },
+          {
+            "date": "2025-07-07",
+            "estimatedReturn": "2025-07-18",
+            "status": "10-Day-IL",
+            "progression": "pushed_back"
           }
         ]
       }
@@ -33853,7 +35563,7 @@
         "position": "SP",
         "comment": "Jun 30: Orioles interim manager Tony Mansolino said that Eflin (back) is \"trending toward an IL\" stint, Matt Weyrich of The Baltimore Sun reports.",
         "firstReported": "2025-06-29",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -33893,6 +35603,30 @@
     "playerId": 665927
   },
   {
+    "playerId": 666253,
+    "name": "Z. Gelof",
+    "team": "OAK",
+    "type": "hitter",
+    "fullName": "Z. Gelof",
+    "bats": "R",
+    "stats": {
+      "2024_Games": 0,
+      "2024_AB": 0,
+      "2024_R": 0,
+      "2024_H": 0,
+      "2024_2B": 0,
+      "2024_3B": 0,
+      "2024_HR": 0,
+      "2024_SB": 0,
+      "2024_BB": 0,
+      "2024_SO": 0,
+      "2024_AVG": 0,
+      "2024_SLG": 0,
+      "2024_OBP": 0,
+      "2024_OPS": 0
+    }
+  },
+  {
     "name": "Z. Kelly",
     "team": "BOS",
     "type": "pitcher",
@@ -33920,6 +35654,26 @@
           }
         ],
         "resolvedDate": "2025-07-01"
+      },
+      {
+        "id": "2025-07-05_oblique_95d0b38f",
+        "status": "15-Day-IL",
+        "estimatedReturn": "2025-07-18",
+        "originalEstimatedReturn": "2025-07-18",
+        "position": "RP",
+        "comment": "Jul 4: The Red Sox optioned Kelly (oblique) to Triple-A Worcester on Monday.",
+        "firstReported": "2025-07-05",
+        "lastUpdated": "2025-07-08",
+        "active": true,
+        "progression": "on_track",
+        "progressionHistory": [
+          {
+            "date": "2025-07-05",
+            "estimatedReturn": "2025-07-18",
+            "status": "15-Day-IL",
+            "progression": "initial"
+          }
+        ]
       }
     ]
   },
@@ -33957,9 +35711,9 @@
         "estimatedReturn": "2025-07-18",
         "originalEstimatedReturn": "2025-06-23",
         "position": "SP",
-        "comment": "Jun 29: Matthews (shoulder) threw a 20-pitch bullpen session at Target Field on Sunday, MLB.com reports.",
+        "comment": "Jul 5: Matthews (shoulder) is set to throw a third bullpen session Sunday and could face live hitters next week, Dan Hayes of The Athletic reports.",
         "firstReported": "2025-06-09",
-        "lastUpdated": "2025-07-04",
+        "lastUpdated": "2025-07-08",
         "active": true,
         "progression": "on_track",
         "progressionHistory": [
@@ -34071,7 +35825,7 @@
   {
     "playerId": 665037,
     "name": "Z. Pop",
-    "team": "SEA",
+    "team": "NYM",
     "type": "pitcher",
     "fullName": "Zach Pop",
     "ph": "R",
