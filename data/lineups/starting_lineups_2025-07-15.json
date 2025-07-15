@@ -1,0 +1,133 @@
+{
+  "date": "2025-07-15",
+  "lastUpdated": "2025-07-15T10:00:01.449914",
+  "updateCount": 1,
+  "totalGames": 1,
+  "gamesWithLineups": 1,
+  "metadata": {
+    "scrapedFrom": "https://statsapi.mlb.com/api/v1",
+    "dataQuality": "partial",
+    "nextUpdateScheduled": "2025-07-15T10:30:01.449914"
+  },
+  "games": [
+    {
+      "gameId": "778566",
+      "date": "2025-07-16",
+      "gameTime": "00:00",
+      "timezone": "UTC",
+      "status": "Pre-Game",
+      "venue": {
+        "name": "Truist Park",
+        "city": "",
+        "state": ""
+      },
+      "weather": {},
+      "teams": {
+        "home": {
+          "abbr": "National League All-Stars",
+          "name": "National League All-Stars",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          }
+        },
+        "away": {
+          "abbr": "American League All-Stars",
+          "name": "American League All-Stars",
+          "record": {
+            "wins": 0,
+            "losses": 0
+          }
+        }
+      },
+      "pitchers": {
+        "home": {
+          "name": "Paul Skenes",
+          "id": "694973",
+          "throws": "",
+          "era": 0.0,
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "lastStart": "",
+          "status": "probable",
+          "confidence": 90
+        },
+        "away": {
+          "name": "Tarik Skubal",
+          "id": "669373",
+          "throws": "",
+          "era": 0.0,
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "lastStart": "",
+          "status": "probable",
+          "confidence": 90
+        }
+      },
+      "lineups": {
+        "home": {
+          "confirmed": false,
+          "lastUpdated": "2025-07-15T10:00:01.449884",
+          "batting_order": []
+        },
+        "away": {
+          "confirmed": false,
+          "lastUpdated": "2025-07-15T10:00:01.449898",
+          "batting_order": []
+        }
+      },
+      "updates": [],
+      "matchupKey": "American League All-Stars@National League All-Stars_00:00",
+      "pitcherMatchup": "Tarik Skubal vs Paul Skenes"
+    }
+  ],
+  "quickLookup": {
+    "byTeam": {
+      "National League All-Stars": {
+        "pitcher": "Paul Skenes",
+        "opponent": "American League All-Stars",
+        "opponentPitcher": "Tarik Skubal",
+        "gameTime": "00:00",
+        "homeAway": "home"
+      },
+      "American League All-Stars": {
+        "pitcher": "Tarik Skubal",
+        "opponent": "National League All-Stars",
+        "opponentPitcher": "Paul Skenes",
+        "gameTime": "00:00",
+        "homeAway": "away"
+      }
+    },
+    "byPitcher": {
+      "Paul Skenes": {
+        "team": "National League All-Stars",
+        "opponent": "American League All-Stars",
+        "opponentPitcher": "Tarik Skubal",
+        "gameTime": "00:00",
+        "venue": "Truist Park"
+      },
+      "Tarik Skubal": {
+        "team": "American League All-Stars",
+        "opponent": "National League All-Stars",
+        "opponentPitcher": "Paul Skenes",
+        "gameTime": "00:00",
+        "venue": "Truist Park"
+      }
+    }
+  },
+  "alerts": [],
+  "statistics": {
+    "totalPitchers": 2,
+    "confirmedPitchers": 0,
+    "probablePitchers": 2,
+    "tbdPitchers": 0,
+    "scratchedPitchers": 0,
+    "postponedGames": 0,
+    "lineupsPosted": 0,
+    "lineupsToBePosted": 1
+  }
+}
