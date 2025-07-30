@@ -1,13 +1,13 @@
 {
   "date": "2025-07-29",
-  "lastUpdated": "2025-07-29T09:30:01.503894",
+  "lastUpdated": "2025-07-29T22:30:01.530759",
   "updateCount": 1,
   "totalGames": 16,
-  "gamesWithLineups": 14,
+  "gamesWithLineups": 16,
   "metadata": {
     "scrapedFrom": "https://statsapi.mlb.com/api/v1",
     "dataQuality": "complete",
-    "nextUpdateScheduled": "2025-07-29T10:00:01.503894"
+    "nextUpdateScheduled": "2025-07-29T23:00:01.530759"
   },
   "games": [
     {
@@ -15,7 +15,7 @@
       "date": "2025-07-29",
       "gameTime": "16:35",
       "timezone": "UTC",
-      "status": "Scheduled",
+      "status": "Final",
       "venue": {
         "name": "Oriole Park at Camden Yards",
         "city": "",
@@ -27,7 +27,7 @@
           "abbr": "BAL",
           "name": "Baltimore Orioles",
           "record": {
-            "wins": 48,
+            "wins": 49,
             "losses": 58
           }
         },
@@ -36,7 +36,7 @@
           "name": "Toronto Blue Jays",
           "record": {
             "wins": 63,
-            "losses": 44
+            "losses": 45
           }
         }
       },
@@ -55,8 +55,8 @@
           "confidence": 90
         },
         "away": {
-          "name": "TBD",
-          "id": "",
+          "name": "Easton Lucas",
+          "id": "687922",
           "throws": "",
           "era": 0.0,
           "record": {
@@ -64,32 +64,32 @@
             "losses": 0
           },
           "lastStart": "",
-          "status": "unknown",
-          "confidence": 0
+          "status": "probable",
+          "confidence": 90
         }
       },
       "lineups": {
         "home": {
           "confirmed": false,
-          "lastUpdated": "2025-07-29T09:30:01.503286",
+          "lastUpdated": "2025-07-29T22:30:01.530217",
           "batting_order": []
         },
         "away": {
           "confirmed": false,
-          "lastUpdated": "2025-07-29T09:30:01.503299",
+          "lastUpdated": "2025-07-29T22:30:01.530236",
           "batting_order": []
         }
       },
       "updates": [],
       "matchupKey": "TOR@BAL_16:35",
-      "pitcherMatchup": "TBD vs Charlie Morton"
+      "pitcherMatchup": "Easton Lucas vs Charlie Morton"
     },
     {
       "gameId": "776962",
       "date": "2025-07-29",
       "gameTime": "22:35",
       "timezone": "UTC",
-      "status": "Scheduled",
+      "status": "Final",
       "venue": {
         "name": "Oriole Park at Camden Yards",
         "city": "",
@@ -101,7 +101,7 @@
           "abbr": "BAL",
           "name": "Baltimore Orioles",
           "record": {
-            "wins": 48,
+            "wins": 50,
             "losses": 58
           }
         },
@@ -110,14 +110,14 @@
           "name": "Toronto Blue Jays",
           "record": {
             "wins": 63,
-            "losses": 44
+            "losses": 46
           }
         }
       },
       "pitchers": {
         "home": {
-          "name": "TBD",
-          "id": "",
+          "name": "Brandon Young",
+          "id": "687064",
           "throws": "",
           "era": 0.0,
           "record": {
@@ -125,8 +125,8 @@
             "losses": 0
           },
           "lastStart": "",
-          "status": "unknown",
-          "confidence": 0
+          "status": "probable",
+          "confidence": 90
         },
         "away": {
           "name": "Eric Lauer",
@@ -145,25 +145,25 @@
       "lineups": {
         "home": {
           "confirmed": false,
-          "lastUpdated": "2025-07-29T09:30:01.503345",
+          "lastUpdated": "2025-07-29T22:30:01.530281",
           "batting_order": []
         },
         "away": {
           "confirmed": false,
-          "lastUpdated": "2025-07-29T09:30:01.503348",
+          "lastUpdated": "2025-07-29T22:30:01.530284",
           "batting_order": []
         }
       },
       "updates": [],
       "matchupKey": "TOR@BAL_22:35",
-      "pitcherMatchup": "Eric Lauer vs TBD"
+      "pitcherMatchup": "Eric Lauer vs Brandon Young"
     },
     {
       "gameId": "776951",
       "date": "2025-07-29",
       "gameTime": "22:40",
       "timezone": "UTC",
-      "status": "Scheduled",
+      "status": "Final",
       "venue": {
         "name": "Progressive Field",
         "city": "",
@@ -175,7 +175,7 @@
           "abbr": "CLE",
           "name": "Cleveland Guardians",
           "record": {
-            "wins": 52,
+            "wins": 53,
             "losses": 54
           }
         },
@@ -184,7 +184,7 @@
           "name": "Colorado Rockies",
           "record": {
             "wins": 28,
-            "losses": 78
+            "losses": 79
           }
         }
       },
@@ -219,12 +219,12 @@
       "lineups": {
         "home": {
           "confirmed": false,
-          "lastUpdated": "2025-07-29T09:30:01.503382",
+          "lastUpdated": "2025-07-29T22:30:01.530321",
           "batting_order": []
         },
         "away": {
           "confirmed": false,
-          "lastUpdated": "2025-07-29T09:30:01.503384",
+          "lastUpdated": "2025-07-29T22:30:01.530323",
           "batting_order": []
         }
       },
@@ -237,7 +237,7 @@
       "date": "2025-07-29",
       "gameTime": "22:40",
       "timezone": "UTC",
-      "status": "Scheduled",
+      "status": "Final",
       "venue": {
         "name": "Comerica Park",
         "city": "",
@@ -249,7 +249,7 @@
           "abbr": "DET",
           "name": "Detroit Tigers",
           "record": {
-            "wins": 62,
+            "wins": 63,
             "losses": 46
           }
         },
@@ -258,7 +258,7 @@
           "name": "Arizona Diamondbacks",
           "record": {
             "wins": 51,
-            "losses": 56
+            "losses": 57
           }
         }
       },
@@ -293,12 +293,12 @@
       "lineups": {
         "home": {
           "confirmed": false,
-          "lastUpdated": "2025-07-29T09:30:01.503417",
+          "lastUpdated": "2025-07-29T22:30:01.530357",
           "batting_order": []
         },
         "away": {
           "confirmed": false,
-          "lastUpdated": "2025-07-29T09:30:01.503422",
+          "lastUpdated": "2025-07-29T22:30:01.530359",
           "batting_order": []
         }
       },
@@ -311,7 +311,7 @@
       "date": "2025-07-29",
       "gameTime": "23:05",
       "timezone": "UTC",
-      "status": "Scheduled",
+      "status": "Final",
       "venue": {
         "name": "Yankee Stadium",
         "city": "",
@@ -323,7 +323,7 @@
           "abbr": "NYY",
           "name": "New York Yankees",
           "record": {
-            "wins": 57,
+            "wins": 58,
             "losses": 49
           }
         },
@@ -332,7 +332,7 @@
           "name": "Tampa Bay Rays",
           "record": {
             "wins": 54,
-            "losses": 53
+            "losses": 54
           }
         }
       },
@@ -367,12 +367,12 @@
       "lineups": {
         "home": {
           "confirmed": false,
-          "lastUpdated": "2025-07-29T09:30:01.503448",
+          "lastUpdated": "2025-07-29T22:30:01.530386",
           "batting_order": []
         },
         "away": {
           "confirmed": false,
-          "lastUpdated": "2025-07-29T09:30:01.503451",
+          "lastUpdated": "2025-07-29T22:30:01.530389",
           "batting_order": []
         }
       },
@@ -385,7 +385,7 @@
       "date": "2025-07-29",
       "gameTime": "23:10",
       "timezone": "UTC",
-      "status": "Scheduled",
+      "status": "Final",
       "venue": {
         "name": "Great American Ball Park",
         "city": "",
@@ -398,14 +398,14 @@
           "name": "Cincinnati Reds",
           "record": {
             "wins": 56,
-            "losses": 51
+            "losses": 52
           }
         },
         "away": {
           "abbr": "LAD",
           "name": "Los Angeles Dodgers",
           "record": {
-            "wins": 62,
+            "wins": 63,
             "losses": 45
           }
         }
@@ -441,12 +441,12 @@
       "lineups": {
         "home": {
           "confirmed": false,
-          "lastUpdated": "2025-07-29T09:30:01.503478",
+          "lastUpdated": "2025-07-29T22:30:01.530418",
           "batting_order": []
         },
         "away": {
           "confirmed": false,
-          "lastUpdated": "2025-07-29T09:30:01.503480",
+          "lastUpdated": "2025-07-29T22:30:01.530420",
           "batting_order": []
         }
       },
@@ -459,7 +459,7 @@
       "date": "2025-07-29",
       "gameTime": "23:40",
       "timezone": "UTC",
-      "status": "Scheduled",
+      "status": "In Progress",
       "venue": {
         "name": "Target Field",
         "city": "",
@@ -486,8 +486,8 @@
       },
       "pitchers": {
         "home": {
-          "name": "TBD",
-          "id": "",
+          "name": "Pierson Ohl",
+          "id": "701487",
           "throws": "",
           "era": 0.0,
           "record": {
@@ -495,8 +495,8 @@
             "losses": 0
           },
           "lastStart": "",
-          "status": "unknown",
-          "confidence": 0
+          "status": "probable",
+          "confidence": 90
         },
         "away": {
           "name": "Lucas Giolito",
@@ -515,25 +515,25 @@
       "lineups": {
         "home": {
           "confirmed": false,
-          "lastUpdated": "2025-07-29T09:30:01.503516",
+          "lastUpdated": "2025-07-29T22:30:01.530449",
           "batting_order": []
         },
         "away": {
           "confirmed": false,
-          "lastUpdated": "2025-07-29T09:30:01.503518",
+          "lastUpdated": "2025-07-29T22:30:01.530451",
           "batting_order": []
         }
       },
       "updates": [],
       "matchupKey": "BOS@MIN_23:40",
-      "pitcherMatchup": "Lucas Giolito vs TBD"
+      "pitcherMatchup": "Lucas Giolito vs Pierson Ohl"
     },
     {
       "gameId": "776955",
       "date": "2025-07-29",
       "gameTime": "23:40",
       "timezone": "UTC",
-      "status": "Scheduled",
+      "status": "In Progress",
       "venue": {
         "name": "Kauffman Stadium",
         "city": "",
@@ -589,12 +589,12 @@
       "lineups": {
         "home": {
           "confirmed": false,
-          "lastUpdated": "2025-07-29T09:30:01.503544",
+          "lastUpdated": "2025-07-29T22:30:01.530484",
           "batting_order": []
         },
         "away": {
           "confirmed": false,
-          "lastUpdated": "2025-07-29T09:30:01.503546",
+          "lastUpdated": "2025-07-29T22:30:01.530486",
           "batting_order": []
         }
       },
@@ -607,7 +607,7 @@
       "date": "2025-07-29",
       "gameTime": "23:40",
       "timezone": "UTC",
-      "status": "Scheduled",
+      "status": "Final",
       "venue": {
         "name": "Rate Field",
         "city": "",
@@ -620,14 +620,14 @@
           "name": "Chicago White Sox",
           "record": {
             "wins": 39,
-            "losses": 68
+            "losses": 69
           }
         },
         "away": {
           "abbr": "PHI",
           "name": "Philadelphia Phillies",
           "record": {
-            "wins": 60,
+            "wins": 61,
             "losses": 46
           }
         }
@@ -663,12 +663,12 @@
       "lineups": {
         "home": {
           "confirmed": false,
-          "lastUpdated": "2025-07-29T09:30:01.503570",
+          "lastUpdated": "2025-07-29T22:30:01.530518",
           "batting_order": []
         },
         "away": {
           "confirmed": false,
-          "lastUpdated": "2025-07-29T09:30:01.503572",
+          "lastUpdated": "2025-07-29T22:30:01.530520",
           "batting_order": []
         }
       },
@@ -681,7 +681,7 @@
       "date": "2025-07-29",
       "gameTime": "23:40",
       "timezone": "UTC",
-      "status": "Scheduled",
+      "status": "In Progress",
       "venue": {
         "name": "American Family Field",
         "city": "",
@@ -737,12 +737,12 @@
       "lineups": {
         "home": {
           "confirmed": false,
-          "lastUpdated": "2025-07-29T09:30:01.503605",
+          "lastUpdated": "2025-07-29T22:30:01.530546",
           "batting_order": []
         },
         "away": {
           "confirmed": false,
-          "lastUpdated": "2025-07-29T09:30:01.503607",
+          "lastUpdated": "2025-07-29T22:30:01.530548",
           "batting_order": []
         }
       },
@@ -755,7 +755,7 @@
       "date": "2025-07-29",
       "gameTime": "23:45",
       "timezone": "UTC",
-      "status": "Scheduled",
+      "status": "In Progress",
       "venue": {
         "name": "Busch Stadium",
         "city": "",
@@ -811,12 +811,12 @@
       "lineups": {
         "home": {
           "confirmed": false,
-          "lastUpdated": "2025-07-29T09:30:01.503632",
+          "lastUpdated": "2025-07-29T22:30:01.530578",
           "batting_order": []
         },
         "away": {
           "confirmed": false,
-          "lastUpdated": "2025-07-29T09:30:01.503634",
+          "lastUpdated": "2025-07-29T22:30:01.530579",
           "batting_order": []
         }
       },
@@ -829,7 +829,7 @@
       "date": "2025-07-30",
       "gameTime": "00:10",
       "timezone": "UTC",
-      "status": "Scheduled",
+      "status": "In Progress",
       "venue": {
         "name": "Daikin Park",
         "city": "",
@@ -885,12 +885,12 @@
       "lineups": {
         "home": {
           "confirmed": false,
-          "lastUpdated": "2025-07-29T09:30:01.503658",
+          "lastUpdated": "2025-07-29T22:30:01.530609",
           "batting_order": []
         },
         "away": {
           "confirmed": false,
-          "lastUpdated": "2025-07-29T09:30:01.503664",
+          "lastUpdated": "2025-07-29T22:30:01.530611",
           "batting_order": []
         }
       },
@@ -903,7 +903,7 @@
       "date": "2025-07-30",
       "gameTime": "01:38",
       "timezone": "UTC",
-      "status": "Scheduled",
+      "status": "In Progress",
       "venue": {
         "name": "Angel Stadium",
         "city": "",
@@ -959,12 +959,12 @@
       "lineups": {
         "home": {
           "confirmed": false,
-          "lastUpdated": "2025-07-29T09:30:01.503696",
+          "lastUpdated": "2025-07-29T22:30:01.530636",
           "batting_order": []
         },
         "away": {
           "confirmed": false,
-          "lastUpdated": "2025-07-29T09:30:01.503698",
+          "lastUpdated": "2025-07-29T22:30:01.530638",
           "batting_order": []
         }
       },
@@ -977,7 +977,7 @@
       "date": "2025-07-30",
       "gameTime": "01:40",
       "timezone": "UTC",
-      "status": "Scheduled",
+      "status": "In Progress",
       "venue": {
         "name": "Petco Park",
         "city": "",
@@ -1033,12 +1033,12 @@
       "lineups": {
         "home": {
           "confirmed": false,
-          "lastUpdated": "2025-07-29T09:30:01.503811",
+          "lastUpdated": "2025-07-29T22:30:01.530670",
           "batting_order": []
         },
         "away": {
           "confirmed": false,
-          "lastUpdated": "2025-07-29T09:30:01.503814",
+          "lastUpdated": "2025-07-29T22:30:01.530671",
           "batting_order": []
         }
       },
@@ -1051,7 +1051,7 @@
       "date": "2025-07-30",
       "gameTime": "01:45",
       "timezone": "UTC",
-      "status": "Scheduled",
+      "status": "In Progress",
       "venue": {
         "name": "Oracle Park",
         "city": "",
@@ -1107,12 +1107,12 @@
       "lineups": {
         "home": {
           "confirmed": false,
-          "lastUpdated": "2025-07-29T09:30:01.503847",
+          "lastUpdated": "2025-07-29T22:30:01.530704",
           "batting_order": []
         },
         "away": {
           "confirmed": false,
-          "lastUpdated": "2025-07-29T09:30:01.503849",
+          "lastUpdated": "2025-07-29T22:30:01.530706",
           "batting_order": []
         }
       },
@@ -1125,7 +1125,7 @@
       "date": "2025-07-30",
       "gameTime": "02:05",
       "timezone": "UTC",
-      "status": "Scheduled",
+      "status": "In Progress",
       "venue": {
         "name": "Sutter Health Park",
         "city": "",
@@ -1181,12 +1181,12 @@
       "lineups": {
         "home": {
           "confirmed": false,
-          "lastUpdated": "2025-07-29T09:30:01.503874",
+          "lastUpdated": "2025-07-29T22:30:01.530731",
           "batting_order": []
         },
         "away": {
           "confirmed": false,
-          "lastUpdated": "2025-07-29T09:30:01.503875",
+          "lastUpdated": "2025-07-29T22:30:01.530733",
           "batting_order": []
         }
       },
@@ -1198,7 +1198,7 @@
   "quickLookup": {
     "byTeam": {
       "BAL": {
-        "pitcher": "TBD",
+        "pitcher": "Brandon Young",
         "opponent": "TOR",
         "opponentPitcher": "Eric Lauer",
         "gameTime": "22:35",
@@ -1207,7 +1207,7 @@
       "TOR": {
         "pitcher": "Eric Lauer",
         "opponent": "BAL",
-        "opponentPitcher": "TBD",
+        "opponentPitcher": "Brandon Young",
         "gameTime": "22:35",
         "homeAway": "away"
       },
@@ -1268,7 +1268,7 @@
         "homeAway": "away"
       },
       "MIN": {
-        "pitcher": "TBD",
+        "pitcher": "Pierson Ohl",
         "opponent": "BOS",
         "opponentPitcher": "Lucas Giolito",
         "gameTime": "23:40",
@@ -1277,7 +1277,7 @@
       "BOS": {
         "pitcher": "Lucas Giolito",
         "opponent": "MIN",
-        "opponentPitcher": "TBD",
+        "opponentPitcher": "Pierson Ohl",
         "gameTime": "23:40",
         "homeAway": "away"
       },
@@ -1412,21 +1412,28 @@
       "Charlie Morton": {
         "team": "BAL",
         "opponent": "TOR",
-        "opponentPitcher": "TBD",
+        "opponentPitcher": "Easton Lucas",
         "gameTime": "16:35",
         "venue": "Oriole Park at Camden Yards"
       },
-      "TBD": {
-        "team": "MIN",
-        "opponent": "BOS",
-        "opponentPitcher": "Lucas Giolito",
-        "gameTime": "23:40",
-        "venue": "Target Field"
+      "Easton Lucas": {
+        "team": "TOR",
+        "opponent": "BAL",
+        "opponentPitcher": "Charlie Morton",
+        "gameTime": "16:35",
+        "venue": "Oriole Park at Camden Yards"
+      },
+      "Brandon Young": {
+        "team": "BAL",
+        "opponent": "TOR",
+        "opponentPitcher": "Eric Lauer",
+        "gameTime": "22:35",
+        "venue": "Oriole Park at Camden Yards"
       },
       "Eric Lauer": {
         "team": "TOR",
         "opponent": "BAL",
-        "opponentPitcher": "TBD",
+        "opponentPitcher": "Brandon Young",
         "gameTime": "22:35",
         "venue": "Oriole Park at Camden Yards"
       },
@@ -1486,10 +1493,17 @@
         "gameTime": "23:10",
         "venue": "Great American Ball Park"
       },
+      "Pierson Ohl": {
+        "team": "MIN",
+        "opponent": "BOS",
+        "opponentPitcher": "Lucas Giolito",
+        "gameTime": "23:40",
+        "venue": "Target Field"
+      },
       "Lucas Giolito": {
         "team": "BOS",
         "opponent": "MIN",
-        "opponentPitcher": "TBD",
+        "opponentPitcher": "Pierson Ohl",
         "gameTime": "23:40",
         "venue": "Target Field"
       },
@@ -1625,8 +1639,8 @@
   "statistics": {
     "totalPitchers": 32,
     "confirmedPitchers": 0,
-    "probablePitchers": 29,
-    "tbdPitchers": 3,
+    "probablePitchers": 32,
+    "tbdPitchers": 0,
     "scratchedPitchers": 0,
     "postponedGames": 0,
     "lineupsPosted": 0,
