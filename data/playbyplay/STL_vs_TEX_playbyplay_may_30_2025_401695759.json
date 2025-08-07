@@ -2,7 +2,7 @@
   "metadata": {
     "game_id": "401695759",
     "api_url": "https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/summary?event=401695759",
-    "scraped_at": "2025-08-06T17:23:08.498575",
+    "scraped_at": "2025-08-07T03:51:49.727733",
     "away_team": "STL",
     "home_team": "TEX"
   },
@@ -12,8 +12,8 @@
       "game_id": "401695759",
       "inning": 1,
       "inning_half": "Top",
-      "batter": "Batter_4448736",
-      "pitcher": "Pitcher_4622181",
+      "batter": "Lars Nootbaar",
+      "pitcher": "Jack Leiter",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -42,15 +42,23 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016957590001: Pitch 3 : Ball In Play"
+      "raw_text": "Nootbaar grounded out to second.",
+      "all_play_texts": [
+        "Top of the 1st inning",
+        "Jack Leiter pitches to Lars Nootbaar",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Looking",
+        "Pitch 3 : Ball In Play",
+        "Nootbaar grounded out to second."
+      ]
     },
     {
       "play_sequence": 2,
       "game_id": "401695759",
       "inning": 1,
       "inning_half": "Top",
-      "batter": "Batter_4683365",
-      "pitcher": "Pitcher_4622181",
+      "batter": "Masyn Winn",
+      "pitcher": "Jack Leiter",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -103,15 +111,25 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016957590002: "
+      "raw_text": "Winn fouled out to first.",
+      "all_play_texts": [
+        "Jack Leiter pitches to Masyn Winn",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Foul",
+        "Pitch 3 : Strike 2 Looking",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Ball 2",
+        "Pitch 6 : Ball In Play",
+        "Winn fouled out to first."
+      ]
     },
     {
       "play_sequence": 3,
       "game_id": "401695759",
       "inning": 1,
       "inning_half": "Mid",
-      "batter": "Batter_41773",
-      "pitcher": "Pitcher_4622181",
+      "batter": "Brendan Donovan",
+      "pitcher": "Jack Leiter",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -156,15 +174,25 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016957590003: "
+      "raw_text": "Donovan struck out looking.",
+      "all_play_texts": [
+        "Jack Leiter pitches to Brendan Donovan",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Foul",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Strike 3 Looking",
+        "Donovan struck out looking.",
+        "Middle of the 1st inning"
+      ]
     },
     {
       "play_sequence": 4,
       "game_id": "401695759",
       "inning": 1,
       "inning_half": "Bottom",
-      "batter": "Batter_38347",
-      "pitcher": "Pitcher_41173",
+      "batter": "Sam Haggerty",
+      "pitcher": "Matthew Liberatore",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -209,15 +237,25 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016957590101: "
+      "raw_text": "Haggerty safe at first on throwing error by shortstop Winn.",
+      "all_play_texts": [
+        "Bottom of the 1st inning",
+        "Matthew Liberatore pitches to Sam Haggerty",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Strike 2 Looking",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Ball In Play",
+        "Haggerty safe at first on throwing error by shortstop Winn."
+      ]
     },
     {
       "play_sequence": 5,
       "game_id": "401695759",
       "inning": 1,
       "inning_half": "Bottom",
-      "batter": "Batter_4719324",
-      "pitcher": "Pitcher_41173",
+      "batter": "Wyatt Langford",
+      "pitcher": "Matthew Liberatore",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -238,15 +276,21 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016957590102: "
+      "raw_text": "Langford fouled out to first.",
+      "all_play_texts": [
+        "Matthew Liberatore pitches to Wyatt Langford",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball In Play",
+        "Langford fouled out to first."
+      ]
     },
     {
       "play_sequence": 6,
       "game_id": "401695759",
       "inning": 1,
       "inning_half": "Bottom",
-      "batter": "Batter_32691",
-      "pitcher": "Pitcher_41173",
+      "batter": "Corey Seager",
+      "pitcher": "Matthew Liberatore",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -307,15 +351,27 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016957590103: "
+      "raw_text": "Seager struck out swinging.",
+      "all_play_texts": [
+        "Matthew Liberatore pitches to Corey Seager",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Ball 1",
+        "Haggerty to second on wild pitch by Liberatore.",
+        "Pitch 3 : Strike 2 Swinging",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Ball 3",
+        "Pitch 6 : Strike 2 Foul",
+        "Pitch 7 : Strike 3 Swinging",
+        "Seager struck out swinging."
+      ]
     },
     {
       "play_sequence": 7,
       "game_id": "401695759",
       "inning": 1,
       "inning_half": "Bottom",
-      "batter": "Batter_42437",
-      "pitcher": "Pitcher_41173",
+      "batter": "Josh Jung",
+      "pitcher": "Matthew Liberatore",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -328,15 +384,20 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016957590104: Pitch 1 : Ball In Play"
+      "raw_text": "Matthew Liberatore pitches to Josh Jung",
+      "all_play_texts": [
+        "Matthew Liberatore pitches to Josh Jung",
+        "Pitch 1 : Ball In Play",
+        "Jung singled to left, Haggerty scored."
+      ]
     },
     {
       "play_sequence": 8,
       "game_id": "401695759",
       "inning": 1,
       "inning_half": "End",
-      "batter": "Batter_33842",
-      "pitcher": "Pitcher_41173",
+      "batter": "Jonah Heim",
+      "pitcher": "Matthew Liberatore",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -365,15 +426,23 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016957590105: Pitch 3 : Ball In Play"
+      "raw_text": "Heim flied out to center.",
+      "all_play_texts": [
+        "Matthew Liberatore pitches to Jonah Heim",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball In Play",
+        "Heim flied out to center.",
+        "End of the 1st inning"
+      ]
     },
     {
       "play_sequence": 9,
       "game_id": "401695759",
       "inning": 2,
       "inning_half": "Top",
-      "batter": "Batter_32532",
-      "pitcher": "Pitcher_4622181",
+      "batter": "Willson Contreras",
+      "pitcher": "Jack Leiter",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -386,15 +455,21 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016957590201: Pitch 1 : Ball In Play"
+      "raw_text": "Jack Leiter pitches to Willson Contreras",
+      "all_play_texts": [
+        "Top of the 2nd inning",
+        "Jack Leiter pitches to Willson Contreras",
+        "Pitch 1 : Ball In Play",
+        "Contreras singled to left."
+      ]
     },
     {
       "play_sequence": 10,
       "game_id": "401695759",
       "inning": 2,
       "inning_half": "Top",
-      "batter": "Batter_41889",
-      "pitcher": "Pitcher_4622181",
+      "batter": "Ivan Herrera",
+      "pitcher": "Jack Leiter",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -439,15 +514,25 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016957590202: "
+      "raw_text": "Herrera struck out swinging.",
+      "all_play_texts": [
+        "Jack Leiter pitches to Ivan Herrera",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Looking",
+        "Pitch 3 : Strike 2 Looking",
+        "Pitch 4 : Ball 2",
+        "Contreras to second on wild pitch by Leiter.",
+        "Pitch 5 : Strike 3 Swinging",
+        "Herrera struck out swinging."
+      ]
     },
     {
       "play_sequence": 11,
       "game_id": "401695759",
       "inning": 2,
       "inning_half": "Top",
-      "batter": "Batter_31261",
-      "pitcher": "Pitcher_4622181",
+      "batter": "Nolan Arenado",
+      "pitcher": "Jack Leiter",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -500,15 +585,25 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016957590203: "
+      "raw_text": "Jack Leiter pitches to Nolan Arenado",
+      "all_play_texts": [
+        "Jack Leiter pitches to Nolan Arenado",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Ball 3",
+        "Pitch 4 : Strike 1 Looking",
+        "Pitch 5 : Strike 2 Foul",
+        "Pitch 6 : Ball 4",
+        "Arenado walked."
+      ]
     },
     {
       "play_sequence": 12,
       "game_id": "401695759",
       "inning": 2,
       "inning_half": "Top",
-      "batter": "Batter_4345070",
-      "pitcher": "Pitcher_4622181",
+      "batter": "Alec Burleson",
+      "pitcher": "Jack Leiter",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Lineout",
       "pitch_sequence": [
@@ -521,15 +616,20 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016957590204: Pitch 1 : Ball In Play"
+      "raw_text": "Burleson lined out to center.",
+      "all_play_texts": [
+        "Jack Leiter pitches to Alec Burleson",
+        "Pitch 1 : Ball In Play",
+        "Burleson lined out to center."
+      ]
     },
     {
       "play_sequence": 13,
       "game_id": "401695759",
       "inning": 2,
       "inning_half": "Mid",
-      "batter": "Batter_35675",
-      "pitcher": "Pitcher_4622181",
+      "batter": "Yohel Pozo",
+      "pitcher": "Jack Leiter",
       "play_description": "Pitch 5 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -574,15 +674,25 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016957590205: Pitch 5 : Ball In Play"
+      "raw_text": "Pozo grounded out to first.",
+      "all_play_texts": [
+        "Jack Leiter pitches to Yohel Pozo",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Looking",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Ball In Play",
+        "Pozo grounded out to first.",
+        "Middle of the 2nd inning"
+      ]
     },
     {
       "play_sequence": 14,
       "game_id": "401695759",
       "inning": 2,
       "inning_half": "Bottom",
-      "batter": "Batter_39882",
-      "pitcher": "Pitcher_41173",
+      "batter": "Jake Burger",
+      "pitcher": "Matthew Liberatore",
       "play_description": "Pitch 7 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -643,15 +753,27 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016957590301: Pitch 7 : Ball In Play"
+      "raw_text": "Burger flied out to center.",
+      "all_play_texts": [
+        "Bottom of the 2nd inning",
+        "Matthew Liberatore pitches to Jake Burger",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Ball 3",
+        "Pitch 5 : Strike 2 Looking",
+        "Pitch 6 : Strike 2 Foul",
+        "Pitch 7 : Ball In Play",
+        "Burger flied out to center."
+      ]
     },
     {
       "play_sequence": 15,
       "game_id": "401695759",
       "inning": 2,
       "inning_half": "Bottom",
-      "batter": "Batter_30545",
-      "pitcher": "Pitcher_41173",
+      "batter": "Kyle Higashioka",
+      "pitcher": "Matthew Liberatore",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -672,15 +794,21 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016957590302: Pitch 2 : Ball In Play"
+      "raw_text": "Matthew Liberatore pitches to Kyle Higashioka",
+      "all_play_texts": [
+        "Matthew Liberatore pitches to Kyle Higashioka",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball In Play",
+        "Higashioka singled to center."
+      ]
     },
     {
       "play_sequence": 16,
       "game_id": "401695759",
       "inning": 2,
       "inning_half": "Bottom",
-      "batter": "Batter_32146",
-      "pitcher": "Pitcher_41173",
+      "batter": "Marcus Semien",
+      "pitcher": "Matthew Liberatore",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -709,15 +837,22 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016957590303: Pitch 3 : Ball In Play"
+      "raw_text": "Matthew Liberatore pitches to Marcus Semien",
+      "all_play_texts": [
+        "Matthew Liberatore pitches to Marcus Semien",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Looking",
+        "Pitch 3 : Ball In Play",
+        "Semien singled to left, Higashioka to second."
+      ]
     },
     {
       "play_sequence": 17,
       "game_id": "401695759",
       "inning": 2,
       "inning_half": "Bottom",
-      "batter": "Batter_42457",
-      "pitcher": "Pitcher_41173",
+      "batter": "Ezequiel Duran",
+      "pitcher": "Matthew Liberatore",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Lineout",
       "pitch_sequence": [
@@ -738,15 +873,21 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016957590304: Pitch 2 : Ball In Play"
+      "raw_text": "Duran lined out to center.",
+      "all_play_texts": [
+        "Matthew Liberatore pitches to Ezequiel Duran",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball In Play",
+        "Duran lined out to center."
+      ]
     },
     {
       "play_sequence": 18,
       "game_id": "401695759",
       "inning": 2,
       "inning_half": "Bottom",
-      "batter": "Batter_38347",
-      "pitcher": "Pitcher_41173",
+      "batter": "Sam Haggerty",
+      "pitcher": "Matthew Liberatore",
       "play_description": "Pitch 6 : Ball In Play",
       "play_result": "Triple",
       "pitch_sequence": [
@@ -799,15 +940,25 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016957590305: Pitch 6 : Ball In Play"
+      "raw_text": "Matthew Liberatore pitches to Sam Haggerty",
+      "all_play_texts": [
+        "Matthew Liberatore pitches to Sam Haggerty",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Looking",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Ball 3",
+        "Pitch 6 : Ball In Play",
+        "Haggerty tripled to right, Higashioka scored and Semien scored."
+      ]
     },
     {
       "play_sequence": 19,
       "game_id": "401695759",
       "inning": 2,
       "inning_half": "Bottom",
-      "batter": "Batter_4719324",
-      "pitcher": "Pitcher_41173",
+      "batter": "Wyatt Langford",
+      "pitcher": "Matthew Liberatore",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Home Run",
       "pitch_sequence": [
@@ -836,15 +987,22 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016957590306: Pitch 3 : Ball In Play"
+      "raw_text": "Matthew Liberatore pitches to Wyatt Langford",
+      "all_play_texts": [
+        "Matthew Liberatore pitches to Wyatt Langford",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Ball In Play",
+        "Langford homered to left center (390 feet), Haggerty scored."
+      ]
     },
     {
       "play_sequence": 20,
       "game_id": "401695759",
       "inning": 2,
       "inning_half": "End",
-      "batter": "Batter_32691",
-      "pitcher": "Pitcher_41173",
+      "batter": "Corey Seager",
+      "pitcher": "Matthew Liberatore",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -857,15 +1015,21 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016957590307: Pitch 1 : Ball In Play"
+      "raw_text": "Seager flied out to left.",
+      "all_play_texts": [
+        "Matthew Liberatore pitches to Corey Seager",
+        "Pitch 1 : Ball In Play",
+        "Seager flied out to left.",
+        "End of the 2nd inning"
+      ]
     },
     {
       "play_sequence": 21,
       "game_id": "401695759",
       "inning": 3,
       "inning_half": "Top",
-      "batter": "Batter_4807220",
-      "pitcher": "Pitcher_4622181",
+      "batter": "Victor Scott II",
+      "pitcher": "Jack Leiter",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -902,15 +1066,24 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016957590401: "
+      "raw_text": "Scott II struck out swinging.",
+      "all_play_texts": [
+        "Top of the 3rd inning",
+        "Jack Leiter pitches to Victor Scott II",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Strike 3 Swinging",
+        "Scott II struck out swinging."
+      ]
     },
     {
       "play_sequence": 22,
       "game_id": "401695759",
       "inning": 3,
       "inning_half": "Top",
-      "batter": "Batter_4448736",
-      "pitcher": "Pitcher_4622181",
+      "batter": "Lars Nootbaar",
+      "pitcher": "Jack Leiter",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -947,15 +1120,23 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016957590402: "
+      "raw_text": "Nootbaar struck out swinging.",
+      "all_play_texts": [
+        "Jack Leiter pitches to Lars Nootbaar",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Looking",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Strike 3 Swinging",
+        "Nootbaar struck out swinging."
+      ]
     },
     {
       "play_sequence": 23,
       "game_id": "401695759",
       "inning": 3,
       "inning_half": "Mid",
-      "batter": "Batter_4683365",
-      "pitcher": "Pitcher_4622181",
+      "batter": "Masyn Winn",
+      "pitcher": "Jack Leiter",
       "play_description": "Pitch 5 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -1000,15 +1181,25 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016957590403: Pitch 5 : Ball In Play"
+      "raw_text": "Winn flied out to center.",
+      "all_play_texts": [
+        "Jack Leiter pitches to Masyn Winn",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Ball 3",
+        "Pitch 4 : Strike 1 Looking",
+        "Pitch 5 : Ball In Play",
+        "Winn flied out to center.",
+        "Middle of the 3rd inning"
+      ]
     },
     {
       "play_sequence": 24,
       "game_id": "401695759",
       "inning": 3,
       "inning_half": "Bottom",
-      "batter": "Batter_42437",
-      "pitcher": "Pitcher_41173",
+      "batter": "Josh Jung",
+      "pitcher": "Matthew Liberatore",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1037,15 +1228,23 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016957590501: "
+      "raw_text": "Jung struck out swinging.",
+      "all_play_texts": [
+        "Bottom of the 3rd inning",
+        "Matthew Liberatore pitches to Josh Jung",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Swinging",
+        "Pitch 3 : Strike 3 Swinging",
+        "Jung struck out swinging."
+      ]
     },
     {
       "play_sequence": 25,
       "game_id": "401695759",
       "inning": 3,
       "inning_half": "Bottom",
-      "batter": "Batter_33842",
-      "pitcher": "Pitcher_41173",
+      "batter": "Jonah Heim",
+      "pitcher": "Matthew Liberatore",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1106,15 +1305,26 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016957590502: "
+      "raw_text": "Heim struck out swinging.",
+      "all_play_texts": [
+        "Matthew Liberatore pitches to Jonah Heim",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Ball 3",
+        "Pitch 6 : Strike 2 Foul",
+        "Pitch 7 : Strike 3 Swinging",
+        "Heim struck out swinging."
+      ]
     },
     {
       "play_sequence": 26,
       "game_id": "401695759",
       "inning": 3,
       "inning_half": "End",
-      "batter": "Batter_39882",
-      "pitcher": "Pitcher_41173",
+      "batter": "Jake Burger",
+      "pitcher": "Matthew Liberatore",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -1127,15 +1337,21 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016957590503: Pitch 1 : Ball In Play"
+      "raw_text": "Burger grounded out to second.",
+      "all_play_texts": [
+        "Matthew Liberatore pitches to Jake Burger",
+        "Pitch 1 : Ball In Play",
+        "Burger grounded out to second.",
+        "End of the 3rd inning"
+      ]
     },
     {
       "play_sequence": 27,
       "game_id": "401695759",
       "inning": 4,
       "inning_half": "Top",
-      "batter": "Batter_41773",
-      "pitcher": "Pitcher_4622181",
+      "batter": "Brendan Donovan",
+      "pitcher": "Jack Leiter",
       "play_description": "Pitch 7 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -1196,15 +1412,27 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016957590601: Pitch 7 : Ball In Play"
+      "raw_text": "Jack Leiter pitches to Brendan Donovan",
+      "all_play_texts": [
+        "Top of the 4th inning",
+        "Jack Leiter pitches to Brendan Donovan",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Strike 1 Foul",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Ball 3",
+        "Pitch 6 : Strike 2 Foul",
+        "Pitch 7 : Ball In Play",
+        "Donovan singled to center."
+      ]
     },
     {
       "play_sequence": 28,
       "game_id": "401695759",
       "inning": 4,
       "inning_half": "Top",
-      "batter": "Batter_32532",
-      "pitcher": "Pitcher_4622181",
+      "batter": "Willson Contreras",
+      "pitcher": "Jack Leiter",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1257,15 +1485,25 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016957590602: "
+      "raw_text": "Contreras struck out swinging.",
+      "all_play_texts": [
+        "Jack Leiter pitches to Willson Contreras",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Foul",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Strike 2 Foul",
+        "Pitch 6 : Strike 3 Swinging",
+        "Contreras struck out swinging."
+      ]
     },
     {
       "play_sequence": 29,
       "game_id": "401695759",
       "inning": 4,
       "inning_half": "Mid",
-      "batter": "Batter_41889",
-      "pitcher": "Pitcher_4622181",
+      "batter": "Ivan Herrera",
+      "pitcher": "Jack Leiter",
       "play_description": "Pitch 7 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -1326,15 +1564,27 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016957590603: Pitch 7 : Ball In Play"
+      "raw_text": "Herrera grounded into double play, shortstop to second to first, Donovan out at second.",
+      "all_play_texts": [
+        "Jack Leiter pitches to Ivan Herrera",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Foul",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Ball 3",
+        "Pitch 5 : Strike 2 Foul",
+        "Pitch 6 : Strike 2 Foul",
+        "Pitch 7 : Ball In Play",
+        "Herrera grounded into double play, shortstop to second to first, Donovan out at second.",
+        "Middle of the 4th inning"
+      ]
     },
     {
       "play_sequence": 30,
       "game_id": "401695759",
       "inning": 4,
       "inning_half": "Bottom",
-      "batter": "Batter_30545",
-      "pitcher": "Pitcher_41173",
+      "batter": "Kyle Higashioka",
+      "pitcher": "Matthew Liberatore",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1379,15 +1629,25 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016957590701: "
+      "raw_text": "Higashioka struck out swinging.",
+      "all_play_texts": [
+        "Bottom of the 4th inning",
+        "Matthew Liberatore pitches to Kyle Higashioka",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Swinging",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Strike 2 Swinging",
+        "Pitch 5 : Strike 3 Swinging",
+        "Higashioka struck out swinging."
+      ]
     },
     {
       "play_sequence": 31,
       "game_id": "401695759",
       "inning": 4,
       "inning_half": "Bottom",
-      "batter": "Batter_32146",
-      "pitcher": "Pitcher_41173",
+      "batter": "Marcus Semien",
+      "pitcher": "Matthew Liberatore",
       "play_description": "Pitch 4 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -1424,15 +1684,23 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016957590702: Pitch 4 : Ball In Play"
+      "raw_text": "Matthew Liberatore pitches to Marcus Semien",
+      "all_play_texts": [
+        "Matthew Liberatore pitches to Marcus Semien",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Ball In Play",
+        "Semien singled to center."
+      ]
     },
     {
       "play_sequence": 32,
       "game_id": "401695759",
       "inning": 4,
       "inning_half": "Bottom",
-      "batter": "Batter_42457",
-      "pitcher": "Pitcher_41173",
+      "batter": "Ezequiel Duran",
+      "pitcher": "Matthew Liberatore",
       "play_description": "Pitch 5 : Ball In Play",
       "play_result": "Lineout",
       "pitch_sequence": [
@@ -1477,15 +1745,24 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016957590703: Pitch 5 : Ball In Play"
+      "raw_text": "Duran lined out to third.",
+      "all_play_texts": [
+        "Matthew Liberatore pitches to Ezequiel Duran",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Ball In Play",
+        "Duran lined out to third."
+      ]
     },
     {
       "play_sequence": 33,
       "game_id": "401695759",
       "inning": 4,
       "inning_half": "Bottom",
-      "batter": "Batter_38347",
-      "pitcher": "Pitcher_41173",
+      "batter": "Sam Haggerty",
+      "pitcher": "Matthew Liberatore",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1530,15 +1807,25 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016957590704: "
+      "raw_text": "Matthew Liberatore pitches to Sam Haggerty",
+      "all_play_texts": [
+        "Matthew Liberatore pitches to Sam Haggerty",
+        "Pitch 1 : Strike 1 Looking",
+        "Semien stole second.",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Ball 3",
+        "Pitch 5 : Ball 4",
+        "Haggerty walked."
+      ]
     },
     {
       "play_sequence": 34,
       "game_id": "401695759",
       "inning": 4,
       "inning_half": "End",
-      "batter": "Batter_4719324",
-      "pitcher": "Pitcher_41173",
+      "batter": "Wyatt Langford",
+      "pitcher": "Matthew Liberatore",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1591,15 +1878,26 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016957590705: "
+      "raw_text": "Langford struck out looking.",
+      "all_play_texts": [
+        "Matthew Liberatore pitches to Wyatt Langford",
+        "Pitch 1 : Strike 1 Swinging",
+        "Pitch 2 : Strike 2 Swinging",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Ball 3",
+        "Pitch 6 : Strike 3 Looking",
+        "Langford struck out looking.",
+        "End of the 4th inning"
+      ]
     },
     {
       "play_sequence": 35,
       "game_id": "401695759",
       "inning": 5,
       "inning_half": "Top",
-      "batter": "Batter_31261",
-      "pitcher": "Pitcher_4622181",
+      "batter": "Nolan Arenado",
+      "pitcher": "Jack Leiter",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -1628,15 +1926,23 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016957590801: Pitch 3 : Ball In Play"
+      "raw_text": "Arenado flied out to center.",
+      "all_play_texts": [
+        "Top of the 5th inning",
+        "Jack Leiter pitches to Nolan Arenado",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Foul",
+        "Pitch 3 : Ball In Play",
+        "Arenado flied out to center."
+      ]
     },
     {
       "play_sequence": 36,
       "game_id": "401695759",
       "inning": 5,
       "inning_half": "Top",
-      "batter": "Batter_4345070",
-      "pitcher": "Pitcher_4622181",
+      "batter": "Alec Burleson",
+      "pitcher": "Jack Leiter",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -1665,15 +1971,22 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016957590802: Pitch 3 : Ball In Play"
+      "raw_text": "Burleson flied out to right.",
+      "all_play_texts": [
+        "Jack Leiter pitches to Alec Burleson",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Ball In Play",
+        "Burleson flied out to right."
+      ]
     },
     {
       "play_sequence": 37,
       "game_id": "401695759",
       "inning": 5,
       "inning_half": "Top",
-      "batter": "Batter_35675",
-      "pitcher": "Pitcher_4622181",
+      "batter": "Yohel Pozo",
+      "pitcher": "Jack Leiter",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -1686,15 +1999,20 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016957590803: Pitch 1 : Ball In Play"
+      "raw_text": "Jack Leiter pitches to Yohel Pozo",
+      "all_play_texts": [
+        "Jack Leiter pitches to Yohel Pozo",
+        "Pitch 1 : Ball In Play",
+        "Pozo singled to right."
+      ]
     },
     {
       "play_sequence": 38,
       "game_id": "401695759",
       "inning": 5,
       "inning_half": "Top",
-      "batter": "Batter_4807220",
-      "pitcher": "Pitcher_4622181",
+      "batter": "Victor Scott II",
+      "pitcher": "Jack Leiter",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1755,15 +2073,27 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016957590804: "
+      "raw_text": "Jack Leiter pitches to Victor Scott II",
+      "all_play_texts": [
+        "Jack Leiter pitches to Victor Scott II",
+        "Pitch 1 : Strike 1 Swinging",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Strike 2 Looking",
+        "Pitch 4 : Ball 2",
+        "Pozo to second on wild pitch by Leiter.",
+        "Pitch 5 : Ball 3",
+        "Pitch 6 : Strike 2 Foul",
+        "Pitch 7 : Ball 4",
+        "Scott II walked."
+      ]
     },
     {
       "play_sequence": 39,
       "game_id": "401695759",
       "inning": 5,
       "inning_half": "Mid",
-      "batter": "Batter_4448736",
-      "pitcher": "Pitcher_4622181",
+      "batter": "Lars Nootbaar",
+      "pitcher": "Jack Leiter",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1808,15 +2138,25 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016957590805: "
+      "raw_text": "Nootbaar struck out swinging.",
+      "all_play_texts": [
+        "Jack Leiter pitches to Lars Nootbaar",
+        "Pitch 1 : Strike 1 Swinging",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Strike 2 Looking",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Strike 3 Swinging",
+        "Nootbaar struck out swinging.",
+        "Middle of the 5th inning"
+      ]
     },
     {
       "play_sequence": 40,
       "game_id": "401695759",
       "inning": 5,
       "inning_half": "Bottom",
-      "batter": "Batter_32691",
-      "pitcher": "Pitcher_41173",
+      "batter": "Corey Seager",
+      "pitcher": "Matthew Liberatore",
       "play_description": "Pitch 4 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -1853,15 +2193,24 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016957590901: Pitch 4 : Ball In Play"
+      "raw_text": "Matthew Liberatore pitches to Corey Seager",
+      "all_play_texts": [
+        "Bottom of the 5th inning",
+        "Matthew Liberatore pitches to Corey Seager",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Strike 1 Foul",
+        "Pitch 4 : Ball In Play",
+        "Seager singled to right."
+      ]
     },
     {
       "play_sequence": 41,
       "game_id": "401695759",
       "inning": 5,
       "inning_half": "Bottom",
-      "batter": "Batter_42437",
-      "pitcher": "Pitcher_41173",
+      "batter": "Josh Jung",
+      "pitcher": "Matthew Liberatore",
       "play_description": "Pitch 4 : Ball In Play",
       "play_result": "Lineout",
       "pitch_sequence": [
@@ -1898,15 +2247,23 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016957590902: Pitch 4 : Ball In Play"
+      "raw_text": "Jung lined out to second.",
+      "all_play_texts": [
+        "Matthew Liberatore pitches to Josh Jung",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Strike 2 Swinging",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Ball In Play",
+        "Jung lined out to second."
+      ]
     },
     {
       "play_sequence": 42,
       "game_id": "401695759",
       "inning": 5,
       "inning_half": "End",
-      "batter": "Batter_33842",
-      "pitcher": "Pitcher_41173",
+      "batter": "Jonah Heim",
+      "pitcher": "Matthew Liberatore",
       "play_description": "Pitch 5 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -1951,15 +2308,25 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016957590903: Pitch 5 : Ball In Play"
+      "raw_text": "Heim grounded into double play, third to second to first, Seager out at second.",
+      "all_play_texts": [
+        "Matthew Liberatore pitches to Jonah Heim",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Ball 3",
+        "Pitch 4 : Strike 1 Looking",
+        "Pitch 5 : Ball In Play",
+        "Heim grounded into double play, third to second to first, Seager out at second.",
+        "End of the 5th inning"
+      ]
     },
     {
       "play_sequence": 43,
       "game_id": "401695759",
       "inning": 6,
       "inning_half": "Top",
-      "batter": "Batter_4683365",
-      "pitcher": "Pitcher_4622181",
+      "batter": "Masyn Winn",
+      "pitcher": "Jack Leiter",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -1980,15 +2347,22 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016957591001: Pitch 2 : Ball In Play"
+      "raw_text": "Winn grounded out to third.",
+      "all_play_texts": [
+        "Top of the 6th inning",
+        "Jack Leiter pitches to Masyn Winn",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball In Play",
+        "Winn grounded out to third."
+      ]
     },
     {
       "play_sequence": 44,
       "game_id": "401695759",
       "inning": 6,
       "inning_half": "Top",
-      "batter": "Batter_41773",
-      "pitcher": "Pitcher_4622181",
+      "batter": "Brendan Donovan",
+      "pitcher": "Jack Leiter",
       "play_description": "Pitch 6 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -2041,15 +2415,25 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016957591002: Pitch 6 : Ball In Play"
+      "raw_text": "Donovan grounded out to second.",
+      "all_play_texts": [
+        "Jack Leiter pitches to Brendan Donovan",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Swinging",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Strike 2 Foul",
+        "Pitch 6 : Ball In Play",
+        "Donovan grounded out to second."
+      ]
     },
     {
       "play_sequence": 45,
       "game_id": "401695759",
       "inning": 6,
       "inning_half": "Top",
-      "batter": "Batter_32532",
-      "pitcher": "Pitcher_4622181",
+      "batter": "Willson Contreras",
+      "pitcher": "Jack Leiter",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2086,15 +2470,23 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016957591003: "
+      "raw_text": "Jack Leiter pitches to Willson Contreras",
+      "all_play_texts": [
+        "Jack Leiter pitches to Willson Contreras",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Strike 2 Swinging",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Ball In Play",
+        "Contreras hit by pitch."
+      ]
     },
     {
       "play_sequence": 46,
       "game_id": "401695759",
       "inning": 6,
       "inning_half": "Mid",
-      "batter": "Batter_41889",
-      "pitcher": "Pitcher_33499",
+      "batter": "Ivan Herrera",
+      "pitcher": "Shawn Armstrong",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2123,15 +2515,24 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016957591004: "
+      "raw_text": "Herrera fouled out to second.",
+      "all_play_texts": [
+        "Armstrong relieved Leiter",
+        "Shawn Armstrong pitches to Ivan Herrera",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball In Play",
+        "Herrera fouled out to second.",
+        "Middle of the 6th inning"
+      ]
     },
     {
       "play_sequence": 47,
       "game_id": "401695759",
       "inning": 6,
       "inning_half": "Bottom",
-      "batter": "Batter_39882",
-      "pitcher": "Pitcher_5123582",
+      "batter": "Jake Burger",
+      "pitcher": "Gordon Graceffo",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -2144,15 +2545,22 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016957591101: Pitch 1 : Ball In Play"
+      "raw_text": "Gordon Graceffo pitches to Jake Burger",
+      "all_play_texts": [
+        "Bottom of the 6th inning",
+        "Graceffo relieved Liberatore",
+        "Gordon Graceffo pitches to Jake Burger",
+        "Pitch 1 : Ball In Play",
+        "Burger singled to center."
+      ]
     },
     {
       "play_sequence": 48,
       "game_id": "401695759",
       "inning": 6,
       "inning_half": "Bottom",
-      "batter": "Batter_30545",
-      "pitcher": "Pitcher_5123582",
+      "batter": "Kyle Higashioka",
+      "pitcher": "Gordon Graceffo",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2229,15 +2637,28 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016957591102: "
+      "raw_text": "Gordon Graceffo pitches to Kyle Higashioka",
+      "all_play_texts": [
+        "Gordon Graceffo pitches to Kyle Higashioka",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Strike 1 Looking",
+        "Pitch 4 : Strike 2 Swinging",
+        "Pitch 5 : Ball 3",
+        "Pitch 6 : Strike 2 Foul",
+        "Pitch 7 : Strike 2 Foul",
+        "Pitch 8 : Strike 2 Foul",
+        "Pitch 9 : Ball 4",
+        "Higashioka walked, Burger to second."
+      ]
     },
     {
       "play_sequence": 49,
       "game_id": "401695759",
       "inning": 6,
       "inning_half": "Bottom",
-      "batter": "Batter_32146",
-      "pitcher": "Pitcher_5123582",
+      "batter": "Marcus Semien",
+      "pitcher": "Gordon Graceffo",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -2258,15 +2679,21 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016957591103: Pitch 2 : Ball In Play"
+      "raw_text": "Gordon Graceffo pitches to Marcus Semien",
+      "all_play_texts": [
+        "Gordon Graceffo pitches to Marcus Semien",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball In Play",
+        "Semien singled to left, Burger scored, Higashioka to second."
+      ]
     },
     {
       "play_sequence": 50,
       "game_id": "401695759",
       "inning": 6,
       "inning_half": "Bottom",
-      "batter": "Batter_42457",
-      "pitcher": "Pitcher_5123582",
+      "batter": "Ezequiel Duran",
+      "pitcher": "Gordon Graceffo",
       "play_description": "Pitch 7 : Ball In Play",
       "play_result": "Popout",
       "pitch_sequence": [
@@ -2327,15 +2754,26 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016957591104: Pitch 7 : Ball In Play"
+      "raw_text": "Duran popped out to second.",
+      "all_play_texts": [
+        "Gordon Graceffo pitches to Ezequiel Duran",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Swinging",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Strike 2 Foul",
+        "Pitch 6 : Ball 3",
+        "Pitch 7 : Ball In Play",
+        "Duran popped out to second."
+      ]
     },
     {
       "play_sequence": 51,
       "game_id": "401695759",
       "inning": 6,
       "inning_half": "Bottom",
-      "batter": "Batter_38347",
-      "pitcher": "Pitcher_5123582",
+      "batter": "Sam Haggerty",
+      "pitcher": "Gordon Graceffo",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -2364,15 +2802,22 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016957591105: Pitch 3 : Ball In Play"
+      "raw_text": "Gordon Graceffo pitches to Sam Haggerty",
+      "all_play_texts": [
+        "Gordon Graceffo pitches to Sam Haggerty",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Ball In Play",
+        "Haggerty singled to right, Higashioka scored, Semien to third."
+      ]
     },
     {
       "play_sequence": 52,
       "game_id": "401695759",
       "inning": 6,
       "inning_half": "Bottom",
-      "batter": "Batter_4719324",
-      "pitcher": "Pitcher_5123582",
+      "batter": "Wyatt Langford",
+      "pitcher": "Gordon Graceffo",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2425,15 +2870,25 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016957591106: "
+      "raw_text": "Gordon Graceffo pitches to Wyatt Langford",
+      "all_play_texts": [
+        "Gordon Graceffo pitches to Wyatt Langford",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Looking",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Ball 3",
+        "Pitch 5 : Strike 2 Swinging",
+        "Pitch 6 : Ball 4",
+        "Langford walked, Haggerty to second."
+      ]
     },
     {
       "play_sequence": 53,
       "game_id": "401695759",
       "inning": 6,
       "inning_half": "Bottom",
-      "batter": "Batter_32691",
-      "pitcher": "Pitcher_5123582",
+      "batter": "Corey Seager",
+      "pitcher": "Gordon Graceffo",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2470,15 +2925,23 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016957591107: "
+      "raw_text": "Seager struck out looking.",
+      "all_play_texts": [
+        "Gordon Graceffo pitches to Corey Seager",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Looking",
+        "Pitch 3 : Strike 2 Swinging",
+        "Pitch 4 : Strike 3 Looking",
+        "Seager struck out looking."
+      ]
     },
     {
       "play_sequence": 54,
       "game_id": "401695759",
       "inning": 6,
       "inning_half": "Bottom",
-      "batter": "Batter_42437",
-      "pitcher": "Pitcher_5123582",
+      "batter": "Josh Jung",
+      "pitcher": "Gordon Graceffo",
       "play_description": "Pitch 5 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -2523,15 +2986,24 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016957591108: Pitch 5 : Ball In Play"
+      "raw_text": "Gordon Graceffo pitches to Josh Jung",
+      "all_play_texts": [
+        "Gordon Graceffo pitches to Josh Jung",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Strike 2 Foul",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Ball In Play",
+        "Jung singled to left, Haggerty scored and Semien scored, Langford to second."
+      ]
     },
     {
       "play_sequence": 55,
       "game_id": "401695759",
       "inning": 6,
       "inning_half": "End",
-      "batter": "Batter_33842",
-      "pitcher": "Pitcher_5123582",
+      "batter": "Jonah Heim",
+      "pitcher": "Gordon Graceffo",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Popout",
       "pitch_sequence": [
@@ -2560,15 +3032,23 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016957591109: Pitch 3 : Ball In Play"
+      "raw_text": "Heim popped out to third.",
+      "all_play_texts": [
+        "Gordon Graceffo pitches to Jonah Heim",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Foul",
+        "Pitch 3 : Ball In Play",
+        "Heim popped out to third.",
+        "End of the 6th inning"
+      ]
     },
     {
       "play_sequence": 56,
       "game_id": "401695759",
       "inning": 7,
       "inning_half": "Top",
-      "batter": "Batter_31261",
-      "pitcher": "Pitcher_41975",
+      "batter": "Nolan Arenado",
+      "pitcher": "Caleb Boushley",
       "play_description": "Pitch 7 : Ball In Play",
       "play_result": "Lineout",
       "pitch_sequence": [
@@ -2629,15 +3109,30 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016957591201: Pitch 7 : Ball In Play"
+      "raw_text": "Arenado lined out to pitcher.",
+      "all_play_texts": [
+        "Top of the 7th inning",
+        "Osuna in left field.",
+        "Duran at shortstop.",
+        "Boushley relieved Armstrong",
+        "Caleb Boushley pitches to Nolan Arenado",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Foul",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Strike 2 Foul",
+        "Pitch 6 : Ball 3",
+        "Pitch 7 : Ball In Play",
+        "Arenado lined out to pitcher."
+      ]
     },
     {
       "play_sequence": 57,
       "game_id": "401695759",
       "inning": 7,
       "inning_half": "Top",
-      "batter": "Batter_4345070",
-      "pitcher": "Pitcher_41975",
+      "batter": "Alec Burleson",
+      "pitcher": "Caleb Boushley",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2674,15 +3169,23 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016957591202: "
+      "raw_text": "Burleson struck out swinging.",
+      "all_play_texts": [
+        "Caleb Boushley pitches to Alec Burleson",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Strike 2 Swinging",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Strike 3 Swinging",
+        "Burleson struck out swinging."
+      ]
     },
     {
       "play_sequence": 58,
       "game_id": "401695759",
       "inning": 7,
       "inning_half": "Mid",
-      "batter": "Batter_35675",
-      "pitcher": "Pitcher_41975",
+      "batter": "Yohel Pozo",
+      "pitcher": "Caleb Boushley",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -2695,15 +3198,21 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016957591203: Pitch 1 : Ball In Play"
+      "raw_text": "Pozo flied out to center.",
+      "all_play_texts": [
+        "Caleb Boushley pitches to Yohel Pozo",
+        "Pitch 1 : Ball In Play",
+        "Pozo flied out to center.",
+        "Middle of the 7th inning"
+      ]
     },
     {
       "play_sequence": 59,
       "game_id": "401695759",
       "inning": 7,
       "inning_half": "Bottom",
-      "batter": "Batter_39882",
-      "pitcher": "Pitcher_4649953",
+      "batter": "Jake Burger",
+      "pitcher": "Matt Svanson",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2724,15 +3233,25 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016957591301: "
+      "raw_text": "Burger fouled out to first.",
+      "all_play_texts": [
+        "Bottom of the 7th inning",
+        "Gorman at third base.",
+        "Burleson at first base.",
+        "Svanson relieved Graceffo",
+        "Matt Svanson pitches to Jake Burger",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball In Play",
+        "Burger fouled out to first."
+      ]
     },
     {
       "play_sequence": 60,
       "game_id": "401695759",
       "inning": 7,
       "inning_half": "Bottom",
-      "batter": "Batter_30545",
-      "pitcher": "Pitcher_4649953",
+      "batter": "Kyle Higashioka",
+      "pitcher": "Matt Svanson",
       "play_description": "Pitch 8 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -2801,15 +3320,27 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016957591302: Pitch 8 : Ball In Play"
+      "raw_text": "Matt Svanson pitches to Kyle Higashioka",
+      "all_play_texts": [
+        "Matt Svanson pitches to Kyle Higashioka",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Foul",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Ball 3",
+        "Pitch 6 : Strike 2 Foul",
+        "Pitch 7 : Strike 2 Foul",
+        "Pitch 8 : Ball In Play",
+        "Higashioka reached on infield single to third."
+      ]
     },
     {
       "play_sequence": 61,
       "game_id": "401695759",
       "inning": 7,
       "inning_half": "Bottom",
-      "batter": "Batter_32146",
-      "pitcher": "Pitcher_4649953",
+      "batter": "Marcus Semien",
+      "pitcher": "Matt Svanson",
       "play_description": "Pitch 7 : Ball In Play",
       "play_result": "Home Run",
       "pitch_sequence": [
@@ -2870,15 +3401,26 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016957591303: Pitch 7 : Ball In Play"
+      "raw_text": "Matt Svanson pitches to Marcus Semien",
+      "all_play_texts": [
+        "Matt Svanson pitches to Marcus Semien",
+        "Pitch 1 : Strike 1 Swinging",
+        "Pitch 2 : Strike 2 Looking",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Strike 2 Foul",
+        "Pitch 6 : Ball 3",
+        "Pitch 7 : Ball In Play",
+        "Semien homered to left center (382 feet), Higashioka scored."
+      ]
     },
     {
       "play_sequence": 62,
       "game_id": "401695759",
       "inning": 7,
       "inning_half": "Bottom",
-      "batter": "Batter_42457",
-      "pitcher": "Pitcher_4649953",
+      "batter": "Ezequiel Duran",
+      "pitcher": "Matt Svanson",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -2907,15 +3449,22 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016957591304: Pitch 3 : Ball In Play"
+      "raw_text": "Duran grounded out to shortstop.",
+      "all_play_texts": [
+        "Matt Svanson pitches to Ezequiel Duran",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Strike 2 Looking",
+        "Pitch 3 : Ball In Play",
+        "Duran grounded out to shortstop."
+      ]
     },
     {
       "play_sequence": 63,
       "game_id": "401695759",
       "inning": 7,
       "inning_half": "Bottom",
-      "batter": "Batter_38347",
-      "pitcher": "Pitcher_4649953",
+      "batter": "Sam Haggerty",
+      "pitcher": "Matt Svanson",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -2928,15 +3477,20 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016957591305: Pitch 1 : Ball In Play"
+      "raw_text": "Matt Svanson pitches to Sam Haggerty",
+      "all_play_texts": [
+        "Matt Svanson pitches to Sam Haggerty",
+        "Pitch 1 : Ball In Play",
+        "Haggerty singled to center."
+      ]
     },
     {
       "play_sequence": 64,
       "game_id": "401695759",
       "inning": 7,
       "inning_half": "End",
-      "batter": "Batter_4719324",
-      "pitcher": "Pitcher_4649953",
+      "batter": "Wyatt Langford",
+      "pitcher": "Matt Svanson",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2973,15 +3527,24 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016957591306: "
+      "raw_text": "Langford struck out swinging.",
+      "all_play_texts": [
+        "Matt Svanson pitches to Wyatt Langford",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Looking",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Strike 3 Swinging",
+        "Langford struck out swinging.",
+        "End of the 7th inning"
+      ]
     },
     {
       "play_sequence": 65,
       "game_id": "401695759",
       "inning": 8,
       "inning_half": "Top",
-      "batter": "Batter_4807220",
-      "pitcher": "Pitcher_41975",
+      "batter": "Victor Scott II",
+      "pitcher": "Caleb Boushley",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -2994,15 +3557,22 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016957591401: Pitch 1 : Ball In Play"
+      "raw_text": "Caleb Boushley pitches to Victor Scott II",
+      "all_play_texts": [
+        "Top of the 8th inning",
+        "Barnhart catching.",
+        "Caleb Boushley pitches to Victor Scott II",
+        "Pitch 1 : Ball In Play",
+        "Scott II singled to left."
+      ]
     },
     {
       "play_sequence": 66,
       "game_id": "401695759",
       "inning": 8,
       "inning_half": "Top",
-      "batter": "Batter_4448736",
-      "pitcher": "Pitcher_41975",
+      "batter": "Lars Nootbaar",
+      "pitcher": "Caleb Boushley",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Double",
       "pitch_sequence": [
@@ -3015,15 +3585,20 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016957591402: Pitch 1 : Ball In Play"
+      "raw_text": "Caleb Boushley pitches to Lars Nootbaar",
+      "all_play_texts": [
+        "Caleb Boushley pitches to Lars Nootbaar",
+        "Pitch 1 : Ball In Play",
+        "Nootbaar doubled to center, Scott II scored."
+      ]
     },
     {
       "play_sequence": 67,
       "game_id": "401695759",
       "inning": 8,
       "inning_half": "Top",
-      "batter": "Batter_4683365",
-      "pitcher": "Pitcher_41975",
+      "batter": "Masyn Winn",
+      "pitcher": "Caleb Boushley",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -3060,15 +3635,23 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016957591403: "
+      "raw_text": "Winn struck out looking.",
+      "all_play_texts": [
+        "Caleb Boushley pitches to Masyn Winn",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Swinging",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Strike 3 Looking",
+        "Winn struck out looking."
+      ]
     },
     {
       "play_sequence": 68,
       "game_id": "401695759",
       "inning": 8,
       "inning_half": "Top",
-      "batter": "Batter_41773",
-      "pitcher": "Pitcher_41975",
+      "batter": "Brendan Donovan",
+      "pitcher": "Caleb Boushley",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -3121,15 +3704,26 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016957591404: "
+      "raw_text": "Donovan struck out swinging.",
+      "all_play_texts": [
+        "Caleb Boushley pitches to Brendan Donovan",
+        "Pitch 1 : Strike 1 Swinging",
+        "Pitch 2 : Strike 2 Looking",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Ball 3",
+        "Nootbaar to third on wild pitch by Boushley.",
+        "Pitch 6 : Strike 3 Swinging",
+        "Donovan struck out swinging."
+      ]
     },
     {
       "play_sequence": 69,
       "game_id": "401695759",
       "inning": 8,
       "inning_half": "Mid",
-      "batter": "Batter_41174",
-      "pitcher": "Pitcher_41975",
+      "batter": "Nolan Gorman",
+      "pitcher": "Caleb Boushley",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -3182,15 +3776,26 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016957591405: "
+      "raw_text": "Gorman struck out swinging.",
+      "all_play_texts": [
+        "Caleb Boushley pitches to Nolan Gorman",
+        "Pitch 1 : Strike 1 Swinging",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Strike 2 Swinging",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Ball 2",
+        "Pitch 6 : Strike 3 Swinging",
+        "Gorman struck out swinging.",
+        "Middle of the 8th inning"
+      ]
     },
     {
       "play_sequence": 70,
       "game_id": "401695759",
       "inning": 8,
       "inning_half": "Bottom",
-      "batter": "Batter_4916547",
-      "pitcher": "Pitcher_4345070",
+      "batter": "Alejandro Osuna",
+      "pitcher": "Alec Burleson",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -3203,15 +3808,23 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016957591501: "
+      "raw_text": "Alec Burleson pitches to Alejandro Osuna",
+      "all_play_texts": [
+        "Bottom of the 8th inning",
+        "Pag\u00e9s at first base.",
+        "Pitching Change: Alec Burleson replaces Matt Svanson, batting 7th.",
+        "Alec Burleson pitches to Alejandro Osuna",
+        "Pitch 1 : Ball In Play",
+        "Osuna hit by pitch."
+      ]
     },
     {
       "play_sequence": 71,
       "game_id": "401695759",
       "inning": 8,
       "inning_half": "Bottom",
-      "batter": "Batter_42437",
-      "pitcher": "Pitcher_4345070",
+      "batter": "Josh Jung",
+      "pitcher": "Alec Burleson",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -3232,15 +3845,21 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016957591502: Pitch 2 : Ball In Play"
+      "raw_text": "Alec Burleson pitches to Josh Jung",
+      "all_play_texts": [
+        "Alec Burleson pitches to Josh Jung",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball In Play",
+        "Jung singled to left, Osuna to second."
+      ]
     },
     {
       "play_sequence": 72,
       "game_id": "401695759",
       "inning": 8,
       "inning_half": "Bottom",
-      "batter": "Batter_31173",
-      "pitcher": "Pitcher_4345070",
+      "batter": "Tucker Barnhart",
+      "pitcher": "Alec Burleson",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -3269,15 +3888,22 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016957591503: Pitch 3 : Ball In Play"
+      "raw_text": "Barnhart grounded into double play, second to shortstop to first, Jung out at second, Osuna to third.",
+      "all_play_texts": [
+        "Alec Burleson pitches to Tucker Barnhart",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Ball In Play",
+        "Barnhart grounded into double play, second to shortstop to first, Jung out at second, Osuna to third."
+      ]
     },
     {
       "play_sequence": 73,
       "game_id": "401695759",
       "inning": 8,
       "inning_half": "End",
-      "batter": "Batter_39882",
-      "pitcher": "Pitcher_4345070",
+      "batter": "Jake Burger",
+      "pitcher": "Alec Burleson",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -3290,15 +3916,21 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016957591504: Pitch 1 : Ball In Play"
+      "raw_text": "Burger flied out to center.",
+      "all_play_texts": [
+        "Alec Burleson pitches to Jake Burger",
+        "Pitch 1 : Ball In Play",
+        "Burger flied out to center.",
+        "End of the 8th inning"
+      ]
     },
     {
       "play_sequence": 74,
       "game_id": "401695759",
       "inning": 9,
       "inning_half": "Top",
-      "batter": "Batter_42608",
-      "pitcher": "Pitcher_41975",
+      "batter": "Pedro Pages",
+      "pitcher": "Caleb Boushley",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -3319,15 +3951,22 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016957591601: Pitch 2 : Ball In Play"
+      "raw_text": "Pag\u00e9s flied out to right.",
+      "all_play_texts": [
+        "Top of the 9th inning",
+        "Caleb Boushley pitches to Pedro Pages",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball In Play",
+        "Pag\u00e9s flied out to right."
+      ]
     },
     {
       "play_sequence": 75,
       "game_id": "401695759",
       "inning": 9,
       "inning_half": "Top",
-      "batter": "Batter_40951",
-      "pitcher": "Pitcher_41975",
+      "batter": "Jose Barrero",
+      "pitcher": "Caleb Boushley",
       "play_description": "Pitch 4 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -3364,15 +4003,23 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016957591602: Pitch 4 : Ball In Play"
+      "raw_text": "Barrero flied out to right.",
+      "all_play_texts": [
+        "Caleb Boushley pitches to Jose Barrero",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Ball In Play",
+        "Barrero flied out to right."
+      ]
     },
     {
       "play_sequence": 76,
       "game_id": "401695759",
       "inning": 9,
       "inning_half": "Top",
-      "batter": "Batter_4345070",
-      "pitcher": "Pitcher_41975",
+      "batter": "Alec Burleson",
+      "pitcher": "Caleb Boushley",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -3385,7 +4032,12 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016957591603: Pitch 1 : Ball In Play"
+      "raw_text": "Burleson flied out to center.",
+      "all_play_texts": [
+        "Caleb Boushley pitches to Alec Burleson",
+        "Pitch 1 : Ball In Play",
+        "Burleson flied out to center."
+      ]
     }
   ]
 }

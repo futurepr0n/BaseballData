@@ -2,7 +2,7 @@
   "metadata": {
     "game_id": "401764539",
     "api_url": "https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/summary?event=401764539",
-    "scraped_at": "2025-08-06T16:54:36.680973",
+    "scraped_at": "2025-08-07T03:13:32.318913",
     "away_team": "NYY",
     "home_team": "ATH"
   },
@@ -12,8 +12,8 @@
       "game_id": "401764539",
       "inning": 1,
       "inning_half": "Top",
-      "batter": "Batter_5016968",
-      "pitcher": "Pitcher_33263",
+      "batter": "Ben Rice",
+      "pitcher": "Luis Severino",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Lineout",
       "pitch_sequence": [
@@ -34,15 +34,22 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4017645390001: Pitch 2 : Ball In Play"
+      "raw_text": "Rice lined out to right.",
+      "all_play_texts": [
+        "Top of the 1st inning",
+        "Luis Severino pitches to Ben Rice",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball In Play",
+        "Rice lined out to right."
+      ]
     },
     {
       "play_sequence": 2,
       "game_id": "401764539",
       "inning": 1,
       "inning_half": "Top",
-      "batter": "Batter_33192",
-      "pitcher": "Pitcher_33263",
+      "batter": "Aaron Judge",
+      "pitcher": "Luis Severino",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -119,15 +126,28 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4017645390002: "
+      "raw_text": "Judge struck out swinging.",
+      "all_play_texts": [
+        "Luis Severino pitches to Aaron Judge",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Foul",
+        "Pitch 3 : Strike 2 Swinging",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Ball 2",
+        "Pitch 6 : Ball 3",
+        "Pitch 7 : Strike 2 Foul",
+        "Pitch 8 : Strike 2 Foul",
+        "Pitch 9 : Strike 3 Swinging",
+        "Judge struck out swinging."
+      ]
     },
     {
       "play_sequence": 3,
       "game_id": "401764539",
       "inning": 1,
       "inning_half": "Mid",
-      "batter": "Batter_33912",
-      "pitcher": "Pitcher_33263",
+      "batter": "Cody Bellinger",
+      "pitcher": "Luis Severino",
       "play_description": "Pitch 5 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -172,15 +192,25 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4017645390003: Pitch 5 : Ball In Play"
+      "raw_text": "Bellinger flied out to left.",
+      "all_play_texts": [
+        "Luis Severino pitches to Cody Bellinger",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Looking",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Ball 3",
+        "Pitch 5 : Ball In Play",
+        "Bellinger flied out to left.",
+        "Middle of the 1st inning"
+      ]
     },
     {
       "play_sequence": 4,
       "game_id": "401764539",
       "inning": 1,
       "inning_half": "Bottom",
-      "batter": "Batter_4719300",
-      "pitcher": "Pitcher_33735",
+      "batter": "Jacob Wilson",
+      "pitcher": "Ryan Yarbrough",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Lineout",
       "pitch_sequence": [
@@ -201,15 +231,22 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4017645390101: Pitch 2 : Ball In Play"
+      "raw_text": "Wilson lined out to left.",
+      "all_play_texts": [
+        "Bottom of the 1st inning",
+        "Ryan Yarbrough pitches to Jacob Wilson",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball In Play",
+        "Wilson lined out to left."
+      ]
     },
     {
       "play_sequence": 5,
       "game_id": "401764539",
       "inning": 1,
       "inning_half": "Bottom",
-      "batter": "Batter_40926",
-      "pitcher": "Pitcher_33735",
+      "batter": "Brent Rooker",
+      "pitcher": "Ryan Yarbrough",
       "play_description": "Pitch 5 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -254,15 +291,24 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4017645390102: Pitch 5 : Ball In Play"
+      "raw_text": "Rooker grounded out to pitcher.",
+      "all_play_texts": [
+        "Ryan Yarbrough pitches to Brent Rooker",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Strike 1 Looking",
+        "Pitch 4 : Strike 2 Looking",
+        "Pitch 5 : Ball In Play",
+        "Rooker grounded out to pitcher."
+      ]
     },
     {
       "play_sequence": 6,
       "game_id": "401764539",
       "inning": 1,
       "inning_half": "End",
-      "batter": "Batter_4686066",
-      "pitcher": "Pitcher_33735",
+      "batter": "Tyler Soderstrom",
+      "pitcher": "Ryan Yarbrough",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -275,15 +321,21 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4017645390103: Pitch 1 : Ball In Play"
+      "raw_text": "Soderstrom grounded out to second.",
+      "all_play_texts": [
+        "Ryan Yarbrough pitches to Tyler Soderstrom",
+        "Pitch 1 : Ball In Play",
+        "Soderstrom grounded out to second.",
+        "End of the 1st inning"
+      ]
     },
     {
       "play_sequence": 7,
       "game_id": "401764539",
       "inning": 2,
       "inning_half": "Top",
-      "batter": "Batter_31027",
-      "pitcher": "Pitcher_33263",
+      "batter": "Paul Goldschmidt",
+      "pitcher": "Luis Severino",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Double",
       "pitch_sequence": [
@@ -296,15 +348,21 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4017645390201: Pitch 1 : Ball In Play"
+      "raw_text": "Luis Severino pitches to Paul Goldschmidt",
+      "all_play_texts": [
+        "Top of the 2nd inning",
+        "Luis Severino pitches to Paul Goldschmidt",
+        "Pitch 1 : Ball In Play",
+        "Goldschmidt doubled to center."
+      ]
     },
     {
       "play_sequence": 8,
       "game_id": "401764539",
       "inning": 2,
       "inning_half": "Top",
-      "batter": "Batter_42401",
-      "pitcher": "Pitcher_33263",
+      "batter": "Jasson Dominguez",
+      "pitcher": "Luis Severino",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -349,15 +407,25 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4017645390202: "
+      "raw_text": "Luis Severino pitches to Jasson Dominguez",
+      "all_play_texts": [
+        "Luis Severino pitches to Jasson Dominguez",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Goldschmidt to third on wild pitch by Severino.",
+        "Pitch 3 : Strike 1 Swinging",
+        "Pitch 4 : Ball 3",
+        "Pitch 5 : Ball 4",
+        "Dom\u00ednguez walked."
+      ]
     },
     {
       "play_sequence": 9,
       "game_id": "401764539",
       "inning": 2,
       "inning_half": "Top",
-      "batter": "Batter_42547",
-      "pitcher": "Pitcher_33263",
+      "batter": "Anthony Volpe",
+      "pitcher": "Luis Severino",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -386,15 +454,22 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4017645390203: Pitch 3 : Ball In Play"
+      "raw_text": "Luis Severino pitches to Anthony Volpe",
+      "all_play_texts": [
+        "Luis Severino pitches to Anthony Volpe",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Ball In Play",
+        "Volpe singled to left, Goldschmidt scored, Dom\u00ednguez to second."
+      ]
     },
     {
       "play_sequence": 10,
       "game_id": "401764539",
       "inning": 2,
       "inning_half": "Top",
-      "batter": "Batter_4683349",
-      "pitcher": "Pitcher_33263",
+      "batter": "Austin Wells",
+      "pitcher": "Luis Severino",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -423,15 +498,22 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4017645390204: Pitch 3 : Ball In Play"
+      "raw_text": "Luis Severino pitches to Austin Wells",
+      "all_play_texts": [
+        "Luis Severino pitches to Austin Wells",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Strike 2 Swinging",
+        "Pitch 3 : Ball In Play",
+        "Wells singled to center, Volpe to second, Dom\u00ednguez to third."
+      ]
     },
     {
       "play_sequence": 11,
       "game_id": "401764539",
       "inning": 2,
       "inning_half": "Top",
-      "batter": "Batter_40835",
-      "pitcher": "Pitcher_33263",
+      "batter": "Oswaldo Cabrera",
+      "pitcher": "Luis Severino",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -476,15 +558,24 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4017645390205: "
+      "raw_text": "Luis Severino pitches to Oswaldo Cabrera",
+      "all_play_texts": [
+        "Luis Severino pitches to Oswaldo Cabrera",
+        "Pitch 1 : Strike 1 Swinging",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Ball 3",
+        "Pitch 5 : Ball 4",
+        "Cabrera walked, Dom\u00ednguez scored, Wells to second, Volpe to third."
+      ]
     },
     {
       "play_sequence": 12,
       "game_id": "401764539",
       "inning": 2,
       "inning_half": "Top",
-      "batter": "Batter_4722676",
-      "pitcher": "Pitcher_33263",
+      "batter": "Jorbit Vivas",
+      "pitcher": "Luis Severino",
       "play_description": "Pitch 5 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -529,15 +620,24 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4017645390206: Pitch 5 : Ball In Play"
+      "raw_text": "Vivas grounded out to shortstop, Volpe scored, Cabrera to second, Wells to third.",
+      "all_play_texts": [
+        "Luis Severino pitches to Jorbit Vivas",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Foul",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Ball 3",
+        "Pitch 5 : Ball In Play",
+        "Vivas grounded out to shortstop, Volpe scored, Cabrera to second, Wells to third."
+      ]
     },
     {
       "play_sequence": 13,
       "game_id": "401764539",
       "inning": 2,
       "inning_half": "Top",
-      "batter": "Batter_5016968",
-      "pitcher": "Pitcher_33263",
+      "batter": "Ben Rice",
+      "pitcher": "Luis Severino",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -574,15 +674,23 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4017645390207: "
+      "raw_text": "Luis Severino pitches to Ben Rice",
+      "all_play_texts": [
+        "Luis Severino pitches to Ben Rice",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Strike 2 Looking",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Ball In Play",
+        "Rice hit by pitch."
+      ]
     },
     {
       "play_sequence": 14,
       "game_id": "401764539",
       "inning": 2,
       "inning_half": "Top",
-      "batter": "Batter_33192",
-      "pitcher": "Pitcher_33263",
+      "batter": "Aaron Judge",
+      "pitcher": "Luis Severino",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -603,15 +711,21 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4017645390208: Pitch 2 : Ball In Play"
+      "raw_text": "Luis Severino pitches to Aaron Judge",
+      "all_play_texts": [
+        "Luis Severino pitches to Aaron Judge",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball In Play",
+        "Judge singled to right, Cabrera scored and Wells scored, Rice to second."
+      ]
     },
     {
       "play_sequence": 15,
       "game_id": "401764539",
       "inning": 2,
       "inning_half": "Top",
-      "batter": "Batter_33912",
-      "pitcher": "Pitcher_33263",
+      "batter": "Cody Bellinger",
+      "pitcher": "Luis Severino",
       "play_description": "Pitch 5 : Ball In Play",
       "play_result": "Lineout",
       "pitch_sequence": [
@@ -656,15 +770,24 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4017645390209: Pitch 5 : Ball In Play"
+      "raw_text": "Bellinger lined out to second.",
+      "all_play_texts": [
+        "Luis Severino pitches to Cody Bellinger",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Ball In Play",
+        "Bellinger lined out to second."
+      ]
     },
     {
       "play_sequence": 16,
       "game_id": "401764539",
       "inning": 2,
       "inning_half": "Mid",
-      "batter": "Batter_31027",
-      "pitcher": "Pitcher_33263",
+      "batter": "Paul Goldschmidt",
+      "pitcher": "Luis Severino",
       "play_description": "Pitch 4 : Ball In Play",
       "play_result": "Lineout",
       "pitch_sequence": [
@@ -701,15 +824,24 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4017645390210: Pitch 4 : Ball In Play"
+      "raw_text": "Goldschmidt lined out to right.",
+      "all_play_texts": [
+        "Luis Severino pitches to Paul Goldschmidt",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Foul",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Ball In Play",
+        "Goldschmidt lined out to right.",
+        "Middle of the 2nd inning"
+      ]
     },
     {
       "play_sequence": 17,
       "game_id": "401764539",
       "inning": 2,
       "inning_half": "Bottom",
-      "batter": "Batter_42598",
-      "pitcher": "Pitcher_33735",
+      "batter": "Shea Langeliers",
+      "pitcher": "Ryan Yarbrough",
       "play_description": "Pitch 5 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -754,15 +886,25 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4017645390301: Pitch 5 : Ball In Play"
+      "raw_text": "Ryan Yarbrough pitches to Shea Langeliers",
+      "all_play_texts": [
+        "Bottom of the 2nd inning",
+        "Ryan Yarbrough pitches to Shea Langeliers",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Foul",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Ball In Play",
+        "Langeliers singled to center."
+      ]
     },
     {
       "play_sequence": 18,
       "game_id": "401764539",
       "inning": 2,
       "inning_half": "Bottom",
-      "batter": "Batter_33743",
-      "pitcher": "Pitcher_33735",
+      "batter": "Miguel Andujar",
+      "pitcher": "Ryan Yarbrough",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -783,15 +925,21 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4017645390302: Pitch 2 : Ball In Play"
+      "raw_text": "Andujar grounded into double play, shortstop to second to first, Langeliers out at second.",
+      "all_play_texts": [
+        "Ryan Yarbrough pitches to Miguel Andujar",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball In Play",
+        "Andujar grounded into double play, shortstop to second to first, Langeliers out at second."
+      ]
     },
     {
       "play_sequence": 19,
       "game_id": "401764539",
       "inning": 2,
       "inning_half": "End",
-      "batter": "Batter_4966637",
-      "pitcher": "Pitcher_33735",
+      "batter": "Nick Kurtz",
+      "pitcher": "Ryan Yarbrough",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -820,15 +968,23 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4017645390303: Pitch 3 : Ball In Play"
+      "raw_text": "Kurtz grounded out to pitcher.",
+      "all_play_texts": [
+        "Ryan Yarbrough pitches to Nick Kurtz",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Looking",
+        "Pitch 3 : Ball In Play",
+        "Kurtz grounded out to pitcher.",
+        "End of the 2nd inning"
+      ]
     },
     {
       "play_sequence": 20,
       "game_id": "401764539",
       "inning": 3,
       "inning_half": "Top",
-      "batter": "Batter_42401",
-      "pitcher": "Pitcher_33263",
+      "batter": "Jasson Dominguez",
+      "pitcher": "Luis Severino",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -841,15 +997,21 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4017645390401: Pitch 1 : Ball In Play"
+      "raw_text": "Luis Severino pitches to Jasson Dominguez",
+      "all_play_texts": [
+        "Top of the 3rd inning",
+        "Luis Severino pitches to Jasson Dominguez",
+        "Pitch 1 : Ball In Play",
+        "Dom\u00ednguez singled to right."
+      ]
     },
     {
       "play_sequence": 21,
       "game_id": "401764539",
       "inning": 3,
       "inning_half": "Top",
-      "batter": "Batter_42547",
-      "pitcher": "Pitcher_33263",
+      "batter": "Anthony Volpe",
+      "pitcher": "Luis Severino",
       "play_description": "Pitch 4 : Ball In Play",
       "play_result": "Lineout",
       "pitch_sequence": [
@@ -886,15 +1048,23 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4017645390402: Pitch 4 : Ball In Play"
+      "raw_text": "Volpe lined out to right.",
+      "all_play_texts": [
+        "Luis Severino pitches to Anthony Volpe",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Strike 1 Looking",
+        "Pitch 4 : Ball In Play",
+        "Volpe lined out to right."
+      ]
     },
     {
       "play_sequence": 22,
       "game_id": "401764539",
       "inning": 3,
       "inning_half": "Top",
-      "batter": "Batter_4683349",
-      "pitcher": "Pitcher_33263",
+      "batter": "Austin Wells",
+      "pitcher": "Luis Severino",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -931,15 +1101,23 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4017645390403: "
+      "raw_text": "Wells struck out swinging.",
+      "all_play_texts": [
+        "Luis Severino pitches to Austin Wells",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Swinging",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Strike 3 Swinging",
+        "Wells struck out swinging."
+      ]
     },
     {
       "play_sequence": 23,
       "game_id": "401764539",
       "inning": 3,
       "inning_half": "Top",
-      "batter": "Batter_40835",
-      "pitcher": "Pitcher_33263",
+      "batter": "Oswaldo Cabrera",
+      "pitcher": "Luis Severino",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Double",
       "pitch_sequence": [
@@ -968,15 +1146,22 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4017645390404: Pitch 3 : Ball In Play"
+      "raw_text": "Luis Severino pitches to Oswaldo Cabrera",
+      "all_play_texts": [
+        "Luis Severino pitches to Oswaldo Cabrera",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball In Play",
+        "Cabrera doubled to left, Dom\u00ednguez scored."
+      ]
     },
     {
       "play_sequence": 24,
       "game_id": "401764539",
       "inning": 3,
       "inning_half": "Mid",
-      "batter": "Batter_4722676",
-      "pitcher": "Pitcher_33263",
+      "batter": "Jorbit Vivas",
+      "pitcher": "Luis Severino",
       "play_description": "Pitch 4 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -1013,15 +1198,24 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4017645390405: Pitch 4 : Ball In Play"
+      "raw_text": "Vivas grounded out to second.",
+      "all_play_texts": [
+        "Luis Severino pitches to Jorbit Vivas",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Looking",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Ball In Play",
+        "Vivas grounded out to second.",
+        "Middle of the 3rd inning"
+      ]
     },
     {
       "play_sequence": 25,
       "game_id": "401764539",
       "inning": 3,
       "inning_half": "Bottom",
-      "batter": "Batter_35383",
-      "pitcher": "Pitcher_33735",
+      "batter": "Luis Urias",
+      "pitcher": "Ryan Yarbrough",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1082,15 +1276,27 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4017645390501: "
+      "raw_text": "Ur\u00edas fouled out to catcher.",
+      "all_play_texts": [
+        "Bottom of the 3rd inning",
+        "Ryan Yarbrough pitches to Luis Urias",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Strike 2 Looking",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Strike 2 Foul",
+        "Pitch 6 : Ball 3",
+        "Pitch 7 : Ball In Play",
+        "Ur\u00edas fouled out to catcher."
+      ]
     },
     {
       "play_sequence": 26,
       "game_id": "401764539",
       "inning": 3,
       "inning_half": "Bottom",
-      "batter": "Batter_42410",
-      "pitcher": "Pitcher_33735",
+      "batter": "JJ Bleday",
+      "pitcher": "Ryan Yarbrough",
       "play_description": "Pitch 5 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -1135,15 +1341,24 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4017645390502: Pitch 5 : Ball In Play"
+      "raw_text": "Bleday flied out to center.",
+      "all_play_texts": [
+        "Ryan Yarbrough pitches to JJ Bleday",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Ball 3",
+        "Pitch 5 : Ball In Play",
+        "Bleday flied out to center."
+      ]
     },
     {
       "play_sequence": 27,
       "game_id": "401764539",
       "inning": 3,
       "inning_half": "Bottom",
-      "batter": "Batter_32721",
-      "pitcher": "Pitcher_33735",
+      "batter": "Gio Urshela",
+      "pitcher": "Ryan Yarbrough",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1212,15 +1427,27 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4017645390503: "
+      "raw_text": "Ryan Yarbrough pitches to Gio Urshela",
+      "all_play_texts": [
+        "Ryan Yarbrough pitches to Gio Urshela",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Strike 2 Swinging",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Ball 2",
+        "Pitch 6 : Ball 3",
+        "Pitch 7 : Strike 2 Foul",
+        "Pitch 8 : Ball 4",
+        "Urshela walked."
+      ]
     },
     {
       "play_sequence": 28,
       "game_id": "401764539",
       "inning": 3,
       "inning_half": "End",
-      "batter": "Batter_4719300",
-      "pitcher": "Pitcher_33735",
+      "batter": "Jacob Wilson",
+      "pitcher": "Ryan Yarbrough",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1249,15 +1476,23 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4017645390504: "
+      "raw_text": "Wilson struck out swinging.",
+      "all_play_texts": [
+        "Ryan Yarbrough pitches to Jacob Wilson",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Looking",
+        "Pitch 3 : Strike 3 Swinging",
+        "Wilson struck out swinging.",
+        "End of the 3rd inning"
+      ]
     },
     {
       "play_sequence": 29,
       "game_id": "401764539",
       "inning": 4,
       "inning_half": "Top",
-      "batter": "Batter_5016968",
-      "pitcher": "Pitcher_33263",
+      "batter": "Ben Rice",
+      "pitcher": "Luis Severino",
       "play_description": "Pitch 4 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -1294,15 +1529,24 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4017645390601: Pitch 4 : Ball In Play"
+      "raw_text": "Rice grounded out to shortstop.",
+      "all_play_texts": [
+        "Top of the 4th inning",
+        "Luis Severino pitches to Ben Rice",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Strike 1 Looking",
+        "Pitch 4 : Ball In Play",
+        "Rice grounded out to shortstop."
+      ]
     },
     {
       "play_sequence": 30,
       "game_id": "401764539",
       "inning": 4,
       "inning_half": "Top",
-      "batter": "Batter_33192",
-      "pitcher": "Pitcher_33263",
+      "batter": "Aaron Judge",
+      "pitcher": "Luis Severino",
       "play_description": "Pitch 5 : Ball In Play",
       "play_result": "Double",
       "pitch_sequence": [
@@ -1347,15 +1591,24 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4017645390602: Pitch 5 : Ball In Play"
+      "raw_text": "Luis Severino pitches to Aaron Judge",
+      "all_play_texts": [
+        "Luis Severino pitches to Aaron Judge",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Strike 2 Swinging",
+        "Pitch 5 : Ball In Play",
+        "Judge doubled to center."
+      ]
     },
     {
       "play_sequence": 31,
       "game_id": "401764539",
       "inning": 4,
       "inning_half": "Top",
-      "batter": "Batter_33912",
-      "pitcher": "Pitcher_33263",
+      "batter": "Cody Bellinger",
+      "pitcher": "Luis Severino",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -1384,15 +1637,22 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4017645390603: Pitch 3 : Ball In Play"
+      "raw_text": "Bellinger flied out to center.",
+      "all_play_texts": [
+        "Luis Severino pitches to Cody Bellinger",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Strike 2 Foul",
+        "Pitch 3 : Ball In Play",
+        "Bellinger flied out to center."
+      ]
     },
     {
       "play_sequence": 32,
       "game_id": "401764539",
       "inning": 4,
       "inning_half": "Mid",
-      "batter": "Batter_31027",
-      "pitcher": "Pitcher_33263",
+      "batter": "Paul Goldschmidt",
+      "pitcher": "Luis Severino",
       "play_description": "Pitch 4 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -1429,15 +1689,24 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4017645390604: Pitch 4 : Ball In Play"
+      "raw_text": "Goldschmidt grounded out to shortstop.",
+      "all_play_texts": [
+        "Luis Severino pitches to Paul Goldschmidt",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Foul",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Ball In Play",
+        "Goldschmidt grounded out to shortstop.",
+        "Middle of the 4th inning"
+      ]
     },
     {
       "play_sequence": 33,
       "game_id": "401764539",
       "inning": 4,
       "inning_half": "Bottom",
-      "batter": "Batter_40926",
-      "pitcher": "Pitcher_33735",
+      "batter": "Brent Rooker",
+      "pitcher": "Ryan Yarbrough",
       "play_description": "Pitch 6 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -1490,15 +1759,26 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4017645390701: Pitch 6 : Ball In Play"
+      "raw_text": "Ryan Yarbrough pitches to Brent Rooker",
+      "all_play_texts": [
+        "Bottom of the 4th inning",
+        "Ryan Yarbrough pitches to Brent Rooker",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Strike 2 Looking",
+        "Pitch 5 : Ball 3",
+        "Pitch 6 : Ball In Play",
+        "Rooker singled to left."
+      ]
     },
     {
       "play_sequence": 34,
       "game_id": "401764539",
       "inning": 4,
       "inning_half": "Bottom",
-      "batter": "Batter_4686066",
-      "pitcher": "Pitcher_33735",
+      "batter": "Tyler Soderstrom",
+      "pitcher": "Ryan Yarbrough",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -1511,15 +1791,20 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4017645390702: Pitch 1 : Ball In Play"
+      "raw_text": "Ryan Yarbrough pitches to Tyler Soderstrom",
+      "all_play_texts": [
+        "Ryan Yarbrough pitches to Tyler Soderstrom",
+        "Pitch 1 : Ball In Play",
+        "Soderstrom singled to left, Rooker to second."
+      ]
     },
     {
       "play_sequence": 35,
       "game_id": "401764539",
       "inning": 4,
       "inning_half": "Bottom",
-      "batter": "Batter_42598",
-      "pitcher": "Pitcher_33735",
+      "batter": "Shea Langeliers",
+      "pitcher": "Ryan Yarbrough",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -1532,15 +1817,20 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4017645390703: Pitch 1 : Ball In Play"
+      "raw_text": "Langeliers flied out to center, Rooker to third.",
+      "all_play_texts": [
+        "Ryan Yarbrough pitches to Shea Langeliers",
+        "Pitch 1 : Ball In Play",
+        "Langeliers flied out to center, Rooker to third."
+      ]
     },
     {
       "play_sequence": 36,
       "game_id": "401764539",
       "inning": 4,
       "inning_half": "Bottom",
-      "batter": "Batter_33743",
-      "pitcher": "Pitcher_33735",
+      "batter": "Miguel Andujar",
+      "pitcher": "Ryan Yarbrough",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -1561,15 +1851,21 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4017645390704: Pitch 2 : Ball In Play"
+      "raw_text": "Ryan Yarbrough pitches to Miguel Andujar",
+      "all_play_texts": [
+        "Ryan Yarbrough pitches to Miguel Andujar",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball In Play",
+        "Andujar singled to center, Rooker scored, Soderstrom to second."
+      ]
     },
     {
       "play_sequence": 37,
       "game_id": "401764539",
       "inning": 4,
       "inning_half": "Bottom",
-      "batter": "Batter_4966637",
-      "pitcher": "Pitcher_33735",
+      "batter": "Nick Kurtz",
+      "pitcher": "Ryan Yarbrough",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -1590,15 +1886,21 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4017645390705: Pitch 2 : Ball In Play"
+      "raw_text": "Kurtz grounded out to second, Andujar to second, Soderstrom to third.",
+      "all_play_texts": [
+        "Ryan Yarbrough pitches to Nick Kurtz",
+        "Pitch 1 : Strike 1 Swinging",
+        "Pitch 2 : Ball In Play",
+        "Kurtz grounded out to second, Andujar to second, Soderstrom to third."
+      ]
     },
     {
       "play_sequence": 38,
       "game_id": "401764539",
       "inning": 4,
       "inning_half": "End",
-      "batter": "Batter_35383",
-      "pitcher": "Pitcher_33735",
+      "batter": "Luis Urias",
+      "pitcher": "Ryan Yarbrough",
       "play_description": "Pitch 6 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -1651,15 +1953,26 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4017645390706: Pitch 6 : Ball In Play"
+      "raw_text": "Ur\u00edas flied out to right.",
+      "all_play_texts": [
+        "Ryan Yarbrough pitches to Luis Urias",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Ball 3",
+        "Pitch 6 : Ball In Play",
+        "Ur\u00edas flied out to right.",
+        "End of the 4th inning"
+      ]
     },
     {
       "play_sequence": 39,
       "game_id": "401764539",
       "inning": 5,
       "inning_half": "Top",
-      "batter": "Batter_42401",
-      "pitcher": "Pitcher_33263",
+      "batter": "Jasson Dominguez",
+      "pitcher": "Luis Severino",
       "play_description": "Pitch 5 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -1704,15 +2017,25 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4017645390801: Pitch 5 : Ball In Play"
+      "raw_text": "Luis Severino pitches to Jasson Dominguez",
+      "all_play_texts": [
+        "Top of the 5th inning",
+        "Luis Severino pitches to Jasson Dominguez",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Ball 3",
+        "Pitch 5 : Ball In Play",
+        "Dom\u00ednguez singled to right."
+      ]
     },
     {
       "play_sequence": 40,
       "game_id": "401764539",
       "inning": 5,
       "inning_half": "Top",
-      "batter": "Batter_42547",
-      "pitcher": "Pitcher_33263",
+      "batter": "Anthony Volpe",
+      "pitcher": "Luis Severino",
       "play_description": "Pitch 7 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -1773,15 +2096,26 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4017645390802: Pitch 7 : Ball In Play"
+      "raw_text": "Luis Severino pitches to Anthony Volpe",
+      "all_play_texts": [
+        "Luis Severino pitches to Anthony Volpe",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Strike 2 Swinging",
+        "Pitch 5 : Ball 3",
+        "Pitch 6 : Strike 2 Foul",
+        "Pitch 7 : Ball In Play",
+        "Volpe singled to left, Dom\u00ednguez to third."
+      ]
     },
     {
       "play_sequence": 41,
       "game_id": "401764539",
       "inning": 5,
       "inning_half": "Top",
-      "batter": "Batter_4683349",
-      "pitcher": "Pitcher_4987645",
+      "batter": "Austin Wells",
+      "pitcher": "Mitch Spence",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1794,15 +2128,21 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4017645390803: "
+      "raw_text": "Mitch Spence pitches to Austin Wells",
+      "all_play_texts": [
+        "Spence relieved Severino",
+        "Mitch Spence pitches to Austin Wells",
+        "Pitch 1 : Ball In Play",
+        "Wells hit by pitch, Volpe to second."
+      ]
     },
     {
       "play_sequence": 42,
       "game_id": "401764539",
       "inning": 5,
       "inning_half": "Top",
-      "batter": "Batter_40835",
-      "pitcher": "Pitcher_4987645",
+      "batter": "Oswaldo Cabrera",
+      "pitcher": "Mitch Spence",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1823,15 +2163,21 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4017645390804: "
+      "raw_text": "Cabrera grounded into fielder's choice to second, Wells to second, Volpe to third, Dom\u00ednguez out at home.",
+      "all_play_texts": [
+        "Mitch Spence pitches to Oswaldo Cabrera",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball In Play",
+        "Cabrera grounded into fielder's choice to second, Wells to second, Volpe to third, Dom\u00ednguez out at home."
+      ]
     },
     {
       "play_sequence": 43,
       "game_id": "401764539",
       "inning": 5,
       "inning_half": "Top",
-      "batter": "Batter_4722676",
-      "pitcher": "Pitcher_4987645",
+      "batter": "Jorbit Vivas",
+      "pitcher": "Mitch Spence",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1860,15 +2206,22 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4017645390805: "
+      "raw_text": "Vivas struck out swinging.",
+      "all_play_texts": [
+        "Mitch Spence pitches to Jorbit Vivas",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Strike 2 Swinging",
+        "Pitch 3 : Strike 3 Swinging",
+        "Vivas struck out swinging."
+      ]
     },
     {
       "play_sequence": 44,
       "game_id": "401764539",
       "inning": 5,
       "inning_half": "Top",
-      "batter": "Batter_5016968",
-      "pitcher": "Pitcher_4987645",
+      "batter": "Ben Rice",
+      "pitcher": "Mitch Spence",
       "play_description": "Pitch 5 : Ball In Play",
       "play_result": "Home Run",
       "pitch_sequence": [
@@ -1913,15 +2266,24 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4017645390806: Pitch 5 : Ball In Play"
+      "raw_text": "Mitch Spence pitches to Ben Rice",
+      "all_play_texts": [
+        "Mitch Spence pitches to Ben Rice",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Ball 3",
+        "Pitch 4 : Strike 1 Looking",
+        "Pitch 5 : Ball In Play",
+        "Rice homered to right (398 feet), Volpe scored, Wells scored and Cabrera scored."
+      ]
     },
     {
       "play_sequence": 45,
       "game_id": "401764539",
       "inning": 5,
       "inning_half": "Top",
-      "batter": "Batter_33192",
-      "pitcher": "Pitcher_4987645",
+      "batter": "Aaron Judge",
+      "pitcher": "Mitch Spence",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -1950,15 +2312,22 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4017645390807: Pitch 3 : Ball In Play"
+      "raw_text": "Mitch Spence pitches to Aaron Judge",
+      "all_play_texts": [
+        "Mitch Spence pitches to Aaron Judge",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Looking",
+        "Pitch 3 : Ball In Play",
+        "Judge singled to right."
+      ]
     },
     {
       "play_sequence": 46,
       "game_id": "401764539",
       "inning": 5,
       "inning_half": "Top",
-      "batter": "Batter_33912",
-      "pitcher": "Pitcher_4987645",
+      "batter": "Cody Bellinger",
+      "pitcher": "Mitch Spence",
       "play_description": "Pitch 4 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -1995,15 +2364,23 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4017645390808: Pitch 4 : Ball In Play"
+      "raw_text": "Mitch Spence pitches to Cody Bellinger",
+      "all_play_texts": [
+        "Mitch Spence pitches to Cody Bellinger",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Ball In Play",
+        "Bellinger singled to right, Judge to second."
+      ]
     },
     {
       "play_sequence": 47,
       "game_id": "401764539",
       "inning": 5,
       "inning_half": "Top",
-      "batter": "Batter_31027",
-      "pitcher": "Pitcher_4987645",
+      "batter": "Paul Goldschmidt",
+      "pitcher": "Mitch Spence",
       "play_description": "Pitch 5 : Ball In Play",
       "play_result": "Double",
       "pitch_sequence": [
@@ -2048,15 +2425,24 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4017645390809: Pitch 5 : Ball In Play"
+      "raw_text": "Mitch Spence pitches to Paul Goldschmidt",
+      "all_play_texts": [
+        "Mitch Spence pitches to Paul Goldschmidt",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Foul",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Ball In Play",
+        "Goldschmidt doubled to left, Judge scored, Bellinger to third."
+      ]
     },
     {
       "play_sequence": 48,
       "game_id": "401764539",
       "inning": 5,
       "inning_half": "Mid",
-      "batter": "Batter_42401",
-      "pitcher": "Pitcher_4987645",
+      "batter": "Jasson Dominguez",
+      "pitcher": "Mitch Spence",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2101,15 +2487,25 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4017645390810: "
+      "raw_text": "Dom\u00ednguez struck out swinging.",
+      "all_play_texts": [
+        "Mitch Spence pitches to Jasson Dominguez",
+        "Pitch 1 : Strike 1 Swinging",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Strike 3 Swinging",
+        "Dom\u00ednguez struck out swinging.",
+        "Middle of the 5th inning"
+      ]
     },
     {
       "play_sequence": 49,
       "game_id": "401764539",
       "inning": 5,
       "inning_half": "Bottom",
-      "batter": "Batter_42410",
-      "pitcher": "Pitcher_33735",
+      "batter": "JJ Bleday",
+      "pitcher": "Ryan Yarbrough",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Home Run",
       "pitch_sequence": [
@@ -2122,15 +2518,21 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4017645390901: Pitch 1 : Ball In Play"
+      "raw_text": "Ryan Yarbrough pitches to JJ Bleday",
+      "all_play_texts": [
+        "Bottom of the 5th inning",
+        "Ryan Yarbrough pitches to JJ Bleday",
+        "Pitch 1 : Ball In Play",
+        "Bleday homered to right (377 feet)."
+      ]
     },
     {
       "play_sequence": 50,
       "game_id": "401764539",
       "inning": 5,
       "inning_half": "Bottom",
-      "batter": "Batter_32721",
-      "pitcher": "Pitcher_33735",
+      "batter": "Gio Urshela",
+      "pitcher": "Ryan Yarbrough",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -2143,15 +2545,20 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4017645390902: Pitch 1 : Ball In Play"
+      "raw_text": "Ryan Yarbrough pitches to Gio Urshela",
+      "all_play_texts": [
+        "Ryan Yarbrough pitches to Gio Urshela",
+        "Pitch 1 : Ball In Play",
+        "Urshela singled to left."
+      ]
     },
     {
       "play_sequence": 51,
       "game_id": "401764539",
       "inning": 5,
       "inning_half": "Bottom",
-      "batter": "Batter_4719300",
-      "pitcher": "Pitcher_33735",
+      "batter": "Jacob Wilson",
+      "pitcher": "Ryan Yarbrough",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -2164,15 +2571,20 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4017645390903: Pitch 1 : Ball In Play"
+      "raw_text": "Wilson flied out to right.",
+      "all_play_texts": [
+        "Ryan Yarbrough pitches to Jacob Wilson",
+        "Pitch 1 : Ball In Play",
+        "Wilson flied out to right."
+      ]
     },
     {
       "play_sequence": 52,
       "game_id": "401764539",
       "inning": 5,
       "inning_half": "Bottom",
-      "batter": "Batter_40926",
-      "pitcher": "Pitcher_33735",
+      "batter": "Brent Rooker",
+      "pitcher": "Ryan Yarbrough",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2209,15 +2621,23 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4017645390904: "
+      "raw_text": "Rooker struck out swinging.",
+      "all_play_texts": [
+        "Ryan Yarbrough pitches to Brent Rooker",
+        "Pitch 1 : Strike 1 Swinging",
+        "Pitch 2 : Strike 2 Looking",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Strike 3 Swinging",
+        "Rooker struck out swinging."
+      ]
     },
     {
       "play_sequence": 53,
       "game_id": "401764539",
       "inning": 5,
       "inning_half": "End",
-      "batter": "Batter_4686066",
-      "pitcher": "Pitcher_33735",
+      "batter": "Tyler Soderstrom",
+      "pitcher": "Ryan Yarbrough",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -2230,15 +2650,21 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4017645390905: Pitch 1 : Ball In Play"
+      "raw_text": "Soderstrom grounded out to pitcher.",
+      "all_play_texts": [
+        "Ryan Yarbrough pitches to Tyler Soderstrom",
+        "Pitch 1 : Ball In Play",
+        "Soderstrom grounded out to pitcher.",
+        "End of the 5th inning"
+      ]
     },
     {
       "play_sequence": 54,
       "game_id": "401764539",
       "inning": 6,
       "inning_half": "Top",
-      "batter": "Batter_42547",
-      "pitcher": "Pitcher_4987645",
+      "batter": "Anthony Volpe",
+      "pitcher": "Mitch Spence",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2275,15 +2701,24 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4017645391001: "
+      "raw_text": "Volpe struck out swinging.",
+      "all_play_texts": [
+        "Top of the 6th inning",
+        "Mitch Spence pitches to Anthony Volpe",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Strike 2 Looking",
+        "Pitch 4 : Strike 3 Swinging",
+        "Volpe struck out swinging."
+      ]
     },
     {
       "play_sequence": 55,
       "game_id": "401764539",
       "inning": 6,
       "inning_half": "Top",
-      "batter": "Batter_4683349",
-      "pitcher": "Pitcher_4987645",
+      "batter": "Austin Wells",
+      "pitcher": "Mitch Spence",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2320,15 +2755,23 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4017645391002: "
+      "raw_text": "Mitch Spence pitches to Austin Wells",
+      "all_play_texts": [
+        "Mitch Spence pitches to Austin Wells",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Ball 3",
+        "Pitch 4 : Ball 4",
+        "Wells walked."
+      ]
     },
     {
       "play_sequence": 56,
       "game_id": "401764539",
       "inning": 6,
       "inning_half": "Top",
-      "batter": "Batter_40835",
-      "pitcher": "Pitcher_4987645",
+      "batter": "Oswaldo Cabrera",
+      "pitcher": "Mitch Spence",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -2357,15 +2800,22 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4017645391003: Pitch 3 : Ball In Play"
+      "raw_text": "Cabrera grounded out to first, Wells to second.",
+      "all_play_texts": [
+        "Mitch Spence pitches to Oswaldo Cabrera",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Ball In Play",
+        "Cabrera grounded out to first, Wells to second."
+      ]
     },
     {
       "play_sequence": 57,
       "game_id": "401764539",
       "inning": 6,
       "inning_half": "Mid",
-      "batter": "Batter_4722676",
-      "pitcher": "Pitcher_4987645",
+      "batter": "Jorbit Vivas",
+      "pitcher": "Mitch Spence",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2410,15 +2860,25 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4017645391004: "
+      "raw_text": "Vivas struck out swinging.",
+      "all_play_texts": [
+        "Mitch Spence pitches to Jorbit Vivas",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Strike 1 Foul",
+        "Pitch 4 : Strike 2 Swinging",
+        "Pitch 5 : Strike 3 Swinging",
+        "Vivas struck out swinging.",
+        "Middle of the 6th inning"
+      ]
     },
     {
       "play_sequence": 58,
       "game_id": "401764539",
       "inning": 6,
       "inning_half": "Bottom",
-      "batter": "Batter_42598",
-      "pitcher": "Pitcher_4717834",
+      "batter": "Shea Langeliers",
+      "pitcher": "Yerry De los Santos",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -2447,15 +2907,24 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4017645391101: Pitch 3 : Ball In Play"
+      "raw_text": "Langeliers grounded out to third.",
+      "all_play_texts": [
+        "Bottom of the 6th inning",
+        "De los Santos relieved Yarbrough",
+        "Yerry De los Santos pitches to Shea Langeliers",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball In Play",
+        "Langeliers grounded out to third."
+      ]
     },
     {
       "play_sequence": 59,
       "game_id": "401764539",
       "inning": 6,
       "inning_half": "Bottom",
-      "batter": "Batter_33743",
-      "pitcher": "Pitcher_4717834",
+      "batter": "Miguel Andujar",
+      "pitcher": "Yerry De los Santos",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -2468,15 +2937,20 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4017645391102: Pitch 1 : Ball In Play"
+      "raw_text": "Andujar grounded out to third.",
+      "all_play_texts": [
+        "Yerry De los Santos pitches to Miguel Andujar",
+        "Pitch 1 : Ball In Play",
+        "Andujar grounded out to third."
+      ]
     },
     {
       "play_sequence": 60,
       "game_id": "401764539",
       "inning": 6,
       "inning_half": "End",
-      "batter": "Batter_4966637",
-      "pitcher": "Pitcher_4717834",
+      "batter": "Nick Kurtz",
+      "pitcher": "Yerry De los Santos",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2529,15 +3003,26 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4017645391103: "
+      "raw_text": "Kurtz struck out swinging.",
+      "all_play_texts": [
+        "Yerry De los Santos pitches to Nick Kurtz",
+        "Pitch 1 : Strike 1 Swinging",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Ball 3",
+        "Pitch 5 : Strike 2 Foul",
+        "Pitch 6 : Strike 3 Swinging",
+        "Kurtz struck out swinging.",
+        "End of the 6th inning"
+      ]
     },
     {
       "play_sequence": 61,
       "game_id": "401764539",
       "inning": 7,
       "inning_half": "Top",
-      "batter": "Batter_5016968",
-      "pitcher": "Pitcher_42211",
+      "batter": "Ben Rice",
+      "pitcher": "Elvis Alvarado",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2558,15 +3043,23 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4017645391201: "
+      "raw_text": "Elvis Alvarado pitches to Ben Rice",
+      "all_play_texts": [
+        "Top of the 7th inning",
+        "Alvarado relieved Spence",
+        "Elvis Alvarado pitches to Ben Rice",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball In Play",
+        "Rice hit by pitch."
+      ]
     },
     {
       "play_sequence": 62,
       "game_id": "401764539",
       "inning": 7,
       "inning_half": "Top",
-      "batter": "Batter_33192",
-      "pitcher": "Pitcher_42211",
+      "batter": "Aaron Judge",
+      "pitcher": "Elvis Alvarado",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -2587,15 +3080,21 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4017645391202: Pitch 2 : Ball In Play"
+      "raw_text": "Elvis Alvarado pitches to Aaron Judge",
+      "all_play_texts": [
+        "Elvis Alvarado pitches to Aaron Judge",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball In Play",
+        "Judge singled to left, Rice to second."
+      ]
     },
     {
       "play_sequence": 63,
       "game_id": "401764539",
       "inning": 7,
       "inning_half": "Top",
-      "batter": "Batter_33912",
-      "pitcher": "Pitcher_42211",
+      "batter": "Cody Bellinger",
+      "pitcher": "Elvis Alvarado",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2640,15 +3139,24 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4017645391203: "
+      "raw_text": "Bellinger struck out swinging.",
+      "all_play_texts": [
+        "Elvis Alvarado pitches to Cody Bellinger",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Strike 3 Swinging",
+        "Bellinger struck out swinging."
+      ]
     },
     {
       "play_sequence": 64,
       "game_id": "401764539",
       "inning": 7,
       "inning_half": "Top",
-      "batter": "Batter_31027",
-      "pitcher": "Pitcher_42211",
+      "batter": "Paul Goldschmidt",
+      "pitcher": "Elvis Alvarado",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2693,15 +3201,24 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4017645391204: "
+      "raw_text": "Elvis Alvarado pitches to Paul Goldschmidt",
+      "all_play_texts": [
+        "Elvis Alvarado pitches to Paul Goldschmidt",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Swinging",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Ball In Play",
+        "Goldschmidt hit a ground rule double, Rice scored, Judge to third."
+      ]
     },
     {
       "play_sequence": 65,
       "game_id": "401764539",
       "inning": 7,
       "inning_half": "Top",
-      "batter": "Batter_42401",
-      "pitcher": "Pitcher_42211",
+      "batter": "Jasson Dominguez",
+      "pitcher": "Elvis Alvarado",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2738,15 +3255,23 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4017645391205: "
+      "raw_text": "Dom\u00ednguez struck out swinging.",
+      "all_play_texts": [
+        "Elvis Alvarado pitches to Jasson Dominguez",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Foul",
+        "Pitch 3 : Strike 2 Swinging",
+        "Pitch 4 : Strike 3 Swinging",
+        "Dom\u00ednguez struck out swinging."
+      ]
     },
     {
       "play_sequence": 66,
       "game_id": "401764539",
       "inning": 7,
       "inning_half": "Mid",
-      "batter": "Batter_42547",
-      "pitcher": "Pitcher_42211",
+      "batter": "Anthony Volpe",
+      "pitcher": "Elvis Alvarado",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -2775,15 +3300,23 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4017645391206: Pitch 3 : Ball In Play"
+      "raw_text": "Volpe flied out to right.",
+      "all_play_texts": [
+        "Elvis Alvarado pitches to Anthony Volpe",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Ball In Play",
+        "Volpe flied out to right.",
+        "Middle of the 7th inning"
+      ]
     },
     {
       "play_sequence": 67,
       "game_id": "401764539",
       "inning": 7,
       "inning_half": "Bottom",
-      "batter": "Batter_35383",
-      "pitcher": "Pitcher_4717834",
+      "batter": "Luis Urias",
+      "pitcher": "Yerry De los Santos",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2844,15 +3377,27 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4017645391301: "
+      "raw_text": "Yerry De los Santos pitches to Luis Urias",
+      "all_play_texts": [
+        "Bottom of the 7th inning",
+        "Yerry De los Santos pitches to Luis Urias",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Ball 3",
+        "Pitch 4 : Strike 1 Looking",
+        "Pitch 5 : Strike 2 Foul",
+        "Pitch 6 : Strike 2 Foul",
+        "Pitch 7 : Ball 4",
+        "Ur\u00edas walked."
+      ]
     },
     {
       "play_sequence": 68,
       "game_id": "401764539",
       "inning": 7,
       "inning_half": "Bottom",
-      "batter": "Batter_42410",
-      "pitcher": "Pitcher_4717834",
+      "batter": "JJ Bleday",
+      "pitcher": "Yerry De los Santos",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -2865,15 +3410,20 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4017645391302: Pitch 1 : Ball In Play"
+      "raw_text": "Bleday flied out to center.",
+      "all_play_texts": [
+        "Yerry De los Santos pitches to JJ Bleday",
+        "Pitch 1 : Ball In Play",
+        "Bleday flied out to center."
+      ]
     },
     {
       "play_sequence": 69,
       "game_id": "401764539",
       "inning": 7,
       "inning_half": "End",
-      "batter": "Batter_32721",
-      "pitcher": "Pitcher_4717834",
+      "batter": "Gio Urshela",
+      "pitcher": "Yerry De los Santos",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -2886,15 +3436,21 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4017645391303: Pitch 1 : Ball In Play"
+      "raw_text": "Urshela grounded into double play, shortstop to second to first, Ur\u00edas out at second.",
+      "all_play_texts": [
+        "Yerry De los Santos pitches to Gio Urshela",
+        "Pitch 1 : Ball In Play",
+        "Urshela grounded into double play, shortstop to second to first, Ur\u00edas out at second.",
+        "End of the 7th inning"
+      ]
     },
     {
       "play_sequence": 70,
       "game_id": "401764539",
       "inning": 8,
       "inning_half": "Top",
-      "batter": "Batter_4683349",
-      "pitcher": "Pitcher_32680",
+      "batter": "Austin Wells",
+      "pitcher": "T.J. McFarland",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -2923,15 +3479,25 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4017645391401: Pitch 3 : Ball In Play"
+      "raw_text": "Wells grounded out to first.",
+      "all_play_texts": [
+        "Top of the 8th inning",
+        "Brown in left field.",
+        "McFarland relieved Alvarado",
+        "T.J. McFarland pitches to Austin Wells",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Swinging",
+        "Pitch 3 : Ball In Play",
+        "Wells grounded out to first."
+      ]
     },
     {
       "play_sequence": 71,
       "game_id": "401764539",
       "inning": 8,
       "inning_half": "Top",
-      "batter": "Batter_40835",
-      "pitcher": "Pitcher_41364",
+      "batter": "Oswaldo Cabrera",
+      "pitcher": "Hogan Harris",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Lineout",
       "pitch_sequence": [
@@ -2952,15 +3518,22 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4017645391402: Pitch 2 : Ball In Play"
+      "raw_text": "Cabrera lined out to left.",
+      "all_play_texts": [
+        "Harris relieved McFarland",
+        "Hogan Harris pitches to Oswaldo Cabrera",
+        "Pitch 1 : Strike 1 Swinging",
+        "Pitch 2 : Ball In Play",
+        "Cabrera lined out to left."
+      ]
     },
     {
       "play_sequence": 72,
       "game_id": "401764539",
       "inning": 8,
       "inning_half": "Top",
-      "batter": "Batter_4722676",
-      "pitcher": "Pitcher_41364",
+      "batter": "Jorbit Vivas",
+      "pitcher": "Hogan Harris",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -3005,15 +3578,24 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4017645391403: "
+      "raw_text": "Hogan Harris pitches to Jorbit Vivas",
+      "all_play_texts": [
+        "Hogan Harris pitches to Jorbit Vivas",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Ball 3",
+        "Pitch 4 : Strike 1 Looking",
+        "Pitch 5 : Ball 4",
+        "Vivas walked."
+      ]
     },
     {
       "play_sequence": 73,
       "game_id": "401764539",
       "inning": 8,
       "inning_half": "Top",
-      "batter": "Batter_5016968",
-      "pitcher": "Pitcher_41364",
+      "batter": "Ben Rice",
+      "pitcher": "Hogan Harris",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -3058,15 +3640,24 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4017645391404: "
+      "raw_text": "Hogan Harris pitches to Ben Rice",
+      "all_play_texts": [
+        "Hogan Harris pitches to Ben Rice",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Strike 1 Foul",
+        "Pitch 4 : Ball 3",
+        "Pitch 5 : Ball 4",
+        "Rice walked, Vivas to second."
+      ]
     },
     {
       "play_sequence": 74,
       "game_id": "401764539",
       "inning": 8,
       "inning_half": "Mid",
-      "batter": "Batter_35439",
-      "pitcher": "Pitcher_41364",
+      "batter": "Pablo Reyes",
+      "pitcher": "Hogan Harris",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -3095,15 +3686,24 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4017645391405: "
+      "raw_text": "Reyes fouled out to first.",
+      "all_play_texts": [
+        "Reyes hit for Judge",
+        "Hogan Harris pitches to Pablo Reyes",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Ball In Play",
+        "Reyes fouled out to first.",
+        "Middle of the 8th inning"
+      ]
     },
     {
       "play_sequence": 75,
       "game_id": "401764539",
       "inning": 8,
       "inning_half": "Bottom",
-      "batter": "Batter_4719300",
-      "pitcher": "Pitcher_4717834",
+      "batter": "Jacob Wilson",
+      "pitcher": "Yerry De los Santos",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -3124,15 +3724,24 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4017645391501: Pitch 2 : Ball In Play"
+      "raw_text": "Wilson grounded out to shortstop.",
+      "all_play_texts": [
+        "Bottom of the 8th inning",
+        "Reyes in right field.",
+        "Peraza at shortstop.",
+        "Yerry De los Santos pitches to Jacob Wilson",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball In Play",
+        "Wilson grounded out to shortstop."
+      ]
     },
     {
       "play_sequence": 76,
       "game_id": "401764539",
       "inning": 8,
       "inning_half": "Bottom",
-      "batter": "Batter_40926",
-      "pitcher": "Pitcher_4717834",
+      "batter": "Brent Rooker",
+      "pitcher": "Yerry De los Santos",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Lineout",
       "pitch_sequence": [
@@ -3153,15 +3762,21 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4017645391502: Pitch 2 : Ball In Play"
+      "raw_text": "Rooker lined out to left.",
+      "all_play_texts": [
+        "Yerry De los Santos pitches to Brent Rooker",
+        "Pitch 1 : Strike 1 Swinging",
+        "Pitch 2 : Ball In Play",
+        "Rooker lined out to left."
+      ]
     },
     {
       "play_sequence": 77,
       "game_id": "401764539",
       "inning": 8,
       "inning_half": "Bottom",
-      "batter": "Batter_35676",
-      "pitcher": "Pitcher_4717834",
+      "batter": "Seth Brown",
+      "pitcher": "Yerry De los Santos",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -3238,15 +3853,28 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4017645391503: "
+      "raw_text": "Yerry De los Santos pitches to Seth Brown",
+      "all_play_texts": [
+        "Yerry De los Santos pitches to Seth Brown",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Ball 3",
+        "Pitch 4 : Strike 1 Looking",
+        "Pitch 5 : Strike 2 Foul",
+        "Pitch 6 : Strike 2 Foul",
+        "Pitch 7 : Strike 2 Foul",
+        "Pitch 8 : Strike 2 Foul",
+        "Pitch 9 : Ball 4",
+        "Brown walked."
+      ]
     },
     {
       "play_sequence": 78,
       "game_id": "401764539",
       "inning": 8,
       "inning_half": "End",
-      "batter": "Batter_42598",
-      "pitcher": "Pitcher_4717834",
+      "batter": "Shea Langeliers",
+      "pitcher": "Yerry De los Santos",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -3267,15 +3895,22 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4017645391504: Pitch 2 : Ball In Play"
+      "raw_text": "Langeliers flied out to center.",
+      "all_play_texts": [
+        "Yerry De los Santos pitches to Shea Langeliers",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Ball In Play",
+        "Langeliers flied out to center.",
+        "End of the 8th inning"
+      ]
     },
     {
       "play_sequence": 79,
       "game_id": "401764539",
       "inning": 9,
       "inning_half": "Top",
-      "batter": "Batter_33912",
-      "pitcher": "Pitcher_41364",
+      "batter": "Cody Bellinger",
+      "pitcher": "Hogan Harris",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -3288,15 +3923,22 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4017645391601: Pitch 1 : Ball In Play"
+      "raw_text": "Bellinger flied out to left.",
+      "all_play_texts": [
+        "Top of the 9th inning",
+        "Schuemann in right field.",
+        "Hogan Harris pitches to Cody Bellinger",
+        "Pitch 1 : Ball In Play",
+        "Bellinger flied out to left."
+      ]
     },
     {
       "play_sequence": 80,
       "game_id": "401764539",
       "inning": 9,
       "inning_half": "Top",
-      "batter": "Batter_41644",
-      "pitcher": "Pitcher_41364",
+      "batter": "J.C. Escarra",
+      "pitcher": "Hogan Harris",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -3349,15 +3991,25 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4017645391602: "
+      "raw_text": "Peraza struck out looking.",
+      "all_play_texts": [
+        "Hogan Harris pitches to Oswald Peraza",
+        "Pitch 1 : Strike 1 Swinging",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Strike 2 Foul",
+        "Pitch 6 : Strike 3 Looking",
+        "Peraza struck out looking."
+      ]
     },
     {
       "play_sequence": 81,
       "game_id": "401764539",
       "inning": 9,
       "inning_half": "Mid",
-      "batter": "Batter_42401",
-      "pitcher": "Pitcher_41364",
+      "batter": "Jasson Dominguez",
+      "pitcher": "Hogan Harris",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -3410,15 +4062,26 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4017645391603: "
+      "raw_text": "Dom\u00ednguez struck out looking.",
+      "all_play_texts": [
+        "Hogan Harris pitches to Jasson Dominguez",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Swinging",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Strike 2 Looking",
+        "Pitch 5 : Strike 2 Foul",
+        "Pitch 6 : Strike 3 Looking",
+        "Dom\u00ednguez struck out looking.",
+        "Middle of the 9th inning"
+      ]
     },
     {
       "play_sequence": 82,
       "game_id": "401764539",
       "inning": 9,
       "inning_half": "Bottom",
-      "batter": "Batter_3962127",
-      "pitcher": "Pitcher_31264",
+      "batter": "Max Schuemann",
+      "pitcher": "Tyler Matzek",
       "play_description": "Pitch 6 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -3471,15 +4134,28 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4017645391701: Pitch 6 : Ball In Play"
+      "raw_text": "Schuemann grounded out to shortstop.",
+      "all_play_texts": [
+        "Bottom of the 9th inning",
+        "Rice catching.",
+        "Matzek relieved Wells",
+        "Tyler Matzek pitches to Max Schuemann",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Strike 1 Looking",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Strike 2 Foul",
+        "Pitch 6 : Ball In Play",
+        "Schuemann grounded out to shortstop."
+      ]
     },
     {
       "play_sequence": 83,
       "game_id": "401764539",
       "inning": 9,
       "inning_half": "Bottom",
-      "batter": "Batter_40702",
-      "pitcher": "Pitcher_31264",
+      "batter": "Jhonny Pereda",
+      "pitcher": "Tyler Matzek",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -3540,15 +4216,27 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4017645391702: "
+      "raw_text": "Pereda struck out looking.",
+      "all_play_texts": [
+        "Pereda hit for Kurtz",
+        "Tyler Matzek pitches to Jhonny Pereda",
+        "Pitch 1 : Strike 1 Swinging",
+        "Pitch 2 : Strike 2 Foul",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Ball 2",
+        "Pitch 6 : Ball 3",
+        "Pitch 7 : Strike 3 Looking",
+        "Pereda struck out looking."
+      ]
     },
     {
       "play_sequence": 84,
       "game_id": "401764539",
       "inning": 9,
       "inning_half": "Bottom",
-      "batter": "Batter_35383",
-      "pitcher": "Pitcher_31264",
+      "batter": "Luis Urias",
+      "pitcher": "Tyler Matzek",
       "play_description": "Pitch 5 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -3593,15 +4281,24 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4017645391703: Pitch 5 : Ball In Play"
+      "raw_text": "Tyler Matzek pitches to Luis Urias",
+      "all_play_texts": [
+        "Tyler Matzek pitches to Luis Urias",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Looking",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Ball In Play",
+        "Ur\u00edas singled to center."
+      ]
     },
     {
       "play_sequence": 85,
       "game_id": "401764539",
       "inning": 9,
       "inning_half": "End",
-      "batter": "Batter_42410",
-      "pitcher": "Pitcher_31264",
+      "batter": "JJ Bleday",
+      "pitcher": "Tyler Matzek",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Lineout",
       "pitch_sequence": [
@@ -3630,7 +4327,15 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4017645391704: Pitch 3 : Ball In Play"
+      "raw_text": "Bleday lined out to right.",
+      "all_play_texts": [
+        "Tyler Matzek pitches to JJ Bleday",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Swinging",
+        "Pitch 3 : Ball In Play",
+        "Bleday lined out to right.",
+        "End of the 9th inning"
+      ]
     }
   ]
 }

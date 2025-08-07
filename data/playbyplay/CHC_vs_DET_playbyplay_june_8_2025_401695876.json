@@ -2,7 +2,7 @@
   "metadata": {
     "game_id": "401695876",
     "api_url": "https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/summary?event=401695876",
-    "scraped_at": "2025-08-06T16:43:26.751792",
+    "scraped_at": "2025-08-07T02:57:24.261790",
     "away_team": "CHC",
     "home_team": "DET"
   },
@@ -12,8 +12,8 @@
       "game_id": "401695876",
       "inning": 1,
       "inning_half": "Top",
-      "batter": "Batter_34945",
-      "pitcher": "Pitcher_33837",
+      "batter": "Ian Happ",
+      "pitcher": "Jack Flaherty",
       "play_description": "Pitch 4 : Ball In Play",
       "play_result": "Lineout",
       "pitch_sequence": [
@@ -50,15 +50,24 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016958760001: Pitch 4 : Ball In Play"
+      "raw_text": "Happ lined out to right.",
+      "all_play_texts": [
+        "Top of the 1st inning",
+        "Jack Flaherty pitches to Ian Happ",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Foul",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Ball In Play",
+        "Happ lined out to right."
+      ]
     },
     {
       "play_sequence": 2,
       "game_id": "401695876",
       "inning": 1,
       "inning_half": "Top",
-      "batter": "Batter_34967",
-      "pitcher": "Pitcher_33837",
+      "batter": "Kyle Tucker",
+      "pitcher": "Jack Flaherty",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -111,15 +120,25 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016958760002: "
+      "raw_text": "Tucker struck out swinging.",
+      "all_play_texts": [
+        "Jack Flaherty pitches to Kyle Tucker",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Looking",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Strike 2 Foul",
+        "Pitch 6 : Strike 3 Swinging",
+        "Tucker struck out swinging."
+      ]
     },
     {
       "play_sequence": 3,
       "game_id": "401695876",
       "inning": 1,
       "inning_half": "Mid",
-      "batter": "Batter_4142424",
-      "pitcher": "Pitcher_33837",
+      "batter": "Seiya Suzuki",
+      "pitcher": "Jack Flaherty",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -164,15 +183,25 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016958760003: "
+      "raw_text": "Suzuki struck out swinging.",
+      "all_play_texts": [
+        "Jack Flaherty pitches to Seiya Suzuki",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Foul",
+        "Pitch 3 : Strike 2 Looking",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Strike 3 Swinging",
+        "Suzuki struck out swinging.",
+        "Middle of the 1st inning"
+      ]
     },
     {
       "play_sequence": 4,
       "game_id": "401695876",
       "inning": 1,
       "inning_half": "Bottom",
-      "batter": "Batter_41223",
-      "pitcher": "Pitcher_4692526",
+      "batter": "Parker Meadows",
+      "pitcher": "Cade Horton",
       "play_description": "Pitch 5 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -217,15 +246,25 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016958760101: Pitch 5 : Ball In Play"
+      "raw_text": "Cade Horton pitches to Parker Meadows",
+      "all_play_texts": [
+        "Bottom of the 1st inning",
+        "Cade Horton pitches to Parker Meadows",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Foul",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Ball In Play",
+        "Meadows singled to left."
+      ]
     },
     {
       "play_sequence": 5,
       "game_id": "401695876",
       "inning": 1,
       "inning_half": "Bottom",
-      "batter": "Batter_33804",
-      "pitcher": "Pitcher_4692526",
+      "batter": "Gleyber Torres",
+      "pitcher": "Cade Horton",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -278,15 +317,25 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016958760102: "
+      "raw_text": "Cade Horton pitches to Gleyber Torres",
+      "all_play_texts": [
+        "Cade Horton pitches to Gleyber Torres",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Strike 1 Swinging",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Ball 3",
+        "Pitch 6 : Ball 4",
+        "Torres walked, Meadows to second."
+      ]
     },
     {
       "play_sequence": 6,
       "game_id": "401695876",
       "inning": 1,
       "inning_half": "Bottom",
-      "batter": "Batter_42714",
-      "pitcher": "Pitcher_4692526",
+      "batter": "Kerry Carpenter",
+      "pitcher": "Cade Horton",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -299,15 +348,20 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016958760103: "
+      "raw_text": "Carpenter fouled out to third.",
+      "all_play_texts": [
+        "Cade Horton pitches to Kerry Carpenter",
+        "Pitch 1 : Ball In Play",
+        "Carpenter fouled out to third."
+      ]
     },
     {
       "play_sequence": 7,
       "game_id": "401695876",
       "inning": 1,
       "inning_half": "Bottom",
-      "batter": "Batter_42179",
-      "pitcher": "Pitcher_4692526",
+      "batter": "Riley Greene",
+      "pitcher": "Cade Horton",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -352,15 +406,24 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016958760104: "
+      "raw_text": "Greene struck out looking.",
+      "all_play_texts": [
+        "Cade Horton pitches to Riley Greene",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Strike 2 Swinging",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Strike 3 Looking",
+        "Greene struck out looking."
+      ]
     },
     {
       "play_sequence": 8,
       "game_id": "401695876",
       "inning": 1,
       "inning_half": "Bottom",
-      "batter": "Batter_4424286",
-      "pitcher": "Pitcher_4692526",
+      "batter": "Spencer Torkelson",
+      "pitcher": "Cade Horton",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Double",
       "pitch_sequence": [
@@ -389,15 +452,22 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016958760105: Pitch 3 : Ball In Play"
+      "raw_text": "Cade Horton pitches to Spencer Torkelson",
+      "all_play_texts": [
+        "Cade Horton pitches to Spencer Torkelson",
+        "Pitch 1 : Strike 1 Swinging",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball In Play",
+        "Torkelson doubled to center, Torres scored and Meadows scored."
+      ]
     },
     {
       "play_sequence": 9,
       "game_id": "401695876",
       "inning": 1,
       "inning_half": "End",
-      "batter": "Batter_4683384",
-      "pitcher": "Pitcher_4692526",
+      "batter": "Colt Keith",
+      "pitcher": "Cade Horton",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -418,15 +488,22 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016958760106: Pitch 2 : Ball In Play"
+      "raw_text": "Keith flied out to center.",
+      "all_play_texts": [
+        "Cade Horton pitches to Colt Keith",
+        "Pitch 1 : Strike 1 Swinging",
+        "Pitch 2 : Ball In Play",
+        "Keith flied out to center.",
+        "End of the 1st inning"
+      ]
     },
     {
       "play_sequence": 10,
       "game_id": "401695876",
       "inning": 2,
       "inning_half": "Top",
-      "batter": "Batter_4717833",
-      "pitcher": "Pitcher_33837",
+      "batter": "Pete Crow-Armstrong",
+      "pitcher": "Jack Flaherty",
       "play_description": "Pitch 5 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -471,15 +548,25 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016958760201: Pitch 5 : Ball In Play"
+      "raw_text": "Crow-Armstrong flied out to left.",
+      "all_play_texts": [
+        "Top of the 2nd inning",
+        "Jack Flaherty pitches to Pete Crow-Armstrong",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Strike 2 Swinging",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Ball In Play",
+        "Crow-Armstrong flied out to left."
+      ]
     },
     {
       "play_sequence": 11,
       "game_id": "401695876",
       "inning": 2,
       "inning_half": "Top",
-      "batter": "Batter_32797",
-      "pitcher": "Pitcher_33837",
+      "batter": "Carson Kelly",
+      "pitcher": "Jack Flaherty",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -524,15 +611,24 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016958760202: "
+      "raw_text": "Kelly struck out swinging.",
+      "all_play_texts": [
+        "Jack Flaherty pitches to Carson Kelly",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Looking",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Strike 3 Swinging",
+        "Kelly struck out swinging."
+      ]
     },
     {
       "play_sequence": 12,
       "game_id": "401695876",
       "inning": 2,
       "inning_half": "Mid",
-      "batter": "Batter_42415",
-      "pitcher": "Pitcher_33837",
+      "batter": "Michael Busch",
+      "pitcher": "Jack Flaherty",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -577,15 +673,25 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016958760203: "
+      "raw_text": "Busch struck out looking.",
+      "all_play_texts": [
+        "Jack Flaherty pitches to Michael Busch",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Strike 2 Looking",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Strike 3 Looking",
+        "Busch struck out looking.",
+        "Middle of the 2nd inning"
+      ]
     },
     {
       "play_sequence": 13,
       "game_id": "401695876",
       "inning": 2,
       "inning_half": "Bottom",
-      "batter": "Batter_4345620",
-      "pitcher": "Pitcher_4692526",
+      "batter": "Dillon Dingler",
+      "pitcher": "Cade Horton",
       "play_description": "Pitch 4 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -622,15 +728,24 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016958760301: Pitch 4 : Ball In Play"
+      "raw_text": "Dingler flied out to left.",
+      "all_play_texts": [
+        "Bottom of the 2nd inning",
+        "Cade Horton pitches to Dillon Dingler",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Foul",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Ball In Play",
+        "Dingler flied out to left."
+      ]
     },
     {
       "play_sequence": 14,
       "game_id": "401695876",
       "inning": 2,
       "inning_half": "Bottom",
-      "batter": "Batter_38420",
-      "pitcher": "Pitcher_4692526",
+      "batter": "Zach McKinstry",
+      "pitcher": "Cade Horton",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -651,15 +766,21 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016958760302: Pitch 2 : Ball In Play"
+      "raw_text": "McKinstry grounded out to second.",
+      "all_play_texts": [
+        "Cade Horton pitches to Zach McKinstry",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball In Play",
+        "McKinstry grounded out to second."
+      ]
     },
     {
       "play_sequence": 15,
       "game_id": "401695876",
       "inning": 2,
       "inning_half": "End",
-      "batter": "Batter_32127",
-      "pitcher": "Pitcher_4692526",
+      "batter": "Javier Baez",
+      "pitcher": "Cade Horton",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -696,15 +817,24 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016958760303: "
+      "raw_text": "B\u00e1ez struck out swinging.",
+      "all_play_texts": [
+        "Cade Horton pitches to Javier Baez",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Foul",
+        "Pitch 3 : Strike 2 Swinging",
+        "Pitch 4 : Strike 3 Swinging",
+        "B\u00e1ez struck out swinging.",
+        "End of the 2nd inning"
+      ]
     },
     {
       "play_sequence": 16,
       "game_id": "401695876",
       "inning": 3,
       "inning_half": "Top",
-      "batter": "Batter_34895",
-      "pitcher": "Pitcher_33837",
+      "batter": "Dansby Swanson",
+      "pitcher": "Jack Flaherty",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -749,15 +879,25 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016958760401: "
+      "raw_text": "Swanson struck out swinging.",
+      "all_play_texts": [
+        "Top of the 3rd inning",
+        "Jack Flaherty pitches to Dansby Swanson",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Looking",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Strike 2 Looking",
+        "Pitch 5 : Strike 3 Swinging",
+        "Swanson struck out swinging."
+      ]
     },
     {
       "play_sequence": 17,
       "game_id": "401695876",
       "inning": 3,
       "inning_half": "Top",
-      "batter": "Batter_41219",
-      "pitcher": "Pitcher_33837",
+      "batter": "Nico Hoerner",
+      "pitcher": "Jack Flaherty",
       "play_description": "Pitch 7 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -818,15 +958,26 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016958760402: Pitch 7 : Ball In Play"
+      "raw_text": "Hoerner flied out to left.",
+      "all_play_texts": [
+        "Jack Flaherty pitches to Nico Hoerner",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Swinging",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Ball 2",
+        "Pitch 6 : Strike 2 Foul",
+        "Pitch 7 : Ball In Play",
+        "Hoerner flied out to left."
+      ]
     },
     {
       "play_sequence": 18,
       "game_id": "401695876",
       "inning": 3,
       "inning_half": "Mid",
-      "batter": "Batter_4867667",
-      "pitcher": "Pitcher_33837",
+      "batter": "Matt Shaw",
+      "pitcher": "Jack Flaherty",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -855,15 +1006,23 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016958760403: Pitch 3 : Ball In Play"
+      "raw_text": "Shaw grounded out to shortstop.",
+      "all_play_texts": [
+        "Jack Flaherty pitches to Matt Shaw",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Foul",
+        "Pitch 3 : Ball In Play",
+        "Shaw grounded out to shortstop.",
+        "Middle of the 3rd inning"
+      ]
     },
     {
       "play_sequence": 19,
       "game_id": "401695876",
       "inning": 3,
       "inning_half": "Bottom",
-      "batter": "Batter_41223",
-      "pitcher": "Pitcher_4692526",
+      "batter": "Parker Meadows",
+      "pitcher": "Cade Horton",
       "play_description": "Pitch 4 : Ball In Play",
       "play_result": "Lineout",
       "pitch_sequence": [
@@ -900,15 +1059,24 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016958760501: Pitch 4 : Ball In Play"
+      "raw_text": "Meadows lined out to center.",
+      "all_play_texts": [
+        "Bottom of the 3rd inning",
+        "Cade Horton pitches to Parker Meadows",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Strike 2 Swinging",
+        "Pitch 4 : Ball In Play",
+        "Meadows lined out to center."
+      ]
     },
     {
       "play_sequence": 20,
       "game_id": "401695876",
       "inning": 3,
       "inning_half": "Bottom",
-      "batter": "Batter_33804",
-      "pitcher": "Pitcher_4692526",
+      "batter": "Gleyber Torres",
+      "pitcher": "Cade Horton",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -945,15 +1113,23 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016958760502: "
+      "raw_text": "Torres struck out swinging.",
+      "all_play_texts": [
+        "Cade Horton pitches to Gleyber Torres",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Strike 3 Swinging",
+        "Torres struck out swinging."
+      ]
     },
     {
       "play_sequence": 21,
       "game_id": "401695876",
       "inning": 3,
       "inning_half": "Bottom",
-      "batter": "Batter_42714",
-      "pitcher": "Pitcher_4692526",
+      "batter": "Kerry Carpenter",
+      "pitcher": "Cade Horton",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -974,15 +1150,21 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016958760503: Pitch 2 : Ball In Play"
+      "raw_text": "Cade Horton pitches to Kerry Carpenter",
+      "all_play_texts": [
+        "Cade Horton pitches to Kerry Carpenter",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball In Play",
+        "Carpenter reached on infield single to shortstop."
+      ]
     },
     {
       "play_sequence": 22,
       "game_id": "401695876",
       "inning": 3,
       "inning_half": "Bottom",
-      "batter": "Batter_42179",
-      "pitcher": "Pitcher_4692526",
+      "batter": "Riley Greene",
+      "pitcher": "Cade Horton",
       "play_description": "Pitch 4 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -1019,15 +1201,23 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016958760504: Pitch 4 : Ball In Play"
+      "raw_text": "Cade Horton pitches to Riley Greene",
+      "all_play_texts": [
+        "Cade Horton pitches to Riley Greene",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Swinging",
+        "Pitch 3 : Strike 2 Looking",
+        "Pitch 4 : Ball In Play",
+        "Greene singled to left, Greene to second, Carpenter to third."
+      ]
     },
     {
       "play_sequence": 23,
       "game_id": "401695876",
       "inning": 3,
       "inning_half": "End",
-      "batter": "Batter_4424286",
-      "pitcher": "Pitcher_4692526",
+      "batter": "Spencer Torkelson",
+      "pitcher": "Cade Horton",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Popout",
       "pitch_sequence": [
@@ -1048,15 +1238,22 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016958760505: Pitch 2 : Ball In Play"
+      "raw_text": "Torkelson popped out to shortstop.",
+      "all_play_texts": [
+        "Cade Horton pitches to Spencer Torkelson",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball In Play",
+        "Torkelson popped out to shortstop.",
+        "End of the 3rd inning"
+      ]
     },
     {
       "play_sequence": 24,
       "game_id": "401695876",
       "inning": 4,
       "inning_half": "Top",
-      "batter": "Batter_34945",
-      "pitcher": "Pitcher_33837",
+      "batter": "Ian Happ",
+      "pitcher": "Jack Flaherty",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1101,15 +1298,25 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016958760601: "
+      "raw_text": "Jack Flaherty pitches to Ian Happ",
+      "all_play_texts": [
+        "Top of the 4th inning",
+        "Jack Flaherty pitches to Ian Happ",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Looking",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Ball 3",
+        "Pitch 5 : Ball 4",
+        "Happ walked."
+      ]
     },
     {
       "play_sequence": 25,
       "game_id": "401695876",
       "inning": 4,
       "inning_half": "Top",
-      "batter": "Batter_34967",
-      "pitcher": "Pitcher_33837",
+      "batter": "Kyle Tucker",
+      "pitcher": "Jack Flaherty",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1154,15 +1361,24 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016958760602: "
+      "raw_text": "Jack Flaherty pitches to Kyle Tucker",
+      "all_play_texts": [
+        "Jack Flaherty pitches to Kyle Tucker",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Looking",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Ball 3",
+        "Pitch 5 : Ball 4",
+        "Tucker walked, Happ to second."
+      ]
     },
     {
       "play_sequence": 26,
       "game_id": "401695876",
       "inning": 4,
       "inning_half": "Top",
-      "batter": "Batter_4142424",
-      "pitcher": "Pitcher_33837",
+      "batter": "Seiya Suzuki",
+      "pitcher": "Jack Flaherty",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1199,15 +1415,23 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016958760603: "
+      "raw_text": "Suzuki struck out looking.",
+      "all_play_texts": [
+        "Jack Flaherty pitches to Seiya Suzuki",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Swinging",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Strike 3 Looking",
+        "Suzuki struck out looking."
+      ]
     },
     {
       "play_sequence": 27,
       "game_id": "401695876",
       "inning": 4,
       "inning_half": "Top",
-      "batter": "Batter_4717833",
-      "pitcher": "Pitcher_33837",
+      "batter": "Pete Crow-Armstrong",
+      "pitcher": "Jack Flaherty",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -1220,15 +1444,20 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016958760604: Pitch 1 : Ball In Play"
+      "raw_text": "Crow-Armstrong singled to right, Crow-Armstrong to second, Tucker to third, Happ thrown out at home.",
+      "all_play_texts": [
+        "Jack Flaherty pitches to Pete Crow-Armstrong",
+        "Pitch 1 : Ball In Play",
+        "Crow-Armstrong singled to right, Crow-Armstrong to second, Tucker to third, Happ thrown out at home."
+      ]
     },
     {
       "play_sequence": 28,
       "game_id": "401695876",
       "inning": 4,
       "inning_half": "Top",
-      "batter": "Batter_32797",
-      "pitcher": "Pitcher_33837",
+      "batter": "Carson Kelly",
+      "pitcher": "Jack Flaherty",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1273,15 +1502,24 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016958760605: "
+      "raw_text": "Jack Flaherty pitches to Carson Kelly",
+      "all_play_texts": [
+        "Jack Flaherty pitches to Carson Kelly",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Strike 1 Looking",
+        "Pitch 4 : Ball 3",
+        "Pitch 5 : Ball 4",
+        "Kelly walked."
+      ]
     },
     {
       "play_sequence": 29,
       "game_id": "401695876",
       "inning": 4,
       "inning_half": "Mid",
-      "batter": "Batter_42415",
-      "pitcher": "Pitcher_33837",
+      "batter": "Michael Busch",
+      "pitcher": "Jack Flaherty",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Lineout",
       "pitch_sequence": [
@@ -1294,15 +1532,21 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016958760606: Pitch 1 : Ball In Play"
+      "raw_text": "Busch lined out to center.",
+      "all_play_texts": [
+        "Jack Flaherty pitches to Michael Busch",
+        "Pitch 1 : Ball In Play",
+        "Busch lined out to center.",
+        "Middle of the 4th inning"
+      ]
     },
     {
       "play_sequence": 30,
       "game_id": "401695876",
       "inning": 4,
       "inning_half": "Bottom",
-      "batter": "Batter_4683384",
-      "pitcher": "Pitcher_4692526",
+      "batter": "Colt Keith",
+      "pitcher": "Cade Horton",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1355,15 +1599,26 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016958760701: "
+      "raw_text": "Cade Horton pitches to Colt Keith",
+      "all_play_texts": [
+        "Bottom of the 4th inning",
+        "Cade Horton pitches to Colt Keith",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Ball 3",
+        "Pitch 5 : Strike 2 Looking",
+        "Pitch 6 : Ball 4",
+        "Keith walked."
+      ]
     },
     {
       "play_sequence": 31,
       "game_id": "401695876",
       "inning": 4,
       "inning_half": "Bottom",
-      "batter": "Batter_4345620",
-      "pitcher": "Pitcher_4692526",
+      "batter": "Dillon Dingler",
+      "pitcher": "Cade Horton",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1392,15 +1647,22 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016958760702: "
+      "raw_text": "Dingler struck out swinging.",
+      "all_play_texts": [
+        "Cade Horton pitches to Dillon Dingler",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Swinging",
+        "Pitch 3 : Strike 3 Swinging",
+        "Dingler struck out swinging."
+      ]
     },
     {
       "play_sequence": 32,
       "game_id": "401695876",
       "inning": 4,
       "inning_half": "Bottom",
-      "batter": "Batter_38420",
-      "pitcher": "Pitcher_4692526",
+      "batter": "Zach McKinstry",
+      "pitcher": "Cade Horton",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -1421,15 +1683,21 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016958760703: Pitch 2 : Ball In Play"
+      "raw_text": "McKinstry grounded out to second, Keith to second.",
+      "all_play_texts": [
+        "Cade Horton pitches to Zach McKinstry",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball In Play",
+        "McKinstry grounded out to second, Keith to second."
+      ]
     },
     {
       "play_sequence": 33,
       "game_id": "401695876",
       "inning": 4,
       "inning_half": "End",
-      "batter": "Batter_32127",
-      "pitcher": "Pitcher_4692526",
+      "batter": "Javier Baez",
+      "pitcher": "Cade Horton",
       "play_description": "Pitch 4 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -1466,15 +1734,24 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016958760704: Pitch 4 : Ball In Play"
+      "raw_text": "B\u00e1ez grounded out to shortstop.",
+      "all_play_texts": [
+        "Cade Horton pitches to Javier Baez",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Foul",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Ball In Play",
+        "B\u00e1ez grounded out to shortstop.",
+        "End of the 4th inning"
+      ]
     },
     {
       "play_sequence": 34,
       "game_id": "401695876",
       "inning": 5,
       "inning_half": "Top",
-      "batter": "Batter_34895",
-      "pitcher": "Pitcher_33837",
+      "batter": "Dansby Swanson",
+      "pitcher": "Jack Flaherty",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Double",
       "pitch_sequence": [
@@ -1503,15 +1780,23 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016958760801: Pitch 3 : Ball In Play"
+      "raw_text": "Jack Flaherty pitches to Dansby Swanson",
+      "all_play_texts": [
+        "Top of the 5th inning",
+        "Jack Flaherty pitches to Dansby Swanson",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Foul",
+        "Pitch 3 : Ball In Play",
+        "Swanson doubled to left."
+      ]
     },
     {
       "play_sequence": 35,
       "game_id": "401695876",
       "inning": 5,
       "inning_half": "Top",
-      "batter": "Batter_41219",
-      "pitcher": "Pitcher_33837",
+      "batter": "Nico Hoerner",
+      "pitcher": "Jack Flaherty",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1556,15 +1841,24 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016958760802: "
+      "raw_text": "Hoerner struck out looking.",
+      "all_play_texts": [
+        "Jack Flaherty pitches to Nico Hoerner",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Foul",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Strike 3 Looking",
+        "Hoerner struck out looking."
+      ]
     },
     {
       "play_sequence": 36,
       "game_id": "401695876",
       "inning": 5,
       "inning_half": "Top",
-      "batter": "Batter_4867667",
-      "pitcher": "Pitcher_33837",
+      "batter": "Matt Shaw",
+      "pitcher": "Jack Flaherty",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1609,15 +1903,24 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016958760803: "
+      "raw_text": "Shaw struck out swinging.",
+      "all_play_texts": [
+        "Jack Flaherty pitches to Matt Shaw",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Swinging",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Strike 3 Swinging",
+        "Shaw struck out swinging."
+      ]
     },
     {
       "play_sequence": 37,
       "game_id": "401695876",
       "inning": 5,
       "inning_half": "Mid",
-      "batter": "Batter_34945",
-      "pitcher": "Pitcher_33837",
+      "batter": "Ian Happ",
+      "pitcher": "Jack Flaherty",
       "play_description": "Pitch 6 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -1670,15 +1973,26 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016958760804: Pitch 6 : Ball In Play"
+      "raw_text": "Happ grounded out to first.",
+      "all_play_texts": [
+        "Jack Flaherty pitches to Ian Happ",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Swinging",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Ball 1",
+        "Pitch 5 : Ball 2",
+        "Pitch 6 : Ball In Play",
+        "Happ grounded out to first.",
+        "Middle of the 5th inning"
+      ]
     },
     {
       "play_sequence": 38,
       "game_id": "401695876",
       "inning": 5,
       "inning_half": "Bottom",
-      "batter": "Batter_41223",
-      "pitcher": "Pitcher_4692526",
+      "batter": "Parker Meadows",
+      "pitcher": "Cade Horton",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -1691,15 +2005,22 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016958760901: Pitch 1 : Ball In Play"
+      "raw_text": "Meadows flied out to left.",
+      "all_play_texts": [
+        "Bottom of the 5th inning",
+        "Bruj\u00e1n at second base.",
+        "Cade Horton pitches to Parker Meadows",
+        "Pitch 1 : Ball In Play",
+        "Meadows flied out to left."
+      ]
     },
     {
       "play_sequence": 39,
       "game_id": "401695876",
       "inning": 5,
       "inning_half": "Bottom",
-      "batter": "Batter_33804",
-      "pitcher": "Pitcher_4692526",
+      "batter": "Gleyber Torres",
+      "pitcher": "Cade Horton",
       "play_description": "Pitch 6 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -1752,15 +2073,25 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016958760902: Pitch 6 : Ball In Play"
+      "raw_text": "Cade Horton pitches to Gleyber Torres",
+      "all_play_texts": [
+        "Cade Horton pitches to Gleyber Torres",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Looking",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Strike 2 Looking",
+        "Pitch 5 : Ball 3",
+        "Pitch 6 : Ball In Play",
+        "Torres singled to center."
+      ]
     },
     {
       "play_sequence": 40,
       "game_id": "401695876",
       "inning": 5,
       "inning_half": "Bottom",
-      "batter": "Batter_42714",
-      "pitcher": "Pitcher_4692526",
+      "batter": "Kerry Carpenter",
+      "pitcher": "Cade Horton",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Double",
       "pitch_sequence": [
@@ -1789,15 +2120,22 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016958760903: Pitch 3 : Ball In Play"
+      "raw_text": "Cade Horton pitches to Kerry Carpenter",
+      "all_play_texts": [
+        "Cade Horton pitches to Kerry Carpenter",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Ball In Play",
+        "Carpenter doubled to right, Torres to third."
+      ]
     },
     {
       "play_sequence": 41,
       "game_id": "401695876",
       "inning": 5,
       "inning_half": "Bottom",
-      "batter": "Batter_42179",
-      "pitcher": "Pitcher_4692526",
+      "batter": "Riley Greene",
+      "pitcher": "Cade Horton",
       "play_description": "Pitch 4 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -1834,15 +2172,23 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016958760904: Pitch 4 : Ball In Play"
+      "raw_text": "Cade Horton pitches to Riley Greene",
+      "all_play_texts": [
+        "Cade Horton pitches to Riley Greene",
+        "Pitch 1 : Strike 1 Swinging",
+        "Pitch 2 : Strike 2 Foul",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Ball In Play",
+        "Greene singled to left, Torres scored and Carpenter scored."
+      ]
     },
     {
       "play_sequence": 42,
       "game_id": "401695876",
       "inning": 5,
       "inning_half": "Bottom",
-      "batter": "Batter_4424286",
-      "pitcher": "Pitcher_4692526",
+      "batter": "Spencer Torkelson",
+      "pitcher": "Cade Horton",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1871,15 +2217,22 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016958760905: "
+      "raw_text": "Torkelson struck out swinging.",
+      "all_play_texts": [
+        "Cade Horton pitches to Spencer Torkelson",
+        "Pitch 1 : Strike 1 Swinging",
+        "Pitch 2 : Strike 2 Looking",
+        "Pitch 3 : Strike 3 Swinging",
+        "Torkelson struck out swinging."
+      ]
     },
     {
       "play_sequence": 43,
       "game_id": "401695876",
       "inning": 5,
       "inning_half": "End",
-      "batter": "Batter_4683384",
-      "pitcher": "Pitcher_4692526",
+      "batter": "Colt Keith",
+      "pitcher": "Cade Horton",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1924,15 +2277,25 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016958760906: "
+      "raw_text": "Keith struck out swinging.",
+      "all_play_texts": [
+        "Cade Horton pitches to Colt Keith",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Strike 1 Swinging",
+        "Pitch 4 : Strike 2 Swinging",
+        "Pitch 5 : Strike 3 Swinging",
+        "Keith struck out swinging.",
+        "End of the 5th inning"
+      ]
     },
     {
       "play_sequence": 44,
       "game_id": "401695876",
       "inning": 6,
       "inning_half": "Top",
-      "batter": "Batter_34967",
-      "pitcher": "Pitcher_33837",
+      "batter": "Kyle Tucker",
+      "pitcher": "Jack Flaherty",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1969,15 +2332,24 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016958761001: "
+      "raw_text": "Tucker struck out looking.",
+      "all_play_texts": [
+        "Top of the 6th inning",
+        "Jack Flaherty pitches to Kyle Tucker",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Looking",
+        "Pitch 3 : Strike 2 Looking",
+        "Pitch 4 : Strike 3 Looking",
+        "Tucker struck out looking."
+      ]
     },
     {
       "play_sequence": 45,
       "game_id": "401695876",
       "inning": 6,
       "inning_half": "Top",
-      "batter": "Batter_4142424",
-      "pitcher": "Pitcher_33837",
+      "batter": "Seiya Suzuki",
+      "pitcher": "Jack Flaherty",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -2006,15 +2378,22 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016958761002: Pitch 3 : Ball In Play"
+      "raw_text": "Suzuki flied out to right.",
+      "all_play_texts": [
+        "Jack Flaherty pitches to Seiya Suzuki",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Swinging",
+        "Pitch 3 : Ball In Play",
+        "Suzuki flied out to right."
+      ]
     },
     {
       "play_sequence": 46,
       "game_id": "401695876",
       "inning": 6,
       "inning_half": "Mid",
-      "batter": "Batter_4717833",
-      "pitcher": "Pitcher_33837",
+      "batter": "Pete Crow-Armstrong",
+      "pitcher": "Jack Flaherty",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Popout",
       "pitch_sequence": [
@@ -2035,15 +2414,22 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016958761003: Pitch 2 : Ball In Play"
+      "raw_text": "Crow-Armstrong popped out to third.",
+      "all_play_texts": [
+        "Jack Flaherty pitches to Pete Crow-Armstrong",
+        "Pitch 1 : Strike 1 Swinging",
+        "Pitch 2 : Ball In Play",
+        "Crow-Armstrong popped out to third.",
+        "Middle of the 6th inning"
+      ]
     },
     {
       "play_sequence": 47,
       "game_id": "401695876",
       "inning": 6,
       "inning_half": "Bottom",
-      "batter": "Batter_4345620",
-      "pitcher": "Pitcher_30189",
+      "batter": "Dillon Dingler",
+      "pitcher": "Ryan Brasier",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -2056,15 +2442,22 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016958761101: Pitch 1 : Ball In Play"
+      "raw_text": "Dingler grounded out to third.",
+      "all_play_texts": [
+        "Bottom of the 6th inning",
+        "Brasier relieved Horton",
+        "Ryan Brasier pitches to Dillon Dingler",
+        "Pitch 1 : Ball In Play",
+        "Dingler grounded out to third."
+      ]
     },
     {
       "play_sequence": 48,
       "game_id": "401695876",
       "inning": 6,
       "inning_half": "Bottom",
-      "batter": "Batter_38420",
-      "pitcher": "Pitcher_30189",
+      "batter": "Zach McKinstry",
+      "pitcher": "Ryan Brasier",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Popout",
       "pitch_sequence": [
@@ -2077,15 +2470,20 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016958761102: Pitch 1 : Ball In Play"
+      "raw_text": "McKinstry popped out to shortstop.",
+      "all_play_texts": [
+        "Ryan Brasier pitches to Zach McKinstry",
+        "Pitch 1 : Ball In Play",
+        "McKinstry popped out to shortstop."
+      ]
     },
     {
       "play_sequence": 49,
       "game_id": "401695876",
       "inning": 6,
       "inning_half": "End",
-      "batter": "Batter_32127",
-      "pitcher": "Pitcher_30189",
+      "batter": "Javier Baez",
+      "pitcher": "Ryan Brasier",
       "play_description": "Pitch 4 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -2122,15 +2520,24 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016958761103: Pitch 4 : Ball In Play"
+      "raw_text": "B\u00e1ez flied out to right.",
+      "all_play_texts": [
+        "Ryan Brasier pitches to Javier Baez",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Strike 1 Foul",
+        "Pitch 4 : Ball In Play",
+        "B\u00e1ez flied out to right.",
+        "End of the 6th inning"
+      ]
     },
     {
       "play_sequence": 50,
       "game_id": "401695876",
       "inning": 7,
       "inning_half": "Top",
-      "batter": "Batter_32797",
-      "pitcher": "Pitcher_40485",
+      "batter": "Carson Kelly",
+      "pitcher": "Brenan Hanifee",
       "play_description": "Pitch 5 : Ball In Play",
       "play_result": "Lineout",
       "pitch_sequence": [
@@ -2175,15 +2582,26 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016958761201: Pitch 5 : Ball In Play"
+      "raw_text": "Kelly lined out to shortstop.",
+      "all_play_texts": [
+        "Top of the 7th inning",
+        "Hanifee relieved Flaherty",
+        "Brenan Hanifee pitches to Carson Kelly",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Ball 3",
+        "Pitch 5 : Ball In Play",
+        "Kelly lined out to shortstop."
+      ]
     },
     {
       "play_sequence": 51,
       "game_id": "401695876",
       "inning": 7,
       "inning_half": "Top",
-      "batter": "Batter_42415",
-      "pitcher": "Pitcher_40485",
+      "batter": "Michael Busch",
+      "pitcher": "Brenan Hanifee",
       "play_description": "Pitch 10 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -2268,15 +2686,29 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016958761202: Pitch 10 : Ball In Play"
+      "raw_text": "Brenan Hanifee pitches to Michael Busch",
+      "all_play_texts": [
+        "Brenan Hanifee pitches to Michael Busch",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Swinging",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Strike 2 Foul",
+        "Pitch 6 : Strike 2 Foul",
+        "Pitch 7 : Ball 3",
+        "Pitch 8 : Strike 2 Foul",
+        "Pitch 9 : Strike 2 Foul",
+        "Pitch 10 : Ball In Play",
+        "Busch singled to left."
+      ]
     },
     {
       "play_sequence": 52,
       "game_id": "401695876",
       "inning": 7,
       "inning_half": "Top",
-      "batter": "Batter_34895",
-      "pitcher": "Pitcher_40485",
+      "batter": "Dansby Swanson",
+      "pitcher": "Brenan Hanifee",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -2289,15 +2721,20 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016958761203: Pitch 1 : Ball In Play"
+      "raw_text": "Brenan Hanifee pitches to Dansby Swanson",
+      "all_play_texts": [
+        "Brenan Hanifee pitches to Dansby Swanson",
+        "Pitch 1 : Ball In Play",
+        "Swanson singled to center, Busch to second."
+      ]
     },
     {
       "play_sequence": 53,
       "game_id": "401695876",
       "inning": 7,
       "inning_half": "Top",
-      "batter": "Batter_40462",
-      "pitcher": "Pitcher_40485",
+      "batter": "Vidal Brujan",
+      "pitcher": "Brenan Hanifee",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2326,15 +2763,22 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016958761204: "
+      "raw_text": "Bruj\u00e1n fouled out to left.",
+      "all_play_texts": [
+        "Brenan Hanifee pitches to Vidal Brujan",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball In Play",
+        "Bruj\u00e1n fouled out to left."
+      ]
     },
     {
       "play_sequence": 54,
       "game_id": "401695876",
       "inning": 7,
       "inning_half": "Mid",
-      "batter": "Batter_4867667",
-      "pitcher": "Pitcher_40485",
+      "batter": "Matt Shaw",
+      "pitcher": "Brenan Hanifee",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Lineout",
       "pitch_sequence": [
@@ -2347,15 +2791,21 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016958761205: Pitch 1 : Ball In Play"
+      "raw_text": "Shaw lined out to right.",
+      "all_play_texts": [
+        "Brenan Hanifee pitches to Matt Shaw",
+        "Pitch 1 : Ball In Play",
+        "Shaw lined out to right.",
+        "Middle of the 7th inning"
+      ]
     },
     {
       "play_sequence": 55,
       "game_id": "401695876",
       "inning": 7,
       "inning_half": "Bottom",
-      "batter": "Batter_41223",
-      "pitcher": "Pitcher_36067",
+      "batter": "Parker Meadows",
+      "pitcher": "Chris Flexen",
       "play_description": "Pitch 4 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -2392,15 +2842,25 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016958761301: Pitch 4 : Ball In Play"
+      "raw_text": "Meadows grounded out to second.",
+      "all_play_texts": [
+        "Bottom of the 7th inning",
+        "Flexen relieved Brasier",
+        "Chris Flexen pitches to Parker Meadows",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Strike 1 Foul",
+        "Pitch 4 : Ball In Play",
+        "Meadows grounded out to second."
+      ]
     },
     {
       "play_sequence": 56,
       "game_id": "401695876",
       "inning": 7,
       "inning_half": "Bottom",
-      "batter": "Batter_33804",
-      "pitcher": "Pitcher_36067",
+      "batter": "Gleyber Torres",
+      "pitcher": "Chris Flexen",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2437,15 +2897,23 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016958761302: "
+      "raw_text": "Torres struck out swinging.",
+      "all_play_texts": [
+        "Chris Flexen pitches to Gleyber Torres",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Strike 3 Swinging",
+        "Torres struck out swinging."
+      ]
     },
     {
       "play_sequence": 57,
       "game_id": "401695876",
       "inning": 7,
       "inning_half": "Bottom",
-      "batter": "Batter_42714",
-      "pitcher": "Pitcher_36067",
+      "batter": "Kerry Carpenter",
+      "pitcher": "Chris Flexen",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2466,15 +2934,21 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016958761303: "
+      "raw_text": "Chris Flexen pitches to Kerry Carpenter",
+      "all_play_texts": [
+        "Chris Flexen pitches to Kerry Carpenter",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball In Play",
+        "Carpenter hit a ground rule double."
+      ]
     },
     {
       "play_sequence": 58,
       "game_id": "401695876",
       "inning": 7,
       "inning_half": "End",
-      "batter": "Batter_42179",
-      "pitcher": "Pitcher_36067",
+      "batter": "Riley Greene",
+      "pitcher": "Chris Flexen",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -2487,15 +2961,22 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016958761304: Pitch 1 : Ball In Play"
+      "raw_text": "Greene flied out to center.",
+      "all_play_texts": [
+        "P\u00e9rez ran for Carpenter",
+        "Chris Flexen pitches to Riley Greene",
+        "Pitch 1 : Ball In Play",
+        "Greene flied out to center.",
+        "End of the 7th inning"
+      ]
     },
     {
       "play_sequence": 59,
       "game_id": "401695876",
       "inning": 8,
       "inning_half": "Top",
-      "batter": "Batter_34945",
-      "pitcher": "Pitcher_31867",
+      "batter": "Ian Happ",
+      "pitcher": "Tommy Kahnle",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2532,15 +3013,26 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016958761401: "
+      "raw_text": "Happ struck out looking.",
+      "all_play_texts": [
+        "Top of the 8th inning",
+        "P\u00e9rez in right field.",
+        "Kahnle relieved Hanifee",
+        "Tommy Kahnle pitches to Ian Happ",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Looking",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Strike 3 Looking",
+        "Happ struck out looking."
+      ]
     },
     {
       "play_sequence": 60,
       "game_id": "401695876",
       "inning": 8,
       "inning_half": "Top",
-      "batter": "Batter_34967",
-      "pitcher": "Pitcher_31867",
+      "batter": "Kyle Tucker",
+      "pitcher": "Tommy Kahnle",
       "play_description": "Pitch 5 : Ball In Play",
       "play_result": "Popout",
       "pitch_sequence": [
@@ -2577,15 +3069,24 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016958761402: Pitch 5 : Ball In Play"
+      "raw_text": "Tucker popped out to third.",
+      "all_play_texts": [
+        "Tommy Kahnle pitches to Kyle Tucker",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Strike 2 Foul",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Automatic Ball - Pitch Timer Violation 2",
+        "Pitch 5 : Ball In Play",
+        "Tucker popped out to third."
+      ]
     },
     {
       "play_sequence": 61,
       "game_id": "401695876",
       "inning": 8,
       "inning_half": "Mid",
-      "batter": "Batter_4142424",
-      "pitcher": "Pitcher_31867",
+      "batter": "Seiya Suzuki",
+      "pitcher": "Tommy Kahnle",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2614,15 +3115,23 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016958761403: "
+      "raw_text": "Suzuki struck out swinging.",
+      "all_play_texts": [
+        "Tommy Kahnle pitches to Seiya Suzuki",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Foul",
+        "Pitch 3 : Strike 3 Swinging",
+        "Suzuki struck out swinging.",
+        "Middle of the 8th inning"
+      ]
     },
     {
       "play_sequence": 62,
       "game_id": "401695876",
       "inning": 8,
       "inning_half": "Bottom",
-      "batter": "Batter_4424286",
-      "pitcher": "Pitcher_36067",
+      "batter": "Spencer Torkelson",
+      "pitcher": "Chris Flexen",
       "play_description": "Pitch 5 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -2667,15 +3176,25 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016958761501: Pitch 5 : Ball In Play"
+      "raw_text": "Chris Flexen pitches to Spencer Torkelson",
+      "all_play_texts": [
+        "Bottom of the 8th inning",
+        "Chris Flexen pitches to Spencer Torkelson",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Foul",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Ball In Play",
+        "Torkelson singled to left."
+      ]
     },
     {
       "play_sequence": 63,
       "game_id": "401695876",
       "inning": 8,
       "inning_half": "Bottom",
-      "batter": "Batter_4683384",
-      "pitcher": "Pitcher_36067",
+      "batter": "Colt Keith",
+      "pitcher": "Chris Flexen",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -2688,15 +3207,20 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016958761502: Pitch 1 : Ball In Play"
+      "raw_text": "Keith flied out to right.",
+      "all_play_texts": [
+        "Chris Flexen pitches to Colt Keith",
+        "Pitch 1 : Ball In Play",
+        "Keith flied out to right."
+      ]
     },
     {
       "play_sequence": 64,
       "game_id": "401695876",
       "inning": 8,
       "inning_half": "Bottom",
-      "batter": "Batter_4345620",
-      "pitcher": "Pitcher_36067",
+      "batter": "Dillon Dingler",
+      "pitcher": "Chris Flexen",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2749,15 +3273,25 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016958761503: "
+      "raw_text": "Dingler struck out swinging.",
+      "all_play_texts": [
+        "Chris Flexen pitches to Dillon Dingler",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Foul",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Ball 3",
+        "Pitch 6 : Strike 3 Swinging",
+        "Dingler struck out swinging."
+      ]
     },
     {
       "play_sequence": 65,
       "game_id": "401695876",
       "inning": 8,
       "inning_half": "Bottom",
-      "batter": "Batter_38420",
-      "pitcher": "Pitcher_36067",
+      "batter": "Zach McKinstry",
+      "pitcher": "Chris Flexen",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -2770,15 +3304,20 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016958761504: Pitch 1 : Ball In Play"
+      "raw_text": "Chris Flexen pitches to Zach McKinstry",
+      "all_play_texts": [
+        "Chris Flexen pitches to Zach McKinstry",
+        "Pitch 1 : Ball In Play",
+        "McKinstry singled to right, McKinstry to second, Torkelson to third."
+      ]
     },
     {
       "play_sequence": 66,
       "game_id": "401695876",
       "inning": 8,
       "inning_half": "End",
-      "batter": "Batter_32127",
-      "pitcher": "Pitcher_36067",
+      "batter": "Javier Baez",
+      "pitcher": "Chris Flexen",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -2791,15 +3330,21 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016958761505: Pitch 1 : Ball In Play"
+      "raw_text": "B\u00e1ez flied out to center.",
+      "all_play_texts": [
+        "Chris Flexen pitches to Javier Baez",
+        "Pitch 1 : Ball In Play",
+        "B\u00e1ez flied out to center.",
+        "End of the 8th inning"
+      ]
     },
     {
       "play_sequence": 67,
       "game_id": "401695876",
       "inning": 9,
       "inning_half": "Top",
-      "batter": "Batter_4717833",
-      "pitcher": "Pitcher_41606",
+      "batter": "Pete Crow-Armstrong",
+      "pitcher": "Will Vest",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2844,15 +3389,26 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016958761601: "
+      "raw_text": "Crow-Armstrong struck out swinging.",
+      "all_play_texts": [
+        "Top of the 9th inning",
+        "Vest relieved Kahnle",
+        "Will Vest pitches to Pete Crow-Armstrong",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Swinging",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Strike 3 Swinging",
+        "Crow-Armstrong struck out swinging."
+      ]
     },
     {
       "play_sequence": 68,
       "game_id": "401695876",
       "inning": 9,
       "inning_half": "Top",
-      "batter": "Batter_32797",
-      "pitcher": "Pitcher_41606",
+      "batter": "Carson Kelly",
+      "pitcher": "Will Vest",
       "play_description": "Pitch 4 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -2889,15 +3445,23 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016958761602: Pitch 4 : Ball In Play"
+      "raw_text": "Kelly grounded out to second.",
+      "all_play_texts": [
+        "Will Vest pitches to Carson Kelly",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Strike 1 Foul",
+        "Pitch 4 : Ball In Play",
+        "Kelly grounded out to second."
+      ]
     },
     {
       "play_sequence": 69,
       "game_id": "401695876",
       "inning": 9,
       "inning_half": "Top",
-      "batter": "Batter_42415",
-      "pitcher": "Pitcher_41606",
+      "batter": "Michael Busch",
+      "pitcher": "Will Vest",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -2918,7 +3482,13 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016958761603: Pitch 2 : Ball In Play"
+      "raw_text": "Busch flied out to left.",
+      "all_play_texts": [
+        "Will Vest pitches to Michael Busch",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball In Play",
+        "Busch flied out to left."
+      ]
     }
   ]
 }

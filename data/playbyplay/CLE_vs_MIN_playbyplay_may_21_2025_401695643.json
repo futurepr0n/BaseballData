@@ -2,7 +2,7 @@
   "metadata": {
     "game_id": "401695643",
     "api_url": "https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/summary?event=401695643",
-    "scraped_at": "2025-08-06T17:09:14.201483",
+    "scraped_at": "2025-08-07T03:32:33.186339",
     "away_team": "CLE",
     "home_team": "MIN"
   },
@@ -12,8 +12,8 @@
       "game_id": "401695643",
       "inning": 1,
       "inning_half": "Top",
-      "batter": "Batter_41996",
-      "pitcher": "Pitcher_35999",
+      "batter": "Steven Kwan",
+      "pitcher": "Chris Paddack",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Double",
       "pitch_sequence": [
@@ -42,15 +42,23 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016956430001: Pitch 3 : Ball In Play"
+      "raw_text": "Chris Paddack pitches to Steven Kwan",
+      "all_play_texts": [
+        "Top of the 1st inning",
+        "Chris Paddack pitches to Steven Kwan",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball In Play",
+        "Kwan doubled to right."
+      ]
     },
     {
       "play_sequence": 2,
       "game_id": "401695643",
       "inning": 1,
       "inning_half": "Top",
-      "batter": "Batter_42497",
-      "pitcher": "Pitcher_35999",
+      "batter": "Angel Martinez",
+      "pitcher": "Chris Paddack",
       "play_description": "Pitch 5 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -95,15 +103,24 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016956430002: Pitch 5 : Ball In Play"
+      "raw_text": "Mart\u00ednez grounded out to first, Kwan to third.",
+      "all_play_texts": [
+        "Chris Paddack pitches to Angel Martinez",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Foul",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Ball In Play",
+        "Mart\u00ednez grounded out to first, Kwan to third."
+      ]
     },
     {
       "play_sequence": 3,
       "game_id": "401695643",
       "inning": 1,
       "inning_half": "Top",
-      "batter": "Batter_32801",
-      "pitcher": "Pitcher_35999",
+      "batter": "Jose Ramirez",
+      "pitcher": "Chris Paddack",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Popout",
       "pitch_sequence": [
@@ -116,15 +133,20 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016956430003: Pitch 1 : Ball In Play"
+      "raw_text": "Ram\u00edrez popped out to second.",
+      "all_play_texts": [
+        "Chris Paddack pitches to Jose Ramirez",
+        "Pitch 1 : Ball In Play",
+        "Ram\u00edrez popped out to second."
+      ]
     },
     {
       "play_sequence": 4,
       "game_id": "401695643",
       "inning": 1,
       "inning_half": "Mid",
-      "batter": "Batter_4917927",
-      "pitcher": "Pitcher_35999",
+      "batter": "Kyle Manzardo",
+      "pitcher": "Chris Paddack",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -193,15 +215,28 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016956430004: "
+      "raw_text": "Manzardo struck out swinging.",
+      "all_play_texts": [
+        "Chris Paddack pitches to Kyle Manzardo",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Strike 2 Swinging",
+        "Pitch 5 : Strike 2 Foul",
+        "Pitch 6 : Strike 2 Foul",
+        "Pitch 7 : Ball 3",
+        "Pitch 8 : Strike 3 Swinging",
+        "Manzardo struck out swinging.",
+        "Middle of the 1st inning"
+      ]
     },
     {
       "play_sequence": 5,
       "game_id": "401695643",
       "inning": 1,
       "inning_half": "Bottom",
-      "batter": "Batter_41587",
-      "pitcher": "Pitcher_4345076",
+      "batter": "Ryan Jeffers",
+      "pitcher": "Gavin Williams",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -230,15 +265,23 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016956430101: Pitch 3 : Ball In Play"
+      "raw_text": "Jeffers flied out to center.",
+      "all_play_texts": [
+        "Bottom of the 1st inning",
+        "Gavin Williams pitches to Ryan Jeffers",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Looking",
+        "Pitch 3 : Ball In Play",
+        "Jeffers flied out to center."
+      ]
     },
     {
       "play_sequence": 6,
       "game_id": "401695643",
       "inning": 1,
       "inning_half": "Bottom",
-      "batter": "Batter_4629081",
-      "pitcher": "Pitcher_4345076",
+      "batter": "Brooks Lee",
+      "pitcher": "Gavin Williams",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -259,15 +302,21 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016956430102: Pitch 2 : Ball In Play"
+      "raw_text": "Lee grounded out to first.",
+      "all_play_texts": [
+        "Gavin Williams pitches to Brooks Lee",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball In Play",
+        "Lee grounded out to first."
+      ]
     },
     {
       "play_sequence": 7,
       "game_id": "401695643",
       "inning": 1,
       "inning_half": "End",
-      "batter": "Batter_40635",
-      "pitcher": "Pitcher_4345076",
+      "batter": "Royce Lewis",
+      "pitcher": "Gavin Williams",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Popout",
       "pitch_sequence": [
@@ -296,15 +345,23 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016956430103: Pitch 3 : Ball In Play"
+      "raw_text": "Lewis popped out to first.",
+      "all_play_texts": [
+        "Gavin Williams pitches to Royce Lewis",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Looking",
+        "Pitch 3 : Ball In Play",
+        "Lewis popped out to first.",
+        "End of the 1st inning"
+      ]
     },
     {
       "play_sequence": 8,
       "game_id": "401695643",
       "inning": 2,
       "inning_half": "Top",
-      "batter": "Batter_30280",
-      "pitcher": "Pitcher_35999",
+      "batter": "Carlos Santana",
+      "pitcher": "Chris Paddack",
       "play_description": "Pitch 4 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -341,15 +398,24 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016956430201: Pitch 4 : Ball In Play"
+      "raw_text": "Santana flied out to left.",
+      "all_play_texts": [
+        "Top of the 2nd inning",
+        "Chris Paddack pitches to Carlos Santana",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Ball In Play",
+        "Santana flied out to left."
+      ]
     },
     {
       "play_sequence": 9,
       "game_id": "401695643",
       "inning": 2,
       "inning_half": "Top",
-      "batter": "Batter_42001",
-      "pitcher": "Pitcher_35999",
+      "batter": "Daniel Schneemann",
+      "pitcher": "Chris Paddack",
       "play_description": "Pitch 4 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -386,15 +452,23 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016956430202: Pitch 4 : Ball In Play"
+      "raw_text": "Schneemann grounded out to third.",
+      "all_play_texts": [
+        "Chris Paddack pitches to Daniel Schneemann",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Foul",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Ball In Play",
+        "Schneemann grounded out to third."
+      ]
     },
     {
       "play_sequence": 10,
       "game_id": "401695643",
       "inning": 2,
       "inning_half": "Mid",
-      "batter": "Batter_40344",
-      "pitcher": "Pitcher_35999",
+      "batter": "Gabriel Arias",
+      "pitcher": "Chris Paddack",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -463,15 +537,28 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016956430203: "
+      "raw_text": "Arias struck out swinging.",
+      "all_play_texts": [
+        "Chris Paddack pitches to Gabriel Arias",
+        "Pitch 1 : Strike 1 Swinging",
+        "Pitch 2 : Strike 2 Swinging",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Ball 1",
+        "Pitch 6 : Strike 2 Foul",
+        "Pitch 7 : Ball 2",
+        "Pitch 8 : Strike 3 Swinging",
+        "Arias struck out swinging.",
+        "Middle of the 2nd inning"
+      ]
     },
     {
       "play_sequence": 11,
       "game_id": "401695643",
       "inning": 2,
       "inning_half": "Bottom",
-      "batter": "Batter_41311",
-      "pitcher": "Pitcher_4345076",
+      "batter": "Kody Clemens",
+      "pitcher": "Gavin Williams",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -516,15 +603,25 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016956430301: "
+      "raw_text": "Clemens struck out looking.",
+      "all_play_texts": [
+        "Bottom of the 2nd inning",
+        "Gavin Williams pitches to Kody Clemens",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Foul",
+        "Pitch 3 : Strike 2 Looking",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Strike 3 Looking",
+        "Clemens struck out looking."
+      ]
     },
     {
       "play_sequence": 12,
       "game_id": "401695643",
       "inning": 2,
       "inning_half": "Bottom",
-      "batter": "Batter_3960984",
-      "pitcher": "Pitcher_4345076",
+      "batter": "Jonah Bride",
+      "pitcher": "Gavin Williams",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -585,15 +682,26 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016956430302: "
+      "raw_text": "Bride struck out swinging.",
+      "all_play_texts": [
+        "Gavin Williams pitches to Jonah Bride",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Looking",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Ball 2",
+        "Pitch 6 : Ball 3",
+        "Pitch 7 : Strike 3 Swinging",
+        "Bride struck out swinging."
+      ]
     },
     {
       "play_sequence": 13,
       "game_id": "401695643",
       "inning": 2,
       "inning_half": "End",
-      "batter": "Batter_35062",
-      "pitcher": "Pitcher_4345076",
+      "batter": "Harrison Bader",
+      "pitcher": "Gavin Williams",
       "play_description": "Pitch 5 : Ball In Play",
       "play_result": "Lineout",
       "pitch_sequence": [
@@ -638,15 +746,25 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016956430303: Pitch 5 : Ball In Play"
+      "raw_text": "Bader lined out to left.",
+      "all_play_texts": [
+        "Gavin Williams pitches to Harrison Bader",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Strike 2 Looking",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Ball In Play",
+        "Bader lined out to left.",
+        "End of the 2nd inning"
+      ]
     },
     {
       "play_sequence": 14,
       "game_id": "401695643",
       "inning": 3,
       "inning_half": "Top",
-      "batter": "Batter_37340",
-      "pitcher": "Pitcher_35999",
+      "batter": "Nolan Jones",
+      "pitcher": "Chris Paddack",
       "play_description": "Pitch 5 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -691,15 +809,25 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016956430401: Pitch 5 : Ball In Play"
+      "raw_text": "Jones flied out to center.",
+      "all_play_texts": [
+        "Top of the 3rd inning",
+        "Chris Paddack pitches to Nolan Jones",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Swinging",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Ball In Play",
+        "Jones flied out to center."
+      ]
     },
     {
       "play_sequence": 15,
       "game_id": "401695643",
       "inning": 3,
       "inning_half": "Top",
-      "batter": "Batter_32168",
-      "pitcher": "Pitcher_35999",
+      "batter": "Austin Hedges",
+      "pitcher": "Chris Paddack",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Popout",
       "pitch_sequence": [
@@ -712,15 +840,20 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016956430402: Pitch 1 : Ball In Play"
+      "raw_text": "Hedges popped out to second.",
+      "all_play_texts": [
+        "Chris Paddack pitches to Austin Hedges",
+        "Pitch 1 : Ball In Play",
+        "Hedges popped out to second."
+      ]
     },
     {
       "play_sequence": 16,
       "game_id": "401695643",
       "inning": 3,
       "inning_half": "Top",
-      "batter": "Batter_41996",
-      "pitcher": "Pitcher_35999",
+      "batter": "Steven Kwan",
+      "pitcher": "Chris Paddack",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -749,15 +882,22 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016956430403: Pitch 3 : Ball In Play"
+      "raw_text": "Chris Paddack pitches to Steven Kwan",
+      "all_play_texts": [
+        "Chris Paddack pitches to Steven Kwan",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball In Play",
+        "Kwan singled to right."
+      ]
     },
     {
       "play_sequence": 17,
       "game_id": "401695643",
       "inning": 3,
       "inning_half": "Mid",
-      "batter": "Batter_42497",
-      "pitcher": "Pitcher_35999",
+      "batter": "Angel Martinez",
+      "pitcher": "Chris Paddack",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -786,15 +926,23 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016956430404: Pitch 3 : Ball In Play"
+      "raw_text": "Mart\u00ednez grounded out to second.",
+      "all_play_texts": [
+        "Chris Paddack pitches to Angel Martinez",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Strike 2 Foul",
+        "Pitch 3 : Ball In Play",
+        "Mart\u00ednez grounded out to second.",
+        "Middle of the 3rd inning"
+      ]
     },
     {
       "play_sequence": 18,
       "game_id": "401695643",
       "inning": 3,
       "inning_half": "Bottom",
-      "batter": "Batter_34230",
-      "pitcher": "Pitcher_4345076",
+      "batter": "Willi Castro",
+      "pitcher": "Gavin Williams",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -847,15 +995,26 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016956430501: "
+      "raw_text": "Gavin Williams pitches to Willi Castro",
+      "all_play_texts": [
+        "Bottom of the 3rd inning",
+        "Gavin Williams pitches to Willi Castro",
+        "Pitch 1 : Strike 1 Swinging",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Ball 3",
+        "Pitch 5 : Strike 2 Swinging",
+        "Pitch 6 : Ball 4",
+        "Castro walked."
+      ]
     },
     {
       "play_sequence": 19,
       "game_id": "401695643",
       "inning": 3,
       "inning_half": "Bottom",
-      "batter": "Batter_42753",
-      "pitcher": "Pitcher_4345076",
+      "batter": "DaShawn Keirsey Jr.",
+      "pitcher": "Gavin Williams",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -884,15 +1043,22 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016956430502: Pitch 3 : Ball In Play"
+      "raw_text": "Keirsey Jr. flied out to center.",
+      "all_play_texts": [
+        "Gavin Williams pitches to DaShawn Keirsey Jr.",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball In Play",
+        "Keirsey Jr. flied out to center."
+      ]
     },
     {
       "play_sequence": 20,
       "game_id": "401695643",
       "inning": 3,
       "inning_half": "Bottom",
-      "batter": "Batter_31389",
-      "pitcher": "Pitcher_4345076",
+      "batter": "Christian Vazquez",
+      "pitcher": "Gavin Williams",
       "play_description": "Pitch 9 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -969,15 +1135,28 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016956430503: Pitch 9 : Ball In Play"
+      "raw_text": "V\u00e1zquez grounded out to pitcher, Castro to second.",
+      "all_play_texts": [
+        "Gavin Williams pitches to Christian Vazquez",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Looking",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Strike 2 Foul",
+        "Pitch 6 : Strike 2 Foul",
+        "Pitch 7 : Strike 2 Foul",
+        "Pitch 8 : Ball 3",
+        "Pitch 9 : Ball In Play",
+        "V\u00e1zquez grounded out to pitcher, Castro to second."
+      ]
     },
     {
       "play_sequence": 21,
       "game_id": "401695643",
       "inning": 3,
       "inning_half": "Bottom",
-      "batter": "Batter_41587",
-      "pitcher": "Pitcher_4345076",
+      "batter": "Ryan Jeffers",
+      "pitcher": "Gavin Williams",
       "play_description": "Pitch 5 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -1022,15 +1201,24 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016956430504: Pitch 5 : Ball In Play"
+      "raw_text": "Gavin Williams pitches to Ryan Jeffers",
+      "all_play_texts": [
+        "Gavin Williams pitches to Ryan Jeffers",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Strike 1 Swinging",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Ball In Play",
+        "Jeffers singled to center, Castro scored."
+      ]
     },
     {
       "play_sequence": 22,
       "game_id": "401695643",
       "inning": 3,
       "inning_half": "Bottom",
-      "batter": "Batter_4629081",
-      "pitcher": "Pitcher_4345076",
+      "batter": "Brooks Lee",
+      "pitcher": "Gavin Williams",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1083,15 +1271,25 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016956430505: "
+      "raw_text": "Gavin Williams pitches to Brooks Lee",
+      "all_play_texts": [
+        "Gavin Williams pitches to Brooks Lee",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Strike 1 Looking",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Ball 3",
+        "Pitch 6 : Ball 4",
+        "Lee walked, Jeffers to second."
+      ]
     },
     {
       "play_sequence": 23,
       "game_id": "401695643",
       "inning": 3,
       "inning_half": "End",
-      "batter": "Batter_40635",
-      "pitcher": "Pitcher_4345076",
+      "batter": "Royce Lewis",
+      "pitcher": "Gavin Williams",
       "play_description": "Pitch 5 : Ball In Play",
       "play_result": "Lineout",
       "pitch_sequence": [
@@ -1136,15 +1334,25 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016956430506: Pitch 5 : Ball In Play"
+      "raw_text": "Lewis lined out to left.",
+      "all_play_texts": [
+        "Gavin Williams pitches to Royce Lewis",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Strike 2 Swinging",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Ball In Play",
+        "Lewis lined out to left.",
+        "End of the 3rd inning"
+      ]
     },
     {
       "play_sequence": 24,
       "game_id": "401695643",
       "inning": 4,
       "inning_half": "Top",
-      "batter": "Batter_32801",
-      "pitcher": "Pitcher_35999",
+      "batter": "Jose Ramirez",
+      "pitcher": "Chris Paddack",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -1165,15 +1373,22 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016956430601: Pitch 2 : Ball In Play"
+      "raw_text": "Chris Paddack pitches to Jose Ramirez",
+      "all_play_texts": [
+        "Top of the 4th inning",
+        "Chris Paddack pitches to Jose Ramirez",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball In Play",
+        "Ram\u00edrez singled to right."
+      ]
     },
     {
       "play_sequence": 25,
       "game_id": "401695643",
       "inning": 4,
       "inning_half": "Top",
-      "batter": "Batter_4917927",
-      "pitcher": "Pitcher_35999",
+      "batter": "Kyle Manzardo",
+      "pitcher": "Chris Paddack",
       "play_description": "Pitch 4 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -1210,15 +1425,23 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016956430602: Pitch 4 : Ball In Play"
+      "raw_text": "Manzardo grounded into double play, first to shortstop to pitcher, Ram\u00edrez out at second.",
+      "all_play_texts": [
+        "Chris Paddack pitches to Kyle Manzardo",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Strike 1 Swinging",
+        "Pitch 4 : Ball In Play",
+        "Manzardo grounded into double play, first to shortstop to pitcher, Ram\u00edrez out at second."
+      ]
     },
     {
       "play_sequence": 26,
       "game_id": "401695643",
       "inning": 4,
       "inning_half": "Top",
-      "batter": "Batter_30280",
-      "pitcher": "Pitcher_35999",
+      "batter": "Carlos Santana",
+      "pitcher": "Chris Paddack",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -1231,15 +1454,20 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016956430603: Pitch 1 : Ball In Play"
+      "raw_text": "Chris Paddack pitches to Carlos Santana",
+      "all_play_texts": [
+        "Chris Paddack pitches to Carlos Santana",
+        "Pitch 1 : Ball In Play",
+        "Santana singled to right."
+      ]
     },
     {
       "play_sequence": 27,
       "game_id": "401695643",
       "inning": 4,
       "inning_half": "Top",
-      "batter": "Batter_42001",
-      "pitcher": "Pitcher_35999",
+      "batter": "Daniel Schneemann",
+      "pitcher": "Chris Paddack",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -1268,15 +1496,22 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016956430604: Pitch 3 : Ball In Play"
+      "raw_text": "Chris Paddack pitches to Daniel Schneemann",
+      "all_play_texts": [
+        "Chris Paddack pitches to Daniel Schneemann",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Foul",
+        "Pitch 3 : Ball In Play",
+        "Schneemann singled to right, Santana to third."
+      ]
     },
     {
       "play_sequence": 28,
       "game_id": "401695643",
       "inning": 4,
       "inning_half": "Mid",
-      "batter": "Batter_40344",
-      "pitcher": "Pitcher_35999",
+      "batter": "Gabriel Arias",
+      "pitcher": "Chris Paddack",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -1289,15 +1524,21 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016956430605: Pitch 1 : Ball In Play"
+      "raw_text": "Arias flied out to center.",
+      "all_play_texts": [
+        "Chris Paddack pitches to Gabriel Arias",
+        "Pitch 1 : Ball In Play",
+        "Arias flied out to center.",
+        "Middle of the 4th inning"
+      ]
     },
     {
       "play_sequence": 29,
       "game_id": "401695643",
       "inning": 4,
       "inning_half": "Bottom",
-      "batter": "Batter_41311",
-      "pitcher": "Pitcher_4345076",
+      "batter": "Kody Clemens",
+      "pitcher": "Gavin Williams",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1342,15 +1583,25 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016956430701: "
+      "raw_text": "Clemens struck out looking.",
+      "all_play_texts": [
+        "Bottom of the 4th inning",
+        "Gavin Williams pitches to Kody Clemens",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Strike 1 Swinging",
+        "Pitch 4 : Strike 2 Swinging",
+        "Pitch 5 : Strike 3 Looking",
+        "Clemens struck out looking."
+      ]
     },
     {
       "play_sequence": 30,
       "game_id": "401695643",
       "inning": 4,
       "inning_half": "Bottom",
-      "batter": "Batter_3960984",
-      "pitcher": "Pitcher_4345076",
+      "batter": "Jonah Bride",
+      "pitcher": "Gavin Williams",
       "play_description": "Pitch 5 : Ball In Play",
       "play_result": "Popout",
       "pitch_sequence": [
@@ -1395,15 +1646,24 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016956430702: Pitch 5 : Ball In Play"
+      "raw_text": "Bride popped out to second.",
+      "all_play_texts": [
+        "Gavin Williams pitches to Jonah Bride",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Ball 3",
+        "Pitch 4 : Strike 1 Looking",
+        "Pitch 5 : Ball In Play",
+        "Bride popped out to second."
+      ]
     },
     {
       "play_sequence": 31,
       "game_id": "401695643",
       "inning": 4,
       "inning_half": "Bottom",
-      "batter": "Batter_35062",
-      "pitcher": "Pitcher_4345076",
+      "batter": "Harrison Bader",
+      "pitcher": "Gavin Williams",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -1424,15 +1684,21 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016956430703: Pitch 2 : Ball In Play"
+      "raw_text": "Gavin Williams pitches to Harrison Bader",
+      "all_play_texts": [
+        "Gavin Williams pitches to Harrison Bader",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball In Play",
+        "Bader singled to center."
+      ]
     },
     {
       "play_sequence": 32,
       "game_id": "401695643",
       "inning": 4,
       "inning_half": "End",
-      "batter": "Batter_34230",
-      "pitcher": "Pitcher_4345076",
+      "batter": "Willi Castro",
+      "pitcher": "Gavin Williams",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1477,15 +1743,25 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016956430704: "
+      "raw_text": "Castro struck out swinging.",
+      "all_play_texts": [
+        "Gavin Williams pitches to Willi Castro",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Swinging",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Strike 2 Swinging",
+        "Pitch 5 : Strike 3 Swinging",
+        "Castro struck out swinging.",
+        "End of the 4th inning"
+      ]
     },
     {
       "play_sequence": 33,
       "game_id": "401695643",
       "inning": 5,
       "inning_half": "Top",
-      "batter": "Batter_37340",
-      "pitcher": "Pitcher_35999",
+      "batter": "Nolan Jones",
+      "pitcher": "Chris Paddack",
       "play_description": "Pitch 6 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -1538,15 +1814,26 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016956430801: Pitch 6 : Ball In Play"
+      "raw_text": "Chris Paddack pitches to Nolan Jones",
+      "all_play_texts": [
+        "Top of the 5th inning",
+        "Chris Paddack pitches to Nolan Jones",
+        "Pitch 1 : Strike 1 Swinging",
+        "Pitch 2 : Strike 2 Swinging",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Ball 1",
+        "Pitch 5 : Strike 2 Foul",
+        "Pitch 6 : Ball In Play",
+        "Jones reached on infield single to third."
+      ]
     },
     {
       "play_sequence": 34,
       "game_id": "401695643",
       "inning": 5,
       "inning_half": "Top",
-      "batter": "Batter_32168",
-      "pitcher": "Pitcher_35999",
+      "batter": "Austin Hedges",
+      "pitcher": "Chris Paddack",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1567,15 +1854,21 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016956430802: "
+      "raw_text": "Hedges fouled out to catcher.",
+      "all_play_texts": [
+        "Chris Paddack pitches to Austin Hedges",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball In Play",
+        "Hedges fouled out to catcher."
+      ]
     },
     {
       "play_sequence": 35,
       "game_id": "401695643",
       "inning": 5,
       "inning_half": "Top",
-      "batter": "Batter_41996",
-      "pitcher": "Pitcher_35999",
+      "batter": "Steven Kwan",
+      "pitcher": "Chris Paddack",
       "play_description": "Pitch 6 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -1628,15 +1921,26 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016956430803: Pitch 6 : Ball In Play"
+      "raw_text": "Kwan flied out to right, Jones to third.",
+      "all_play_texts": [
+        "Chris Paddack pitches to Steven Kwan",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Looking",
+        "Pitch 3 : Ball 2",
+        "Jones to second on wild pitch by Paddack.",
+        "Pitch 4 : Ball 3",
+        "Pitch 5 : Strike 2 Looking",
+        "Pitch 6 : Ball In Play",
+        "Kwan flied out to right, Jones to third."
+      ]
     },
     {
       "play_sequence": 36,
       "game_id": "401695643",
       "inning": 5,
       "inning_half": "Mid",
-      "batter": "Batter_42497",
-      "pitcher": "Pitcher_35999",
+      "batter": "Angel Martinez",
+      "pitcher": "Chris Paddack",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Lineout",
       "pitch_sequence": [
@@ -1657,15 +1961,22 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016956430804: Pitch 2 : Ball In Play"
+      "raw_text": "Mart\u00ednez lined out to right.",
+      "all_play_texts": [
+        "Chris Paddack pitches to Angel Martinez",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Ball In Play",
+        "Mart\u00ednez lined out to right.",
+        "Middle of the 5th inning"
+      ]
     },
     {
       "play_sequence": 37,
       "game_id": "401695643",
       "inning": 5,
       "inning_half": "Bottom",
-      "batter": "Batter_42753",
-      "pitcher": "Pitcher_4345076",
+      "batter": "DaShawn Keirsey Jr.",
+      "pitcher": "Gavin Williams",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1710,15 +2021,25 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016956430901: "
+      "raw_text": "Keirsey Jr. struck out looking.",
+      "all_play_texts": [
+        "Bottom of the 5th inning",
+        "Gavin Williams pitches to DaShawn Keirsey Jr.",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Strike 3 Looking",
+        "Keirsey Jr. struck out looking."
+      ]
     },
     {
       "play_sequence": 38,
       "game_id": "401695643",
       "inning": 5,
       "inning_half": "Bottom",
-      "batter": "Batter_31389",
-      "pitcher": "Pitcher_4345076",
+      "batter": "Christian Vazquez",
+      "pitcher": "Gavin Williams",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -1739,15 +2060,21 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016956430902: Pitch 2 : Ball In Play"
+      "raw_text": "V\u00e1zquez grounded out to shortstop.",
+      "all_play_texts": [
+        "Gavin Williams pitches to Christian Vazquez",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball In Play",
+        "V\u00e1zquez grounded out to shortstop."
+      ]
     },
     {
       "play_sequence": 39,
       "game_id": "401695643",
       "inning": 5,
       "inning_half": "End",
-      "batter": "Batter_41587",
-      "pitcher": "Pitcher_4345076",
+      "batter": "Ryan Jeffers",
+      "pitcher": "Gavin Williams",
       "play_description": "Pitch 8 : Ball In Play",
       "play_result": "Lineout",
       "pitch_sequence": [
@@ -1816,15 +2143,28 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016956430903: Pitch 8 : Ball In Play"
+      "raw_text": "Jeffers lined out to left.",
+      "all_play_texts": [
+        "Gavin Williams pitches to Ryan Jeffers",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Ball 3",
+        "Pitch 5 : Strike 2 Swinging",
+        "Pitch 6 : Strike 2 Foul",
+        "Pitch 7 : Strike 2 Foul",
+        "Pitch 8 : Ball In Play",
+        "Jeffers lined out to left.",
+        "End of the 5th inning"
+      ]
     },
     {
       "play_sequence": 40,
       "game_id": "401695643",
       "inning": 6,
       "inning_half": "Top",
-      "batter": "Batter_32801",
-      "pitcher": "Pitcher_35999",
+      "batter": "Jose Ramirez",
+      "pitcher": "Chris Paddack",
       "play_description": "Pitch 5 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -1869,15 +2209,25 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016956431001: Pitch 5 : Ball In Play"
+      "raw_text": "Chris Paddack pitches to Jose Ramirez",
+      "all_play_texts": [
+        "Top of the 6th inning",
+        "Chris Paddack pitches to Jose Ramirez",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Foul",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Ball In Play",
+        "Ram\u00edrez singled to right."
+      ]
     },
     {
       "play_sequence": 41,
       "game_id": "401695643",
       "inning": 6,
       "inning_half": "Top",
-      "batter": "Batter_4917927",
-      "pitcher": "Pitcher_35999",
+      "batter": "Kyle Manzardo",
+      "pitcher": "Chris Paddack",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Popout",
       "pitch_sequence": [
@@ -1890,15 +2240,20 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016956431002: Pitch 1 : Ball In Play"
+      "raw_text": "Manzardo popped out to shortstop.",
+      "all_play_texts": [
+        "Chris Paddack pitches to Kyle Manzardo",
+        "Pitch 1 : Ball In Play",
+        "Manzardo popped out to shortstop."
+      ]
     },
     {
       "play_sequence": 42,
       "game_id": "401695643",
       "inning": 6,
       "inning_half": "Top",
-      "batter": "Batter_30280",
-      "pitcher": "Pitcher_35999",
+      "batter": "Carlos Santana",
+      "pitcher": "Chris Paddack",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1943,15 +2298,24 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016956431003: "
+      "raw_text": "Chris Paddack pitches to Carlos Santana",
+      "all_play_texts": [
+        "Chris Paddack pitches to Carlos Santana",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Ball 3",
+        "Pitch 5 : Ball 4",
+        "Santana walked, Ram\u00edrez to second."
+      ]
     },
     {
       "play_sequence": 43,
       "game_id": "401695643",
       "inning": 6,
       "inning_half": "Top",
-      "batter": "Batter_42001",
-      "pitcher": "Pitcher_35999",
+      "batter": "Daniel Schneemann",
+      "pitcher": "Chris Paddack",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2020,15 +2384,27 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016956431004: "
+      "raw_text": "Chris Paddack pitches to Daniel Schneemann",
+      "all_play_texts": [
+        "Chris Paddack pitches to Daniel Schneemann",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Strike 1 Looking",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Strike 2 Foul",
+        "Pitch 6 : Strike 2 Foul",
+        "Pitch 7 : Ball 3",
+        "Pitch 8 : Ball 4",
+        "Schneemann walked, Santana to second, Ram\u00edrez to third."
+      ]
     },
     {
       "play_sequence": 44,
       "game_id": "401695643",
       "inning": 6,
       "inning_half": "Top",
-      "batter": "Batter_40344",
-      "pitcher": "Pitcher_4917888",
+      "batter": "Gabriel Arias",
+      "pitcher": "Louis Varland",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2105,15 +2481,29 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016956431005: "
+      "raw_text": "Louis Varland pitches to Gabriel Arias",
+      "all_play_texts": [
+        "Varland relieved Paddack",
+        "Louis Varland pitches to Gabriel Arias",
+        "Pitch 1 : Strike 1 Swinging",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Strike 2 Foul",
+        "Pitch 6 : Strike 2 Foul",
+        "Pitch 7 : Strike 2 Foul",
+        "Pitch 8 : Ball 3",
+        "Pitch 9 : Ball 4",
+        "Arias walked, Ram\u00edrez scored, Schneemann to second, Santana to third."
+      ]
     },
     {
       "play_sequence": 45,
       "game_id": "401695643",
       "inning": 6,
       "inning_half": "Top",
-      "batter": "Batter_37340",
-      "pitcher": "Pitcher_4917888",
+      "batter": "Nolan Jones",
+      "pitcher": "Louis Varland",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2142,15 +2532,22 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016956431006: "
+      "raw_text": "Louis Varland pitches to Nolan Jones",
+      "all_play_texts": [
+        "Louis Varland pitches to Nolan Jones",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Ball In Play",
+        "Jones hit sacrifice fly to center, Santana scored."
+      ]
     },
     {
       "play_sequence": 46,
       "game_id": "401695643",
       "inning": 6,
       "inning_half": "Mid",
-      "batter": "Batter_32168",
-      "pitcher": "Pitcher_4917888",
+      "batter": "Austin Hedges",
+      "pitcher": "Louis Varland",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -2171,15 +2568,22 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016956431007: Pitch 2 : Ball In Play"
+      "raw_text": "Hedges grounded out to third.",
+      "all_play_texts": [
+        "Louis Varland pitches to Austin Hedges",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball In Play",
+        "Hedges grounded out to third.",
+        "Middle of the 6th inning"
+      ]
     },
     {
       "play_sequence": 47,
       "game_id": "401695643",
       "inning": 6,
       "inning_half": "Bottom",
-      "batter": "Batter_4629081",
-      "pitcher": "Pitcher_4345076",
+      "batter": "Brooks Lee",
+      "pitcher": "Gavin Williams",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -2200,15 +2604,22 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016956431101: Pitch 2 : Ball In Play"
+      "raw_text": "Lee grounded out to second.",
+      "all_play_texts": [
+        "Bottom of the 6th inning",
+        "Gavin Williams pitches to Brooks Lee",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball In Play",
+        "Lee grounded out to second."
+      ]
     },
     {
       "play_sequence": 48,
       "game_id": "401695643",
       "inning": 6,
       "inning_half": "Bottom",
-      "batter": "Batter_40635",
-      "pitcher": "Pitcher_4345076",
+      "batter": "Royce Lewis",
+      "pitcher": "Gavin Williams",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -2221,15 +2632,20 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016956431102: Pitch 1 : Ball In Play"
+      "raw_text": "Lewis grounded out to shortstop.",
+      "all_play_texts": [
+        "Gavin Williams pitches to Royce Lewis",
+        "Pitch 1 : Ball In Play",
+        "Lewis grounded out to shortstop."
+      ]
     },
     {
       "play_sequence": 49,
       "game_id": "401695643",
       "inning": 6,
       "inning_half": "End",
-      "batter": "Batter_41311",
-      "pitcher": "Pitcher_4345076",
+      "batter": "Kody Clemens",
+      "pitcher": "Gavin Williams",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2266,15 +2682,24 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016956431103: "
+      "raw_text": "Clemens struck out swinging.",
+      "all_play_texts": [
+        "Gavin Williams pitches to Kody Clemens",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Swinging",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Strike 3 Swinging",
+        "Clemens struck out swinging.",
+        "End of the 6th inning"
+      ]
     },
     {
       "play_sequence": 50,
       "game_id": "401695643",
       "inning": 7,
       "inning_half": "Top",
-      "batter": "Batter_41996",
-      "pitcher": "Pitcher_42604",
+      "batter": "Steven Kwan",
+      "pitcher": "Griffin Jax",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2319,15 +2744,26 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016956431201: "
+      "raw_text": "Kwan struck out swinging.",
+      "all_play_texts": [
+        "Top of the 7th inning",
+        "Jax relieved Varland",
+        "Griffin Jax pitches to Steven Kwan",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Looking",
+        "Pitch 3 : Strike 2 Swinging",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Strike 3 Swinging",
+        "Kwan struck out swinging."
+      ]
     },
     {
       "play_sequence": 51,
       "game_id": "401695643",
       "inning": 7,
       "inning_half": "Top",
-      "batter": "Batter_42497",
-      "pitcher": "Pitcher_42604",
+      "batter": "Angel Martinez",
+      "pitcher": "Griffin Jax",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2372,15 +2808,24 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016956431202: "
+      "raw_text": "Mart\u00ednez struck out swinging.",
+      "all_play_texts": [
+        "Griffin Jax pitches to Angel Martinez",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Strike 2 Looking",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Strike 3 Swinging",
+        "Mart\u00ednez struck out swinging."
+      ]
     },
     {
       "play_sequence": 52,
       "game_id": "401695643",
       "inning": 7,
       "inning_half": "Mid",
-      "batter": "Batter_32801",
-      "pitcher": "Pitcher_42604",
+      "batter": "Jose Ramirez",
+      "pitcher": "Griffin Jax",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2465,15 +2910,30 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016956431203: "
+      "raw_text": "Ram\u00edrez struck out swinging.",
+      "all_play_texts": [
+        "Griffin Jax pitches to Jose Ramirez",
+        "Pitch 1 : Strike 1 Swinging",
+        "Pitch 2 : Strike 2 Foul",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Strike 2 Foul",
+        "Pitch 6 : Strike 2 Foul",
+        "Pitch 7 : Ball 2",
+        "Pitch 8 : Strike 2 Foul",
+        "Pitch 9 : Strike 2 Foul",
+        "Pitch 10 : Strike 3 Swinging",
+        "Ram\u00edrez struck out swinging.",
+        "Middle of the 7th inning"
+      ]
     },
     {
       "play_sequence": 53,
       "game_id": "401695643",
       "inning": 7,
       "inning_half": "Bottom",
-      "batter": "Batter_3960984",
-      "pitcher": "Pitcher_4228579",
+      "batter": "Jonah Bride",
+      "pitcher": "Tim Herrin",
       "play_description": "Pitch 6 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -2526,15 +2986,27 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016956431301: Pitch 6 : Ball In Play"
+      "raw_text": "Bride grounded out to third.",
+      "all_play_texts": [
+        "Bottom of the 7th inning",
+        "Herrin relieved Williams",
+        "Tim Herrin pitches to Jonah Bride",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Looking",
+        "Pitch 3 : Strike 2 Swinging",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Strike 2 Foul",
+        "Pitch 6 : Ball In Play",
+        "Bride grounded out to third."
+      ]
     },
     {
       "play_sequence": 54,
       "game_id": "401695643",
       "inning": 7,
       "inning_half": "Bottom",
-      "batter": "Batter_35062",
-      "pitcher": "Pitcher_4228579",
+      "batter": "Harrison Bader",
+      "pitcher": "Tim Herrin",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2611,15 +3083,28 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016956431302: "
+      "raw_text": "Tim Herrin pitches to Harrison Bader",
+      "all_play_texts": [
+        "Tim Herrin pitches to Harrison Bader",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Swinging",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Strike 2 Foul",
+        "Pitch 6 : Strike 2 Foul",
+        "Pitch 7 : Strike 2 Foul",
+        "Pitch 8 : Ball 3",
+        "Pitch 9 : Ball 4",
+        "Bader walked."
+      ]
     },
     {
       "play_sequence": 55,
       "game_id": "401695643",
       "inning": 7,
       "inning_half": "End",
-      "batter": "Batter_34230",
-      "pitcher": "Pitcher_4228579",
+      "batter": "Willi Castro",
+      "pitcher": "Tim Herrin",
       "play_description": "Pitch 5 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -2664,15 +3149,26 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016956431303: Pitch 5 : Ball In Play"
+      "raw_text": "Castro flied out to center.",
+      "all_play_texts": [
+        "Tim Herrin pitches to Willi Castro",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Ball 1",
+        "Bader caught stealing second, catcher to second.",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Ball In Play",
+        "Castro flied out to center.",
+        "End of the 7th inning"
+      ]
     },
     {
       "play_sequence": 56,
       "game_id": "401695643",
       "inning": 8,
       "inning_half": "Top",
-      "batter": "Batter_4917927",
-      "pitcher": "Pitcher_3983841",
+      "batter": "Kyle Manzardo",
+      "pitcher": "Cole Sands",
       "play_description": "Pitch 7 : Ball In Play",
       "play_result": "Popout",
       "pitch_sequence": [
@@ -2733,15 +3229,28 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016956431401: Pitch 7 : Ball In Play"
+      "raw_text": "Manzardo popped out to third.",
+      "all_play_texts": [
+        "Top of the 8th inning",
+        "Sands relieved Jax",
+        "Cole Sands pitches to Kyle Manzardo",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Foul",
+        "Pitch 3 : Strike 2 Looking",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Strike 2 Foul",
+        "Pitch 6 : Strike 2 Foul",
+        "Pitch 7 : Ball In Play",
+        "Manzardo popped out to third."
+      ]
     },
     {
       "play_sequence": 57,
       "game_id": "401695643",
       "inning": 8,
       "inning_half": "Top",
-      "batter": "Batter_30280",
-      "pitcher": "Pitcher_3983841",
+      "batter": "Carlos Santana",
+      "pitcher": "Cole Sands",
       "play_description": "Pitch 5 : Ball In Play",
       "play_result": "Home Run",
       "pitch_sequence": [
@@ -2786,15 +3295,24 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016956431402: Pitch 5 : Ball In Play"
+      "raw_text": "Cole Sands pitches to Carlos Santana",
+      "all_play_texts": [
+        "Cole Sands pitches to Carlos Santana",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Strike 2 Foul",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Ball In Play",
+        "Santana homered to right (384 feet)."
+      ]
     },
     {
       "play_sequence": 58,
       "game_id": "401695643",
       "inning": 8,
       "inning_half": "Top",
-      "batter": "Batter_42001",
-      "pitcher": "Pitcher_3983841",
+      "batter": "Daniel Schneemann",
+      "pitcher": "Cole Sands",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -2823,15 +3341,22 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016956431403: Pitch 3 : Ball In Play"
+      "raw_text": "Schneemann grounded out to second.",
+      "all_play_texts": [
+        "Cole Sands pitches to Daniel Schneemann",
+        "Pitch 1 : Strike 1 Swinging",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball In Play",
+        "Schneemann grounded out to second."
+      ]
     },
     {
       "play_sequence": 59,
       "game_id": "401695643",
       "inning": 8,
       "inning_half": "Mid",
-      "batter": "Batter_40344",
-      "pitcher": "Pitcher_3983841",
+      "batter": "Gabriel Arias",
+      "pitcher": "Cole Sands",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2876,15 +3401,25 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016956431404: "
+      "raw_text": "Arias struck out looking.",
+      "all_play_texts": [
+        "Cole Sands pitches to Gabriel Arias",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Foul",
+        "Pitch 3 : Strike 2 Looking",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Strike 3 Looking",
+        "Arias struck out looking.",
+        "Middle of the 8th inning"
+      ]
     },
     {
       "play_sequence": 60,
       "game_id": "401695643",
       "inning": 8,
       "inning_half": "Bottom",
-      "batter": "Batter_41205",
-      "pitcher": "Pitcher_4187661",
+      "batter": "Trevor Larnach",
+      "pitcher": "Hunter Gaddis",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2913,15 +3448,25 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016956431501: "
+      "raw_text": "Larnach struck out swinging.",
+      "all_play_texts": [
+        "Bottom of the 8th inning",
+        "Larnach hit for Keirsey Jr.",
+        "Gaddis relieved Herrin",
+        "Hunter Gaddis pitches to Trevor Larnach",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Strike 2 Foul",
+        "Pitch 3 : Strike 3 Swinging",
+        "Larnach struck out swinging."
+      ]
     },
     {
       "play_sequence": 61,
       "game_id": "401695643",
       "inning": 8,
       "inning_half": "Bottom",
-      "batter": "Batter_31389",
-      "pitcher": "Pitcher_4187661",
+      "batter": "Christian Vazquez",
+      "pitcher": "Hunter Gaddis",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Lineout",
       "pitch_sequence": [
@@ -2950,15 +3495,22 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016956431502: Pitch 3 : Ball In Play"
+      "raw_text": "V\u00e1zquez lined out to right.",
+      "all_play_texts": [
+        "Hunter Gaddis pitches to Christian Vazquez",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Swinging",
+        "Pitch 3 : Ball In Play",
+        "V\u00e1zquez lined out to right."
+      ]
     },
     {
       "play_sequence": 62,
       "game_id": "401695643",
       "inning": 8,
       "inning_half": "Bottom",
-      "batter": "Batter_41587",
-      "pitcher": "Pitcher_4187661",
+      "batter": "Ryan Jeffers",
+      "pitcher": "Hunter Gaddis",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2987,15 +3539,22 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016956431503: "
+      "raw_text": "Hunter Gaddis pitches to Ryan Jeffers",
+      "all_play_texts": [
+        "Hunter Gaddis pitches to Ryan Jeffers",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Looking",
+        "Pitch 3 : Ball In Play",
+        "Jeffers hit by pitch."
+      ]
     },
     {
       "play_sequence": 63,
       "game_id": "401695643",
       "inning": 8,
       "inning_half": "End",
-      "batter": "Batter_4629081",
-      "pitcher": "Pitcher_4187661",
+      "batter": "Brooks Lee",
+      "pitcher": "Hunter Gaddis",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -3024,15 +3583,23 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016956431504: Pitch 3 : Ball In Play"
+      "raw_text": "Lee flied out to center.",
+      "all_play_texts": [
+        "Hunter Gaddis pitches to Brooks Lee",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball In Play",
+        "Lee flied out to center.",
+        "End of the 8th inning"
+      ]
     },
     {
       "play_sequence": 64,
       "game_id": "401695643",
       "inning": 9,
       "inning_half": "Top",
-      "batter": "Batter_42548",
-      "pitcher": "Pitcher_4348166",
+      "batter": "Jhonkensy Noel",
+      "pitcher": "Kody Funderburk",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -3045,15 +3612,26 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016956431601: Pitch 1 : Ball In Play"
+      "raw_text": "Kody Funderburk pitches to Jhonkensy Noel",
+      "all_play_texts": [
+        "Top of the 9th inning",
+        "Bader in center field.",
+        "Castro in left field.",
+        "Larnach in right field.",
+        "Noel hit for Jones",
+        "Funderburk relieved Sands",
+        "Kody Funderburk pitches to Jhonkensy Noel",
+        "Pitch 1 : Ball In Play",
+        "Noel singled to center."
+      ]
     },
     {
       "play_sequence": 65,
       "game_id": "401695643",
       "inning": 9,
       "inning_half": "Top",
-      "batter": "Batter_32168",
-      "pitcher": "Pitcher_4348166",
+      "batter": "Austin Hedges",
+      "pitcher": "Kody Funderburk",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -3074,15 +3652,21 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016956431602: Pitch 2 : Ball In Play"
+      "raw_text": "Hedges flied out to center.",
+      "all_play_texts": [
+        "Kody Funderburk pitches to Austin Hedges",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Ball In Play",
+        "Hedges flied out to center."
+      ]
     },
     {
       "play_sequence": 66,
       "game_id": "401695643",
       "inning": 9,
       "inning_half": "Top",
-      "batter": "Batter_41996",
-      "pitcher": "Pitcher_4348166",
+      "batter": "Steven Kwan",
+      "pitcher": "Kody Funderburk",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Double",
       "pitch_sequence": [
@@ -3111,15 +3695,22 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016956431603: Pitch 3 : Ball In Play"
+      "raw_text": "Kody Funderburk pitches to Steven Kwan",
+      "all_play_texts": [
+        "Kody Funderburk pitches to Steven Kwan",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Ball In Play",
+        "Kwan doubled to right, Noel to third."
+      ]
     },
     {
       "play_sequence": 67,
       "game_id": "401695643",
       "inning": 9,
       "inning_half": "Top",
-      "batter": "Batter_42497",
-      "pitcher": "Pitcher_4348166",
+      "batter": "Angel Martinez",
+      "pitcher": "Kody Funderburk",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -3132,15 +3723,20 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016956431604: "
+      "raw_text": "Kody Funderburk pitches to Angel Martinez",
+      "all_play_texts": [
+        "Kody Funderburk pitches to Angel Martinez",
+        "Pitch 1 : Ball In Play",
+        "Mart\u00ednez hit sacrifice fly to right, Noel scored, Kwan to third."
+      ]
     },
     {
       "play_sequence": 68,
       "game_id": "401695643",
       "inning": 9,
       "inning_half": "Top",
-      "batter": "Batter_32801",
-      "pitcher": "Pitcher_4348166",
+      "batter": "Jose Ramirez",
+      "pitcher": "Kody Funderburk",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -3161,15 +3757,21 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016956431605: Pitch 2 : Ball In Play"
+      "raw_text": "Kody Funderburk pitches to Jose Ramirez",
+      "all_play_texts": [
+        "Kody Funderburk pitches to Jose Ramirez",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball In Play",
+        "Ram\u00edrez singled to center, Kwan scored."
+      ]
     },
     {
       "play_sequence": 69,
       "game_id": "401695643",
       "inning": 9,
       "inning_half": "Mid",
-      "batter": "Batter_4917927",
-      "pitcher": "Pitcher_4348166",
+      "batter": "Kyle Manzardo",
+      "pitcher": "Kody Funderburk",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -3190,15 +3792,22 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016956431606: Pitch 2 : Ball In Play"
+      "raw_text": "Manzardo grounded out to first.",
+      "all_play_texts": [
+        "Kody Funderburk pitches to Kyle Manzardo",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball In Play",
+        "Manzardo grounded out to first.",
+        "Middle of the 9th inning"
+      ]
     },
     {
       "play_sequence": 70,
       "game_id": "401695643",
       "inning": 9,
       "inning_half": "Bottom",
-      "batter": "Batter_40635",
-      "pitcher": "Pitcher_41743",
+      "batter": "Royce Lewis",
+      "pitcher": "Emmanuel Clase",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Popout",
       "pitch_sequence": [
@@ -3219,15 +3828,24 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016956431701: Pitch 2 : Ball In Play"
+      "raw_text": "Lewis popped out to second.",
+      "all_play_texts": [
+        "Bottom of the 9th inning",
+        "Noel in right field.",
+        "Clase relieved Gaddis",
+        "Emmanuel Clase pitches to Royce Lewis",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball In Play",
+        "Lewis popped out to second."
+      ]
     },
     {
       "play_sequence": 71,
       "game_id": "401695643",
       "inning": 9,
       "inning_half": "Bottom",
-      "batter": "Batter_41311",
-      "pitcher": "Pitcher_41743",
+      "batter": "Kody Clemens",
+      "pitcher": "Emmanuel Clase",
       "play_description": "Pitch 6 : Ball In Play",
       "play_result": "Double",
       "pitch_sequence": [
@@ -3280,15 +3898,25 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016956431702: Pitch 6 : Ball In Play"
+      "raw_text": "Emmanuel Clase pitches to Kody Clemens",
+      "all_play_texts": [
+        "Emmanuel Clase pitches to Kody Clemens",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Strike 2 Foul",
+        "Pitch 6 : Ball In Play",
+        "Clemens doubled to left."
+      ]
     },
     {
       "play_sequence": 72,
       "game_id": "401695643",
       "inning": 9,
       "inning_half": "Bottom",
-      "batter": "Batter_3960984",
-      "pitcher": "Pitcher_41743",
+      "batter": "Jonah Bride",
+      "pitcher": "Emmanuel Clase",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Lineout",
       "pitch_sequence": [
@@ -3317,15 +3945,22 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016956431703: Pitch 3 : Ball In Play"
+      "raw_text": "Bride lined out to left.",
+      "all_play_texts": [
+        "Emmanuel Clase pitches to Jonah Bride",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball In Play",
+        "Bride lined out to left."
+      ]
     },
     {
       "play_sequence": 73,
       "game_id": "401695643",
       "inning": 9,
       "inning_half": "End",
-      "batter": "Batter_35062",
-      "pitcher": "Pitcher_41743",
+      "batter": "Harrison Bader",
+      "pitcher": "Emmanuel Clase",
       "play_description": "Pitch 4 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -3362,7 +3997,16 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016956431704: Pitch 4 : Ball In Play"
+      "raw_text": "Bader flied out to left.",
+      "all_play_texts": [
+        "Emmanuel Clase pitches to Harrison Bader",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Strike 1 Swinging",
+        "Pitch 4 : Ball In Play",
+        "Bader flied out to left.",
+        "End of the 9th inning"
+      ]
     }
   ]
 }

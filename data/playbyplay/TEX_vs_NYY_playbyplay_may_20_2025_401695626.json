@@ -2,7 +2,7 @@
   "metadata": {
     "game_id": "401695626",
     "api_url": "https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/summary?event=401695626",
-    "scraped_at": "2025-08-06T17:07:30.978736",
+    "scraped_at": "2025-08-07T03:30:16.972805",
     "away_team": "TEX",
     "home_team": "NYY"
   },
@@ -12,8 +12,8 @@
       "game_id": "401695626",
       "inning": 1,
       "inning_half": "Top",
-      "batter": "Batter_42884",
-      "pitcher": "Pitcher_5132011",
+      "batter": "Josh Smith",
+      "pitcher": "Will Warren",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -74,15 +74,27 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016956260001: "
+      "raw_text": "Smith struck out, Smith to first on wild pitch by Warren.",
+      "all_play_texts": [
+        "Top of the 1st inning",
+        "Will Warren pitches to Josh Smith",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Ball 2",
+        "Pitch 6 : Strike 2 Foul",
+        "Pitch 7 : Strike 3 Swinging",
+        "Smith struck out, Smith to first on wild pitch by Warren."
+      ]
     },
     {
       "play_sequence": 2,
       "game_id": "401695626",
       "inning": 1,
       "inning_half": "Top",
-      "batter": "Batter_4719324",
-      "pitcher": "Pitcher_5132011",
+      "batter": "Wyatt Langford",
+      "pitcher": "Will Warren",
       "play_description": "Pitch 4 : Ball In Play",
       "play_result": "Lineout",
       "pitch_sequence": [
@@ -119,15 +131,23 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016956260002: Pitch 4 : Ball In Play"
+      "raw_text": "Langford lined out to right.",
+      "all_play_texts": [
+        "Will Warren pitches to Wyatt Langford",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Looking",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Ball In Play",
+        "Langford lined out to right."
+      ]
     },
     {
       "play_sequence": 3,
       "game_id": "401695626",
       "inning": 1,
       "inning_half": "Mid",
-      "batter": "Batter_42437",
-      "pitcher": "Pitcher_5132011",
+      "batter": "Josh Jung",
+      "pitcher": "Will Warren",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -180,15 +200,26 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016956260003: "
+      "raw_text": "Jung struck out looking, Smith caught stealing second, catcher to second.",
+      "all_play_texts": [
+        "Will Warren pitches to Josh Jung",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Ball 3",
+        "Pitch 4 : Strike 1 Looking",
+        "Pitch 5 : Strike 2 Foul",
+        "Pitch 6 : Strike 3 Looking",
+        "Jung struck out looking, Smith caught stealing second, catcher to second.",
+        "Middle of the 1st inning"
+      ]
     },
     {
       "play_sequence": 4,
       "game_id": "401695626",
       "inning": 1,
       "inning_half": "Bottom",
-      "batter": "Batter_31027",
-      "pitcher": "Pitcher_31313",
+      "batter": "Paul Goldschmidt",
+      "pitcher": "Patrick Corbin",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -209,15 +240,22 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016956260101: Pitch 2 : Ball In Play"
+      "raw_text": "Goldschmidt grounded out to third.",
+      "all_play_texts": [
+        "Bottom of the 1st inning",
+        "Patrick Corbin pitches to Paul Goldschmidt",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball In Play",
+        "Goldschmidt grounded out to third."
+      ]
     },
     {
       "play_sequence": 5,
       "game_id": "401695626",
       "inning": 1,
       "inning_half": "Bottom",
-      "batter": "Batter_34995",
-      "pitcher": "Pitcher_31313",
+      "batter": "Trent Grisham",
+      "pitcher": "Patrick Corbin",
       "play_description": "Pitch 6 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -270,15 +308,25 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016956260102: Pitch 6 : Ball In Play"
+      "raw_text": "Grisham flied out to left.",
+      "all_play_texts": [
+        "Patrick Corbin pitches to Trent Grisham",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Strike 1 Foul",
+        "Pitch 4 : Ball 3",
+        "Pitch 5 : Strike 2 Bunted Foul",
+        "Pitch 6 : Ball In Play",
+        "Grisham flied out to left."
+      ]
     },
     {
       "play_sequence": 6,
       "game_id": "401695626",
       "inning": 1,
       "inning_half": "End",
-      "batter": "Batter_33192",
-      "pitcher": "Pitcher_31313",
+      "batter": "Aaron Judge",
+      "pitcher": "Patrick Corbin",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -307,15 +355,23 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016956260103: Pitch 3 : Ball In Play"
+      "raw_text": "Judge flied out to left.",
+      "all_play_texts": [
+        "Patrick Corbin pitches to Aaron Judge",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Ball In Play",
+        "Judge flied out to left.",
+        "End of the 1st inning"
+      ]
     },
     {
       "play_sequence": 7,
       "game_id": "401695626",
       "inning": 2,
       "inning_half": "Top",
-      "batter": "Batter_35537",
-      "pitcher": "Pitcher_5132011",
+      "batter": "Adolis Garcia",
+      "pitcher": "Will Warren",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -344,15 +400,23 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016956260201: "
+      "raw_text": "A. Garc\u00eda struck out swinging.",
+      "all_play_texts": [
+        "Top of the 2nd inning",
+        "Will Warren pitches to Adolis Garcia",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Looking",
+        "Pitch 3 : Strike 3 Swinging",
+        "A. Garc\u00eda struck out swinging."
+      ]
     },
     {
       "play_sequence": 8,
       "game_id": "401695626",
       "inning": 2,
       "inning_half": "Top",
-      "batter": "Batter_32146",
-      "pitcher": "Pitcher_5132011",
+      "batter": "Marcus Semien",
+      "pitcher": "Will Warren",
       "play_description": "Pitch 7 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -413,15 +477,26 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016956260202: Pitch 7 : Ball In Play"
+      "raw_text": "Will Warren pitches to Marcus Semien",
+      "all_play_texts": [
+        "Will Warren pitches to Marcus Semien",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Ball 3",
+        "Pitch 5 : Strike 2 Foul",
+        "Pitch 6 : Strike 2 Foul",
+        "Pitch 7 : Ball In Play",
+        "Semien singled to right."
+      ]
     },
     {
       "play_sequence": 9,
       "game_id": "401695626",
       "inning": 2,
       "inning_half": "Top",
-      "batter": "Batter_31392",
-      "pitcher": "Pitcher_5132011",
+      "batter": "Joc Pederson",
+      "pitcher": "Will Warren",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -458,15 +533,23 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016956260203: "
+      "raw_text": "Pederson struck out swinging.",
+      "all_play_texts": [
+        "Will Warren pitches to Joc Pederson",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Looking",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Strike 3 Swinging",
+        "Pederson struck out swinging."
+      ]
     },
     {
       "play_sequence": 10,
       "game_id": "401695626",
       "inning": 2,
       "inning_half": "Mid",
-      "batter": "Batter_39882",
-      "pitcher": "Pitcher_5132011",
+      "batter": "Jake Burger",
+      "pitcher": "Will Warren",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -503,15 +586,24 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016956260204: "
+      "raw_text": "Burger struck out looking.",
+      "all_play_texts": [
+        "Will Warren pitches to Jake Burger",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Strike 3 Looking",
+        "Burger struck out looking.",
+        "Middle of the 2nd inning"
+      ]
     },
     {
       "play_sequence": 11,
       "game_id": "401695626",
       "inning": 2,
       "inning_half": "Bottom",
-      "batter": "Batter_33912",
-      "pitcher": "Pitcher_31313",
+      "batter": "Cody Bellinger",
+      "pitcher": "Patrick Corbin",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Lineout",
       "pitch_sequence": [
@@ -532,15 +624,22 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016956260301: Pitch 2 : Ball In Play"
+      "raw_text": "Bellinger lined out to right.",
+      "all_play_texts": [
+        "Bottom of the 2nd inning",
+        "Patrick Corbin pitches to Cody Bellinger",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball In Play",
+        "Bellinger lined out to right."
+      ]
     },
     {
       "play_sequence": 12,
       "game_id": "401695626",
       "inning": 2,
       "inning_half": "Bottom",
-      "batter": "Batter_42547",
-      "pitcher": "Pitcher_31313",
+      "batter": "Anthony Volpe",
+      "pitcher": "Patrick Corbin",
       "play_description": "Pitch 6 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -593,15 +692,25 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016956260302: Pitch 6 : Ball In Play"
+      "raw_text": "Volpe grounded out to second.",
+      "all_play_texts": [
+        "Patrick Corbin pitches to Anthony Volpe",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Strike 2 Looking",
+        "Pitch 5 : Ball 3",
+        "Pitch 6 : Ball In Play",
+        "Volpe grounded out to second."
+      ]
     },
     {
       "play_sequence": 13,
       "game_id": "401695626",
       "inning": 2,
       "inning_half": "Bottom",
-      "batter": "Batter_5016968",
-      "pitcher": "Pitcher_31313",
+      "batter": "Ben Rice",
+      "pitcher": "Patrick Corbin",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Home Run",
       "pitch_sequence": [
@@ -630,15 +739,22 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016956260303: Pitch 3 : Ball In Play"
+      "raw_text": "Patrick Corbin pitches to Ben Rice",
+      "all_play_texts": [
+        "Patrick Corbin pitches to Ben Rice",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball In Play",
+        "Rice homered to right (376 feet)."
+      ]
     },
     {
       "play_sequence": 14,
       "game_id": "401695626",
       "inning": 2,
       "inning_half": "End",
-      "batter": "Batter_30765",
-      "pitcher": "Pitcher_31313",
+      "batter": "DJ LeMahieu",
+      "pitcher": "Patrick Corbin",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -659,15 +775,22 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016956260304: Pitch 2 : Ball In Play"
+      "raw_text": "LeMahieu grounded out to shortstop.",
+      "all_play_texts": [
+        "Patrick Corbin pitches to DJ LeMahieu",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball In Play",
+        "LeMahieu grounded out to shortstop.",
+        "End of the 2nd inning"
+      ]
     },
     {
       "play_sequence": 15,
       "game_id": "401695626",
       "inning": 3,
       "inning_half": "Top",
-      "batter": "Batter_33842",
-      "pitcher": "Pitcher_5132011",
+      "batter": "Jonah Heim",
+      "pitcher": "Will Warren",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -688,15 +811,22 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016956260401: Pitch 2 : Ball In Play"
+      "raw_text": "Heim grounded out to second.",
+      "all_play_texts": [
+        "Top of the 3rd inning",
+        "Will Warren pitches to Jonah Heim",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Ball In Play",
+        "Heim grounded out to second."
+      ]
     },
     {
       "play_sequence": 16,
       "game_id": "401695626",
       "inning": 3,
       "inning_half": "Top",
-      "batter": "Batter_38347",
-      "pitcher": "Pitcher_5132011",
+      "batter": "Sam Haggerty",
+      "pitcher": "Will Warren",
       "play_description": "Pitch 5 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -741,15 +871,24 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016956260402: Pitch 5 : Ball In Play"
+      "raw_text": "Haggerty flied out to right.",
+      "all_play_texts": [
+        "Will Warren pitches to Sam Haggerty",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Swinging",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Ball In Play",
+        "Haggerty flied out to right."
+      ]
     },
     {
       "play_sequence": 17,
       "game_id": "401695626",
       "inning": 3,
       "inning_half": "Mid",
-      "batter": "Batter_42884",
-      "pitcher": "Pitcher_5132011",
+      "batter": "Josh Smith",
+      "pitcher": "Will Warren",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -770,15 +909,22 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016956260403: Pitch 2 : Ball In Play"
+      "raw_text": "Smith flied out to center.",
+      "all_play_texts": [
+        "Will Warren pitches to Josh Smith",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball In Play",
+        "Smith flied out to center.",
+        "Middle of the 3rd inning"
+      ]
     },
     {
       "play_sequence": 18,
       "game_id": "401695626",
       "inning": 3,
       "inning_half": "Bottom",
-      "batter": "Batter_4683349",
-      "pitcher": "Pitcher_31313",
+      "batter": "Austin Wells",
+      "pitcher": "Patrick Corbin",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -839,15 +985,27 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016956260501: "
+      "raw_text": "Patrick Corbin pitches to Austin Wells",
+      "all_play_texts": [
+        "Bottom of the 3rd inning",
+        "Patrick Corbin pitches to Austin Wells",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Strike 1 Swinging",
+        "Pitch 4 : Ball 3",
+        "Pitch 5 : Strike 2 Swinging",
+        "Pitch 6 : Strike 2 Foul",
+        "Pitch 7 : Ball 4",
+        "Wells walked."
+      ]
     },
     {
       "play_sequence": 19,
       "game_id": "401695626",
       "inning": 3,
       "inning_half": "Bottom",
-      "batter": "Batter_42479",
-      "pitcher": "Pitcher_31313",
+      "batter": "Oswald Peraza",
+      "pitcher": "Patrick Corbin",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -860,15 +1018,20 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016956260502: Pitch 1 : Ball In Play"
+      "raw_text": "Peraza grounded into double play, third to second to first, Wells out at second.",
+      "all_play_texts": [
+        "Patrick Corbin pitches to Oswald Peraza",
+        "Pitch 1 : Ball In Play",
+        "Peraza grounded into double play, third to second to first, Wells out at second."
+      ]
     },
     {
       "play_sequence": 20,
       "game_id": "401695626",
       "inning": 3,
       "inning_half": "Bottom",
-      "batter": "Batter_31027",
-      "pitcher": "Pitcher_31313",
+      "batter": "Paul Goldschmidt",
+      "pitcher": "Patrick Corbin",
       "play_description": "Pitch 5 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -913,15 +1076,24 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016956260503: Pitch 5 : Ball In Play"
+      "raw_text": "Patrick Corbin pitches to Paul Goldschmidt",
+      "all_play_texts": [
+        "Patrick Corbin pitches to Paul Goldschmidt",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Strike 2 Swinging",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Ball In Play",
+        "Goldschmidt singled to left."
+      ]
     },
     {
       "play_sequence": 21,
       "game_id": "401695626",
       "inning": 3,
       "inning_half": "End",
-      "batter": "Batter_34995",
-      "pitcher": "Pitcher_31313",
+      "batter": "Trent Grisham",
+      "pitcher": "Patrick Corbin",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -974,15 +1146,26 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016956260504: "
+      "raw_text": "Grisham struck out swinging.",
+      "all_play_texts": [
+        "Patrick Corbin pitches to Trent Grisham",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Strike 2 Looking",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Strike 2 Foul",
+        "Pitch 6 : Strike 3 Swinging",
+        "Grisham struck out swinging.",
+        "End of the 3rd inning"
+      ]
     },
     {
       "play_sequence": 22,
       "game_id": "401695626",
       "inning": 4,
       "inning_half": "Top",
-      "batter": "Batter_4719324",
-      "pitcher": "Pitcher_5132011",
+      "batter": "Wyatt Langford",
+      "pitcher": "Will Warren",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1043,15 +1226,27 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016956260601: "
+      "raw_text": "Langford struck out looking.",
+      "all_play_texts": [
+        "Top of the 4th inning",
+        "Will Warren pitches to Wyatt Langford",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Looking",
+        "Pitch 3 : Strike 2 Swinging",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Ball 3",
+        "Pitch 6 : Strike 2 Foul",
+        "Pitch 7 : Strike 3 Looking",
+        "Langford struck out looking."
+      ]
     },
     {
       "play_sequence": 23,
       "game_id": "401695626",
       "inning": 4,
       "inning_half": "Top",
-      "batter": "Batter_42437",
-      "pitcher": "Pitcher_5132011",
+      "batter": "Josh Jung",
+      "pitcher": "Will Warren",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -1064,15 +1259,20 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016956260602: Pitch 1 : Ball In Play"
+      "raw_text": "Will Warren pitches to Josh Jung",
+      "all_play_texts": [
+        "Will Warren pitches to Josh Jung",
+        "Pitch 1 : Ball In Play",
+        "Jung singled to right."
+      ]
     },
     {
       "play_sequence": 24,
       "game_id": "401695626",
       "inning": 4,
       "inning_half": "Top",
-      "batter": "Batter_35537",
-      "pitcher": "Pitcher_5132011",
+      "batter": "Adolis Garcia",
+      "pitcher": "Will Warren",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1109,15 +1309,23 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016956260603: "
+      "raw_text": "A. Garc\u00eda struck out swinging.",
+      "all_play_texts": [
+        "Will Warren pitches to Adolis Garcia",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Looking",
+        "Pitch 3 : Strike 2 Swinging",
+        "Pitch 4 : Strike 3 Swinging",
+        "A. Garc\u00eda struck out swinging."
+      ]
     },
     {
       "play_sequence": 25,
       "game_id": "401695626",
       "inning": 4,
       "inning_half": "Mid",
-      "batter": "Batter_32146",
-      "pitcher": "Pitcher_5132011",
+      "batter": "Marcus Semien",
+      "pitcher": "Will Warren",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1162,15 +1370,25 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016956260604: "
+      "raw_text": "Semien struck out swinging.",
+      "all_play_texts": [
+        "Will Warren pitches to Marcus Semien",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Strike 2 Looking",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Strike 3 Swinging",
+        "Semien struck out swinging.",
+        "Middle of the 4th inning"
+      ]
     },
     {
       "play_sequence": 26,
       "game_id": "401695626",
       "inning": 4,
       "inning_half": "Bottom",
-      "batter": "Batter_33192",
-      "pitcher": "Pitcher_31313",
+      "batter": "Aaron Judge",
+      "pitcher": "Patrick Corbin",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -1183,15 +1401,21 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016956260701: Pitch 1 : Ball In Play"
+      "raw_text": "Patrick Corbin pitches to Aaron Judge",
+      "all_play_texts": [
+        "Bottom of the 4th inning",
+        "Patrick Corbin pitches to Aaron Judge",
+        "Pitch 1 : Ball In Play",
+        "Judge singled to center."
+      ]
     },
     {
       "play_sequence": 27,
       "game_id": "401695626",
       "inning": 4,
       "inning_half": "Bottom",
-      "batter": "Batter_33912",
-      "pitcher": "Pitcher_31313",
+      "batter": "Cody Bellinger",
+      "pitcher": "Patrick Corbin",
       "play_description": "Pitch 5 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -1236,15 +1460,25 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016956260702: Pitch 5 : Ball In Play"
+      "raw_text": "Patrick Corbin pitches to Cody Bellinger",
+      "all_play_texts": [
+        "Patrick Corbin pitches to Cody Bellinger",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Strike 2 Looking",
+        "Pitch 4 : Ball 2",
+        "Judge stole second.",
+        "Pitch 5 : Ball In Play",
+        "Bellinger reached on infield single to shortstop, Judge to third."
+      ]
     },
     {
       "play_sequence": 28,
       "game_id": "401695626",
       "inning": 4,
       "inning_half": "Bottom",
-      "batter": "Batter_42547",
-      "pitcher": "Pitcher_31313",
+      "batter": "Anthony Volpe",
+      "pitcher": "Patrick Corbin",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1321,15 +1555,28 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016956260703: "
+      "raw_text": "Volpe fouled out to third.",
+      "all_play_texts": [
+        "Patrick Corbin pitches to Anthony Volpe",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Foul",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Ball 1",
+        "Pitch 5 : Strike 2 Foul",
+        "Pitch 6 : Strike 2 Foul",
+        "Pitch 7 : Ball 2",
+        "Pitch 8 : Ball 3",
+        "Pitch 9 : Ball In Play",
+        "Volpe fouled out to third."
+      ]
     },
     {
       "play_sequence": 29,
       "game_id": "401695626",
       "inning": 4,
       "inning_half": "Bottom",
-      "batter": "Batter_5016968",
-      "pitcher": "Pitcher_31313",
+      "batter": "Ben Rice",
+      "pitcher": "Patrick Corbin",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1358,15 +1605,22 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016956260704: "
+      "raw_text": "Patrick Corbin pitches to Ben Rice",
+      "all_play_texts": [
+        "Patrick Corbin pitches to Ben Rice",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Swinging",
+        "Pitch 3 : Ball In Play",
+        "Rice hit sacrifice fly to center, Judge scored."
+      ]
     },
     {
       "play_sequence": 30,
       "game_id": "401695626",
       "inning": 4,
       "inning_half": "End",
-      "batter": "Batter_30765",
-      "pitcher": "Pitcher_31313",
+      "batter": "DJ LeMahieu",
+      "pitcher": "Patrick Corbin",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1379,15 +1633,21 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016956260705: "
+      "raw_text": "Patrick Corbin pitches to DJ LeMahieu",
+      "all_play_texts": [
+        "Patrick Corbin pitches to DJ LeMahieu",
+        "Pitch 1 : Ball 1",
+        "Bellinger caught stealing second, catcher to second.",
+        "End of the 4th inning"
+      ]
     },
     {
       "play_sequence": 31,
       "game_id": "401695626",
       "inning": 5,
       "inning_half": "Top",
-      "batter": "Batter_31392",
-      "pitcher": "Pitcher_5132011",
+      "batter": "Joc Pederson",
+      "pitcher": "Will Warren",
       "play_description": "Pitch 4 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -1424,15 +1684,24 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016956260801: Pitch 4 : Ball In Play"
+      "raw_text": "Pederson grounded out to pitcher.",
+      "all_play_texts": [
+        "Top of the 5th inning",
+        "Will Warren pitches to Joc Pederson",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Foul",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Ball In Play",
+        "Pederson grounded out to pitcher."
+      ]
     },
     {
       "play_sequence": 32,
       "game_id": "401695626",
       "inning": 5,
       "inning_half": "Top",
-      "batter": "Batter_39882",
-      "pitcher": "Pitcher_5132011",
+      "batter": "Jake Burger",
+      "pitcher": "Will Warren",
       "play_description": "Pitch 5 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -1477,15 +1746,24 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016956260802: Pitch 5 : Ball In Play"
+      "raw_text": "Burger grounded out to third.",
+      "all_play_texts": [
+        "Will Warren pitches to Jake Burger",
+        "Pitch 1 : Strike 1 Swinging",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Strike 2 Swinging",
+        "Pitch 5 : Ball In Play",
+        "Burger grounded out to third."
+      ]
     },
     {
       "play_sequence": 33,
       "game_id": "401695626",
       "inning": 5,
       "inning_half": "Top",
-      "batter": "Batter_33842",
-      "pitcher": "Pitcher_5132011",
+      "batter": "Jonah Heim",
+      "pitcher": "Will Warren",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Double",
       "pitch_sequence": [
@@ -1514,15 +1792,22 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016956260803: Pitch 3 : Ball In Play"
+      "raw_text": "Will Warren pitches to Jonah Heim",
+      "all_play_texts": [
+        "Will Warren pitches to Jonah Heim",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Ball In Play",
+        "Heim doubled to right."
+      ]
     },
     {
       "play_sequence": 34,
       "game_id": "401695626",
       "inning": 5,
       "inning_half": "Mid",
-      "batter": "Batter_38347",
-      "pitcher": "Pitcher_5132011",
+      "batter": "Sam Haggerty",
+      "pitcher": "Will Warren",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1575,15 +1860,26 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016956260804: "
+      "raw_text": "Haggerty struck out looking.",
+      "all_play_texts": [
+        "Will Warren pitches to Sam Haggerty",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Ball 3",
+        "Pitch 6 : Strike 3 Looking",
+        "Haggerty struck out looking.",
+        "Middle of the 5th inning"
+      ]
     },
     {
       "play_sequence": 35,
       "game_id": "401695626",
       "inning": 5,
       "inning_half": "Bottom",
-      "batter": "Batter_30765",
-      "pitcher": "Pitcher_31313",
+      "batter": "DJ LeMahieu",
+      "pitcher": "Patrick Corbin",
       "play_description": "Pitch 4 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -1620,15 +1916,24 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016956260901: Pitch 4 : Ball In Play"
+      "raw_text": "LeMahieu grounded out to second.",
+      "all_play_texts": [
+        "Bottom of the 5th inning",
+        "Patrick Corbin pitches to DJ LeMahieu",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Strike 2 Swinging",
+        "Pitch 4 : Ball In Play",
+        "LeMahieu grounded out to second."
+      ]
     },
     {
       "play_sequence": 36,
       "game_id": "401695626",
       "inning": 5,
       "inning_half": "Bottom",
-      "batter": "Batter_4683349",
-      "pitcher": "Pitcher_31313",
+      "batter": "Austin Wells",
+      "pitcher": "Patrick Corbin",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1665,15 +1970,23 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016956260902: "
+      "raw_text": "Wells struck out swinging.",
+      "all_play_texts": [
+        "Patrick Corbin pitches to Austin Wells",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Swinging",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Strike 3 Swinging",
+        "Wells struck out swinging."
+      ]
     },
     {
       "play_sequence": 37,
       "game_id": "401695626",
       "inning": 5,
       "inning_half": "End",
-      "batter": "Batter_42479",
-      "pitcher": "Pitcher_31313",
+      "batter": "Oswald Peraza",
+      "pitcher": "Patrick Corbin",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1718,15 +2031,25 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016956260903: "
+      "raw_text": "Peraza struck out swinging.",
+      "all_play_texts": [
+        "Patrick Corbin pitches to Oswald Peraza",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Strike 2 Swinging",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Strike 3 Swinging",
+        "Peraza struck out swinging.",
+        "End of the 5th inning"
+      ]
     },
     {
       "play_sequence": 38,
       "game_id": "401695626",
       "inning": 6,
       "inning_half": "Top",
-      "batter": "Batter_42884",
-      "pitcher": "Pitcher_5132011",
+      "batter": "Josh Smith",
+      "pitcher": "Will Warren",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1771,15 +2094,25 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016956261001: "
+      "raw_text": "Smith fouled out to third.",
+      "all_play_texts": [
+        "Top of the 6th inning",
+        "Will Warren pitches to Josh Smith",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Foul",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Ball 3",
+        "Pitch 5 : Ball In Play",
+        "Smith fouled out to third."
+      ]
     },
     {
       "play_sequence": 39,
       "game_id": "401695626",
       "inning": 6,
       "inning_half": "Top",
-      "batter": "Batter_4719324",
-      "pitcher": "Pitcher_5132011",
+      "batter": "Wyatt Langford",
+      "pitcher": "Will Warren",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1840,15 +2173,26 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016956261002: "
+      "raw_text": "Will Warren pitches to Wyatt Langford",
+      "all_play_texts": [
+        "Will Warren pitches to Wyatt Langford",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Strike 1 Looking",
+        "Pitch 4 : Strike 2 Swinging",
+        "Pitch 5 : Strike 2 Foul",
+        "Pitch 6 : Ball 3",
+        "Pitch 7 : Ball 4",
+        "Langford walked."
+      ]
     },
     {
       "play_sequence": 40,
       "game_id": "401695626",
       "inning": 6,
       "inning_half": "Top",
-      "batter": "Batter_42437",
-      "pitcher": "Pitcher_5132011",
+      "batter": "Josh Jung",
+      "pitcher": "Will Warren",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -1861,15 +2205,20 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016956261003: Pitch 1 : Ball In Play"
+      "raw_text": "Will Warren pitches to Josh Jung",
+      "all_play_texts": [
+        "Will Warren pitches to Josh Jung",
+        "Pitch 1 : Ball In Play",
+        "Jung reached on infield single to third, Langford to second."
+      ]
     },
     {
       "play_sequence": 41,
       "game_id": "401695626",
       "inning": 6,
       "inning_half": "Top",
-      "batter": "Batter_35537",
-      "pitcher": "Pitcher_5132011",
+      "batter": "Adolis Garcia",
+      "pitcher": "Will Warren",
       "play_description": "Pitch 4 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -1906,15 +2255,23 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016956261004: Pitch 4 : Ball In Play"
+      "raw_text": "Will Warren pitches to Adolis Garcia",
+      "all_play_texts": [
+        "Will Warren pitches to Adolis Garcia",
+        "Pitch 1 : Strike 1 Swinging",
+        "Pitch 2 : Strike 2 Swinging",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Ball In Play",
+        "A. Garc\u00eda singled to right, Jung to second, Langford to third."
+      ]
     },
     {
       "play_sequence": 42,
       "game_id": "401695626",
       "inning": 6,
       "inning_half": "Top",
-      "batter": "Batter_32146",
-      "pitcher": "Pitcher_5132011",
+      "batter": "Marcus Semien",
+      "pitcher": "Will Warren",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1959,15 +2316,24 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016956261005: "
+      "raw_text": "Semien struck out looking.",
+      "all_play_texts": [
+        "Will Warren pitches to Marcus Semien",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Looking",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Strike 3 Looking",
+        "Semien struck out looking."
+      ]
     },
     {
       "play_sequence": 43,
       "game_id": "401695626",
       "inning": 6,
       "inning_half": "Mid",
-      "batter": "Batter_31392",
-      "pitcher": "Pitcher_36202",
+      "batter": "Joc Pederson",
+      "pitcher": "Mark Leiter Jr.",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2004,15 +2370,25 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016956261006: "
+      "raw_text": "Pederson struck out swinging.",
+      "all_play_texts": [
+        "Leiter Jr. relieved Warren",
+        "Mark Leiter Jr. pitches to Joc Pederson",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Foul",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Strike 3 Swinging",
+        "Pederson struck out swinging.",
+        "Middle of the 6th inning"
+      ]
     },
     {
       "play_sequence": 44,
       "game_id": "401695626",
       "inning": 6,
       "inning_half": "Bottom",
-      "batter": "Batter_31027",
-      "pitcher": "Pitcher_31313",
+      "batter": "Paul Goldschmidt",
+      "pitcher": "Patrick Corbin",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2073,15 +2449,27 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016956261101: "
+      "raw_text": "Patrick Corbin pitches to Paul Goldschmidt",
+      "all_play_texts": [
+        "Bottom of the 6th inning",
+        "Patrick Corbin pitches to Paul Goldschmidt",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Looking",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Ball 3",
+        "Pitch 6 : Strike 2 Foul",
+        "Pitch 7 : Ball 4",
+        "Goldschmidt walked."
+      ]
     },
     {
       "play_sequence": 45,
       "game_id": "401695626",
       "inning": 6,
       "inning_half": "Bottom",
-      "batter": "Batter_34995",
-      "pitcher": "Pitcher_31313",
+      "batter": "Trent Grisham",
+      "pitcher": "Patrick Corbin",
       "play_description": "Pitch 4 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -2118,15 +2506,23 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016956261102: Pitch 4 : Ball In Play"
+      "raw_text": "Patrick Corbin pitches to Trent Grisham",
+      "all_play_texts": [
+        "Patrick Corbin pitches to Trent Grisham",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Looking",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Ball In Play",
+        "Grisham singled to right, Goldschmidt to second."
+      ]
     },
     {
       "play_sequence": 46,
       "game_id": "401695626",
       "inning": 6,
       "inning_half": "Bottom",
-      "batter": "Batter_33192",
-      "pitcher": "Pitcher_40384",
+      "batter": "Aaron Judge",
+      "pitcher": "Jacob Webb",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2171,15 +2567,25 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016956261103: "
+      "raw_text": "Judge struck out swinging.",
+      "all_play_texts": [
+        "Webb relieved Corbin",
+        "Jacob Webb pitches to Aaron Judge",
+        "Pitch 1 : Strike 1 Swinging",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Strike 3 Swinging",
+        "Judge struck out swinging."
+      ]
     },
     {
       "play_sequence": 47,
       "game_id": "401695626",
       "inning": 6,
       "inning_half": "Bottom",
-      "batter": "Batter_33912",
-      "pitcher": "Pitcher_40384",
+      "batter": "Cody Bellinger",
+      "pitcher": "Jacob Webb",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2208,15 +2614,22 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016956261104: "
+      "raw_text": "Bellinger fouled out to third.",
+      "all_play_texts": [
+        "Jacob Webb pitches to Cody Bellinger",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Looking",
+        "Pitch 3 : Ball In Play",
+        "Bellinger fouled out to third."
+      ]
     },
     {
       "play_sequence": 48,
       "game_id": "401695626",
       "inning": 6,
       "inning_half": "Bottom",
-      "batter": "Batter_42547",
-      "pitcher": "Pitcher_40384",
+      "batter": "Anthony Volpe",
+      "pitcher": "Jacob Webb",
       "play_description": "Pitch 6 : Ball In Play",
       "play_result": "Double",
       "pitch_sequence": [
@@ -2269,15 +2682,25 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016956261105: Pitch 6 : Ball In Play"
+      "raw_text": "Jacob Webb pitches to Anthony Volpe",
+      "all_play_texts": [
+        "Jacob Webb pitches to Anthony Volpe",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Strike 2 Foul",
+        "Pitch 6 : Ball In Play",
+        "Volpe doubled to center, Goldschmidt scored, Grisham to third."
+      ]
     },
     {
       "play_sequence": 49,
       "game_id": "401695626",
       "inning": 6,
       "inning_half": "End",
-      "batter": "Batter_5016968",
-      "pitcher": "Pitcher_40384",
+      "batter": "Ben Rice",
+      "pitcher": "Jacob Webb",
       "play_description": "Pitch 4 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -2314,15 +2737,24 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016956261106: Pitch 4 : Ball In Play"
+      "raw_text": "Rice flied out to right.",
+      "all_play_texts": [
+        "Jacob Webb pitches to Ben Rice",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Looking",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Ball In Play",
+        "Rice flied out to right.",
+        "End of the 6th inning"
+      ]
     },
     {
       "play_sequence": 50,
       "game_id": "401695626",
       "inning": 7,
       "inning_half": "Top",
-      "batter": "Batter_39882",
-      "pitcher": "Pitcher_36202",
+      "batter": "Jake Burger",
+      "pitcher": "Mark Leiter Jr.",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -2351,15 +2783,23 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016956261201: Pitch 3 : Ball In Play"
+      "raw_text": "Burger flied out to center.",
+      "all_play_texts": [
+        "Top of the 7th inning",
+        "Mark Leiter Jr. pitches to Jake Burger",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball In Play",
+        "Burger flied out to center."
+      ]
     },
     {
       "play_sequence": 51,
       "game_id": "401695626",
       "inning": 7,
       "inning_half": "Top",
-      "batter": "Batter_33842",
-      "pitcher": "Pitcher_36202",
+      "batter": "Jonah Heim",
+      "pitcher": "Mark Leiter Jr.",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -2388,15 +2828,22 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016956261202: Pitch 3 : Ball In Play"
+      "raw_text": "Heim flied out to left.",
+      "all_play_texts": [
+        "Mark Leiter Jr. pitches to Jonah Heim",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Swinging",
+        "Pitch 3 : Ball In Play",
+        "Heim flied out to left."
+      ]
     },
     {
       "play_sequence": 52,
       "game_id": "401695626",
       "inning": 7,
       "inning_half": "Mid",
-      "batter": "Batter_38347",
-      "pitcher": "Pitcher_36202",
+      "batter": "Sam Haggerty",
+      "pitcher": "Mark Leiter Jr.",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2425,15 +2872,23 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016956261203: "
+      "raw_text": "Haggerty struck out swinging.",
+      "all_play_texts": [
+        "Mark Leiter Jr. pitches to Sam Haggerty",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Looking",
+        "Pitch 3 : Strike 3 Swinging",
+        "Haggerty struck out swinging.",
+        "Middle of the 7th inning"
+      ]
     },
     {
       "play_sequence": 53,
       "game_id": "401695626",
       "inning": 7,
       "inning_half": "Bottom",
-      "batter": "Batter_30765",
-      "pitcher": "Pitcher_41975",
+      "batter": "DJ LeMahieu",
+      "pitcher": "Caleb Boushley",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2494,15 +2949,28 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016956261301: "
+      "raw_text": "Caleb Boushley pitches to DJ LeMahieu",
+      "all_play_texts": [
+        "Bottom of the 7th inning",
+        "Boushley relieved Webb",
+        "Caleb Boushley pitches to DJ LeMahieu",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Strike 1 Looking",
+        "Pitch 4 : Strike 2 Looking",
+        "Pitch 5 : Strike 2 Foul",
+        "Pitch 6 : Ball 3",
+        "Pitch 7 : Ball 4",
+        "LeMahieu walked."
+      ]
     },
     {
       "play_sequence": 54,
       "game_id": "401695626",
       "inning": 7,
       "inning_half": "Bottom",
-      "batter": "Batter_4683349",
-      "pitcher": "Pitcher_41975",
+      "batter": "Austin Wells",
+      "pitcher": "Caleb Boushley",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2539,15 +3007,23 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016956261302: "
+      "raw_text": "Wells struck out looking.",
+      "all_play_texts": [
+        "Caleb Boushley pitches to Austin Wells",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Strike 2 Foul",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Strike 3 Looking",
+        "Wells struck out looking."
+      ]
     },
     {
       "play_sequence": 55,
       "game_id": "401695626",
       "inning": 7,
       "inning_half": "Bottom",
-      "batter": "Batter_42479",
-      "pitcher": "Pitcher_41975",
+      "batter": "Oswald Peraza",
+      "pitcher": "Caleb Boushley",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2560,15 +3036,20 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016956261303: "
+      "raw_text": "Peraza bunt grounded out to first.",
+      "all_play_texts": [
+        "Caleb Boushley pitches to Oswald Peraza",
+        "Pitch 1 : Ball In Play",
+        "Peraza bunt grounded out to first."
+      ]
     },
     {
       "play_sequence": 56,
       "game_id": "401695626",
       "inning": 7,
       "inning_half": "End",
-      "batter": "Batter_31027",
-      "pitcher": "Pitcher_41975",
+      "batter": "Paul Goldschmidt",
+      "pitcher": "Caleb Boushley",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2605,15 +3086,24 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016956261304: "
+      "raw_text": "Goldschmidt struck out swinging.",
+      "all_play_texts": [
+        "Caleb Boushley pitches to Paul Goldschmidt",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Foul",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Strike 3 Swinging",
+        "Goldschmidt struck out swinging.",
+        "End of the 7th inning"
+      ]
     },
     {
       "play_sequence": 57,
       "game_id": "401695626",
       "inning": 8,
       "inning_half": "Top",
-      "batter": "Batter_42884",
-      "pitcher": "Pitcher_33224",
+      "batter": "Josh Smith",
+      "pitcher": "Devin Williams",
       "play_description": "Pitch 6 : Ball In Play",
       "play_result": "Popout",
       "pitch_sequence": [
@@ -2666,15 +3156,27 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016956261401: Pitch 6 : Ball In Play"
+      "raw_text": "Smith popped out to shortstop.",
+      "all_play_texts": [
+        "Top of the 8th inning",
+        "Williams relieved Leiter Jr.",
+        "Devin Williams pitches to Josh Smith",
+        "Pitch 1 : Strike 1 Swinging",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Strike 2 Swinging",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Ball 2",
+        "Pitch 6 : Ball In Play",
+        "Smith popped out to shortstop."
+      ]
     },
     {
       "play_sequence": 58,
       "game_id": "401695626",
       "inning": 8,
       "inning_half": "Top",
-      "batter": "Batter_4719324",
-      "pitcher": "Pitcher_33224",
+      "batter": "Wyatt Langford",
+      "pitcher": "Devin Williams",
       "play_description": "Pitch 5 : Ball In Play",
       "play_result": "Double",
       "pitch_sequence": [
@@ -2719,15 +3221,24 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016956261402: Pitch 5 : Ball In Play"
+      "raw_text": "Devin Williams pitches to Wyatt Langford",
+      "all_play_texts": [
+        "Devin Williams pitches to Wyatt Langford",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Strike 1 Foul",
+        "Pitch 4 : Ball 3",
+        "Pitch 5 : Ball In Play",
+        "Langford doubled to left."
+      ]
     },
     {
       "play_sequence": 59,
       "game_id": "401695626",
       "inning": 8,
       "inning_half": "Top",
-      "batter": "Batter_42437",
-      "pitcher": "Pitcher_33224",
+      "batter": "Josh Jung",
+      "pitcher": "Devin Williams",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2780,15 +3291,25 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016956261403: "
+      "raw_text": "Jung struck out swinging.",
+      "all_play_texts": [
+        "Devin Williams pitches to Josh Jung",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Strike 1 Foul",
+        "Pitch 4 : Ball 3",
+        "Pitch 5 : Strike 2 Swinging",
+        "Pitch 6 : Strike 3 Swinging",
+        "Jung struck out swinging."
+      ]
     },
     {
       "play_sequence": 60,
       "game_id": "401695626",
       "inning": 8,
       "inning_half": "Mid",
-      "batter": "Batter_35537",
-      "pitcher": "Pitcher_33224",
+      "batter": "Adolis Garcia",
+      "pitcher": "Devin Williams",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2849,15 +3370,28 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016956261404: "
+      "raw_text": "A. Garc\u00eda struck out swinging.",
+      "all_play_texts": [
+        "Devin Williams pitches to Adolis Garcia",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Strike 2 Swinging",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Ball 2",
+        "Langford to third on wild pitch by Williams.",
+        "Pitch 6 : Ball 3",
+        "Pitch 7 : Strike 3 Swinging",
+        "A. Garc\u00eda struck out swinging.",
+        "Middle of the 8th inning"
+      ]
     },
     {
       "play_sequence": 61,
       "game_id": "401695626",
       "inning": 8,
       "inning_half": "Bottom",
-      "batter": "Batter_34995",
-      "pitcher": "Pitcher_41975",
+      "batter": "Trent Grisham",
+      "pitcher": "Caleb Boushley",
       "play_description": "Pitch 5 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -2902,15 +3436,25 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016956261501: Pitch 5 : Ball In Play"
+      "raw_text": "Caleb Boushley pitches to Trent Grisham",
+      "all_play_texts": [
+        "Bottom of the 8th inning",
+        "Caleb Boushley pitches to Trent Grisham",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Strike 1 Looking",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Ball In Play",
+        "Grisham singled to center."
+      ]
     },
     {
       "play_sequence": 62,
       "game_id": "401695626",
       "inning": 8,
       "inning_half": "Bottom",
-      "batter": "Batter_33192",
-      "pitcher": "Pitcher_41975",
+      "batter": "Aaron Judge",
+      "pitcher": "Caleb Boushley",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Home Run",
       "pitch_sequence": [
@@ -2923,15 +3467,20 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016956261502: Pitch 1 : Ball In Play"
+      "raw_text": "Caleb Boushley pitches to Aaron Judge",
+      "all_play_texts": [
+        "Caleb Boushley pitches to Aaron Judge",
+        "Pitch 1 : Ball In Play",
+        "Judge homered to right (326 feet), Grisham scored."
+      ]
     },
     {
       "play_sequence": 63,
       "game_id": "401695626",
       "inning": 8,
       "inning_half": "Bottom",
-      "batter": "Batter_33912",
-      "pitcher": "Pitcher_41975",
+      "batter": "Cody Bellinger",
+      "pitcher": "Caleb Boushley",
       "play_description": "Pitch 4 : Ball In Play",
       "play_result": "Popout",
       "pitch_sequence": [
@@ -2968,15 +3517,23 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016956261503: Pitch 4 : Ball In Play"
+      "raw_text": "Bellinger popped out to first.",
+      "all_play_texts": [
+        "Caleb Boushley pitches to Cody Bellinger",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Strike 1 Looking",
+        "Pitch 4 : Ball In Play",
+        "Bellinger popped out to first."
+      ]
     },
     {
       "play_sequence": 64,
       "game_id": "401695626",
       "inning": 8,
       "inning_half": "Bottom",
-      "batter": "Batter_42547",
-      "pitcher": "Pitcher_41975",
+      "batter": "Anthony Volpe",
+      "pitcher": "Caleb Boushley",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Lineout",
       "pitch_sequence": [
@@ -3005,15 +3562,22 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016956261504: Pitch 3 : Ball In Play"
+      "raw_text": "Volpe lined out to center.",
+      "all_play_texts": [
+        "Caleb Boushley pitches to Anthony Volpe",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball In Play",
+        "Volpe lined out to center."
+      ]
     },
     {
       "play_sequence": 65,
       "game_id": "401695626",
       "inning": 8,
       "inning_half": "Bottom",
-      "batter": "Batter_5016968",
-      "pitcher": "Pitcher_41975",
+      "batter": "Ben Rice",
+      "pitcher": "Caleb Boushley",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -3034,15 +3598,21 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016956261505: Pitch 2 : Ball In Play"
+      "raw_text": "Caleb Boushley pitches to Ben Rice",
+      "all_play_texts": [
+        "Caleb Boushley pitches to Ben Rice",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball In Play",
+        "Rice singled to right."
+      ]
     },
     {
       "play_sequence": 66,
       "game_id": "401695626",
       "inning": 8,
       "inning_half": "End",
-      "batter": "Batter_30765",
-      "pitcher": "Pitcher_41975",
+      "batter": "DJ LeMahieu",
+      "pitcher": "Caleb Boushley",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -3071,15 +3641,23 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016956261506: "
+      "raw_text": "LeMahieu grounded into fielder's choice to second, Rice out at second.",
+      "all_play_texts": [
+        "Caleb Boushley pitches to DJ LeMahieu",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball In Play",
+        "LeMahieu grounded into fielder's choice to second, Rice out at second.",
+        "End of the 8th inning"
+      ]
     },
     {
       "play_sequence": 67,
       "game_id": "401695626",
       "inning": 9,
       "inning_half": "Top",
-      "batter": "Batter_32146",
-      "pitcher": "Pitcher_41127",
+      "batter": "Marcus Semien",
+      "pitcher": "Ian Hamilton",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -3092,15 +3670,22 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016956261601: Pitch 1 : Ball In Play"
+      "raw_text": "Semien grounded out to third.",
+      "all_play_texts": [
+        "Top of the 9th inning",
+        "Hamilton relieved Williams",
+        "Ian Hamilton pitches to Marcus Semien",
+        "Pitch 1 : Ball In Play",
+        "Semien grounded out to third."
+      ]
     },
     {
       "play_sequence": 68,
       "game_id": "401695626",
       "inning": 9,
       "inning_half": "Top",
-      "batter": "Batter_31392",
-      "pitcher": "Pitcher_41127",
+      "batter": "Joc Pederson",
+      "pitcher": "Ian Hamilton",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -3161,15 +3746,26 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016956261602: "
+      "raw_text": "Ian Hamilton pitches to Joc Pederson",
+      "all_play_texts": [
+        "Ian Hamilton pitches to Joc Pederson",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Foul",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Ball 3",
+        "Pitch 6 : Strike 2 Foul",
+        "Pitch 7 : Ball 4",
+        "Pederson walked."
+      ]
     },
     {
       "play_sequence": 69,
       "game_id": "401695626",
       "inning": 9,
       "inning_half": "Top",
-      "batter": "Batter_39882",
-      "pitcher": "Pitcher_41127",
+      "batter": "Jake Burger",
+      "pitcher": "Ian Hamilton",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Lineout",
       "pitch_sequence": [
@@ -3190,15 +3786,21 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016956261603: Pitch 2 : Ball In Play"
+      "raw_text": "Burger lined out to left.",
+      "all_play_texts": [
+        "Ian Hamilton pitches to Jake Burger",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Ball In Play",
+        "Burger lined out to left."
+      ]
     },
     {
       "play_sequence": 70,
       "game_id": "401695626",
       "inning": 9,
       "inning_half": "Top",
-      "batter": "Batter_33842",
-      "pitcher": "Pitcher_41127",
+      "batter": "Jonah Heim",
+      "pitcher": "Ian Hamilton",
       "play_description": "Pitch 5 : Ball In Play",
       "play_result": "Home Run",
       "pitch_sequence": [
@@ -3243,15 +3845,24 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016956261604: Pitch 5 : Ball In Play"
+      "raw_text": "Ian Hamilton pitches to Jonah Heim",
+      "all_play_texts": [
+        "Ian Hamilton pitches to Jonah Heim",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Strike 1 Looking",
+        "Pitch 4 : Strike 2 Looking",
+        "Pitch 5 : Ball In Play",
+        "Heim homered to right (362 feet), Pederson scored."
+      ]
     },
     {
       "play_sequence": 71,
       "game_id": "401695626",
       "inning": 9,
       "inning_half": "Top",
-      "batter": "Batter_38347",
-      "pitcher": "Pitcher_41127",
+      "batter": "Sam Haggerty",
+      "pitcher": "Ian Hamilton",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Triple",
       "pitch_sequence": [
@@ -3272,15 +3883,21 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016956261605: Pitch 2 : Ball In Play"
+      "raw_text": "Ian Hamilton pitches to Sam Haggerty",
+      "all_play_texts": [
+        "Ian Hamilton pitches to Sam Haggerty",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball In Play",
+        "Haggerty tripled to center."
+      ]
     },
     {
       "play_sequence": 72,
       "game_id": "401695626",
       "inning": 9,
       "inning_half": "Top",
-      "batter": "Batter_42884",
-      "pitcher": "Pitcher_33770",
+      "batter": "Josh Smith",
+      "pitcher": "Luke Weaver",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Popout",
       "pitch_sequence": [
@@ -3301,7 +3918,14 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016956261606: Pitch 2 : Ball In Play"
+      "raw_text": "Smith popped out to second.",
+      "all_play_texts": [
+        "Weaver relieved Hamilton",
+        "Luke Weaver pitches to Josh Smith",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball In Play",
+        "Smith popped out to second."
+      ]
     }
   ]
 }

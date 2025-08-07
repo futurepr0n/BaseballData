@@ -2,7 +2,7 @@
   "metadata": {
     "game_id": "401694961",
     "api_url": "https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/summary?event=401694961",
-    "scraped_at": "2025-08-06T16:50:23.112075",
+    "scraped_at": "2025-08-07T03:07:41.385166",
     "away_team": "COL",
     "home_team": "PHI"
   },
@@ -12,8 +12,8 @@
       "game_id": "401694961",
       "inning": 1,
       "inning_half": "Top",
-      "batter": "Batter_42462",
-      "pitcher": "Pitcher_42359",
+      "batter": "Brenton Doyle",
+      "pitcher": "Cristopher Sanchez",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -82,15 +82,28 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016949610001: "
+      "raw_text": "Cristopher Sanchez pitches to Brenton Doyle",
+      "all_play_texts": [
+        "Top of the 1st inning",
+        "Cristopher Sanchez pitches to Brenton Doyle",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Strike 2 Swinging",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Ball 3",
+        "Pitch 6 : Strike 2 Foul",
+        "Pitch 7 : Strike 2 Foul",
+        "Pitch 8 : Ball 4",
+        "Doyle walked."
+      ]
     },
     {
       "play_sequence": 2,
       "game_id": "401694961",
       "inning": 1,
       "inning_half": "Top",
-      "batter": "Batter_4905919",
-      "pitcher": "Pitcher_42359",
+      "batter": "Ezequiel Tovar",
+      "pitcher": "Cristopher Sanchez",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Lineout",
       "pitch_sequence": [
@@ -111,15 +124,21 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016949610002: Pitch 2 : Ball In Play"
+      "raw_text": "Tovar lined out to right.",
+      "all_play_texts": [
+        "Cristopher Sanchez pitches to Ezequiel Tovar",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball In Play",
+        "Tovar lined out to right."
+      ]
     },
     {
       "play_sequence": 3,
       "game_id": "401694961",
       "inning": 1,
       "inning_half": "Top",
-      "batter": "Batter_33247",
-      "pitcher": "Pitcher_42359",
+      "batter": "Ryan McMahon",
+      "pitcher": "Cristopher Sanchez",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -132,15 +151,20 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016949610003: Pitch 1 : Ball In Play"
+      "raw_text": "McMahon grounded out to pitcher, Doyle to second.",
+      "all_play_texts": [
+        "Cristopher Sanchez pitches to Ryan McMahon",
+        "Pitch 1 : Ball In Play",
+        "McMahon grounded out to pitcher, Doyle to second."
+      ]
     },
     {
       "play_sequence": 4,
       "game_id": "401694961",
       "inning": 1,
       "inning_half": "Mid",
-      "batter": "Batter_4416591",
-      "pitcher": "Pitcher_42359",
+      "batter": "Hunter Goodman",
+      "pitcher": "Cristopher Sanchez",
       "play_description": "Pitch 6 : Ball In Play",
       "play_result": "Lineout",
       "pitch_sequence": [
@@ -193,15 +217,26 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016949610004: Pitch 6 : Ball In Play"
+      "raw_text": "Goodman lined out to first.",
+      "all_play_texts": [
+        "Cristopher Sanchez pitches to Hunter Goodman",
+        "Pitch 1 : Strike 1 Swinging",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Strike 2 Foul",
+        "Pitch 6 : Ball In Play",
+        "Goodman lined out to first.",
+        "Middle of the 1st inning"
+      ]
     },
     {
       "play_sequence": 5,
       "game_id": "401694961",
       "inning": 1,
       "inning_half": "Bottom",
-      "batter": "Batter_33712",
-      "pitcher": "Pitcher_34874",
+      "batter": "Kyle Schwarber",
+      "pitcher": "German Marquez",
       "play_description": "Pitch 4 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -238,15 +273,24 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016949610101: Pitch 4 : Ball In Play"
+      "raw_text": "Schwarber grounded out to second.",
+      "all_play_texts": [
+        "Bottom of the 1st inning",
+        "German Marquez pitches to Kyle Schwarber",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Strike 1 Foul",
+        "Pitch 4 : Ball In Play",
+        "Schwarber grounded out to second."
+      ]
     },
     {
       "play_sequence": 6,
       "game_id": "401694961",
       "inning": 1,
       "inning_half": "Bottom",
-      "batter": "Batter_41169",
-      "pitcher": "Pitcher_34874",
+      "batter": "Alec Bohm",
+      "pitcher": "German Marquez",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -275,15 +319,22 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016949610102: Pitch 3 : Ball In Play"
+      "raw_text": "Bohm grounded out to third.",
+      "all_play_texts": [
+        "German Marquez pitches to Alec Bohm",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Foul",
+        "Pitch 3 : Ball In Play",
+        "Bohm grounded out to third."
+      ]
     },
     {
       "play_sequence": 7,
       "game_id": "401694961",
       "inning": 1,
       "inning_half": "End",
-      "batter": "Batter_30951",
-      "pitcher": "Pitcher_34874",
+      "batter": "Bryce Harper",
+      "pitcher": "German Marquez",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -312,15 +363,23 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016949610103: Pitch 3 : Ball In Play"
+      "raw_text": "Harper flied out to left.",
+      "all_play_texts": [
+        "German Marquez pitches to Bryce Harper",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Foul",
+        "Pitch 3 : Ball In Play",
+        "Harper flied out to left.",
+        "End of the 1st inning"
+      ]
     },
     {
       "play_sequence": 8,
       "game_id": "401694961",
       "inning": 2,
       "inning_half": "Top",
-      "batter": "Batter_33172",
-      "pitcher": "Pitcher_42359",
+      "batter": "Kris Bryant",
+      "pitcher": "Cristopher Sanchez",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -357,15 +416,24 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016949610201: "
+      "raw_text": "Bryant struck out looking.",
+      "all_play_texts": [
+        "Top of the 2nd inning",
+        "Cristopher Sanchez pitches to Kris Bryant",
+        "Pitch 1 : Strike 1 Swinging",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Strike 2 Looking",
+        "Pitch 4 : Strike 3 Looking",
+        "Bryant struck out looking."
+      ]
     },
     {
       "play_sequence": 9,
       "game_id": "401694961",
       "inning": 2,
       "inning_half": "Top",
-      "batter": "Batter_42412",
-      "pitcher": "Pitcher_42359",
+      "batter": "Michael Toglia",
+      "pitcher": "Cristopher Sanchez",
       "play_description": "Pitch 4 : Ball In Play",
       "play_result": "Lineout",
       "pitch_sequence": [
@@ -402,15 +470,23 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016949610202: Pitch 4 : Ball In Play"
+      "raw_text": "Toglia lined out to left.",
+      "all_play_texts": [
+        "Cristopher Sanchez pitches to Michael Toglia",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Strike 1 Foul",
+        "Pitch 4 : Ball In Play",
+        "Toglia lined out to left."
+      ]
     },
     {
       "play_sequence": 10,
       "game_id": "401694961",
       "inning": 2,
       "inning_half": "Mid",
-      "batter": "Batter_33287",
-      "pitcher": "Pitcher_42359",
+      "batter": "Kyle Farmer",
+      "pitcher": "Cristopher Sanchez",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -423,15 +499,21 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016949610203: Pitch 1 : Ball In Play"
+      "raw_text": "Farmer grounded out to shortstop.",
+      "all_play_texts": [
+        "Cristopher Sanchez pitches to Kyle Farmer",
+        "Pitch 1 : Ball In Play",
+        "Farmer grounded out to shortstop.",
+        "Middle of the 2nd inning"
+      ]
     },
     {
       "play_sequence": 11,
       "game_id": "401694961",
       "inning": 2,
       "inning_half": "Bottom",
-      "batter": "Batter_32177",
-      "pitcher": "Pitcher_34874",
+      "batter": "J.T. Realmuto",
+      "pitcher": "German Marquez",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -468,15 +550,24 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016949610301: "
+      "raw_text": "Realmuto struck out swinging.",
+      "all_play_texts": [
+        "Bottom of the 2nd inning",
+        "German Marquez pitches to J.T. Realmuto",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Swinging",
+        "Pitch 3 : Strike 2 Swinging",
+        "Pitch 4 : Strike 3 Swinging",
+        "Realmuto struck out swinging."
+      ]
     },
     {
       "play_sequence": 12,
       "game_id": "401694961",
       "inning": 2,
       "inning_half": "Bottom",
-      "batter": "Batter_31870",
-      "pitcher": "Pitcher_34874",
+      "batter": "Max Kepler",
+      "pitcher": "German Marquez",
       "play_description": "Pitch 4 : Ball In Play",
       "play_result": "Double",
       "pitch_sequence": [
@@ -513,15 +604,23 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016949610302: Pitch 4 : Ball In Play"
+      "raw_text": "German Marquez pitches to Max Kepler",
+      "all_play_texts": [
+        "German Marquez pitches to Max Kepler",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Strike 2 Swinging",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Ball In Play",
+        "Kepler doubled to right."
+      ]
     },
     {
       "play_sequence": 13,
       "game_id": "401694961",
       "inning": 2,
       "inning_half": "Bottom",
-      "batter": "Batter_31187",
-      "pitcher": "Pitcher_34874",
+      "batter": "Nick Castellanos",
+      "pitcher": "German Marquez",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Lineout",
       "pitch_sequence": [
@@ -534,15 +633,20 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016949610303: Pitch 1 : Ball In Play"
+      "raw_text": "Castellanos lined out to shortstop.",
+      "all_play_texts": [
+        "German Marquez pitches to Nick Castellanos",
+        "Pitch 1 : Ball In Play",
+        "Castellanos lined out to shortstop."
+      ]
     },
     {
       "play_sequence": 14,
       "game_id": "401694961",
       "inning": 2,
       "inning_half": "End",
-      "batter": "Batter_42417",
-      "pitcher": "Pitcher_34874",
+      "batter": "Bryson Stott",
+      "pitcher": "German Marquez",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -563,15 +667,22 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016949610304: "
+      "raw_text": "Stott fouled out to third.",
+      "all_play_texts": [
+        "German Marquez pitches to Bryson Stott",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball In Play",
+        "Stott fouled out to third.",
+        "End of the 2nd inning"
+      ]
     },
     {
       "play_sequence": 15,
       "game_id": "401694961",
       "inning": 3,
       "inning_half": "Top",
-      "batter": "Batter_41989",
-      "pitcher": "Pitcher_42359",
+      "batter": "Sean Bouchard",
+      "pitcher": "Cristopher Sanchez",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -616,15 +727,25 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016949610401: "
+      "raw_text": "Bouchard struck out looking.",
+      "all_play_texts": [
+        "Top of the 3rd inning",
+        "Cristopher Sanchez pitches to Sean Bouchard",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Swinging",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Strike 2 Swinging",
+        "Pitch 5 : Strike 3 Looking",
+        "Bouchard struck out looking."
+      ]
     },
     {
       "play_sequence": 16,
       "game_id": "401694961",
       "inning": 3,
       "inning_half": "Top",
-      "batter": "Batter_4619460",
-      "pitcher": "Pitcher_42359",
+      "batter": "Jordan Beck",
+      "pitcher": "Cristopher Sanchez",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -701,15 +822,28 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016949610402: "
+      "raw_text": "Cristopher Sanchez pitches to Jordan Beck",
+      "all_play_texts": [
+        "Cristopher Sanchez pitches to Jordan Beck",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Strike 2 Swinging",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Ball 2",
+        "Pitch 6 : Ball 3",
+        "Pitch 7 : Strike 2 Foul",
+        "Pitch 8 : Strike 2 Foul",
+        "Pitch 9 : Ball 4",
+        "Beck walked."
+      ]
     },
     {
       "play_sequence": 17,
       "game_id": "401694961",
       "inning": 3,
       "inning_half": "Top",
-      "batter": "Batter_42462",
-      "pitcher": "Pitcher_42359",
+      "batter": "Brenton Doyle",
+      "pitcher": "Cristopher Sanchez",
       "play_description": "Pitch 4 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -746,15 +880,23 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016949610403: Pitch 4 : Ball In Play"
+      "raw_text": "Cristopher Sanchez pitches to Brenton Doyle",
+      "all_play_texts": [
+        "Cristopher Sanchez pitches to Brenton Doyle",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Foul",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Ball In Play",
+        "Doyle reached on infield single to second, Beck to second."
+      ]
     },
     {
       "play_sequence": 18,
       "game_id": "401694961",
       "inning": 3,
       "inning_half": "Top",
-      "batter": "Batter_4905919",
-      "pitcher": "Pitcher_42359",
+      "batter": "Ezequiel Tovar",
+      "pitcher": "Cristopher Sanchez",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -783,15 +925,22 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016949610404: Pitch 3 : Ball In Play"
+      "raw_text": "Tovar grounded out to pitcher, Doyle to second, Beck to third.",
+      "all_play_texts": [
+        "Cristopher Sanchez pitches to Ezequiel Tovar",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Foul",
+        "Pitch 3 : Ball In Play",
+        "Tovar grounded out to pitcher, Doyle to second, Beck to third."
+      ]
     },
     {
       "play_sequence": 19,
       "game_id": "401694961",
       "inning": 3,
       "inning_half": "Mid",
-      "batter": "Batter_33247",
-      "pitcher": "Pitcher_42359",
+      "batter": "Ryan McMahon",
+      "pitcher": "Cristopher Sanchez",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -820,15 +969,23 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016949610405: "
+      "raw_text": "McMahon struck out swinging.",
+      "all_play_texts": [
+        "Cristopher Sanchez pitches to Ryan McMahon",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Strike 2 Swinging",
+        "Pitch 3 : Strike 3 Swinging",
+        "McMahon struck out swinging.",
+        "Middle of the 3rd inning"
+      ]
     },
     {
       "play_sequence": 20,
       "game_id": "401694961",
       "inning": 3,
       "inning_half": "Bottom",
-      "batter": "Batter_40803",
-      "pitcher": "Pitcher_34874",
+      "batter": "Brandon Marsh",
+      "pitcher": "German Marquez",
       "play_description": "Pitch 8 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -897,15 +1054,28 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016949610501: Pitch 8 : Ball In Play"
+      "raw_text": "Marsh grounded out to first.",
+      "all_play_texts": [
+        "Bottom of the 3rd inning",
+        "German Marquez pitches to Brandon Marsh",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Strike 2 Foul",
+        "Pitch 6 : Strike 2 Foul",
+        "Pitch 7 : Ball 3",
+        "Pitch 8 : Ball In Play",
+        "Marsh grounded out to first."
+      ]
     },
     {
       "play_sequence": 21,
       "game_id": "401694961",
       "inning": 3,
       "inning_half": "Bottom",
-      "batter": "Batter_33809",
-      "pitcher": "Pitcher_34874",
+      "batter": "Edmundo Sosa",
+      "pitcher": "German Marquez",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -926,15 +1096,21 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016949610502: Pitch 2 : Ball In Play"
+      "raw_text": "Sosa grounded out to second.",
+      "all_play_texts": [
+        "German Marquez pitches to Edmundo Sosa",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball In Play",
+        "Sosa grounded out to second."
+      ]
     },
     {
       "play_sequence": 22,
       "game_id": "401694961",
       "inning": 3,
       "inning_half": "End",
-      "batter": "Batter_33712",
-      "pitcher": "Pitcher_34874",
+      "batter": "Kyle Schwarber",
+      "pitcher": "German Marquez",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -963,15 +1139,23 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016949610503: Pitch 3 : Ball In Play"
+      "raw_text": "Schwarber flied out to center.",
+      "all_play_texts": [
+        "German Marquez pitches to Kyle Schwarber",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Ball In Play",
+        "Schwarber flied out to center.",
+        "End of the 3rd inning"
+      ]
     },
     {
       "play_sequence": 23,
       "game_id": "401694961",
       "inning": 4,
       "inning_half": "Top",
-      "batter": "Batter_4416591",
-      "pitcher": "Pitcher_42359",
+      "batter": "Hunter Goodman",
+      "pitcher": "Cristopher Sanchez",
       "play_description": "Pitch 5 : Ball In Play",
       "play_result": "Lineout",
       "pitch_sequence": [
@@ -1016,15 +1200,25 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016949610601: Pitch 5 : Ball In Play"
+      "raw_text": "Goodman lined out to first.",
+      "all_play_texts": [
+        "Top of the 4th inning",
+        "Cristopher Sanchez pitches to Hunter Goodman",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Foul",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Ball In Play",
+        "Goodman lined out to first."
+      ]
     },
     {
       "play_sequence": 24,
       "game_id": "401694961",
       "inning": 4,
       "inning_half": "Top",
-      "batter": "Batter_33172",
-      "pitcher": "Pitcher_42359",
+      "batter": "Kris Bryant",
+      "pitcher": "Cristopher Sanchez",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1061,15 +1255,23 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016949610602: "
+      "raw_text": "Bryant struck out swinging.",
+      "all_play_texts": [
+        "Cristopher Sanchez pitches to Kris Bryant",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Foul",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Strike 3 Swinging",
+        "Bryant struck out swinging."
+      ]
     },
     {
       "play_sequence": 25,
       "game_id": "401694961",
       "inning": 4,
       "inning_half": "Mid",
-      "batter": "Batter_42412",
-      "pitcher": "Pitcher_42359",
+      "batter": "Michael Toglia",
+      "pitcher": "Cristopher Sanchez",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1122,15 +1324,26 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016949610603: "
+      "raw_text": "Toglia struck out looking.",
+      "all_play_texts": [
+        "Cristopher Sanchez pitches to Michael Toglia",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Strike 2 Swinging",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Ball 2",
+        "Pitch 6 : Strike 3 Looking",
+        "Toglia struck out looking.",
+        "Middle of the 4th inning"
+      ]
     },
     {
       "play_sequence": 26,
       "game_id": "401694961",
       "inning": 4,
       "inning_half": "Bottom",
-      "batter": "Batter_41169",
-      "pitcher": "Pitcher_34874",
+      "batter": "Alec Bohm",
+      "pitcher": "German Marquez",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -1143,15 +1356,21 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016949610701: Pitch 1 : Ball In Play"
+      "raw_text": "German Marquez pitches to Alec Bohm",
+      "all_play_texts": [
+        "Bottom of the 4th inning",
+        "German Marquez pitches to Alec Bohm",
+        "Pitch 1 : Ball In Play",
+        "Bohm singled to left."
+      ]
     },
     {
       "play_sequence": 27,
       "game_id": "401694961",
       "inning": 4,
       "inning_half": "Bottom",
-      "batter": "Batter_30951",
-      "pitcher": "Pitcher_34874",
+      "batter": "Bryce Harper",
+      "pitcher": "German Marquez",
       "play_description": "Pitch 5 : Ball In Play",
       "play_result": "Popout",
       "pitch_sequence": [
@@ -1196,15 +1415,24 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016949610702: Pitch 5 : Ball In Play"
+      "raw_text": "Harper popped out to third.",
+      "all_play_texts": [
+        "German Marquez pitches to Bryce Harper",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Strike 2 Swinging",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Ball In Play",
+        "Harper popped out to third."
+      ]
     },
     {
       "play_sequence": 28,
       "game_id": "401694961",
       "inning": 4,
       "inning_half": "Bottom",
-      "batter": "Batter_32177",
-      "pitcher": "Pitcher_34874",
+      "batter": "J.T. Realmuto",
+      "pitcher": "German Marquez",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Lineout",
       "pitch_sequence": [
@@ -1217,15 +1445,20 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016949610703: Pitch 1 : Ball In Play"
+      "raw_text": "Realmuto lined out to left.",
+      "all_play_texts": [
+        "German Marquez pitches to J.T. Realmuto",
+        "Pitch 1 : Ball In Play",
+        "Realmuto lined out to left."
+      ]
     },
     {
       "play_sequence": 29,
       "game_id": "401694961",
       "inning": 4,
       "inning_half": "End",
-      "batter": "Batter_31870",
-      "pitcher": "Pitcher_34874",
+      "batter": "Max Kepler",
+      "pitcher": "German Marquez",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -1246,15 +1479,22 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016949610704: Pitch 2 : Ball In Play"
+      "raw_text": "Kepler flied out to center.",
+      "all_play_texts": [
+        "German Marquez pitches to Max Kepler",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball In Play",
+        "Kepler flied out to center.",
+        "End of the 4th inning"
+      ]
     },
     {
       "play_sequence": 30,
       "game_id": "401694961",
       "inning": 5,
       "inning_half": "Top",
-      "batter": "Batter_33287",
-      "pitcher": "Pitcher_42359",
+      "batter": "Kyle Farmer",
+      "pitcher": "Cristopher Sanchez",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1299,15 +1539,25 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016949610801: "
+      "raw_text": "Farmer struck out swinging.",
+      "all_play_texts": [
+        "Top of the 5th inning",
+        "Cristopher Sanchez pitches to Kyle Farmer",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Looking",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Strike 2 Looking",
+        "Pitch 5 : Strike 3 Swinging",
+        "Farmer struck out swinging."
+      ]
     },
     {
       "play_sequence": 31,
       "game_id": "401694961",
       "inning": 5,
       "inning_half": "Top",
-      "batter": "Batter_41989",
-      "pitcher": "Pitcher_42359",
+      "batter": "Sean Bouchard",
+      "pitcher": "Cristopher Sanchez",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1344,15 +1594,23 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016949610802: "
+      "raw_text": "Bouchard struck out swinging.",
+      "all_play_texts": [
+        "Cristopher Sanchez pitches to Sean Bouchard",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Strike 2 Looking",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Strike 3 Swinging",
+        "Bouchard struck out swinging."
+      ]
     },
     {
       "play_sequence": 32,
       "game_id": "401694961",
       "inning": 5,
       "inning_half": "Top",
-      "batter": "Batter_4619460",
-      "pitcher": "Pitcher_42359",
+      "batter": "Jordan Beck",
+      "pitcher": "Cristopher Sanchez",
       "play_description": "Pitch 4 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -1389,15 +1647,23 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016949610803: Pitch 4 : Ball In Play"
+      "raw_text": "Cristopher Sanchez pitches to Jordan Beck",
+      "all_play_texts": [
+        "Cristopher Sanchez pitches to Jordan Beck",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Swinging",
+        "Pitch 3 : Strike 2 Swinging",
+        "Pitch 4 : Ball In Play",
+        "Beck reached on infield single to first."
+      ]
     },
     {
       "play_sequence": 33,
       "game_id": "401694961",
       "inning": 5,
       "inning_half": "Top",
-      "batter": "Batter_42462",
-      "pitcher": "Pitcher_42359",
+      "batter": "Brenton Doyle",
+      "pitcher": "Cristopher Sanchez",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -1426,15 +1692,22 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016949610804: Pitch 3 : Ball In Play"
+      "raw_text": "Cristopher Sanchez pitches to Brenton Doyle",
+      "all_play_texts": [
+        "Cristopher Sanchez pitches to Brenton Doyle",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball In Play",
+        "Doyle singled to right, Beck to second."
+      ]
     },
     {
       "play_sequence": 34,
       "game_id": "401694961",
       "inning": 5,
       "inning_half": "Mid",
-      "batter": "Batter_4905919",
-      "pitcher": "Pitcher_42359",
+      "batter": "Ezequiel Tovar",
+      "pitcher": "Cristopher Sanchez",
       "play_description": "Pitch 4 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -1471,15 +1744,24 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016949610805: Pitch 4 : Ball In Play"
+      "raw_text": "Tovar flied out to left.",
+      "all_play_texts": [
+        "Cristopher Sanchez pitches to Ezequiel Tovar",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Strike 1 Swinging",
+        "Pitch 4 : Ball In Play",
+        "Tovar flied out to left.",
+        "Middle of the 5th inning"
+      ]
     },
     {
       "play_sequence": 35,
       "game_id": "401694961",
       "inning": 5,
       "inning_half": "Bottom",
-      "batter": "Batter_31187",
-      "pitcher": "Pitcher_34874",
+      "batter": "Nick Castellanos",
+      "pitcher": "German Marquez",
       "play_description": "Pitch 7 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -1540,15 +1822,27 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016949610901: Pitch 7 : Ball In Play"
+      "raw_text": "German Marquez pitches to Nick Castellanos",
+      "all_play_texts": [
+        "Bottom of the 5th inning",
+        "German Marquez pitches to Nick Castellanos",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Foul",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Strike 2 Foul",
+        "Pitch 6 : Ball 2",
+        "Pitch 7 : Ball In Play",
+        "Castellanos reached on infield single to shortstop."
+      ]
     },
     {
       "play_sequence": 36,
       "game_id": "401694961",
       "inning": 5,
       "inning_half": "Bottom",
-      "batter": "Batter_42417",
-      "pitcher": "Pitcher_34874",
+      "batter": "Bryson Stott",
+      "pitcher": "German Marquez",
       "play_description": "Pitch 5 : Ball In Play",
       "play_result": "Popout",
       "pitch_sequence": [
@@ -1593,15 +1887,24 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016949610902: Pitch 5 : Ball In Play"
+      "raw_text": "Stott popped out to third.",
+      "all_play_texts": [
+        "German Marquez pitches to Bryson Stott",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Ball 3",
+        "Pitch 5 : Ball In Play",
+        "Stott popped out to third."
+      ]
     },
     {
       "play_sequence": 37,
       "game_id": "401694961",
       "inning": 5,
       "inning_half": "Bottom",
-      "batter": "Batter_40803",
-      "pitcher": "Pitcher_34874",
+      "batter": "Brandon Marsh",
+      "pitcher": "German Marquez",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -1622,15 +1925,21 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016949610903: Pitch 2 : Ball In Play"
+      "raw_text": "Marsh flied out to left.",
+      "all_play_texts": [
+        "German Marquez pitches to Brandon Marsh",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball In Play",
+        "Marsh flied out to left."
+      ]
     },
     {
       "play_sequence": 38,
       "game_id": "401694961",
       "inning": 5,
       "inning_half": "Bottom",
-      "batter": "Batter_33809",
-      "pitcher": "Pitcher_34874",
+      "batter": "Edmundo Sosa",
+      "pitcher": "German Marquez",
       "play_description": "Pitch 6 : Ball In Play",
       "play_result": "Double",
       "pitch_sequence": [
@@ -1683,15 +1992,25 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016949610904: Pitch 6 : Ball In Play"
+      "raw_text": "German Marquez pitches to Edmundo Sosa",
+      "all_play_texts": [
+        "German Marquez pitches to Edmundo Sosa",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Strike 1 Swinging",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Ball 3",
+        "Pitch 6 : Ball In Play",
+        "Sosa doubled to left, Castellanos to third."
+      ]
     },
     {
       "play_sequence": 39,
       "game_id": "401694961",
       "inning": 5,
       "inning_half": "End",
-      "batter": "Batter_33712",
-      "pitcher": "Pitcher_34874",
+      "batter": "Kyle Schwarber",
+      "pitcher": "German Marquez",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1736,15 +2055,25 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016949610905: "
+      "raw_text": "Schwarber struck out swinging.",
+      "all_play_texts": [
+        "German Marquez pitches to Kyle Schwarber",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Strike 2 Looking",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Strike 3 Swinging",
+        "Schwarber struck out swinging.",
+        "End of the 5th inning"
+      ]
     },
     {
       "play_sequence": 40,
       "game_id": "401694961",
       "inning": 6,
       "inning_half": "Top",
-      "batter": "Batter_33247",
-      "pitcher": "Pitcher_42359",
+      "batter": "Ryan McMahon",
+      "pitcher": "Cristopher Sanchez",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -1765,15 +2094,22 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016949611001: Pitch 2 : Ball In Play"
+      "raw_text": "McMahon grounded out to second.",
+      "all_play_texts": [
+        "Top of the 6th inning",
+        "Cristopher Sanchez pitches to Ryan McMahon",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball In Play",
+        "McMahon grounded out to second."
+      ]
     },
     {
       "play_sequence": 41,
       "game_id": "401694961",
       "inning": 6,
       "inning_half": "Top",
-      "batter": "Batter_4416591",
-      "pitcher": "Pitcher_42359",
+      "batter": "Hunter Goodman",
+      "pitcher": "Cristopher Sanchez",
       "play_description": "Pitch 6 : Ball In Play",
       "play_result": "Home Run",
       "pitch_sequence": [
@@ -1826,15 +2162,25 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016949611002: Pitch 6 : Ball In Play"
+      "raw_text": "Cristopher Sanchez pitches to Hunter Goodman",
+      "all_play_texts": [
+        "Cristopher Sanchez pitches to Hunter Goodman",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Strike 1 Foul",
+        "Pitch 4 : Ball 3",
+        "Pitch 5 : Strike 2 Foul",
+        "Pitch 6 : Ball In Play",
+        "Goodman homered to center (405 feet)."
+      ]
     },
     {
       "play_sequence": 42,
       "game_id": "401694961",
       "inning": 6,
       "inning_half": "Top",
-      "batter": "Batter_33172",
-      "pitcher": "Pitcher_4630789",
+      "batter": "Kris Bryant",
+      "pitcher": "Orion Kerkering",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1879,15 +2225,25 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016949611003: "
+      "raw_text": "Orion Kerkering pitches to Kris Bryant",
+      "all_play_texts": [
+        "Kerkering relieved S\u00e1nchez",
+        "Orion Kerkering pitches to Kris Bryant",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Looking",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Ball 3",
+        "Pitch 5 : Ball 4",
+        "Bryant walked."
+      ]
     },
     {
       "play_sequence": 43,
       "game_id": "401694961",
       "inning": 6,
       "inning_half": "Top",
-      "batter": "Batter_42412",
-      "pitcher": "Pitcher_4630789",
+      "batter": "Michael Toglia",
+      "pitcher": "Orion Kerkering",
       "play_description": "Pitch 5 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -1932,15 +2288,24 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016949611004: Pitch 5 : Ball In Play"
+      "raw_text": "Toglia flied out to left.",
+      "all_play_texts": [
+        "Orion Kerkering pitches to Michael Toglia",
+        "Pitch 1 : Strike 1 Swinging",
+        "Pitch 2 : Strike 2 Looking",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Ball In Play",
+        "Toglia flied out to left."
+      ]
     },
     {
       "play_sequence": 44,
       "game_id": "401694961",
       "inning": 6,
       "inning_half": "Mid",
-      "batter": "Batter_33287",
-      "pitcher": "Pitcher_4630789",
+      "batter": "Kyle Farmer",
+      "pitcher": "Orion Kerkering",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -1969,15 +2334,23 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016949611005: Pitch 3 : Ball In Play"
+      "raw_text": "Farmer grounded out to third.",
+      "all_play_texts": [
+        "Orion Kerkering pitches to Kyle Farmer",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Looking",
+        "Pitch 3 : Ball In Play",
+        "Farmer grounded out to third.",
+        "Middle of the 6th inning"
+      ]
     },
     {
       "play_sequence": 45,
       "game_id": "401694961",
       "inning": 6,
       "inning_half": "Bottom",
-      "batter": "Batter_41169",
-      "pitcher": "Pitcher_34874",
+      "batter": "Alec Bohm",
+      "pitcher": "German Marquez",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2014,15 +2387,24 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016949611101: "
+      "raw_text": "Bohm struck out swinging.",
+      "all_play_texts": [
+        "Bottom of the 6th inning",
+        "German Marquez pitches to Alec Bohm",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Foul",
+        "Pitch 3 : Strike 2 Looking",
+        "Pitch 4 : Strike 3 Swinging",
+        "Bohm struck out swinging."
+      ]
     },
     {
       "play_sequence": 46,
       "game_id": "401694961",
       "inning": 6,
       "inning_half": "Bottom",
-      "batter": "Batter_30951",
-      "pitcher": "Pitcher_34874",
+      "batter": "Bryce Harper",
+      "pitcher": "German Marquez",
       "play_description": "Pitch 5 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -2067,15 +2449,24 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016949611102: Pitch 5 : Ball In Play"
+      "raw_text": "Harper grounded out to second.",
+      "all_play_texts": [
+        "German Marquez pitches to Bryce Harper",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Strike 2 Swinging",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Ball In Play",
+        "Harper grounded out to second."
+      ]
     },
     {
       "play_sequence": 47,
       "game_id": "401694961",
       "inning": 6,
       "inning_half": "End",
-      "batter": "Batter_32177",
-      "pitcher": "Pitcher_34874",
+      "batter": "J.T. Realmuto",
+      "pitcher": "German Marquez",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2128,15 +2519,26 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016949611103: "
+      "raw_text": "Realmuto struck out swinging.",
+      "all_play_texts": [
+        "German Marquez pitches to J.T. Realmuto",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Looking",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Strike 2 Foul",
+        "Pitch 6 : Strike 3 Swinging",
+        "Realmuto struck out swinging.",
+        "End of the 6th inning"
+      ]
     },
     {
       "play_sequence": 48,
       "game_id": "401694961",
       "inning": 7,
       "inning_half": "Top",
-      "batter": "Batter_36497",
-      "pitcher": "Pitcher_32684",
+      "batter": "Nick Martini",
+      "pitcher": "Joe Ross",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2149,15 +2551,23 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016949611201: "
+      "raw_text": "Martini fouled out to catcher.",
+      "all_play_texts": [
+        "Top of the 7th inning",
+        "Martini hit for Bouchard",
+        "Ross relieved Kerkering",
+        "Joe Ross pitches to Nick Martini",
+        "Pitch 1 : Ball In Play",
+        "Martini fouled out to catcher."
+      ]
     },
     {
       "play_sequence": 49,
       "game_id": "401694961",
       "inning": 7,
       "inning_half": "Top",
-      "batter": "Batter_4619460",
-      "pitcher": "Pitcher_32684",
+      "batter": "Jordan Beck",
+      "pitcher": "Joe Ross",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2194,15 +2604,23 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016949611202: "
+      "raw_text": "Beck struck out looking.",
+      "all_play_texts": [
+        "Joe Ross pitches to Jordan Beck",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Swinging",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Strike 3 Looking",
+        "Beck struck out looking."
+      ]
     },
     {
       "play_sequence": 50,
       "game_id": "401694961",
       "inning": 7,
       "inning_half": "Top",
-      "batter": "Batter_42462",
-      "pitcher": "Pitcher_32684",
+      "batter": "Brenton Doyle",
+      "pitcher": "Joe Ross",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -2231,15 +2649,22 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016949611203: Pitch 3 : Ball In Play"
+      "raw_text": "Joe Ross pitches to Brenton Doyle",
+      "all_play_texts": [
+        "Joe Ross pitches to Brenton Doyle",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Looking",
+        "Pitch 3 : Ball In Play",
+        "Doyle reached on infield single to third."
+      ]
     },
     {
       "play_sequence": 51,
       "game_id": "401694961",
       "inning": 7,
       "inning_half": "Mid",
-      "batter": "Batter_4905919",
-      "pitcher": "Pitcher_32684",
+      "batter": "Ezequiel Tovar",
+      "pitcher": "Joe Ross",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2292,15 +2717,26 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016949611204: "
+      "raw_text": "Tovar grounded into fielder's choice to second, Doyle out at second.",
+      "all_play_texts": [
+        "Joe Ross pitches to Ezequiel Tovar",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Strike 2 Foul",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Strike 2 Foul",
+        "Pitch 6 : Ball In Play",
+        "Tovar grounded into fielder's choice to second, Doyle out at second.",
+        "Middle of the 7th inning"
+      ]
     },
     {
       "play_sequence": 52,
       "game_id": "401694961",
       "inning": 7,
       "inning_half": "Bottom",
-      "batter": "Batter_31870",
-      "pitcher": "Pitcher_33123",
+      "batter": "Max Kepler",
+      "pitcher": "Scott Alexander",
       "play_description": "Pitch 5 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -2345,15 +2781,27 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016949611301: Pitch 5 : Ball In Play"
+      "raw_text": "Scott Alexander pitches to Max Kepler",
+      "all_play_texts": [
+        "Bottom of the 7th inning",
+        "Martini in right field.",
+        "Alexander relieved M\u00e1rquez",
+        "Scott Alexander pitches to Max Kepler",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Ball In Play",
+        "Kepler singled to center."
+      ]
     },
     {
       "play_sequence": 53,
       "game_id": "401694961",
       "inning": 7,
       "inning_half": "Bottom",
-      "batter": "Batter_31187",
-      "pitcher": "Pitcher_33123",
+      "batter": "Nick Castellanos",
+      "pitcher": "Scott Alexander",
       "play_description": "Pitch 6 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -2406,15 +2854,25 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016949611302: Pitch 6 : Ball In Play"
+      "raw_text": "Castellanos grounded into double play, third to second to first, Kepler out at second.",
+      "all_play_texts": [
+        "Scott Alexander pitches to Nick Castellanos",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Strike 2 Foul",
+        "Pitch 6 : Ball In Play",
+        "Castellanos grounded into double play, third to second to first, Kepler out at second."
+      ]
     },
     {
       "play_sequence": 54,
       "game_id": "401694961",
       "inning": 7,
       "inning_half": "Bottom",
-      "batter": "Batter_42417",
-      "pitcher": "Pitcher_33123",
+      "batter": "Bryson Stott",
+      "pitcher": "Scott Alexander",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Double",
       "pitch_sequence": [
@@ -2443,15 +2901,22 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016949611303: Pitch 3 : Ball In Play"
+      "raw_text": "Scott Alexander pitches to Bryson Stott",
+      "all_play_texts": [
+        "Scott Alexander pitches to Bryson Stott",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball In Play",
+        "Stott doubled to right."
+      ]
     },
     {
       "play_sequence": 55,
       "game_id": "401694961",
       "inning": 7,
       "inning_half": "Bottom",
-      "batter": "Batter_33710",
-      "pitcher": "Pitcher_33123",
+      "batter": "Trea Turner",
+      "pitcher": "Scott Alexander",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2504,15 +2969,26 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016949611304: "
+      "raw_text": "Scott Alexander pitches to Trea Turner",
+      "all_play_texts": [
+        "Turner hit for Marsh",
+        "Scott Alexander pitches to Trea Turner",
+        "Pitch 1 : Strike 1 Swinging",
+        "Pitch 2 : Strike 2 Foul",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Ball 3",
+        "Pitch 6 : Ball 4",
+        "Turner walked."
+      ]
     },
     {
       "play_sequence": 56,
       "game_id": "401694961",
       "inning": 7,
       "inning_half": "Bottom",
-      "batter": "Batter_33809",
-      "pitcher": "Pitcher_4722599",
+      "batter": "Edmundo Sosa",
+      "pitcher": "Victor Vodnik",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Double",
       "pitch_sequence": [
@@ -2533,15 +3009,22 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016949611305: Pitch 2 : Ball In Play"
+      "raw_text": "Victor Vodnik pitches to Edmundo Sosa",
+      "all_play_texts": [
+        "Vodnik relieved Alexander",
+        "Victor Vodnik pitches to Edmundo Sosa",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball In Play",
+        "Sosa doubled to center, Turner scored and Stott scored."
+      ]
     },
     {
       "play_sequence": 57,
       "game_id": "401694961",
       "inning": 7,
       "inning_half": "Bottom",
-      "batter": "Batter_33712",
-      "pitcher": "Pitcher_4722599",
+      "batter": "Kyle Schwarber",
+      "pitcher": "Victor Vodnik",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Home Run",
       "pitch_sequence": [
@@ -2570,15 +3053,22 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016949611306: Pitch 3 : Ball In Play"
+      "raw_text": "Victor Vodnik pitches to Kyle Schwarber",
+      "all_play_texts": [
+        "Victor Vodnik pitches to Kyle Schwarber",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball In Play",
+        "Schwarber homered to center (434 feet), Sosa scored."
+      ]
     },
     {
       "play_sequence": 58,
       "game_id": "401694961",
       "inning": 7,
       "inning_half": "End",
-      "batter": "Batter_41169",
-      "pitcher": "Pitcher_4722599",
+      "batter": "Alec Bohm",
+      "pitcher": "Victor Vodnik",
       "play_description": "Pitch 6 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -2631,15 +3121,26 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016949611307: Pitch 6 : Ball In Play"
+      "raw_text": "Bohm grounded out to second.",
+      "all_play_texts": [
+        "Victor Vodnik pitches to Alec Bohm",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Looking",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Ball 3",
+        "Pitch 5 : Strike 2 Foul",
+        "Pitch 6 : Ball In Play",
+        "Bohm grounded out to second.",
+        "End of the 7th inning"
+      ]
     },
     {
       "play_sequence": 59,
       "game_id": "401694961",
       "inning": 8,
       "inning_half": "Top",
-      "batter": "Batter_33247",
-      "pitcher": "Pitcher_36063",
+      "batter": "Ryan McMahon",
+      "pitcher": "Jose Alvarado",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2684,15 +3185,27 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016949611401: "
+      "raw_text": "McMahon struck out swinging.",
+      "all_play_texts": [
+        "Top of the 8th inning",
+        "Rojas in center field.",
+        "Alvarado relieved Ross",
+        "Jose Alvarado pitches to Ryan McMahon",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Foul",
+        "Pitch 3 : Strike 2 Looking",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Strike 3 Swinging",
+        "McMahon struck out swinging."
+      ]
     },
     {
       "play_sequence": 60,
       "game_id": "401694961",
       "inning": 8,
       "inning_half": "Top",
-      "batter": "Batter_4416591",
-      "pitcher": "Pitcher_36063",
+      "batter": "Hunter Goodman",
+      "pitcher": "Jose Alvarado",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2737,15 +3250,24 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016949611402: "
+      "raw_text": "Goodman struck out swinging.",
+      "all_play_texts": [
+        "Jose Alvarado pitches to Hunter Goodman",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Strike 3 Swinging",
+        "Goodman struck out swinging."
+      ]
     },
     {
       "play_sequence": 61,
       "game_id": "401694961",
       "inning": 8,
       "inning_half": "Top",
-      "batter": "Batter_33172",
-      "pitcher": "Pitcher_36063",
+      "batter": "Kris Bryant",
+      "pitcher": "Jose Alvarado",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2814,15 +3336,27 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016949611403: "
+      "raw_text": "Jose Alvarado pitches to Kris Bryant",
+      "all_play_texts": [
+        "Jose Alvarado pitches to Kris Bryant",
+        "Pitch 1 : Strike 1 Swinging",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Ball 3",
+        "Pitch 5 : Strike 2 Swinging",
+        "Pitch 6 : Strike 2 Foul",
+        "Pitch 7 : Strike 2 Foul",
+        "Pitch 8 : Ball 4",
+        "Bryant walked."
+      ]
     },
     {
       "play_sequence": 62,
       "game_id": "401694961",
       "inning": 8,
       "inning_half": "Mid",
-      "batter": "Batter_42412",
-      "pitcher": "Pitcher_36063",
+      "batter": "Michael Toglia",
+      "pitcher": "Jose Alvarado",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2867,15 +3401,26 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016949611404: "
+      "raw_text": "Toglia struck out swinging.",
+      "all_play_texts": [
+        "Freeman ran for Bryant",
+        "Jose Alvarado pitches to Michael Toglia",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Strike 1 Foul",
+        "Pitch 4 : Strike 2 Looking",
+        "Pitch 5 : Strike 3 Swinging",
+        "Toglia struck out swinging.",
+        "Middle of the 8th inning"
+      ]
     },
     {
       "play_sequence": 63,
       "game_id": "401694961",
       "inning": 8,
       "inning_half": "Bottom",
-      "batter": "Batter_30951",
-      "pitcher": "Pitcher_4720860",
+      "batter": "Bryce Harper",
+      "pitcher": "Bradley Blalock",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -2904,15 +3449,25 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016949611501: Pitch 3 : Ball In Play"
+      "raw_text": "Harper singled to right, Harper out stretching at second.",
+      "all_play_texts": [
+        "Bottom of the 8th inning",
+        "Freeman as designated hitter.",
+        "Blalock relieved Vodnik",
+        "Bradley Blalock pitches to Bryce Harper",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Looking",
+        "Pitch 3 : Ball In Play",
+        "Harper singled to right, Harper out stretching at second."
+      ]
     },
     {
       "play_sequence": 64,
       "game_id": "401694961",
       "inning": 8,
       "inning_half": "Bottom",
-      "batter": "Batter_32177",
-      "pitcher": "Pitcher_4720860",
+      "batter": "J.T. Realmuto",
+      "pitcher": "Bradley Blalock",
       "play_description": "Pitch 8 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -2981,15 +3536,27 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016949611502: Pitch 8 : Ball In Play"
+      "raw_text": "Realmuto grounded out to third.",
+      "all_play_texts": [
+        "Bradley Blalock pitches to J.T. Realmuto",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Foul",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Strike 2 Swinging",
+        "Pitch 5 : Strike 2 Foul",
+        "Pitch 6 : Strike 2 Foul",
+        "Pitch 7 : Ball 3",
+        "Pitch 8 : Ball In Play",
+        "Realmuto grounded out to third."
+      ]
     },
     {
       "play_sequence": 65,
       "game_id": "401694961",
       "inning": 8,
       "inning_half": "Bottom",
-      "batter": "Batter_31870",
-      "pitcher": "Pitcher_4720860",
+      "batter": "Max Kepler",
+      "pitcher": "Bradley Blalock",
       "play_description": "Pitch 6 : Ball In Play",
       "play_result": "Home Run",
       "pitch_sequence": [
@@ -3042,15 +3609,25 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016949611503: Pitch 6 : Ball In Play"
+      "raw_text": "Bradley Blalock pitches to Max Kepler",
+      "all_play_texts": [
+        "Bradley Blalock pitches to Max Kepler",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Foul",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Strike 2 Swinging",
+        "Pitch 5 : Ball 3",
+        "Pitch 6 : Ball In Play",
+        "Kepler homered to right (382 feet)."
+      ]
     },
     {
       "play_sequence": 66,
       "game_id": "401694961",
       "inning": 8,
       "inning_half": "Bottom",
-      "batter": "Batter_31187",
-      "pitcher": "Pitcher_4720860",
+      "batter": "Nick Castellanos",
+      "pitcher": "Bradley Blalock",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Home Run",
       "pitch_sequence": [
@@ -3079,15 +3656,22 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016949611504: Pitch 3 : Ball In Play"
+      "raw_text": "Bradley Blalock pitches to Nick Castellanos",
+      "all_play_texts": [
+        "Bradley Blalock pitches to Nick Castellanos",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Looking",
+        "Pitch 3 : Ball In Play",
+        "Castellanos homered to center (414 feet)."
+      ]
     },
     {
       "play_sequence": 67,
       "game_id": "401694961",
       "inning": 8,
       "inning_half": "End",
-      "batter": "Batter_42417",
-      "pitcher": "Pitcher_4720860",
+      "batter": "Bryson Stott",
+      "pitcher": "Bradley Blalock",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -3156,15 +3740,28 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016949611505: "
+      "raw_text": "Stott struck out swinging.",
+      "all_play_texts": [
+        "Bradley Blalock pitches to Bryson Stott",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Looking",
+        "Pitch 3 : Strike 2 Looking",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Strike 2 Foul",
+        "Pitch 6 : Ball 3",
+        "Pitch 7 : Strike 2 Foul",
+        "Pitch 8 : Strike 3 Swinging",
+        "Stott struck out swinging.",
+        "End of the 8th inning"
+      ]
     },
     {
       "play_sequence": 68,
       "game_id": "401694961",
       "inning": 9,
       "inning_half": "Top",
-      "batter": "Batter_33287",
-      "pitcher": "Pitcher_36380",
+      "batter": "Kyle Farmer",
+      "pitcher": "Jordan Romano",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -3177,15 +3774,22 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016949611601: Pitch 1 : Ball In Play"
+      "raw_text": "Jordan Romano pitches to Kyle Farmer",
+      "all_play_texts": [
+        "Top of the 9th inning",
+        "Romano relieved Alvarado",
+        "Jordan Romano pitches to Kyle Farmer",
+        "Pitch 1 : Ball In Play",
+        "Farmer singled to right."
+      ]
     },
     {
       "play_sequence": 69,
       "game_id": "401694961",
       "inning": 9,
       "inning_half": "Top",
-      "batter": "Batter_36497",
-      "pitcher": "Pitcher_36380",
+      "batter": "Nick Martini",
+      "pitcher": "Jordan Romano",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -3230,15 +3834,24 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016949611602: "
+      "raw_text": "Martini struck out swinging.",
+      "all_play_texts": [
+        "Jordan Romano pitches to Nick Martini",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Strike 3 Swinging",
+        "Martini struck out swinging."
+      ]
     },
     {
       "play_sequence": 70,
       "game_id": "401694961",
       "inning": 9,
       "inning_half": "Top",
-      "batter": "Batter_4619460",
-      "pitcher": "Pitcher_36380",
+      "batter": "Jordan Beck",
+      "pitcher": "Jordan Romano",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -3267,15 +3880,22 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016949611603: "
+      "raw_text": "Beck struck out swinging.",
+      "all_play_texts": [
+        "Jordan Romano pitches to Jordan Beck",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Swinging",
+        "Pitch 3 : Strike 3 Swinging",
+        "Beck struck out swinging."
+      ]
     },
     {
       "play_sequence": 71,
       "game_id": "401694961",
       "inning": 9,
       "inning_half": "Top",
-      "batter": "Batter_42462",
-      "pitcher": "Pitcher_36380",
+      "batter": "Brenton Doyle",
+      "pitcher": "Jordan Romano",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -3296,7 +3916,14 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016949611604: Pitch 2 : Ball In Play"
+      "raw_text": "Doyle grounded out to shortstop.",
+      "all_play_texts": [
+        "Jordan Romano pitches to Brenton Doyle",
+        "Pitch 1 : Ball 1",
+        "Farmer to second on fielder's indifference.",
+        "Pitch 2 : Ball In Play",
+        "Doyle grounded out to shortstop."
+      ]
     }
   ]
 }

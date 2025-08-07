@@ -2,7 +2,7 @@
   "metadata": {
     "game_id": "401695730",
     "api_url": "https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/summary?event=401695730",
-    "scraped_at": "2025-08-06T17:18:28.647589",
+    "scraped_at": "2025-08-07T03:44:28.813710",
     "away_team": "WSH",
     "home_team": "SEA"
   },
@@ -12,8 +12,8 @@
       "game_id": "401695730",
       "inning": 1,
       "inning_half": "Top",
-      "batter": "Batter_42402",
-      "pitcher": "Pitcher_5202474",
+      "batter": "CJ Abrams",
+      "pitcher": "Logan Evans",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -58,15 +58,25 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016957300001: "
+      "raw_text": "Abrams struck out swinging.",
+      "all_play_texts": [
+        "Top of the 1st inning",
+        "Logan Evans pitches to CJ Abrams",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Foul",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Strike 3 Swinging",
+        "Abrams struck out swinging."
+      ]
     },
     {
       "play_sequence": 2,
       "game_id": "401695730",
       "inning": 1,
       "inning_half": "Top",
-      "batter": "Batter_4918256",
-      "pitcher": "Pitcher_5202474",
+      "batter": "James Wood",
+      "pitcher": "Logan Evans",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -95,15 +105,22 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016957300002: "
+      "raw_text": "Wood struck out looking.",
+      "all_play_texts": [
+        "Logan Evans pitches to James Wood",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Looking",
+        "Pitch 3 : Strike 3 Looking",
+        "Wood struck out looking."
+      ]
     },
     {
       "play_sequence": 3,
       "game_id": "401695730",
       "inning": 1,
       "inning_half": "Mid",
-      "batter": "Batter_40538",
-      "pitcher": "Pitcher_5202474",
+      "batter": "Nathaniel Lowe",
+      "pitcher": "Logan Evans",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -124,15 +141,22 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016957300003: Pitch 2 : Ball In Play"
+      "raw_text": "Lowe flied out to left.",
+      "all_play_texts": [
+        "Logan Evans pitches to Nathaniel Lowe",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball In Play",
+        "Lowe flied out to left.",
+        "Middle of the 1st inning"
+      ]
     },
     {
       "play_sequence": 4,
       "game_id": "401695730",
       "inning": 1,
       "inning_half": "Bottom",
-      "batter": "Batter_33210",
-      "pitcher": "Pitcher_4683356",
+      "batter": "J.P. Crawford",
+      "pitcher": "Mitchell Parker",
       "play_description": "Pitch 6 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -185,15 +209,26 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016957300101: Pitch 6 : Ball In Play"
+      "raw_text": "Mitchell Parker pitches to J.P. Crawford",
+      "all_play_texts": [
+        "Bottom of the 1st inning",
+        "Mitchell Parker pitches to J.P. Crawford",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Ball 3",
+        "Pitch 5 : Strike 2 Looking",
+        "Pitch 6 : Ball In Play",
+        "Crawford singled to left."
+      ]
     },
     {
       "play_sequence": 5,
       "game_id": "401695730",
       "inning": 1,
       "inning_half": "Bottom",
-      "batter": "Batter_41044",
-      "pitcher": "Pitcher_4683356",
+      "batter": "Julio Rodriguez",
+      "pitcher": "Mitchell Parker",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Home Run",
       "pitch_sequence": [
@@ -222,15 +257,22 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016957300102: Pitch 3 : Ball In Play"
+      "raw_text": "Mitchell Parker pitches to Julio Rodriguez",
+      "all_play_texts": [
+        "Mitchell Parker pitches to Julio Rodriguez",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Foul",
+        "Pitch 3 : Ball In Play",
+        "Rodr\u00edguez homered to left center (394 feet), Crawford scored."
+      ]
     },
     {
       "play_sequence": 6,
       "game_id": "401695730",
       "inning": 1,
       "inning_half": "Bottom",
-      "batter": "Batter_41292",
-      "pitcher": "Pitcher_4683356",
+      "batter": "Cal Raleigh",
+      "pitcher": "Mitchell Parker",
       "play_description": "Pitch 4 : Ball In Play",
       "play_result": "Home Run",
       "pitch_sequence": [
@@ -267,15 +309,23 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016957300103: Pitch 4 : Ball In Play"
+      "raw_text": "Mitchell Parker pitches to Cal Raleigh",
+      "all_play_texts": [
+        "Mitchell Parker pitches to Cal Raleigh",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Foul",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Ball In Play",
+        "Raleigh homered to left (389 feet)."
+      ]
     },
     {
       "play_sequence": 7,
       "game_id": "401695730",
       "inning": 1,
       "inning_half": "Bottom",
-      "batter": "Batter_36488",
-      "pitcher": "Pitcher_4683356",
+      "batter": "Randy Arozarena",
+      "pitcher": "Mitchell Parker",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -304,15 +354,22 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016957300104: "
+      "raw_text": "Arozarena struck out swinging.",
+      "all_play_texts": [
+        "Mitchell Parker pitches to Randy Arozarena",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Foul",
+        "Pitch 3 : Strike 3 Swinging",
+        "Arozarena struck out swinging."
+      ]
     },
     {
       "play_sequence": 8,
       "game_id": "401695730",
       "inning": 1,
       "inning_half": "Bottom",
-      "batter": "Batter_33667",
-      "pitcher": "Pitcher_4683356",
+      "batter": "Mitch Garver",
+      "pitcher": "Mitchell Parker",
       "play_description": "Pitch 5 : Ball In Play",
       "play_result": "Lineout",
       "pitch_sequence": [
@@ -357,15 +414,24 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016957300105: Pitch 5 : Ball In Play"
+      "raw_text": "Garver lined out to shortstop.",
+      "all_play_texts": [
+        "Mitchell Parker pitches to Mitch Garver",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Ball In Play",
+        "Garver lined out to shortstop."
+      ]
     },
     {
       "play_sequence": 9,
       "game_id": "401695730",
       "inning": 1,
       "inning_half": "Bottom",
-      "batter": "Batter_40593",
-      "pitcher": "Pitcher_4683356",
+      "batter": "Dylan Moore",
+      "pitcher": "Mitchell Parker",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -394,15 +460,22 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016957300106: Pitch 3 : Ball In Play"
+      "raw_text": "Mitchell Parker pitches to Dylan Moore",
+      "all_play_texts": [
+        "Mitchell Parker pitches to Dylan Moore",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball In Play",
+        "Moore singled to left."
+      ]
     },
     {
       "play_sequence": 10,
       "game_id": "401695730",
       "inning": 1,
       "inning_half": "End",
-      "batter": "Batter_29703",
-      "pitcher": "Pitcher_4683356",
+      "batter": "Donovan Solano",
+      "pitcher": "Mitchell Parker",
       "play_description": "Pitch 4 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -439,15 +512,24 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016957300107: Pitch 4 : Ball In Play"
+      "raw_text": "Solano grounded out to third.",
+      "all_play_texts": [
+        "Mitchell Parker pitches to Donovan Solano",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Strike 1 Looking",
+        "Pitch 4 : Ball In Play",
+        "Solano grounded out to third.",
+        "End of the 1st inning"
+      ]
     },
     {
       "play_sequence": 11,
       "game_id": "401695730",
       "inning": 2,
       "inning_half": "Top",
-      "batter": "Batter_38827",
-      "pitcher": "Pitcher_5202474",
+      "batter": "Keibert Ruiz",
+      "pitcher": "Logan Evans",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Popout",
       "pitch_sequence": [
@@ -476,15 +558,23 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016957300201: Pitch 3 : Ball In Play"
+      "raw_text": "Ruiz popped out to third.",
+      "all_play_texts": [
+        "Top of the 2nd inning",
+        "Logan Evans pitches to Keibert Ruiz",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Ball In Play",
+        "Ruiz popped out to third."
+      ]
     },
     {
       "play_sequence": 12,
       "game_id": "401695730",
       "inning": 2,
       "inning_half": "Top",
-      "batter": "Batter_40459",
-      "pitcher": "Pitcher_5202474",
+      "batter": "Luis Garcia Jr.",
+      "pitcher": "Logan Evans",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -505,15 +595,21 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016957300202: Pitch 2 : Ball In Play"
+      "raw_text": "Garc\u00eda Jr. flied out to right.",
+      "all_play_texts": [
+        "Logan Evans pitches to Luis Garcia Jr.",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball In Play",
+        "Garc\u00eda Jr. flied out to right."
+      ]
     },
     {
       "play_sequence": 13,
       "game_id": "401695730",
       "inning": 2,
       "inning_half": "Mid",
-      "batter": "Batter_32517",
-      "pitcher": "Pitcher_5202474",
+      "batter": "Josh Bell",
+      "pitcher": "Logan Evans",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -534,15 +630,22 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016957300203: Pitch 2 : Ball In Play"
+      "raw_text": "Bell grounded out to pitcher.",
+      "all_play_texts": [
+        "Logan Evans pitches to Josh Bell",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball In Play",
+        "Bell grounded out to pitcher.",
+        "Middle of the 2nd inning"
+      ]
     },
     {
       "play_sequence": 14,
       "game_id": "401695730",
       "inning": 2,
       "inning_half": "Bottom",
-      "batter": "Batter_34951",
-      "pitcher": "Pitcher_4683356",
+      "batter": "Leody Taveras",
+      "pitcher": "Mitchell Parker",
       "play_description": "Pitch 4 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -579,15 +682,24 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016957300301: Pitch 4 : Ball In Play"
+      "raw_text": "Taveras flied out to left.",
+      "all_play_texts": [
+        "Bottom of the 2nd inning",
+        "Mitchell Parker pitches to Leody Taveras",
+        "Pitch 1 : Strike 1 Bunted Foul",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Ball In Play",
+        "Taveras flied out to left."
+      ]
     },
     {
       "play_sequence": 15,
       "game_id": "401695730",
       "inning": 2,
       "inning_half": "Bottom",
-      "batter": "Batter_4626239",
-      "pitcher": "Pitcher_4683356",
+      "batter": "Ben Williamson",
+      "pitcher": "Mitchell Parker",
       "play_description": "Pitch 7 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -648,15 +760,26 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016957300302: Pitch 7 : Ball In Play"
+      "raw_text": "Mitchell Parker pitches to Ben Williamson",
+      "all_play_texts": [
+        "Mitchell Parker pitches to Ben Williamson",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Swinging",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Strike 2 Foul",
+        "Pitch 6 : Ball 2",
+        "Pitch 7 : Ball In Play",
+        "Williamson singled to right."
+      ]
     },
     {
       "play_sequence": 16,
       "game_id": "401695730",
       "inning": 2,
       "inning_half": "Bottom",
-      "batter": "Batter_33210",
-      "pitcher": "Pitcher_4683356",
+      "batter": "J.P. Crawford",
+      "pitcher": "Mitchell Parker",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -717,15 +840,26 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016957300303: "
+      "raw_text": "Mitchell Parker pitches to J.P. Crawford",
+      "all_play_texts": [
+        "Mitchell Parker pitches to J.P. Crawford",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Foul",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Strike 2 Foul",
+        "Pitch 6 : Ball 3",
+        "Pitch 7 : Ball 4",
+        "Crawford walked, Williamson to second."
+      ]
     },
     {
       "play_sequence": 17,
       "game_id": "401695730",
       "inning": 2,
       "inning_half": "Bottom",
-      "batter": "Batter_41044",
-      "pitcher": "Pitcher_4683356",
+      "batter": "Julio Rodriguez",
+      "pitcher": "Mitchell Parker",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Lineout",
       "pitch_sequence": [
@@ -746,15 +880,21 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016957300304: Pitch 2 : Ball In Play"
+      "raw_text": "Rodr\u00edguez lined out to third.",
+      "all_play_texts": [
+        "Mitchell Parker pitches to Julio Rodriguez",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball In Play",
+        "Rodr\u00edguez lined out to third."
+      ]
     },
     {
       "play_sequence": 18,
       "game_id": "401695730",
       "inning": 2,
       "inning_half": "End",
-      "batter": "Batter_41292",
-      "pitcher": "Pitcher_4683356",
+      "batter": "Cal Raleigh",
+      "pitcher": "Mitchell Parker",
       "play_description": "Pitch 4 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -791,15 +931,24 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016957300305: Pitch 4 : Ball In Play"
+      "raw_text": "Raleigh flied out to left.",
+      "all_play_texts": [
+        "Mitchell Parker pitches to Cal Raleigh",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Looking",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Ball In Play",
+        "Raleigh flied out to left.",
+        "End of the 2nd inning"
+      ]
     },
     {
       "play_sequence": 19,
       "game_id": "401695730",
       "inning": 3,
       "inning_half": "Top",
-      "batter": "Batter_4684371",
-      "pitcher": "Pitcher_5202474",
+      "batter": "Robert Hassell III",
+      "pitcher": "Logan Evans",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -828,15 +977,23 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016957300401: Pitch 3 : Ball In Play"
+      "raw_text": "Hassell III grounded out to third.",
+      "all_play_texts": [
+        "Top of the 3rd inning",
+        "Logan Evans pitches to Robert Hassell III",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball In Play",
+        "Hassell III grounded out to third."
+      ]
     },
     {
       "play_sequence": 20,
       "game_id": "401695730",
       "inning": 3,
       "inning_half": "Top",
-      "batter": "Batter_42105",
-      "pitcher": "Pitcher_5202474",
+      "batter": "Jose Tena",
+      "pitcher": "Logan Evans",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -849,15 +1006,20 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016957300402: Pitch 1 : Ball In Play"
+      "raw_text": "Tena grounded out to first.",
+      "all_play_texts": [
+        "Logan Evans pitches to Jose Tena",
+        "Pitch 1 : Ball In Play",
+        "Tena grounded out to first."
+      ]
     },
     {
       "play_sequence": 21,
       "game_id": "401695730",
       "inning": 3,
       "inning_half": "Mid",
-      "batter": "Batter_4917889",
-      "pitcher": "Pitcher_5202474",
+      "batter": "Daylen Lile",
+      "pitcher": "Logan Evans",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -886,15 +1048,23 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016957300403: Pitch 3 : Ball In Play"
+      "raw_text": "Lile grounded out to first.",
+      "all_play_texts": [
+        "Logan Evans pitches to Daylen Lile",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Looking",
+        "Pitch 3 : Ball In Play",
+        "Lile grounded out to first.",
+        "Middle of the 3rd inning"
+      ]
     },
     {
       "play_sequence": 22,
       "game_id": "401695730",
       "inning": 3,
       "inning_half": "Bottom",
-      "batter": "Batter_36488",
-      "pitcher": "Pitcher_4683356",
+      "batter": "Randy Arozarena",
+      "pitcher": "Mitchell Parker",
       "play_description": "Pitch 9 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -971,15 +1141,29 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016957300501: Pitch 9 : Ball In Play"
+      "raw_text": "Arozarena flied out to right.",
+      "all_play_texts": [
+        "Bottom of the 3rd inning",
+        "Mitchell Parker pitches to Randy Arozarena",
+        "Pitch 1 : Strike 1 Swinging",
+        "Pitch 2 : Strike 2 Foul",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Ball 2",
+        "Pitch 6 : Strike 2 Foul",
+        "Pitch 7 : Strike 2 Foul",
+        "Pitch 8 : Strike 2 Foul",
+        "Pitch 9 : Ball In Play",
+        "Arozarena flied out to right."
+      ]
     },
     {
       "play_sequence": 23,
       "game_id": "401695730",
       "inning": 3,
       "inning_half": "Bottom",
-      "batter": "Batter_33667",
-      "pitcher": "Pitcher_4683356",
+      "batter": "Mitch Garver",
+      "pitcher": "Mitchell Parker",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1008,15 +1192,22 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016957300502: "
+      "raw_text": "Garver struck out swinging.",
+      "all_play_texts": [
+        "Mitchell Parker pitches to Mitch Garver",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Swinging",
+        "Pitch 3 : Strike 3 Swinging",
+        "Garver struck out swinging."
+      ]
     },
     {
       "play_sequence": 24,
       "game_id": "401695730",
       "inning": 3,
       "inning_half": "End",
-      "batter": "Batter_40593",
-      "pitcher": "Pitcher_4683356",
+      "batter": "Dylan Moore",
+      "pitcher": "Mitchell Parker",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1061,15 +1252,25 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016957300503: "
+      "raw_text": "Moore struck out swinging.",
+      "all_play_texts": [
+        "Mitchell Parker pitches to Dylan Moore",
+        "Pitch 1 : Strike 1 Swinging",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Strike 2 Looking",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Strike 3 Swinging",
+        "Moore struck out swinging.",
+        "End of the 3rd inning"
+      ]
     },
     {
       "play_sequence": 25,
       "game_id": "401695730",
       "inning": 4,
       "inning_half": "Top",
-      "batter": "Batter_42402",
-      "pitcher": "Pitcher_5202474",
+      "batter": "CJ Abrams",
+      "pitcher": "Logan Evans",
       "play_description": "Pitch 4 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -1106,15 +1307,24 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016957300601: Pitch 4 : Ball In Play"
+      "raw_text": "Abrams grounded out to shortstop.",
+      "all_play_texts": [
+        "Top of the 4th inning",
+        "Logan Evans pitches to CJ Abrams",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Foul",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Ball In Play",
+        "Abrams grounded out to shortstop."
+      ]
     },
     {
       "play_sequence": 26,
       "game_id": "401695730",
       "inning": 4,
       "inning_half": "Top",
-      "batter": "Batter_4918256",
-      "pitcher": "Pitcher_5202474",
+      "batter": "James Wood",
+      "pitcher": "Logan Evans",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Home Run",
       "pitch_sequence": [
@@ -1135,15 +1345,21 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016957300602: Pitch 2 : Ball In Play"
+      "raw_text": "Logan Evans pitches to James Wood",
+      "all_play_texts": [
+        "Logan Evans pitches to James Wood",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball In Play",
+        "Wood homered to center (448 feet)."
+      ]
     },
     {
       "play_sequence": 27,
       "game_id": "401695730",
       "inning": 4,
       "inning_half": "Top",
-      "batter": "Batter_40538",
-      "pitcher": "Pitcher_5202474",
+      "batter": "Nathaniel Lowe",
+      "pitcher": "Logan Evans",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -1156,15 +1372,20 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016957300603: Pitch 1 : Ball In Play"
+      "raw_text": "Logan Evans pitches to Nathaniel Lowe",
+      "all_play_texts": [
+        "Logan Evans pitches to Nathaniel Lowe",
+        "Pitch 1 : Ball In Play",
+        "Lowe singled to left."
+      ]
     },
     {
       "play_sequence": 28,
       "game_id": "401695730",
       "inning": 4,
       "inning_half": "Mid",
-      "batter": "Batter_38827",
-      "pitcher": "Pitcher_5202474",
+      "batter": "Keibert Ruiz",
+      "pitcher": "Logan Evans",
       "play_description": "Pitch 5 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -1201,15 +1422,25 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016957300604: Pitch 5 : Ball In Play"
+      "raw_text": "Ruiz grounded into double play, second to shortstop to first, Lowe out at second.",
+      "all_play_texts": [
+        "Logan Evans pitches to Keibert Ruiz",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Foul",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Automatic Ball - Pitch Timer Violation 2",
+        "Pitch 5 : Ball In Play",
+        "Ruiz grounded into double play, second to shortstop to first, Lowe out at second.",
+        "Middle of the 4th inning"
+      ]
     },
     {
       "play_sequence": 29,
       "game_id": "401695730",
       "inning": 4,
       "inning_half": "Bottom",
-      "batter": "Batter_29703",
-      "pitcher": "Pitcher_4683356",
+      "batter": "Donovan Solano",
+      "pitcher": "Mitchell Parker",
       "play_description": "Pitch 4 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -1246,15 +1477,24 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016957300701: Pitch 4 : Ball In Play"
+      "raw_text": "Mitchell Parker pitches to Donovan Solano",
+      "all_play_texts": [
+        "Bottom of the 4th inning",
+        "Mitchell Parker pitches to Donovan Solano",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Foul",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Ball In Play",
+        "Solano singled to left."
+      ]
     },
     {
       "play_sequence": 30,
       "game_id": "401695730",
       "inning": 4,
       "inning_half": "Bottom",
-      "batter": "Batter_34951",
-      "pitcher": "Pitcher_4683356",
+      "batter": "Leody Taveras",
+      "pitcher": "Mitchell Parker",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1275,15 +1515,21 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016957300702: "
+      "raw_text": "Taveras grounded into fielder's choice to third, Solano out at second.",
+      "all_play_texts": [
+        "Mitchell Parker pitches to Leody Taveras",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball In Play",
+        "Taveras grounded into fielder's choice to third, Solano out at second."
+      ]
     },
     {
       "play_sequence": 31,
       "game_id": "401695730",
       "inning": 4,
       "inning_half": "End",
-      "batter": "Batter_4626239",
-      "pitcher": "Pitcher_4683356",
+      "batter": "Ben Williamson",
+      "pitcher": "Mitchell Parker",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -1312,15 +1558,23 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016957300703: Pitch 3 : Ball In Play"
+      "raw_text": "Williamson grounded into double play, shortstop to first, Taveras out at second.",
+      "all_play_texts": [
+        "Mitchell Parker pitches to Ben Williamson",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Foul",
+        "Pitch 3 : Ball In Play",
+        "Williamson grounded into double play, shortstop to first, Taveras out at second.",
+        "End of the 4th inning"
+      ]
     },
     {
       "play_sequence": 32,
       "game_id": "401695730",
       "inning": 5,
       "inning_half": "Top",
-      "batter": "Batter_40459",
-      "pitcher": "Pitcher_5202474",
+      "batter": "Luis Garcia Jr.",
+      "pitcher": "Logan Evans",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Lineout",
       "pitch_sequence": [
@@ -1349,15 +1603,23 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016957300801: Pitch 3 : Ball In Play"
+      "raw_text": "Garc\u00eda Jr. lined out to right.",
+      "all_play_texts": [
+        "Top of the 5th inning",
+        "Logan Evans pitches to Luis Garcia Jr.",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Swinging",
+        "Pitch 3 : Ball In Play",
+        "Garc\u00eda Jr. lined out to right."
+      ]
     },
     {
       "play_sequence": 33,
       "game_id": "401695730",
       "inning": 5,
       "inning_half": "Top",
-      "batter": "Batter_32517",
-      "pitcher": "Pitcher_5202474",
+      "batter": "Josh Bell",
+      "pitcher": "Logan Evans",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -1370,15 +1632,20 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016957300802: Pitch 1 : Ball In Play"
+      "raw_text": "Bell grounded out to second.",
+      "all_play_texts": [
+        "Logan Evans pitches to Josh Bell",
+        "Pitch 1 : Ball In Play",
+        "Bell grounded out to second."
+      ]
     },
     {
       "play_sequence": 34,
       "game_id": "401695730",
       "inning": 5,
       "inning_half": "Mid",
-      "batter": "Batter_4684371",
-      "pitcher": "Pitcher_5202474",
+      "batter": "Robert Hassell III",
+      "pitcher": "Logan Evans",
       "play_description": "Pitch 4 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -1415,15 +1682,24 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016957300803: Pitch 4 : Ball In Play"
+      "raw_text": "Hassell III flied out to center.",
+      "all_play_texts": [
+        "Logan Evans pitches to Robert Hassell III",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Ball In Play",
+        "Hassell III flied out to center.",
+        "Middle of the 5th inning"
+      ]
     },
     {
       "play_sequence": 35,
       "game_id": "401695730",
       "inning": 5,
       "inning_half": "Bottom",
-      "batter": "Batter_33210",
-      "pitcher": "Pitcher_4683356",
+      "batter": "J.P. Crawford",
+      "pitcher": "Mitchell Parker",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1452,15 +1728,23 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016957300901: "
+      "raw_text": "Crawford struck out swinging.",
+      "all_play_texts": [
+        "Bottom of the 5th inning",
+        "Mitchell Parker pitches to J.P. Crawford",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Swinging",
+        "Pitch 3 : Strike 3 Swinging",
+        "Crawford struck out swinging."
+      ]
     },
     {
       "play_sequence": 36,
       "game_id": "401695730",
       "inning": 5,
       "inning_half": "Bottom",
-      "batter": "Batter_41044",
-      "pitcher": "Pitcher_4683356",
+      "batter": "Julio Rodriguez",
+      "pitcher": "Mitchell Parker",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -1473,15 +1757,20 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016957300902: Pitch 1 : Ball In Play"
+      "raw_text": "Rodr\u00edguez flied out to center.",
+      "all_play_texts": [
+        "Mitchell Parker pitches to Julio Rodriguez",
+        "Pitch 1 : Ball In Play",
+        "Rodr\u00edguez flied out to center."
+      ]
     },
     {
       "play_sequence": 37,
       "game_id": "401695730",
       "inning": 5,
       "inning_half": "Bottom",
-      "batter": "Batter_41292",
-      "pitcher": "Pitcher_4683356",
+      "batter": "Cal Raleigh",
+      "pitcher": "Mitchell Parker",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Home Run",
       "pitch_sequence": [
@@ -1510,15 +1799,22 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016957300903: Pitch 3 : Ball In Play"
+      "raw_text": "Mitchell Parker pitches to Cal Raleigh",
+      "all_play_texts": [
+        "Mitchell Parker pitches to Cal Raleigh",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Strike 2 Foul",
+        "Pitch 3 : Ball In Play",
+        "Raleigh homered to left (365 feet)."
+      ]
     },
     {
       "play_sequence": 38,
       "game_id": "401695730",
       "inning": 5,
       "inning_half": "Bottom",
-      "batter": "Batter_36488",
-      "pitcher": "Pitcher_42434",
+      "batter": "Randy Arozarena",
+      "pitcher": "Jackson Rutledge",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1531,15 +1827,21 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016957300904: "
+      "raw_text": "Jackson Rutledge pitches to Randy Arozarena",
+      "all_play_texts": [
+        "Rutledge relieved Parker",
+        "Jackson Rutledge pitches to Randy Arozarena",
+        "Pitch 1 : Ball In Play",
+        "Arozarena hit by pitch."
+      ]
     },
     {
       "play_sequence": 39,
       "game_id": "401695730",
       "inning": 5,
       "inning_half": "End",
-      "batter": "Batter_33667",
-      "pitcher": "Pitcher_42434",
+      "batter": "Mitch Garver",
+      "pitcher": "Jackson Rutledge",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1568,15 +1870,23 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016957300905: "
+      "raw_text": "Garver fouled out to shortstop.",
+      "all_play_texts": [
+        "Jackson Rutledge pitches to Mitch Garver",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Swinging",
+        "Pitch 3 : Ball In Play",
+        "Garver fouled out to shortstop.",
+        "End of the 5th inning"
+      ]
     },
     {
       "play_sequence": 40,
       "game_id": "401695730",
       "inning": 6,
       "inning_half": "Top",
-      "batter": "Batter_42105",
-      "pitcher": "Pitcher_5202474",
+      "batter": "Jose Tena",
+      "pitcher": "Logan Evans",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -1605,15 +1915,23 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016957301001: Pitch 3 : Ball In Play"
+      "raw_text": "Logan Evans pitches to Jose Tena",
+      "all_play_texts": [
+        "Top of the 6th inning",
+        "Logan Evans pitches to Jose Tena",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Foul",
+        "Pitch 3 : Ball In Play",
+        "Tena singled to left."
+      ]
     },
     {
       "play_sequence": 41,
       "game_id": "401695730",
       "inning": 6,
       "inning_half": "Top",
-      "batter": "Batter_4917889",
-      "pitcher": "Pitcher_5202474",
+      "batter": "Daylen Lile",
+      "pitcher": "Logan Evans",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -1634,15 +1952,21 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016957301002: Pitch 2 : Ball In Play"
+      "raw_text": "Lile grounded into double play, second to shortstop to first, Tena out at second.",
+      "all_play_texts": [
+        "Logan Evans pitches to Daylen Lile",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball In Play",
+        "Lile grounded into double play, second to shortstop to first, Tena out at second."
+      ]
     },
     {
       "play_sequence": 42,
       "game_id": "401695730",
       "inning": 6,
       "inning_half": "Mid",
-      "batter": "Batter_42402",
-      "pitcher": "Pitcher_5202474",
+      "batter": "CJ Abrams",
+      "pitcher": "Logan Evans",
       "play_description": "Pitch 5 : Ball In Play",
       "play_result": "Lineout",
       "pitch_sequence": [
@@ -1687,15 +2011,25 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016957301003: Pitch 5 : Ball In Play"
+      "raw_text": "Abrams lined out to shortstop.",
+      "all_play_texts": [
+        "Logan Evans pitches to CJ Abrams",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Foul",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Ball In Play",
+        "Abrams lined out to shortstop.",
+        "Middle of the 6th inning"
+      ]
     },
     {
       "play_sequence": 43,
       "game_id": "401695730",
       "inning": 6,
       "inning_half": "Bottom",
-      "batter": "Batter_40593",
-      "pitcher": "Pitcher_42434",
+      "batter": "Dylan Moore",
+      "pitcher": "Jackson Rutledge",
       "play_description": "Pitch 4 : Ball In Play",
       "play_result": "Double",
       "pitch_sequence": [
@@ -1732,15 +2066,24 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016957301101: Pitch 4 : Ball In Play"
+      "raw_text": "Jackson Rutledge pitches to Dylan Moore",
+      "all_play_texts": [
+        "Bottom of the 6th inning",
+        "Jackson Rutledge pitches to Dylan Moore",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Swinging",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Ball In Play",
+        "Moore doubled to left."
+      ]
     },
     {
       "play_sequence": 44,
       "game_id": "401695730",
       "inning": 6,
       "inning_half": "Bottom",
-      "batter": "Batter_29703",
-      "pitcher": "Pitcher_42434",
+      "batter": "Donovan Solano",
+      "pitcher": "Jackson Rutledge",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1777,15 +2120,23 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016957301102: "
+      "raw_text": "Jackson Rutledge pitches to Donovan Solano",
+      "all_play_texts": [
+        "Jackson Rutledge pitches to Donovan Solano",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Ball 3",
+        "Pitch 4 : Ball 4",
+        "Solano walked."
+      ]
     },
     {
       "play_sequence": 45,
       "game_id": "401695730",
       "inning": 6,
       "inning_half": "Bottom",
-      "batter": "Batter_34951",
-      "pitcher": "Pitcher_42434",
+      "batter": "Leody Taveras",
+      "pitcher": "Jackson Rutledge",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1846,15 +2197,27 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016957301103: "
+      "raw_text": "Taveras fouled out to third.",
+      "all_play_texts": [
+        "Jackson Rutledge pitches to Leody Taveras",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Swinging",
+        "Pitch 3 : Ball 1",
+        "Solano to second on wild pitch by Rutledge, Moore to third on wild pitch by Rutledge.",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Strike 2 Foul",
+        "Pitch 6 : Strike 2 Foul",
+        "Pitch 7 : Ball In Play",
+        "Taveras fouled out to third."
+      ]
     },
     {
       "play_sequence": 46,
       "game_id": "401695730",
       "inning": 6,
       "inning_half": "Bottom",
-      "batter": "Batter_4626239",
-      "pitcher": "Pitcher_42434",
+      "batter": "Ben Williamson",
+      "pitcher": "Jackson Rutledge",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -1883,15 +2246,22 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016957301104: "
+      "raw_text": "Williamson grounded into fielder's choice to third, Moore scored, Solano third.",
+      "all_play_texts": [
+        "Jackson Rutledge pitches to Ben Williamson",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Swinging",
+        "Pitch 3 : Ball In Play",
+        "Williamson grounded into fielder's choice to third, Moore scored, Solano third."
+      ]
     },
     {
       "play_sequence": 47,
       "game_id": "401695730",
       "inning": 6,
       "inning_half": "Bottom",
-      "batter": "Batter_33210",
-      "pitcher": "Pitcher_42434",
+      "batter": "J.P. Crawford",
+      "pitcher": "Jackson Rutledge",
       "play_description": "Pitch 4 : Ball In Play",
       "play_result": "Groundout",
       "pitch_sequence": [
@@ -1928,15 +2298,23 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016957301105: Pitch 4 : Ball In Play"
+      "raw_text": "Crawford grounded out to shortstop, Solano scored, Williamson to second.",
+      "all_play_texts": [
+        "Jackson Rutledge pitches to J.P. Crawford",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Looking",
+        "Pitch 3 : Strike 2 Looking",
+        "Pitch 4 : Ball In Play",
+        "Crawford grounded out to shortstop, Solano scored, Williamson to second."
+      ]
     },
     {
       "play_sequence": 48,
       "game_id": "401695730",
       "inning": 6,
       "inning_half": "Bottom",
-      "batter": "Batter_41044",
-      "pitcher": "Pitcher_42434",
+      "batter": "Julio Rodriguez",
+      "pitcher": "Jackson Rutledge",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -1949,15 +2327,20 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016957301106: Pitch 1 : Ball In Play"
+      "raw_text": "Jackson Rutledge pitches to Julio Rodriguez",
+      "all_play_texts": [
+        "Jackson Rutledge pitches to Julio Rodriguez",
+        "Pitch 1 : Ball In Play",
+        "Rodr\u00edguez singled to right, Williamson scored."
+      ]
     },
     {
       "play_sequence": 49,
       "game_id": "401695730",
       "inning": 6,
       "inning_half": "End",
-      "batter": "Batter_41292",
-      "pitcher": "Pitcher_42434",
+      "batter": "Cal Raleigh",
+      "pitcher": "Jackson Rutledge",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2010,15 +2393,27 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016957301107: "
+      "raw_text": "Raleigh struck out swinging.",
+      "all_play_texts": [
+        "Jackson Rutledge pitches to Cal Raleigh",
+        "Pitch 1 : Strike 1 Swinging",
+        "Pitch 2 : Strike 2 Swinging",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Ball 3",
+        "Rodr\u00edguez to second on wild pitch by Rutledge.",
+        "Pitch 6 : Strike 3 Swinging",
+        "Raleigh struck out swinging.",
+        "End of the 6th inning"
+      ]
     },
     {
       "play_sequence": 50,
       "game_id": "401695730",
       "inning": 7,
       "inning_half": "Top",
-      "batter": "Batter_4918256",
-      "pitcher": "Pitcher_5202474",
+      "batter": "James Wood",
+      "pitcher": "Logan Evans",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2055,15 +2450,24 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016957301201: "
+      "raw_text": "Wood struck out swinging.",
+      "all_play_texts": [
+        "Top of the 7th inning",
+        "Logan Evans pitches to James Wood",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Foul",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Strike 3 Swinging",
+        "Wood struck out swinging."
+      ]
     },
     {
       "play_sequence": 51,
       "game_id": "401695730",
       "inning": 7,
       "inning_half": "Top",
-      "batter": "Batter_40538",
-      "pitcher": "Pitcher_5202474",
+      "batter": "Nathaniel Lowe",
+      "pitcher": "Logan Evans",
       "play_description": "Pitch 9 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -2140,15 +2544,28 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016957301202: Pitch 9 : Ball In Play"
+      "raw_text": "Lowe flied out to center.",
+      "all_play_texts": [
+        "Logan Evans pitches to Nathaniel Lowe",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Strike 2 Foul",
+        "Pitch 6 : Strike 2 Foul",
+        "Pitch 7 : Ball 3",
+        "Pitch 8 : Strike 2 Foul",
+        "Pitch 9 : Ball In Play",
+        "Lowe flied out to center."
+      ]
     },
     {
       "play_sequence": 52,
       "game_id": "401695730",
       "inning": 7,
       "inning_half": "Mid",
-      "batter": "Batter_38827",
-      "pitcher": "Pitcher_5202474",
+      "batter": "Keibert Ruiz",
+      "pitcher": "Logan Evans",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Lineout",
       "pitch_sequence": [
@@ -2177,15 +2594,23 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016957301203: Pitch 3 : Ball In Play"
+      "raw_text": "Ruiz lined out to right.",
+      "all_play_texts": [
+        "Logan Evans pitches to Keibert Ruiz",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Ball In Play",
+        "Ruiz lined out to right.",
+        "Middle of the 7th inning"
+      ]
     },
     {
       "play_sequence": 53,
       "game_id": "401695730",
       "inning": 7,
       "inning_half": "Bottom",
-      "batter": "Batter_36488",
-      "pitcher": "Pitcher_5127801",
+      "batter": "Randy Arozarena",
+      "pitcher": "Zach Brzykcy",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2230,15 +2655,26 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016957301301: "
+      "raw_text": "Zach Brzykcy pitches to Randy Arozarena",
+      "all_play_texts": [
+        "Bottom of the 7th inning",
+        "Brzykcy relieved Rutledge",
+        "Zach Brzykcy pitches to Randy Arozarena",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Strike 1 Foul",
+        "Pitch 4 : Ball 3",
+        "Pitch 5 : Ball 4",
+        "Arozarena walked."
+      ]
     },
     {
       "play_sequence": 54,
       "game_id": "401695730",
       "inning": 7,
       "inning_half": "Bottom",
-      "batter": "Batter_33667",
-      "pitcher": "Pitcher_5127801",
+      "batter": "Mitch Garver",
+      "pitcher": "Zach Brzykcy",
       "play_description": "Pitch 5 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -2283,15 +2719,24 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016957301302: Pitch 5 : Ball In Play"
+      "raw_text": "Garver flied out to center.",
+      "all_play_texts": [
+        "Zach Brzykcy pitches to Mitch Garver",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Looking",
+        "Pitch 3 : Ball 2",
+        "Pitch 4 : Ball 3",
+        "Pitch 5 : Ball In Play",
+        "Garver flied out to center."
+      ]
     },
     {
       "play_sequence": 55,
       "game_id": "401695730",
       "inning": 7,
       "inning_half": "Bottom",
-      "batter": "Batter_40593",
-      "pitcher": "Pitcher_5127801",
+      "batter": "Dylan Moore",
+      "pitcher": "Zach Brzykcy",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2312,15 +2757,21 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016957301303: "
+      "raw_text": "Zach Brzykcy pitches to Dylan Moore",
+      "all_play_texts": [
+        "Zach Brzykcy pitches to Dylan Moore",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball In Play",
+        "Moore hit a ground rule double, Arozarena to third."
+      ]
     },
     {
       "play_sequence": 56,
       "game_id": "401695730",
       "inning": 7,
       "inning_half": "Bottom",
-      "batter": "Batter_29703",
-      "pitcher": "Pitcher_5127801",
+      "batter": "Donovan Solano",
+      "pitcher": "Zach Brzykcy",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2349,15 +2800,22 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016957301304: "
+      "raw_text": "Solano struck out swinging.",
+      "all_play_texts": [
+        "Zach Brzykcy pitches to Donovan Solano",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Strike 2 Foul",
+        "Pitch 3 : Strike 3 Swinging",
+        "Solano struck out swinging."
+      ]
     },
     {
       "play_sequence": 57,
       "game_id": "401695730",
       "inning": 7,
       "inning_half": "End",
-      "batter": "Batter_34951",
-      "pitcher": "Pitcher_5127801",
+      "batter": "Leody Taveras",
+      "pitcher": "Zach Brzykcy",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2394,15 +2852,24 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016957301305: "
+      "raw_text": "Taveras struck out swinging.",
+      "all_play_texts": [
+        "Zach Brzykcy pitches to Leody Taveras",
+        "Pitch 1 : Strike 1 Swinging",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Strike 3 Swinging",
+        "Taveras struck out swinging.",
+        "End of the 7th inning"
+      ]
     },
     {
       "play_sequence": 58,
       "game_id": "401695730",
       "inning": 8,
       "inning_half": "Top",
-      "batter": "Batter_40459",
-      "pitcher": "Pitcher_5202474",
+      "batter": "Luis Garcia Jr.",
+      "pitcher": "Logan Evans",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Double",
       "pitch_sequence": [
@@ -2415,15 +2882,21 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016957301401: Pitch 1 : Ball In Play"
+      "raw_text": "Logan Evans pitches to Luis Garcia Jr.",
+      "all_play_texts": [
+        "Top of the 8th inning",
+        "Logan Evans pitches to Luis Garcia Jr.",
+        "Pitch 1 : Ball In Play",
+        "Garc\u00eda Jr. doubled to right."
+      ]
     },
     {
       "play_sequence": 59,
       "game_id": "401695730",
       "inning": 8,
       "inning_half": "Top",
-      "batter": "Batter_32517",
-      "pitcher": "Pitcher_5202474",
+      "batter": "Josh Bell",
+      "pitcher": "Logan Evans",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2484,15 +2957,26 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016957301402: "
+      "raw_text": "Logan Evans pitches to Josh Bell",
+      "all_play_texts": [
+        "Logan Evans pitches to Josh Bell",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball 2",
+        "Pitch 3 : Strike 1 Looking",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Strike 2 Foul",
+        "Pitch 6 : Ball 3",
+        "Pitch 7 : Ball 4",
+        "Bell walked."
+      ]
     },
     {
       "play_sequence": 60,
       "game_id": "401695730",
       "inning": 8,
       "inning_half": "Top",
-      "batter": "Batter_4684371",
-      "pitcher": "Pitcher_5202474",
+      "batter": "Robert Hassell III",
+      "pitcher": "Logan Evans",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2537,15 +3021,24 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016957301403: "
+      "raw_text": "Hassell III struck out swinging.",
+      "all_play_texts": [
+        "Logan Evans pitches to Robert Hassell III",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Ball 1",
+        "Pitch 3 : Strike 2 Swinging",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Strike 3 Swinging",
+        "Hassell III struck out swinging."
+      ]
     },
     {
       "play_sequence": 61,
       "game_id": "401695730",
       "inning": 8,
       "inning_half": "Top",
-      "batter": "Batter_42105",
-      "pitcher": "Pitcher_5202474",
+      "batter": "Jose Tena",
+      "pitcher": "Logan Evans",
       "play_description": "Pitch 4 : Ball In Play",
       "play_result": "Lineout",
       "pitch_sequence": [
@@ -2582,15 +3075,23 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016957301404: Pitch 4 : Ball In Play"
+      "raw_text": "Tena lined out to right.",
+      "all_play_texts": [
+        "Logan Evans pitches to Jose Tena",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Strike 2 Looking",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Ball In Play",
+        "Tena lined out to right."
+      ]
     },
     {
       "play_sequence": 62,
       "game_id": "401695730",
       "inning": 8,
       "inning_half": "Mid",
-      "batter": "Batter_4917889",
-      "pitcher": "Pitcher_5202474",
+      "batter": "Daylen Lile",
+      "pitcher": "Logan Evans",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2611,15 +3112,22 @@
           "strikes": 1
         }
       ],
-      "raw_text": "At-bat 4016957301405: "
+      "raw_text": "Lile fouled out to left.",
+      "all_play_texts": [
+        "Logan Evans pitches to Daylen Lile",
+        "Pitch 1 : Strike 1 Looking",
+        "Pitch 2 : Ball In Play",
+        "Lile fouled out to left.",
+        "Middle of the 8th inning"
+      ]
     },
     {
       "play_sequence": 63,
       "game_id": "401695730",
       "inning": 8,
       "inning_half": "Bottom",
-      "batter": "Batter_4626239",
-      "pitcher": "Pitcher_32810",
+      "batter": "Ben Williamson",
+      "pitcher": "Andrew Chafin",
       "play_description": "Pitch 12 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -2720,15 +3228,33 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016957301501: Pitch 12 : Ball In Play"
+      "raw_text": "Andrew Chafin pitches to Ben Williamson",
+      "all_play_texts": [
+        "Bottom of the 8th inning",
+        "Chafin relieved Brzykcy",
+        "Andrew Chafin pitches to Ben Williamson",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Looking",
+        "Pitch 3 : Strike 2 Looking",
+        "Pitch 4 : Strike 2 Foul",
+        "Pitch 5 : Ball 2",
+        "Pitch 6 : Strike 2 Foul",
+        "Pitch 7 : Strike 2 Foul",
+        "Pitch 8 : Strike 2 Foul",
+        "Pitch 9 : Strike 2 Foul",
+        "Pitch 10 : Strike 2 Foul",
+        "Pitch 11 : Ball 3",
+        "Pitch 12 : Ball In Play",
+        "Williamson singled to center."
+      ]
     },
     {
       "play_sequence": 64,
       "game_id": "401695730",
       "inning": 8,
       "inning_half": "Bottom",
-      "batter": "Batter_33210",
-      "pitcher": "Pitcher_32810",
+      "batter": "J.P. Crawford",
+      "pitcher": "Andrew Chafin",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2781,15 +3307,25 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016957301502: "
+      "raw_text": "Andrew Chafin pitches to J.P. Crawford",
+      "all_play_texts": [
+        "Andrew Chafin pitches to J.P. Crawford",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Strike 2 Looking",
+        "Pitch 3 : Ball 1",
+        "Pitch 4 : Ball 2",
+        "Pitch 5 : Ball 3",
+        "Pitch 6 : Ball 4",
+        "Crawford walked, Williamson to second."
+      ]
     },
     {
       "play_sequence": 65,
       "game_id": "401695730",
       "inning": 8,
       "inning_half": "Bottom",
-      "batter": "Batter_41044",
-      "pitcher": "Pitcher_32810",
+      "batter": "Julio Rodriguez",
+      "pitcher": "Andrew Chafin",
       "play_description": "Pitch 3 : Ball In Play",
       "play_result": "Single",
       "pitch_sequence": [
@@ -2818,15 +3354,22 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016957301503: Pitch 3 : Ball In Play"
+      "raw_text": "Andrew Chafin pitches to Julio Rodriguez",
+      "all_play_texts": [
+        "Andrew Chafin pitches to Julio Rodriguez",
+        "Pitch 1 : Strike 1 Foul",
+        "Pitch 2 : Strike 2 Looking",
+        "Pitch 3 : Ball In Play",
+        "Rodr\u00edguez singled to right, Crawford to second, Williamson to third."
+      ]
     },
     {
       "play_sequence": 66,
       "game_id": "401695730",
       "inning": 8,
       "inning_half": "Bottom",
-      "batter": "Batter_41292",
-      "pitcher": "Pitcher_32810",
+      "batter": "Cal Raleigh",
+      "pitcher": "Andrew Chafin",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2863,15 +3406,23 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016957301504: "
+      "raw_text": "Raleigh struck out swinging.",
+      "all_play_texts": [
+        "Andrew Chafin pitches to Cal Raleigh",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Looking",
+        "Pitch 3 : Strike 2 Swinging",
+        "Pitch 4 : Strike 3 Swinging",
+        "Raleigh struck out swinging."
+      ]
     },
     {
       "play_sequence": 67,
       "game_id": "401695730",
       "inning": 8,
       "inning_half": "Bottom",
-      "batter": "Batter_36488",
-      "pitcher": "Pitcher_32810",
+      "batter": "Randy Arozarena",
+      "pitcher": "Andrew Chafin",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2884,15 +3435,20 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016957301505: "
+      "raw_text": "Arozarena grounded into fielder's choice to third, Rodr\u00edguez out at second, Williamson scored and Crawford scored on throwing error by second baseman Garc\u00eda Jr., Arozarena to second.",
+      "all_play_texts": [
+        "Andrew Chafin pitches to Randy Arozarena",
+        "Pitch 1 : Ball In Play",
+        "Arozarena grounded into fielder's choice to third, Rodr\u00edguez out at second, Williamson scored and Crawford scored on throwing error by second baseman Garc\u00eda Jr., Arozarena to second."
+      ]
     },
     {
       "play_sequence": 68,
       "game_id": "401695730",
       "inning": 8,
       "inning_half": "End",
-      "batter": "Batter_33667",
-      "pitcher": "Pitcher_32810",
+      "batter": "Mitch Garver",
+      "pitcher": "Andrew Chafin",
       "play_description": "Pitch 1 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -2905,15 +3461,21 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016957301506: Pitch 1 : Ball In Play"
+      "raw_text": "Garver flied out to right.",
+      "all_play_texts": [
+        "Andrew Chafin pitches to Mitch Garver",
+        "Pitch 1 : Ball In Play",
+        "Garver flied out to right.",
+        "End of the 8th inning"
+      ]
     },
     {
       "play_sequence": 69,
       "game_id": "401695730",
       "inning": 9,
       "inning_half": "Top",
-      "batter": "Batter_42402",
-      "pitcher": "Pitcher_41939",
+      "batter": "CJ Abrams",
+      "pitcher": "Eduard Bazardo",
       "play_description": "Pitch 2 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -2934,15 +3496,23 @@
           "strikes": 0
         }
       ],
-      "raw_text": "At-bat 4016957301601: Pitch 2 : Ball In Play"
+      "raw_text": "Abrams flied out to center.",
+      "all_play_texts": [
+        "Top of the 9th inning",
+        "Bazardo relieved Evans",
+        "Eduard Bazardo pitches to CJ Abrams",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Ball In Play",
+        "Abrams flied out to center."
+      ]
     },
     {
       "play_sequence": 70,
       "game_id": "401695730",
       "inning": 9,
       "inning_half": "Top",
-      "batter": "Batter_4918256",
-      "pitcher": "Pitcher_41939",
+      "batter": "James Wood",
+      "pitcher": "Eduard Bazardo",
       "play_description": "",
       "play_result": "Other",
       "pitch_sequence": [
@@ -2979,15 +3549,23 @@
           "strikes": 3
         }
       ],
-      "raw_text": "At-bat 4016957301602: "
+      "raw_text": "Wood struck out looking.",
+      "all_play_texts": [
+        "Eduard Bazardo pitches to James Wood",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Swinging",
+        "Pitch 3 : Strike 2 Looking",
+        "Pitch 4 : Strike 3 Looking",
+        "Wood struck out looking."
+      ]
     },
     {
       "play_sequence": 71,
       "game_id": "401695730",
       "inning": 9,
       "inning_half": "Top",
-      "batter": "Batter_40538",
-      "pitcher": "Pitcher_41939",
+      "batter": "Nathaniel Lowe",
+      "pitcher": "Eduard Bazardo",
       "play_description": "Pitch 4 : Ball In Play",
       "play_result": "Flyout",
       "pitch_sequence": [
@@ -3024,7 +3602,15 @@
           "strikes": 2
         }
       ],
-      "raw_text": "At-bat 4016957301603: Pitch 4 : Ball In Play"
+      "raw_text": "Lowe flied out to left.",
+      "all_play_texts": [
+        "Eduard Bazardo pitches to Nathaniel Lowe",
+        "Pitch 1 : Ball 1",
+        "Pitch 2 : Strike 1 Foul",
+        "Pitch 3 : Strike 2 Foul",
+        "Pitch 4 : Ball In Play",
+        "Lowe flied out to left."
+      ]
     }
   ]
 }
