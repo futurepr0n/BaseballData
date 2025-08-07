@@ -1,0 +1,549 @@
+{
+  "date": "2025-08-07",
+  "lastUpdated": "2025-08-07T11:53:04.109712",
+  "updateCount": 1,
+  "totalGames": 4,
+  "gamesWithLineups": 4,
+  "metadata": {
+    "scrapedFrom": "https://statsapi.mlb.com/api/v1",
+    "dataQuality": "partial",
+    "nextUpdateScheduled": "2025-08-07T12:23:04.109712"
+  },
+  "games": [
+    {
+      "gameId": "776837",
+      "date": "2025-08-07",
+      "gameTime": "16:05",
+      "timezone": "UTC",
+      "status": "Warmup",
+      "venue": {
+        "name": "Nationals Park",
+        "city": "",
+        "state": ""
+      },
+      "weather": {},
+      "teams": {
+        "home": {
+          "abbr": "WSH",
+          "name": "Washington Nationals",
+          "record": {
+            "wins": 45,
+            "losses": 68
+          }
+        },
+        "away": {
+          "abbr": "OAK",
+          "name": "Athletics",
+          "record": {
+            "wins": 50,
+            "losses": 66
+          }
+        }
+      },
+      "pitchers": {
+        "home": {
+          "name": "Mitchell Parker",
+          "id": "680730",
+          "throws": "",
+          "era": 0.0,
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "lastStart": "",
+          "status": "probable",
+          "confidence": 90
+        },
+        "away": {
+          "name": "Jacob Lopez",
+          "id": "682052",
+          "throws": "",
+          "era": 0.0,
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "lastStart": "",
+          "status": "probable",
+          "confidence": 90
+        }
+      },
+      "lineups": {
+        "home": {
+          "confirmed": true,
+          "lastUpdated": "2025-08-07T11:53:03.158011",
+          "batting_order": [
+            {
+              "position": 1,
+              "name": "CJ Abrams",
+              "fieldPosition": "SS",
+              "handedness": "L"
+            },
+            {
+              "position": 2,
+              "name": "James Wood",
+              "fieldPosition": "DH",
+              "handedness": "L"
+            },
+            {
+              "position": 3,
+              "name": "Paul DeJong",
+              "fieldPosition": "3B",
+              "handedness": "R"
+            },
+            {
+              "position": 4,
+              "name": "Luis García Jr.",
+              "fieldPosition": "2B",
+              "handedness": "L"
+            },
+            {
+              "position": 5,
+              "name": "Riley Adams",
+              "fieldPosition": "C",
+              "handedness": "R"
+            },
+            {
+              "position": 6,
+              "name": "Nathaniel Lowe",
+              "fieldPosition": "1B",
+              "handedness": "L"
+            },
+            {
+              "position": 7,
+              "name": "Daylen Lile",
+              "fieldPosition": "LF",
+              "handedness": "L"
+            },
+            {
+              "position": 8,
+              "name": "Jacob Young",
+              "fieldPosition": "CF",
+              "handedness": "R"
+            },
+            {
+              "position": 9,
+              "name": "Robert Hassell III",
+              "fieldPosition": "RF",
+              "handedness": "L"
+            }
+          ]
+        },
+        "away": {
+          "confirmed": true,
+          "lastUpdated": "2025-08-07T11:53:03.158018",
+          "batting_order": [
+            {
+              "position": 1,
+              "name": "Shea Langeliers",
+              "fieldPosition": "DH",
+              "handedness": "R"
+            },
+            {
+              "position": 2,
+              "name": "Nick Kurtz",
+              "fieldPosition": "1B",
+              "handedness": "L"
+            },
+            {
+              "position": 3,
+              "name": "Brent Rooker",
+              "fieldPosition": "RF",
+              "handedness": "R"
+            },
+            {
+              "position": 4,
+              "name": "Willie MacIver",
+              "fieldPosition": "C",
+              "handedness": "R"
+            },
+            {
+              "position": 5,
+              "name": "Tyler Soderstrom",
+              "fieldPosition": "LF",
+              "handedness": "L"
+            },
+            {
+              "position": 6,
+              "name": "Darell Hernaiz",
+              "fieldPosition": "SS",
+              "handedness": "R"
+            },
+            {
+              "position": 7,
+              "name": "Colby Thomas",
+              "fieldPosition": "CF",
+              "handedness": "R"
+            },
+            {
+              "position": 8,
+              "name": "Luis Urías",
+              "fieldPosition": "2B",
+              "handedness": "R"
+            },
+            {
+              "position": 9,
+              "name": "Max Schuemann",
+              "fieldPosition": "3B",
+              "handedness": "R"
+            }
+          ]
+        }
+      },
+      "updates": [],
+      "matchupKey": "OAK@WSH_16:05",
+      "pitcherMatchup": "Jacob Lopez vs Mitchell Parker"
+    },
+    {
+      "gameId": "776830",
+      "date": "2025-08-07",
+      "gameTime": "20:10",
+      "timezone": "UTC",
+      "status": "Scheduled",
+      "venue": {
+        "name": "T-Mobile Park",
+        "city": "",
+        "state": ""
+      },
+      "weather": {},
+      "teams": {
+        "home": {
+          "abbr": "SEA",
+          "name": "Seattle Mariners",
+          "record": {
+            "wins": 62,
+            "losses": 53
+          }
+        },
+        "away": {
+          "abbr": "CWS",
+          "name": "Chicago White Sox",
+          "record": {
+            "wins": 42,
+            "losses": 72
+          }
+        }
+      },
+      "pitchers": {
+        "home": {
+          "name": "Logan Gilbert",
+          "id": "669302",
+          "throws": "",
+          "era": 0.0,
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "lastStart": "",
+          "status": "probable",
+          "confidence": 90
+        },
+        "away": {
+          "name": "Shane Smith",
+          "id": "681343",
+          "throws": "",
+          "era": 0.0,
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "lastStart": "",
+          "status": "probable",
+          "confidence": 90
+        }
+      },
+      "lineups": {
+        "home": {
+          "confirmed": false,
+          "lastUpdated": "2025-08-07T11:53:04.109651",
+          "batting_order": []
+        },
+        "away": {
+          "confirmed": false,
+          "lastUpdated": "2025-08-07T11:53:04.109661",
+          "batting_order": []
+        }
+      },
+      "updates": [],
+      "matchupKey": "CWS@SEA_20:10",
+      "pitcherMatchup": "Shane Smith vs Logan Gilbert"
+    },
+    {
+      "gameId": "776840",
+      "date": "2025-08-07",
+      "gameTime": "22:40",
+      "timezone": "UTC",
+      "status": "Scheduled",
+      "venue": {
+        "name": "PNC Park",
+        "city": "",
+        "state": ""
+      },
+      "weather": {},
+      "teams": {
+        "home": {
+          "abbr": "PIT",
+          "name": "Pittsburgh Pirates",
+          "record": {
+            "wins": 49,
+            "losses": 66
+          }
+        },
+        "away": {
+          "abbr": "CIN",
+          "name": "Cincinnati Reds",
+          "record": {
+            "wins": 60,
+            "losses": 55
+          }
+        }
+      },
+      "pitchers": {
+        "home": {
+          "name": "Paul Skenes",
+          "id": "694973",
+          "throws": "",
+          "era": 0.0,
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "lastStart": "",
+          "status": "probable",
+          "confidence": 90
+        },
+        "away": {
+          "name": "Brady Singer",
+          "id": "663903",
+          "throws": "",
+          "era": 0.0,
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "lastStart": "",
+          "status": "probable",
+          "confidence": 90
+        }
+      },
+      "lineups": {
+        "home": {
+          "confirmed": false,
+          "lastUpdated": "2025-08-07T11:53:04.109668",
+          "batting_order": []
+        },
+        "away": {
+          "confirmed": false,
+          "lastUpdated": "2025-08-07T11:53:04.109670",
+          "batting_order": []
+        }
+      },
+      "updates": [],
+      "matchupKey": "CIN@PIT_22:40",
+      "pitcherMatchup": "Brady Singer vs Paul Skenes"
+    },
+    {
+      "gameId": "776842",
+      "date": "2025-08-07",
+      "gameTime": "23:15",
+      "timezone": "UTC",
+      "status": "Scheduled",
+      "venue": {
+        "name": "Truist Park",
+        "city": "",
+        "state": ""
+      },
+      "weather": {},
+      "teams": {
+        "home": {
+          "abbr": "ATL",
+          "name": "Atlanta Braves",
+          "record": {
+            "wins": 47,
+            "losses": 66
+          }
+        },
+        "away": {
+          "abbr": "MIA",
+          "name": "Miami Marlins",
+          "record": {
+            "wins": 56,
+            "losses": 57
+          }
+        }
+      },
+      "pitchers": {
+        "home": {
+          "name": "Carlos Carrasco",
+          "id": "471911",
+          "throws": "",
+          "era": 0.0,
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "lastStart": "",
+          "status": "probable",
+          "confidence": 90
+        },
+        "away": {
+          "name": "Eury Pérez",
+          "id": "691587",
+          "throws": "",
+          "era": 0.0,
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "lastStart": "",
+          "status": "probable",
+          "confidence": 90
+        }
+      },
+      "lineups": {
+        "home": {
+          "confirmed": false,
+          "lastUpdated": "2025-08-07T11:53:04.109674",
+          "batting_order": []
+        },
+        "away": {
+          "confirmed": false,
+          "lastUpdated": "2025-08-07T11:53:04.109676",
+          "batting_order": []
+        }
+      },
+      "updates": [],
+      "matchupKey": "MIA@ATL_23:15",
+      "pitcherMatchup": "Eury Pérez vs Carlos Carrasco"
+    }
+  ],
+  "quickLookup": {
+    "byTeam": {
+      "WSH": {
+        "pitcher": "Mitchell Parker",
+        "opponent": "OAK",
+        "opponentPitcher": "Jacob Lopez",
+        "gameTime": "16:05",
+        "homeAway": "home"
+      },
+      "OAK": {
+        "pitcher": "Jacob Lopez",
+        "opponent": "WSH",
+        "opponentPitcher": "Mitchell Parker",
+        "gameTime": "16:05",
+        "homeAway": "away"
+      },
+      "SEA": {
+        "pitcher": "Logan Gilbert",
+        "opponent": "CWS",
+        "opponentPitcher": "Shane Smith",
+        "gameTime": "20:10",
+        "homeAway": "home"
+      },
+      "CWS": {
+        "pitcher": "Shane Smith",
+        "opponent": "SEA",
+        "opponentPitcher": "Logan Gilbert",
+        "gameTime": "20:10",
+        "homeAway": "away"
+      },
+      "PIT": {
+        "pitcher": "Paul Skenes",
+        "opponent": "CIN",
+        "opponentPitcher": "Brady Singer",
+        "gameTime": "22:40",
+        "homeAway": "home"
+      },
+      "CIN": {
+        "pitcher": "Brady Singer",
+        "opponent": "PIT",
+        "opponentPitcher": "Paul Skenes",
+        "gameTime": "22:40",
+        "homeAway": "away"
+      },
+      "ATL": {
+        "pitcher": "Carlos Carrasco",
+        "opponent": "MIA",
+        "opponentPitcher": "Eury Pérez",
+        "gameTime": "23:15",
+        "homeAway": "home"
+      },
+      "MIA": {
+        "pitcher": "Eury Pérez",
+        "opponent": "ATL",
+        "opponentPitcher": "Carlos Carrasco",
+        "gameTime": "23:15",
+        "homeAway": "away"
+      }
+    },
+    "byPitcher": {
+      "Mitchell Parker": {
+        "team": "WSH",
+        "opponent": "OAK",
+        "opponentPitcher": "Jacob Lopez",
+        "gameTime": "16:05",
+        "venue": "Nationals Park"
+      },
+      "Jacob Lopez": {
+        "team": "OAK",
+        "opponent": "WSH",
+        "opponentPitcher": "Mitchell Parker",
+        "gameTime": "16:05",
+        "venue": "Nationals Park"
+      },
+      "Logan Gilbert": {
+        "team": "SEA",
+        "opponent": "CWS",
+        "opponentPitcher": "Shane Smith",
+        "gameTime": "20:10",
+        "venue": "T-Mobile Park"
+      },
+      "Shane Smith": {
+        "team": "CWS",
+        "opponent": "SEA",
+        "opponentPitcher": "Logan Gilbert",
+        "gameTime": "20:10",
+        "venue": "T-Mobile Park"
+      },
+      "Paul Skenes": {
+        "team": "PIT",
+        "opponent": "CIN",
+        "opponentPitcher": "Brady Singer",
+        "gameTime": "22:40",
+        "venue": "PNC Park"
+      },
+      "Brady Singer": {
+        "team": "CIN",
+        "opponent": "PIT",
+        "opponentPitcher": "Paul Skenes",
+        "gameTime": "22:40",
+        "venue": "PNC Park"
+      },
+      "Carlos Carrasco": {
+        "team": "ATL",
+        "opponent": "MIA",
+        "opponentPitcher": "Eury Pérez",
+        "gameTime": "23:15",
+        "venue": "Truist Park"
+      },
+      "Eury Pérez": {
+        "team": "MIA",
+        "opponent": "ATL",
+        "opponentPitcher": "Carlos Carrasco",
+        "gameTime": "23:15",
+        "venue": "Truist Park"
+      }
+    }
+  },
+  "alerts": [],
+  "statistics": {
+    "totalPitchers": 8,
+    "confirmedPitchers": 0,
+    "probablePitchers": 8,
+    "tbdPitchers": 0,
+    "scratchedPitchers": 0,
+    "postponedGames": 0,
+    "lineupsPosted": 0,
+    "lineupsToBePosted": 4
+  }
+}
