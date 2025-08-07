@@ -1,0 +1,22 @@
+{
+  "analysis_type": "daily_lineup_matchups",
+  "timestamp": "2025-08-07T08:07:27.192958",
+  "description": "Recommended lineup matchups based on pitcher vulnerabilities",
+  "structure": {
+    "game": {
+      "away_team": "team_abbr",
+      "home_team": "team_abbr",
+      "away_pitcher": "pitcher_name",
+      "home_pitcher": "pitcher_name",
+      "recommendations": [
+        {
+          "batter": "batter_name",
+          "lineup_position": "position_number",
+          "vulnerability_type": "category",
+          "confidence": "High/Medium/Low",
+          "pitcher_weakness_score": "numerical_score"
+        }
+      ]
+    }
+  }
+}
