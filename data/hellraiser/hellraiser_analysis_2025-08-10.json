@@ -1,6 +1,6 @@
 {
   "date": "2025-08-10",
-  "updatedAt": "2025-08-10T21:46:54.143156",
+  "updatedAt": "2025-08-11T11:02:52.829257",
   "generatedBy": "enhanced_comprehensive_hellraiser_v6",
   "version": "enhanced_comprehensive_v6.0",
   "teamFilter": null,
@@ -67,15 +67,6 @@
           "overall_advantage": -2.8766853932584264,
           "confidence": 1.0,
           "pitch_matchups": {
-            "SL": {
-              "batter_slg": 0.345,
-              "pitcher_slg_allowed": 0.576,
-              "batter_woba": 0.237,
-              "batter_hard_hit": 58.1,
-              "pitcher_usage": 32.3,
-              "advantage_score": -11.47,
-              "sample_size": 60
-            },
             "FF": {
               "batter_slg": 0.494,
               "pitcher_slg_allowed": 0.477,
@@ -84,6 +75,15 @@
               "pitcher_usage": 24.9,
               "advantage_score": 7.890000000000001,
               "sample_size": 96
+            },
+            "SL": {
+              "batter_slg": 0.345,
+              "pitcher_slg_allowed": 0.576,
+              "batter_woba": 0.237,
+              "batter_hard_hit": 58.1,
+              "pitcher_usage": 32.3,
+              "advantage_score": -11.47,
+              "sample_size": 60
             },
             "SI": {
               "batter_slg": 0.407,
@@ -115,10 +115,10 @@
       "trend_analysis": {
         "trend_available": true,
         "games_analyzed": 14,
-        "recent_3_avg": 0.208,
-        "recent_5_avg": 0.2082,
-        "recent_7_avg": 0.20928571428571427,
-        "season_avg": 0.2139285714285714,
+        "recent_3_avg": 0.20766666666666667,
+        "recent_5_avg": 0.20779999999999998,
+        "recent_7_avg": 0.2084285714285714,
+        "season_avg": 0.21321428571428572,
         "trend_direction": "stable",
         "trend_score": 0,
         "hr_last_3": 0.0,
@@ -203,9 +203,18 @@
         },
         "arsenal_matchup": {
           "matchup_available": true,
-          "overall_advantage": 7.3988466413181255,
+          "overall_advantage": 7.398846641318126,
           "confidence": 1.0,
           "pitch_matchups": {
+            "FF": {
+              "batter_slg": 0.523,
+              "pitcher_slg_allowed": 0.479,
+              "batter_woba": 0.35,
+              "batter_hard_hit": 60.3,
+              "pitcher_usage": 19.2,
+              "advantage_score": 5.800000000000002,
+              "sample_size": 126
+            },
             "CU": {
               "batter_slg": 0.379,
               "pitcher_slg_allowed": 0.256,
@@ -224,15 +233,6 @@
               "advantage_score": 1.6700000000000008,
               "sample_size": 49
             },
-            "FF": {
-              "batter_slg": 0.523,
-              "pitcher_slg_allowed": 0.479,
-              "batter_woba": 0.35,
-              "batter_hard_hit": 60.3,
-              "pitcher_usage": 19.2,
-              "advantage_score": 5.800000000000002,
-              "sample_size": 126
-            },
             "SI": {
               "batter_slg": 0.603,
               "pitcher_slg_allowed": 0.425,
@@ -243,7 +243,7 @@
               "sample_size": 86
             }
           },
-          "advantage_summary": "Strong vs CU (+6.0), FF (+5.8)",
+          "advantage_summary": "Strong vs FF (+5.8), CU (+6.0)",
           "disadvantage_summary": "No major weaknesses",
           "total_sample_size": 294
         },
@@ -268,9 +268,9 @@
         "trend_available": true,
         "games_analyzed": 12,
         "recent_3_avg": 0.251,
-        "recent_5_avg": 0.2498,
-        "recent_7_avg": 0.249,
-        "season_avg": 0.24991666666666668,
+        "recent_5_avg": 0.2502,
+        "recent_7_avg": 0.24942857142857142,
+        "season_avg": 0.24966666666666668,
         "trend_direction": "stable",
         "trend_score": 0,
         "hr_last_3": 0.0,
@@ -295,126 +295,6 @@
       "exit_velocity_avg": 92.1,
       "hard_hit_percent": 49.8,
       "sweet_spot_percent": 42.9
-    },
-    {
-      "playerName": "Andrew Vaughn",
-      "player_name": "Andrew Vaughn",
-      "team": "CHW",
-      "pitcher": "vs Slade Cecconi",
-      "pitcher_name": "Slade Cecconi",
-      "confidenceScore": 39.02059061631512,
-      "confidence_score": 39.02059061631512,
-      "classification": "Solid Bet",
-      "pathway": "batterDriven",
-      "reasoning": "Elite exit velocity: 92.2 mph (90th percentile); Elite barrel rate: 13.9% (crushing the ball consistently); Allows hard contact: 91.2 mph avg, 11.4% barrels",
-      "detailed_reasoning": [
-        "Elite exit velocity: 92.2 mph (90th percentile)",
-        "Elite barrel rate: 13.9% (crushing the ball consistently)",
-        "Allows hard contact: 91.2 mph avg, 11.4% barrels"
-      ],
-      "game": "CLE @ CHW",
-      "venue": "Rate Field",
-      "gameTime": "18:10",
-      "is_home": true,
-      "odds": {
-        "american": "+350",
-        "decimal": 4.5,
-        "source": "current"
-      },
-      "component_scores": {
-        "batter_analysis": {
-          "data_available": true,
-          "exit_velocity_avg": 92.2,
-          "exit_velocity_score": 86.80995475113126,
-          "exit_velocity_percentile": 90.0,
-          "barrel_rate": 13.9,
-          "barrel_rate_score": 83.0,
-          "hard_hit_percent": 51.0,
-          "iso": 0.179,
-          "home_runs": 11.0,
-          "power_score": 70.63694267515923,
-          "overall_score": 80.00641409920166,
-          "sweet_spot_percent": 37.1,
-          "data_source": "exit_velocity"
-        },
-        "pitcher_analysis": {
-          "data_available": true,
-          "era": 3.77,
-          "era_score": 70.94117647058823,
-          "hr_per_9": 0.0,
-          "hr_score": 50.0,
-          "exit_velocity_allowed": 91.2,
-          "contact_quality_score": 75.35714285714289,
-          "barrel_rate_allowed": 11.4,
-          "vulnerability_score": 64.71575630252102,
-          "overall_score": 64.71575630252102,
-          "whip": 0.0,
-          "k_percent": 20.0,
-          "data_source": "pitcher_exit_velocity"
-        },
-        "arsenal_matchup": {
-          "matchup_available": true,
-          "overall_advantage": 4.34,
-          "confidence": 0.425,
-          "pitch_matchups": {
-            "FF": {
-              "batter_slg": 0.519,
-              "pitcher_slg_allowed": 0.523,
-              "batter_woba": 0.376,
-              "batter_hard_hit": 62.1,
-              "pitcher_usage": 41.1,
-              "advantage_score": 4.34,
-              "sample_size": 85
-            }
-          },
-          "advantage_summary": "Limited advantages found",
-          "disadvantage_summary": "No major weaknesses",
-          "total_sample_size": 85
-        },
-        "handedness_analysis": {
-          "matchup_available": true,
-          "matchup_key": "RHP_vs_RHB",
-          "woba": 0.0,
-          "iso": 0.0,
-          "hr_fb_percent": 0.0,
-          "advantage_score": 0,
-          "advantage_description": "Neutral handedness matchup"
-        },
-        "swing_analysis": {
-          "data_available": false,
-          "optimization_score": 50
-        }
-      },
-      "trend_analysis": {
-        "trend_available": true,
-        "games_analyzed": 13,
-        "recent_3_avg": 0.36266666666666664,
-        "recent_5_avg": 0.3658,
-        "recent_7_avg": 0.36757142857142855,
-        "season_avg": 0.3619230769230769,
-        "trend_direction": "stable",
-        "trend_score": 0,
-        "hr_last_3": 0.0,
-        "hr_last_7": 0.0,
-        "is_trending_up": false,
-        "momentum": "negative"
-      },
-      "data_sources_used": [
-        "custom_batter_stats",
-        "exit_velocity_data",
-        "custom_pitcher_stats",
-        "pitcher_exit_velocity",
-        "daily_json_files",
-        "pitch_arsenal_data"
-      ],
-      "swing_optimization_score": 50,
-      "swing_attack_angle": 0,
-      "swing_ideal_rate": 0,
-      "swing_bat_speed": 0,
-      "barrel_rate": 13.9,
-      "exit_velocity_avg": 92.2,
-      "hard_hit_percent": 51.0,
-      "sweet_spot_percent": 37.1
     },
     {
       "playerName": "Willson Contreras",
@@ -511,10 +391,10 @@
       "trend_analysis": {
         "trend_available": true,
         "games_analyzed": 13,
-        "recent_3_avg": 0.25,
-        "recent_5_avg": 0.2522,
-        "recent_7_avg": 0.25385714285714284,
-        "season_avg": 0.25153846153846154,
+        "recent_3_avg": 0.25133333333333335,
+        "recent_5_avg": 0.2518,
+        "recent_7_avg": 0.25342857142857145,
+        "season_avg": 0.2523076923076923,
         "trend_direction": "stable",
         "trend_score": 0,
         "hr_last_3": 0.0,
@@ -598,9 +478,18 @@
         },
         "arsenal_matchup": {
           "matchup_available": true,
-          "overall_advantage": 3.32157712305026,
+          "overall_advantage": 3.3215771230502606,
           "confidence": 1.0,
           "pitch_matchups": {
+            "FF": {
+              "batter_slg": 0.612,
+              "pitcher_slg_allowed": 0.479,
+              "batter_woba": 0.406,
+              "batter_hard_hit": 58.3,
+              "pitcher_usage": 19.2,
+              "advantage_score": 11.350000000000001,
+              "sample_size": 125
+            },
             "CU": {
               "batter_slg": 0.436,
               "pitcher_slg_allowed": 0.256,
@@ -618,18 +507,9 @@
               "pitcher_usage": 21.5,
               "advantage_score": -5.2700000000000005,
               "sample_size": 44
-            },
-            "FF": {
-              "batter_slg": 0.612,
-              "pitcher_slg_allowed": 0.479,
-              "batter_woba": 0.406,
-              "batter_hard_hit": 58.3,
-              "pitcher_usage": 19.2,
-              "advantage_score": 11.350000000000001,
-              "sample_size": 125
             }
           },
-          "advantage_summary": "Strong vs CU (+5.1), FF (+11.4)",
+          "advantage_summary": "Strong vs FF (+11.4), CU (+5.1)",
           "disadvantage_summary": "Struggles vs SI (-5.3)",
           "total_sample_size": 212
         },
@@ -649,10 +529,10 @@
       "trend_analysis": {
         "trend_available": true,
         "games_analyzed": 13,
-        "recent_3_avg": 0.26566666666666666,
-        "recent_5_avg": 0.2666,
-        "recent_7_avg": 0.26742857142857146,
-        "season_avg": 0.2713076923076923,
+        "recent_3_avg": 0.26433333333333336,
+        "recent_5_avg": 0.2656,
+        "recent_7_avg": 0.26657142857142857,
+        "season_avg": 0.2700769230769231,
         "trend_direction": "stable",
         "trend_score": 0,
         "hr_last_3": 0.0,
@@ -739,6 +619,15 @@
           "overall_advantage": 11.780710571923745,
           "confidence": 1.0,
           "pitch_matchups": {
+            "FF": {
+              "batter_slg": 0.5,
+              "pitcher_slg_allowed": 0.479,
+              "batter_woba": 0.312,
+              "batter_hard_hit": 56.8,
+              "pitcher_usage": 19.2,
+              "advantage_score": 1.8600000000000003,
+              "sample_size": 127
+            },
             "CU": {
               "batter_slg": 0.818,
               "pitcher_slg_allowed": 0.256,
@@ -756,15 +645,6 @@
               "pitcher_usage": 21.5,
               "advantage_score": 9.31,
               "sample_size": 56
-            },
-            "FF": {
-              "batter_slg": 0.5,
-              "pitcher_slg_allowed": 0.479,
-              "batter_woba": 0.312,
-              "batter_hard_hit": 56.8,
-              "pitcher_usage": 19.2,
-              "advantage_score": 1.8600000000000003,
-              "sample_size": 127
             }
           },
           "advantage_summary": "Strong vs CU (+26.1), SI (+9.3)",
@@ -787,10 +667,10 @@
       "trend_analysis": {
         "trend_available": true,
         "games_analyzed": 13,
-        "recent_3_avg": 0.261,
-        "recent_5_avg": 0.263,
-        "recent_7_avg": 0.26457142857142857,
-        "season_avg": 0.26676923076923076,
+        "recent_3_avg": 0.25933333333333336,
+        "recent_5_avg": 0.2616,
+        "recent_7_avg": 0.263,
+        "season_avg": 0.2661538461538462,
         "trend_direction": "stable",
         "trend_score": 0,
         "hr_last_3": 0.0,
@@ -815,6 +695,113 @@
       "exit_velocity_avg": 89.5,
       "hard_hit_percent": 42.0,
       "sweet_spot_percent": 35.5
+    },
+    {
+      "playerName": "Andrew Vaughn",
+      "player_name": "Andrew Vaughn",
+      "team": "MIL",
+      "pitcher": "vs Sean Manaea",
+      "pitcher_name": "Sean Manaea",
+      "confidenceScore": 37.5869242297605,
+      "confidence_score": 37.5869242297605,
+      "classification": "Solid Bet",
+      "pathway": "batterDriven",
+      "reasoning": "Elite exit velocity: 92.2 mph (90th percentile); Elite barrel rate: 13.9% (crushing the ball consistently)",
+      "detailed_reasoning": [
+        "Elite exit velocity: 92.2 mph (90th percentile)",
+        "Elite barrel rate: 13.9% (crushing the ball consistently)"
+      ],
+      "game": "NYM @ MIL",
+      "venue": "American Family Field",
+      "gameTime": "18:10",
+      "is_home": true,
+      "odds": {
+        "american": "+350",
+        "decimal": 4.5,
+        "source": "current"
+      },
+      "component_scores": {
+        "batter_analysis": {
+          "data_available": true,
+          "exit_velocity_avg": 92.2,
+          "exit_velocity_score": 86.80995475113126,
+          "exit_velocity_percentile": 90.0,
+          "barrel_rate": 13.9,
+          "barrel_rate_score": 83.0,
+          "hard_hit_percent": 51.0,
+          "iso": 0.179,
+          "home_runs": 11.0,
+          "power_score": 70.63694267515923,
+          "overall_score": 80.00641409920166,
+          "sweet_spot_percent": 37.1,
+          "data_source": "exit_velocity"
+        },
+        "pitcher_analysis": {
+          "data_available": true,
+          "era": 2.08,
+          "era_score": 95,
+          "hr_per_9": 0.0,
+          "hr_score": 50.0,
+          "exit_velocity_allowed": 86.8,
+          "contact_quality_score": 25,
+          "barrel_rate_allowed": 7.3,
+          "vulnerability_score": 61.75,
+          "overall_score": 61.75,
+          "whip": 0.0,
+          "k_percent": 32.4,
+          "data_source": "custom_pitcher"
+        },
+        "arsenal_matchup": {
+          "matchup_available": false,
+          "overall_advantage": 0,
+          "confidence": 0,
+          "pitch_matchups": {},
+          "advantage_summary": "No arsenal data available",
+          "disadvantage_summary": "Limited matchup data"
+        },
+        "handedness_analysis": {
+          "matchup_available": true,
+          "matchup_key": "RHP_vs_RHB",
+          "woba": 0.0,
+          "iso": 0.0,
+          "hr_fb_percent": 0.0,
+          "advantage_score": 0,
+          "advantage_description": "Neutral handedness matchup"
+        },
+        "swing_analysis": {
+          "data_available": false,
+          "optimization_score": 50
+        }
+      },
+      "trend_analysis": {
+        "trend_available": true,
+        "games_analyzed": 13,
+        "recent_3_avg": 0.353,
+        "recent_5_avg": 0.36119999999999997,
+        "recent_7_avg": 0.36428571428571427,
+        "season_avg": 0.3637692307692308,
+        "trend_direction": "stable",
+        "trend_score": 0,
+        "hr_last_3": 0.0,
+        "hr_last_7": 0.0,
+        "is_trending_up": false,
+        "momentum": "negative"
+      },
+      "data_sources_used": [
+        "custom_batter_stats",
+        "exit_velocity_data",
+        "custom_pitcher_stats",
+        "pitcher_exit_velocity",
+        "daily_json_files"
+      ],
+      "swing_optimization_score": 50,
+      "swing_attack_angle": 0,
+      "swing_ideal_rate": 0,
+      "swing_bat_speed": 0,
+      "barrel_rate": 13.9,
+      "exit_velocity_avg": 92.2,
+      "hard_hit_percent": 51.0,
+      "sweet_spot_percent": 37.1
     },
     {
       "playerName": "Alec Burleson",
@@ -906,10 +893,10 @@
       "trend_analysis": {
         "trend_available": true,
         "games_analyzed": 13,
-        "recent_3_avg": 0.282,
-        "recent_5_avg": 0.281,
-        "recent_7_avg": 0.28185714285714286,
-        "season_avg": 0.2839230769230769,
+        "recent_3_avg": 0.2823333333333333,
+        "recent_5_avg": 0.2808,
+        "recent_7_avg": 0.2812857142857143,
+        "season_avg": 0.2835384615384615,
         "trend_direction": "stable",
         "trend_score": 0,
         "hr_last_3": 0.0,
@@ -945,12 +932,12 @@
       "confidence_score": 36.10119513447562,
       "classification": "Solid Bet",
       "pathway": "batterDriven",
-      "reasoning": "Above-average exit velocity: 90.4 mph; Strong barrel rate: 11.5% (quality contact); Strong power profile: 18.0 HRs, 0.207 ISO; Favorable pitch matchups: Strong vs CU (+15.1), SI (+11.4); Optimal swing mechanics: 73% efficiency",
+      "reasoning": "Above-average exit velocity: 90.4 mph; Strong barrel rate: 11.5% (quality contact); Strong power profile: 18.0 HRs, 0.207 ISO; Favorable pitch matchups: Strong vs FF (+6.4), CU (+15.1); Optimal swing mechanics: 73% efficiency",
       "detailed_reasoning": [
         "Above-average exit velocity: 90.4 mph",
         "Strong barrel rate: 11.5% (quality contact)",
         "Strong power profile: 18.0 HRs, 0.207 ISO",
-        "Favorable pitch matchups: Strong vs CU (+15.1), SI (+11.4)",
+        "Favorable pitch matchups: Strong vs FF (+6.4), CU (+15.1)",
         "Optimal swing mechanics: 73% efficiency"
       ],
       "game": "STL @ STL",
@@ -998,6 +985,15 @@
           "overall_advantage": 10.848492201039862,
           "confidence": 1.0,
           "pitch_matchups": {
+            "FF": {
+              "batter_slg": 0.519,
+              "pitcher_slg_allowed": 0.479,
+              "batter_woba": 0.413,
+              "batter_hard_hit": 50.4,
+              "pitcher_usage": 19.2,
+              "advantage_score": 6.44,
+              "sample_size": 166
+            },
             "CU": {
               "batter_slg": 0.548,
               "pitcher_slg_allowed": 0.256,
@@ -1015,18 +1011,9 @@
               "pitcher_usage": 21.5,
               "advantage_score": 11.399999999999999,
               "sample_size": 64
-            },
-            "FF": {
-              "batter_slg": 0.519,
-              "pitcher_slg_allowed": 0.479,
-              "batter_woba": 0.413,
-              "batter_hard_hit": 50.4,
-              "pitcher_usage": 19.2,
-              "advantage_score": 6.44,
-              "sample_size": 166
             }
           },
-          "advantage_summary": "Strong vs CU (+15.1), SI (+11.4)",
+          "advantage_summary": "Strong vs FF (+6.4), CU (+15.1)",
           "disadvantage_summary": "No major weaknesses",
           "total_sample_size": 277
         },
@@ -1047,9 +1034,9 @@
         "trend_available": true,
         "games_analyzed": 12,
         "recent_3_avg": 0.27166666666666667,
-        "recent_5_avg": 0.273,
-        "recent_7_avg": 0.2731428571428572,
-        "season_avg": 0.27366666666666667,
+        "recent_5_avg": 0.272,
+        "recent_7_avg": 0.27271428571428574,
+        "season_avg": 0.2734166666666667,
         "trend_direction": "stable",
         "trend_score": 0,
         "hr_last_3": 0.0,
@@ -1150,11 +1137,11 @@
       },
       "trend_analysis": {
         "trend_available": true,
-        "games_analyzed": 12,
-        "recent_3_avg": 0.276,
-        "recent_5_avg": 0.2634,
-        "recent_7_avg": 0.26885714285714285,
-        "season_avg": 0.25858333333333333,
+        "games_analyzed": 13,
+        "recent_3_avg": 0.27066666666666667,
+        "recent_5_avg": 0.267,
+        "recent_7_avg": 0.26385714285714285,
+        "season_avg": 0.25884615384615384,
         "trend_direction": "stable",
         "trend_score": 0,
         "hr_last_3": 0.0,
@@ -1254,10 +1241,10 @@
       "trend_analysis": {
         "trend_available": true,
         "games_analyzed": 10,
-        "recent_3_avg": 0.236,
-        "recent_5_avg": 0.2446,
-        "recent_7_avg": 0.2547142857142857,
-        "season_avg": 0.2544,
+        "recent_3_avg": 0.231,
+        "recent_5_avg": 0.236,
+        "recent_7_avg": 0.2507142857142857,
+        "season_avg": 0.2535,
         "trend_direction": "stable",
         "trend_score": 0,
         "hr_last_3": 0.0,
@@ -1359,11 +1346,11 @@
       },
       "trend_analysis": {
         "trend_available": true,
-        "games_analyzed": 13,
+        "games_analyzed": 12,
         "recent_3_avg": 0.259,
         "recent_5_avg": 0.2596,
         "recent_7_avg": 0.2601428571428572,
-        "season_avg": 0.2579230769230769,
+        "season_avg": 0.25816666666666666,
         "trend_direction": "stable",
         "trend_score": 0,
         "hr_last_3": 0.0,
@@ -1449,15 +1436,6 @@
           "overall_advantage": -3.3348174157303347,
           "confidence": 1.0,
           "pitch_matchups": {
-            "SL": {
-              "batter_slg": 0.397,
-              "pitcher_slg_allowed": 0.576,
-              "batter_woba": 0.264,
-              "batter_hard_hit": 48.7,
-              "pitcher_usage": 32.3,
-              "advantage_score": -9.169999999999996,
-              "sample_size": 66
-            },
             "FF": {
               "batter_slg": 0.395,
               "pitcher_slg_allowed": 0.477,
@@ -1466,6 +1444,15 @@
               "pitcher_usage": 24.9,
               "advantage_score": 1.2800000000000002,
               "sample_size": 124
+            },
+            "SL": {
+              "batter_slg": 0.397,
+              "pitcher_slg_allowed": 0.576,
+              "batter_woba": 0.264,
+              "batter_hard_hit": 48.7,
+              "pitcher_usage": 32.3,
+              "advantage_score": -9.169999999999996,
+              "sample_size": 66
             },
             "SI": {
               "batter_slg": 0.468,
@@ -1497,10 +1484,10 @@
       "trend_analysis": {
         "trend_available": true,
         "games_analyzed": 13,
-        "recent_3_avg": 0.23966666666666667,
-        "recent_5_avg": 0.23879999999999998,
-        "recent_7_avg": 0.23814285714285713,
-        "season_avg": 0.23607692307692307,
+        "recent_3_avg": 0.24033333333333332,
+        "recent_5_avg": 0.2392,
+        "recent_7_avg": 0.2387142857142857,
+        "season_avg": 0.23684615384615385,
         "trend_direction": "stable",
         "trend_score": 0,
         "hr_last_3": 0.0,
@@ -1586,15 +1573,6 @@
           "overall_advantage": 3.622261712439418,
           "confidence": 1.0,
           "pitch_matchups": {
-            "ST": {
-              "batter_slg": 0.379,
-              "pitcher_slg_allowed": 0.238,
-              "batter_woba": 0.269,
-              "batter_hard_hit": 33.3,
-              "pitcher_usage": 21.2,
-              "advantage_score": 3.54,
-              "sample_size": 32
-            },
             "FF": {
               "batter_slg": 0.409,
               "pitcher_slg_allowed": 0.479,
@@ -1612,6 +1590,15 @@
               "pitcher_usage": 21.5,
               "advantage_score": 7.34,
               "sample_size": 81
+            },
+            "ST": {
+              "batter_slg": 0.379,
+              "pitcher_slg_allowed": 0.238,
+              "batter_woba": 0.269,
+              "batter_hard_hit": 33.3,
+              "pitcher_usage": 21.2,
+              "advantage_score": 3.54,
+              "sample_size": 32
             }
           },
           "advantage_summary": "Strong vs SI (+7.3)",
@@ -1638,10 +1625,10 @@
       "trend_analysis": {
         "trend_available": true,
         "games_analyzed": 12,
-        "recent_3_avg": 0.24666666666666667,
-        "recent_5_avg": 0.2464,
-        "recent_7_avg": 0.24628571428571427,
-        "season_avg": 0.24783333333333332,
+        "recent_3_avg": 0.249,
+        "recent_5_avg": 0.2474,
+        "recent_7_avg": 0.24714285714285714,
+        "season_avg": 0.24775,
         "trend_direction": "stable",
         "trend_score": 0,
         "hr_last_3": 0.0,
@@ -1666,6 +1653,138 @@
       "exit_velocity_avg": 90.2,
       "hard_hit_percent": 48.0,
       "sweet_spot_percent": 35.8
+    },
+    {
+      "playerName": "Carson Kelly",
+      "player_name": "Carson Kelly",
+      "team": "CHC",
+      "pitcher": "vs Sonny Gray",
+      "pitcher_name": "Sonny Gray",
+      "confidenceScore": 31.928021423584994,
+      "confidence_score": 31.928021423584994,
+      "classification": "Value Play",
+      "pathway": "batterDriven",
+      "reasoning": "Strong barrel rate: 10.6% (quality contact); Strong power profile: 13.0 HRs, 0.223 ISO; Recent cold spell: 0.183 AVG last 3 games",
+      "detailed_reasoning": [
+        "Strong barrel rate: 10.6% (quality contact)",
+        "Strong power profile: 13.0 HRs, 0.223 ISO",
+        "Recent cold spell: 0.183 AVG last 3 games"
+      ],
+      "game": "STL @ STL",
+      "venue": "Busch Stadium",
+      "gameTime": "23:10",
+      "is_home": false,
+      "odds": {
+        "american": "+550",
+        "decimal": 6.5,
+        "source": "current"
+      },
+      "component_scores": {
+        "batter_analysis": {
+          "data_available": true,
+          "exit_velocity_avg": 89.6,
+          "exit_velocity_score": 57.05882352941168,
+          "exit_velocity_percentile": 50.0,
+          "barrel_rate": 10.6,
+          "barrel_rate_score": 66.66666666666666,
+          "hard_hit_percent": 41.9,
+          "iso": 0.223,
+          "home_runs": 13.0,
+          "power_score": 84.64968152866241,
+          "overall_score": 69.59797677032593,
+          "sweet_spot_percent": 35.4,
+          "data_source": "exit_velocity"
+        },
+        "pitcher_analysis": {
+          "data_available": true,
+          "era": 4.38,
+          "era_score": 63.62745098039216,
+          "hr_per_9": 0.0,
+          "hr_score": 50.0,
+          "exit_velocity_allowed": 88.8,
+          "contact_quality_score": 41.42857142857141,
+          "barrel_rate_allowed": 9.6,
+          "vulnerability_score": 53.30812324929972,
+          "overall_score": 53.30812324929972,
+          "whip": 0.0,
+          "k_percent": 26.4,
+          "data_source": "pitcher_exit_velocity"
+        },
+        "arsenal_matchup": {
+          "matchup_available": true,
+          "overall_advantage": 2.8935626535626535,
+          "confidence": 0.65,
+          "pitch_matchups": {
+            "FF": {
+              "batter_slg": 0.439,
+              "pitcher_slg_allowed": 0.479,
+              "batter_woba": 0.346,
+              "batter_hard_hit": 37.3,
+              "pitcher_usage": 19.2,
+              "advantage_score": -1.6600000000000004,
+              "sample_size": 81
+            },
+            "SI": {
+              "batter_slg": 0.462,
+              "pitcher_slg_allowed": 0.425,
+              "batter_woba": 0.426,
+              "batter_hard_hit": 41.0,
+              "pitcher_usage": 21.5,
+              "advantage_score": 6.960000000000001,
+              "sample_size": 49
+            }
+          },
+          "advantage_summary": "Strong vs SI (+7.0)",
+          "disadvantage_summary": "No major weaknesses",
+          "total_sample_size": 130
+        },
+        "handedness_analysis": {
+          "matchup_available": true,
+          "matchup_key": "RHP_vs_RHB",
+          "woba": 0.0,
+          "iso": 0.0,
+          "hr_fb_percent": 0.0,
+          "advantage_score": 0,
+          "advantage_description": "Neutral handedness matchup"
+        },
+        "swing_analysis": {
+          "data_available": true,
+          "bat_speed": 70.37868750877192,
+          "attack_angle": 11.751531173986708,
+          "ideal_angle_rate": 0.5298245614035088,
+          "optimization_score": 69.72292628654968
+        }
+      },
+      "trend_analysis": {
+        "trend_available": true,
+        "games_analyzed": 11,
+        "recent_3_avg": 0.18266666666666667,
+        "recent_5_avg": 0.16240000000000002,
+        "recent_7_avg": 0.1932857142857143,
+        "season_avg": 0.222,
+        "trend_direction": "cold",
+        "trend_score": -10,
+        "hr_last_3": 0.0,
+        "hr_last_7": 0.0,
+        "is_trending_up": false,
+        "momentum": "negative"
+      },
+      "data_sources_used": [
+        "custom_batter_stats",
+        "exit_velocity_data",
+        "custom_pitcher_stats",
+        "pitcher_exit_velocity",
+        "daily_json_files",
+        "pitch_arsenal_data"
+      ],
+      "swing_optimization_score": 69.72292628654968,
+      "swing_attack_angle": 11.751531173986708,
+      "swing_ideal_rate": 0.5298245614035088,
+      "swing_bat_speed": 70.37868750877192,
+      "barrel_rate": 10.6,
+      "exit_velocity_avg": 89.6,
+      "hard_hit_percent": 41.9,
+      "sweet_spot_percent": 35.4
     },
     {
       "playerName": "Ian Happ",
@@ -1724,9 +1843,18 @@
         },
         "arsenal_matchup": {
           "matchup_available": true,
-          "overall_advantage": 9.245493934142113,
+          "overall_advantage": 9.245493934142115,
           "confidence": 1.0,
           "pitch_matchups": {
+            "FF": {
+              "batter_slg": 0.252,
+              "pitcher_slg_allowed": 0.479,
+              "batter_woba": 0.283,
+              "batter_hard_hit": 46.0,
+              "pitcher_usage": 19.2,
+              "advantage_score": -9.850000000000001,
+              "sample_size": 157
+            },
             "CU": {
               "batter_slg": 0.54,
               "pitcher_slg_allowed": 0.256,
@@ -1744,15 +1872,6 @@
               "pitcher_usage": 21.5,
               "advantage_score": 22.61,
               "sample_size": 48
-            },
-            "FF": {
-              "batter_slg": 0.252,
-              "pitcher_slg_allowed": 0.479,
-              "batter_woba": 0.283,
-              "batter_hard_hit": 46.0,
-              "pitcher_usage": 19.2,
-              "advantage_score": -9.850000000000001,
-              "sample_size": 157
             }
           },
           "advantage_summary": "Strong vs CU (+13.9), SI (+22.6)",
@@ -1775,10 +1894,10 @@
       "trend_analysis": {
         "trend_available": true,
         "games_analyzed": 13,
-        "recent_3_avg": 0.23133333333333334,
-        "recent_5_avg": 0.23020000000000002,
-        "recent_7_avg": 0.2292857142857143,
-        "season_avg": 0.2280769230769231,
+        "recent_3_avg": 0.2316666666666667,
+        "recent_5_avg": 0.2308,
+        "recent_7_avg": 0.22985714285714287,
+        "season_avg": 0.22838461538461538,
         "trend_direction": "stable",
         "trend_score": 0,
         "hr_last_3": 0.0,
@@ -1894,10 +2013,10 @@
       "trend_analysis": {
         "trend_available": true,
         "games_analyzed": 11,
-        "recent_3_avg": 0.237,
-        "recent_5_avg": 0.2322,
-        "recent_7_avg": 0.23114285714285715,
-        "season_avg": 0.22972727272727272,
+        "recent_3_avg": 0.24033333333333332,
+        "recent_5_avg": 0.235,
+        "recent_7_avg": 0.2327142857142857,
+        "season_avg": 0.23118181818181818,
         "trend_direction": "stable",
         "trend_score": 0,
         "hr_last_3": 0.0,
@@ -1921,137 +2040,6 @@
       "exit_velocity_avg": 92.2,
       "hard_hit_percent": 49.3,
       "sweet_spot_percent": 30.0
-    },
-    {
-      "playerName": "Carson Kelly",
-      "player_name": "Carson Kelly",
-      "team": "CHC",
-      "pitcher": "vs Sonny Gray",
-      "pitcher_name": "Sonny Gray",
-      "confidenceScore": 31.328021423584993,
-      "confidence_score": 31.328021423584993,
-      "classification": "Value Play",
-      "pathway": "batterDriven",
-      "reasoning": "Strong barrel rate: 10.6% (quality contact); Strong power profile: 13.0 HRs, 0.223 ISO",
-      "detailed_reasoning": [
-        "Strong barrel rate: 10.6% (quality contact)",
-        "Strong power profile: 13.0 HRs, 0.223 ISO"
-      ],
-      "game": "STL @ STL",
-      "venue": "Busch Stadium",
-      "gameTime": "23:10",
-      "is_home": false,
-      "odds": {
-        "american": "+550",
-        "decimal": 6.5,
-        "source": "current"
-      },
-      "component_scores": {
-        "batter_analysis": {
-          "data_available": true,
-          "exit_velocity_avg": 89.6,
-          "exit_velocity_score": 57.05882352941168,
-          "exit_velocity_percentile": 50.0,
-          "barrel_rate": 10.6,
-          "barrel_rate_score": 66.66666666666666,
-          "hard_hit_percent": 41.9,
-          "iso": 0.223,
-          "home_runs": 13.0,
-          "power_score": 84.64968152866241,
-          "overall_score": 69.59797677032593,
-          "sweet_spot_percent": 35.4,
-          "data_source": "exit_velocity"
-        },
-        "pitcher_analysis": {
-          "data_available": true,
-          "era": 4.38,
-          "era_score": 63.62745098039216,
-          "hr_per_9": 0.0,
-          "hr_score": 50.0,
-          "exit_velocity_allowed": 88.8,
-          "contact_quality_score": 41.42857142857141,
-          "barrel_rate_allowed": 9.6,
-          "vulnerability_score": 53.30812324929972,
-          "overall_score": 53.30812324929972,
-          "whip": 0.0,
-          "k_percent": 26.4,
-          "data_source": "pitcher_exit_velocity"
-        },
-        "arsenal_matchup": {
-          "matchup_available": true,
-          "overall_advantage": 2.8935626535626535,
-          "confidence": 0.65,
-          "pitch_matchups": {
-            "SI": {
-              "batter_slg": 0.462,
-              "pitcher_slg_allowed": 0.425,
-              "batter_woba": 0.426,
-              "batter_hard_hit": 41.0,
-              "pitcher_usage": 21.5,
-              "advantage_score": 6.960000000000001,
-              "sample_size": 49
-            },
-            "FF": {
-              "batter_slg": 0.439,
-              "pitcher_slg_allowed": 0.479,
-              "batter_woba": 0.346,
-              "batter_hard_hit": 37.3,
-              "pitcher_usage": 19.2,
-              "advantage_score": -1.6600000000000004,
-              "sample_size": 81
-            }
-          },
-          "advantage_summary": "Strong vs SI (+7.0)",
-          "disadvantage_summary": "No major weaknesses",
-          "total_sample_size": 130
-        },
-        "handedness_analysis": {
-          "matchup_available": true,
-          "matchup_key": "RHP_vs_RHB",
-          "woba": 0.0,
-          "iso": 0.0,
-          "hr_fb_percent": 0.0,
-          "advantage_score": 0,
-          "advantage_description": "Neutral handedness matchup"
-        },
-        "swing_analysis": {
-          "data_available": true,
-          "bat_speed": 70.37868750877192,
-          "attack_angle": 11.751531173986708,
-          "ideal_angle_rate": 0.5298245614035088,
-          "optimization_score": 69.72292628654968
-        }
-      },
-      "trend_analysis": {
-        "trend_available": true,
-        "games_analyzed": 11,
-        "recent_3_avg": 0.09200000000000001,
-        "recent_5_avg": 0.1618,
-        "recent_7_avg": 0.1932857142857143,
-        "season_avg": 0.22236363636363637,
-        "trend_direction": "very_cold",
-        "trend_score": -15,
-        "hr_last_3": 0.0,
-        "hr_last_7": 0.0,
-        "is_trending_up": false,
-        "momentum": "negative"
-      },
-      "data_sources_used": [
-        "custom_batter_stats",
-        "exit_velocity_data",
-        "custom_pitcher_stats",
-        "pitcher_exit_velocity",
-        "daily_json_files",
-        "pitch_arsenal_data"
-      ],
-      "swing_optimization_score": 69.72292628654968,
-      "swing_attack_angle": 11.751531173986708,
-      "swing_ideal_rate": 0.5298245614035088,
-      "swing_bat_speed": 70.37868750877192,
-      "barrel_rate": 10.6,
-      "exit_velocity_avg": 89.6,
-      "hard_hit_percent": 41.9,
-      "sweet_spot_percent": 35.4
     },
     {
       "playerName": "Tommy Pham",
@@ -2112,15 +2100,6 @@
           "overall_advantage": -2.0513061797752794,
           "confidence": 0.97,
           "pitch_matchups": {
-            "SL": {
-              "batter_slg": 0.439,
-              "pitcher_slg_allowed": 0.576,
-              "batter_woba": 0.362,
-              "batter_hard_hit": 50.0,
-              "pitcher_usage": 32.3,
-              "advantage_score": -4.509999999999999,
-              "sample_size": 46
-            },
             "FF": {
               "batter_slg": 0.403,
               "pitcher_slg_allowed": 0.477,
@@ -2129,6 +2108,15 @@
               "pitcher_usage": 24.9,
               "advantage_score": 0.8000000000000016,
               "sample_size": 84
+            },
+            "SL": {
+              "batter_slg": 0.439,
+              "pitcher_slg_allowed": 0.576,
+              "batter_woba": 0.362,
+              "batter_hard_hit": 50.0,
+              "pitcher_usage": 32.3,
+              "advantage_score": -4.509999999999999,
+              "sample_size": 46
             },
             "SI": {
               "batter_slg": 0.362,
@@ -2161,10 +2149,10 @@
       "trend_analysis": {
         "trend_available": true,
         "games_analyzed": 11,
-        "recent_3_avg": 0.269,
-        "recent_5_avg": 0.2682,
-        "recent_7_avg": 0.2691428571428572,
-        "season_avg": 0.2675454545454546,
+        "recent_3_avg": 0.26766666666666666,
+        "recent_5_avg": 0.26780000000000004,
+        "recent_7_avg": 0.2681428571428572,
+        "season_avg": 0.2681818181818182,
         "trend_direction": "stable",
         "trend_score": 0,
         "hr_last_3": 0.0,
@@ -2275,11 +2263,11 @@
       },
       "trend_analysis": {
         "trend_available": true,
-        "games_analyzed": 6,
-        "recent_3_avg": 0.226,
-        "recent_5_avg": 0.22440000000000002,
-        "recent_7_avg": 0.22383333333333333,
-        "season_avg": 0.22383333333333333,
+        "games_analyzed": 7,
+        "recent_3_avg": 0.22633333333333333,
+        "recent_5_avg": 0.2256,
+        "recent_7_avg": 0.22442857142857142,
+        "season_avg": 0.22442857142857142,
         "trend_direction": "stable",
         "trend_score": 0,
         "hr_last_3": 0.0,
@@ -2303,117 +2291,6 @@
       "exit_velocity_avg": 89.0,
       "hard_hit_percent": 43.1,
       "sweet_spot_percent": 41.6
-    },
-    {
-      "playerName": "William Contreras",
-      "player_name": "William Contreras",
-      "team": "MIL",
-      "pitcher": "vs Sean Manaea",
-      "pitcher_name": "Sean Manaea",
-      "confidenceScore": 30.414649865701655,
-      "confidence_score": 30.414649865701655,
-      "classification": "Value Play",
-      "pathway": "pitcherDriven",
-      "reasoning": "Above-average exit velocity: 90.7 mph; Optimal swing mechanics: 82% efficiency",
-      "detailed_reasoning": [
-        "Above-average exit velocity: 90.7 mph",
-        "Optimal swing mechanics: 82% efficiency"
-      ],
-      "game": "NYM @ MIL",
-      "venue": "American Family Field",
-      "gameTime": "18:10",
-      "is_home": true,
-      "odds": {
-        "american": "+380",
-        "decimal": 4.8,
-        "source": "current"
-      },
-      "component_scores": {
-        "batter_analysis": {
-          "data_available": true,
-          "exit_velocity_avg": 90.7,
-          "exit_velocity_score": 70.0,
-          "exit_velocity_percentile": 75.0,
-          "barrel_rate": 5.4,
-          "barrel_rate_score": 41.5,
-          "hard_hit_percent": 46.7,
-          "iso": 0.118,
-          "home_runs": 9.0,
-          "power_score": 45.45945945945946,
-          "overall_score": 52.86081081081081,
-          "sweet_spot_percent": 32.2,
-          "data_source": "exit_velocity"
-        },
-        "pitcher_analysis": {
-          "data_available": true,
-          "era": 2.08,
-          "era_score": 95,
-          "hr_per_9": 0.0,
-          "hr_score": 50.0,
-          "exit_velocity_allowed": 86.8,
-          "contact_quality_score": 25,
-          "barrel_rate_allowed": 7.3,
-          "vulnerability_score": 61.75,
-          "overall_score": 61.75,
-          "whip": 0.0,
-          "k_percent": 32.4,
-          "data_source": "custom_pitcher"
-        },
-        "arsenal_matchup": {
-          "matchup_available": false,
-          "overall_advantage": 0,
-          "confidence": 0,
-          "pitch_matchups": {},
-          "advantage_summary": "No arsenal data available",
-          "disadvantage_summary": "Limited matchup data"
-        },
-        "handedness_analysis": {
-          "matchup_available": true,
-          "matchup_key": "RHP_vs_RHB",
-          "woba": 0.0,
-          "iso": 0.0,
-          "hr_fb_percent": 0.0,
-          "advantage_score": 0,
-          "advantage_description": "Neutral handedness matchup"
-        },
-        "swing_analysis": {
-          "data_available": true,
-          "bat_speed": 72.95893282809611,
-          "attack_angle": 10.31516831199466,
-          "ideal_angle_rate": 0.6765249537892791,
-          "optimization_score": 82.38022074861365
-        }
-      },
-      "trend_analysis": {
-        "trend_available": true,
-        "games_analyzed": 13,
-        "recent_3_avg": 0.25,
-        "recent_5_avg": 0.2522,
-        "recent_7_avg": 0.25385714285714284,
-        "season_avg": 0.25153846153846154,
-        "trend_direction": "stable",
-        "trend_score": 0,
-        "hr_last_3": 0.0,
-        "hr_last_7": 0.0,
-        "is_trending_up": false,
-        "momentum": "negative"
-      },
-      "data_sources_used": [
-        "custom_batter_stats",
-        "exit_velocity_data",
-        "custom_pitcher_stats",
-        "pitcher_exit_velocity",
-        "daily_json_files",
-        "swing_path_data"
-      ],
-      "swing_optimization_score": 82.38022074861365,
-      "swing_attack_angle": 10.31516831199466,
-      "swing_ideal_rate": 0.6765249537892791,
-      "swing_bat_speed": 72.95893282809611,
-      "barrel_rate": 5.4,
-      "exit_velocity_avg": 90.7,
-      "hard_hit_percent": 46.7,
-      "sweet_spot_percent": 32.2
     },
     {
       "playerName": "Andrew McCutchen",
@@ -2474,15 +2351,6 @@
           "overall_advantage": -6.521811797752809,
           "confidence": 1.0,
           "pitch_matchups": {
-            "SL": {
-              "batter_slg": 0.411,
-              "pitcher_slg_allowed": 0.576,
-              "batter_woba": 0.344,
-              "batter_hard_hit": 36.8,
-              "pitcher_usage": 32.3,
-              "advantage_score": -8.960000000000003,
-              "sample_size": 67
-            },
             "FF": {
               "batter_slg": 0.299,
               "pitcher_slg_allowed": 0.477,
@@ -2491,6 +2359,15 @@
               "pitcher_usage": 24.9,
               "advantage_score": -6.249999999999998,
               "sample_size": 117
+            },
+            "SL": {
+              "batter_slg": 0.411,
+              "pitcher_slg_allowed": 0.576,
+              "batter_woba": 0.344,
+              "batter_hard_hit": 36.8,
+              "pitcher_usage": 32.3,
+              "advantage_score": -8.960000000000003,
+              "sample_size": 67
             },
             "SI": {
               "batter_slg": 0.394,
@@ -2503,7 +2380,7 @@
             }
           },
           "advantage_summary": "Limited advantages found",
-          "disadvantage_summary": "Struggles vs SL (-9.0), FF (-6.2)",
+          "disadvantage_summary": "Struggles vs FF (-6.2), SL (-9.0)",
           "total_sample_size": 266
         },
         "handedness_analysis": {
@@ -2526,10 +2403,10 @@
       "trend_analysis": {
         "trend_available": true,
         "games_analyzed": 10,
-        "recent_3_avg": 0.24833333333333332,
-        "recent_5_avg": 0.2474,
-        "recent_7_avg": 0.24714285714285714,
-        "season_avg": 0.2473,
+        "recent_3_avg": 0.24766666666666667,
+        "recent_5_avg": 0.2476,
+        "recent_7_avg": 0.24757142857142858,
+        "season_avg": 0.2472,
         "trend_direction": "stable",
         "trend_score": 0,
         "hr_last_3": 0.0,
@@ -2633,10 +2510,10 @@
       "trend_analysis": {
         "trend_available": true,
         "games_analyzed": 12,
-        "recent_3_avg": 0.2763333333333334,
-        "recent_5_avg": 0.2762,
-        "recent_7_avg": 0.276,
-        "season_avg": 0.2754166666666667,
+        "recent_3_avg": 0.2773333333333334,
+        "recent_5_avg": 0.2766,
+        "recent_7_avg": 0.27642857142857147,
+        "season_avg": 0.27558333333333335,
         "trend_direction": "stable",
         "trend_score": 0,
         "hr_last_3": 0.0,
@@ -2744,10 +2621,10 @@
       "trend_analysis": {
         "trend_available": true,
         "games_analyzed": 14,
-        "recent_3_avg": 0.261,
-        "recent_5_avg": 0.2616,
-        "recent_7_avg": 0.26157142857142857,
-        "season_avg": 0.25442857142857145,
+        "recent_3_avg": 0.26233333333333336,
+        "recent_5_avg": 0.2622,
+        "recent_7_avg": 0.26257142857142857,
+        "season_avg": 0.25592857142857145,
         "trend_direction": "stable",
         "trend_score": 0,
         "hr_last_3": 0.0,
@@ -2857,11 +2734,11 @@
       },
       "trend_analysis": {
         "trend_available": true,
-        "games_analyzed": 10,
-        "recent_3_avg": 0.16833333333333333,
-        "recent_5_avg": 0.1674,
+        "games_analyzed": 11,
+        "recent_3_avg": 0.17066666666666666,
+        "recent_5_avg": 0.168,
         "recent_7_avg": 0.168,
-        "season_avg": 0.1701,
+        "season_avg": 0.17018181818181818,
         "trend_direction": "stable",
         "trend_score": 0,
         "hr_last_3": 0.0,
@@ -2969,11 +2846,11 @@
       },
       "trend_analysis": {
         "trend_available": true,
-        "games_analyzed": 12,
-        "recent_3_avg": 0.278,
-        "recent_5_avg": 0.276,
-        "recent_7_avg": 0.27371428571428574,
-        "season_avg": 0.266,
+        "games_analyzed": 13,
+        "recent_3_avg": 0.2786666666666667,
+        "recent_5_avg": 0.277,
+        "recent_7_avg": 0.2765714285714286,
+        "season_avg": 0.2671538461538462,
         "trend_direction": "stable",
         "trend_score": 0,
         "hr_last_3": 0.0,
@@ -3074,10 +2951,10 @@
       "trend_analysis": {
         "trend_available": true,
         "games_analyzed": 12,
-        "recent_3_avg": 0.29033333333333333,
-        "recent_5_avg": 0.2874,
-        "recent_7_avg": 0.2847142857142857,
-        "season_avg": 0.28075,
+        "recent_3_avg": 0.29133333333333333,
+        "recent_5_avg": 0.29019999999999996,
+        "recent_7_avg": 0.28728571428571426,
+        "season_avg": 0.2826666666666667,
         "trend_direction": "stable",
         "trend_score": 0,
         "hr_last_3": 0.0,
@@ -3187,11 +3064,11 @@
       },
       "trend_analysis": {
         "trend_available": true,
-        "games_analyzed": 10,
-        "recent_3_avg": 0.23566666666666666,
-        "recent_5_avg": 0.2338,
-        "recent_7_avg": 0.2337142857142857,
-        "season_avg": 0.2353,
+        "games_analyzed": 11,
+        "recent_3_avg": 0.23966666666666667,
+        "recent_5_avg": 0.2358,
+        "recent_7_avg": 0.2342857142857143,
+        "season_avg": 0.23581818181818182,
         "trend_direction": "stable",
         "trend_score": 0,
         "hr_last_3": 0.0,
@@ -3307,9 +3184,9 @@
       "trend_analysis": {
         "trend_available": true,
         "games_analyzed": 12,
-        "recent_3_avg": 0.27033333333333337,
-        "recent_5_avg": 0.2696,
-        "recent_7_avg": 0.2701428571428572,
+        "recent_3_avg": 0.26933333333333337,
+        "recent_5_avg": 0.269,
+        "recent_7_avg": 0.2692857142857143,
         "season_avg": 0.26983333333333337,
         "trend_direction": "stable",
         "trend_score": 0,
@@ -3334,6 +3211,106 @@
       "exit_velocity_avg": 88.4,
       "hard_hit_percent": 36.0,
       "sweet_spot_percent": 32.5
+    },
+    {
+      "playerName": "Anthony Seigler",
+      "player_name": "Anthony Seigler",
+      "team": "MIL",
+      "pitcher": "vs Sean Manaea",
+      "pitcher_name": "Sean Manaea",
+      "confidenceScore": 25.722499999999997,
+      "confidence_score": 25.722499999999997,
+      "classification": "Avoid",
+      "pathway": "pitcherDriven",
+      "reasoning": "",
+      "detailed_reasoning": [],
+      "game": "NYM @ MIL",
+      "venue": "American Family Field",
+      "gameTime": "18:10",
+      "is_home": true,
+      "odds": {
+        "american": "+550",
+        "decimal": 6.5,
+        "source": "current"
+      },
+      "component_scores": {
+        "batter_analysis": {
+          "data_available": true,
+          "exit_velocity_avg": 88.3,
+          "exit_velocity_score": 44.166666666666636,
+          "exit_velocity_percentile": 25.0,
+          "barrel_rate": 3.6,
+          "barrel_rate_score": 25,
+          "hard_hit_percent": 35.7,
+          "iso": 0.0,
+          "home_runs": 0.0,
+          "power_score": 50.0,
+          "overall_score": 40.45833333333332,
+          "sweet_spot_percent": 42.9,
+          "data_source": "custom_batter"
+        },
+        "pitcher_analysis": {
+          "data_available": true,
+          "era": 2.08,
+          "era_score": 95,
+          "hr_per_9": 0.0,
+          "hr_score": 50.0,
+          "exit_velocity_allowed": 86.8,
+          "contact_quality_score": 25,
+          "barrel_rate_allowed": 7.3,
+          "vulnerability_score": 61.75,
+          "overall_score": 61.75,
+          "whip": 0.0,
+          "k_percent": 32.4,
+          "data_source": "custom_pitcher"
+        },
+        "arsenal_matchup": {
+          "matchup_available": false,
+          "overall_advantage": 0,
+          "confidence": 0,
+          "pitch_matchups": {},
+          "advantage_summary": "No arsenal data available",
+          "disadvantage_summary": "Limited matchup data"
+        },
+        "handedness_analysis": {
+          "matchup_available": false,
+          "advantage_score": 0,
+          "advantage_description": "No handedness data available"
+        },
+        "swing_analysis": {
+          "data_available": false,
+          "optimization_score": 50
+        }
+      },
+      "trend_analysis": {
+        "trend_available": true,
+        "games_analyzed": 10,
+        "recent_3_avg": 0.196,
+        "recent_5_avg": 0.19039999999999999,
+        "recent_7_avg": 0.19014285714285714,
+        "season_avg": 0.1868,
+        "trend_direction": "stable",
+        "trend_score": 0,
+        "hr_last_3": 0.0,
+        "hr_last_7": 0.0,
+        "is_trending_up": true,
+        "momentum": "positive"
+      },
+      "data_sources_used": [
+        "custom_batter_stats",
+        "exit_velocity_data",
+        "custom_pitcher_stats",
+        "pitcher_exit_velocity",
+        "daily_json_files"
+      ],
+      "swing_optimization_score": 50,
+      "swing_attack_angle": 0,
+      "swing_ideal_rate": 0,
+      "swing_bat_speed": 0,
+      "barrel_rate": 3.6,
+      "exit_velocity_avg": 88.3,
+      "hard_hit_percent": 35.7,
+      "sweet_spot_percent": 42.9
     },
     {
       "playerName": "Caleb Durbin",
@@ -3415,10 +3392,10 @@
       "trend_analysis": {
         "trend_available": true,
         "games_analyzed": 12,
-        "recent_3_avg": 0.26033333333333336,
-        "recent_5_avg": 0.26180000000000003,
-        "recent_7_avg": 0.26285714285714284,
-        "season_avg": 0.26158333333333333,
+        "recent_3_avg": 0.259,
+        "recent_5_avg": 0.26,
+        "recent_7_avg": 0.262,
+        "season_avg": 0.2609166666666667,
         "trend_direction": "stable",
         "trend_score": 0,
         "hr_last_3": 0.0,
@@ -3522,10 +3499,10 @@
       "trend_analysis": {
         "trend_available": true,
         "games_analyzed": 13,
-        "recent_3_avg": 0.219,
-        "recent_5_avg": 0.2186,
-        "recent_7_avg": 0.218,
-        "season_avg": 0.21484615384615385,
+        "recent_3_avg": 0.22,
+        "recent_5_avg": 0.22,
+        "recent_7_avg": 0.21914285714285714,
+        "season_avg": 0.21553846153846154,
         "trend_direction": "stable",
         "trend_score": 0,
         "hr_last_3": 0.0,
@@ -3606,15 +3583,6 @@
           "overall_advantage": -7.4637592137592135,
           "confidence": 0.675,
           "pitch_matchups": {
-            "SI": {
-              "batter_slg": 0.271,
-              "pitcher_slg_allowed": 0.425,
-              "batter_woba": 0.321,
-              "batter_hard_hit": 23.8,
-              "pitcher_usage": 21.5,
-              "advantage_score": -7.610000000000001,
-              "sample_size": 56
-            },
             "FF": {
               "batter_slg": 0.361,
               "pitcher_slg_allowed": 0.479,
@@ -3623,10 +3591,19 @@
               "pitcher_usage": 19.2,
               "advantage_score": -7.299999999999999,
               "sample_size": 79
+            },
+            "SI": {
+              "batter_slg": 0.271,
+              "pitcher_slg_allowed": 0.425,
+              "batter_woba": 0.321,
+              "batter_hard_hit": 23.8,
+              "pitcher_usage": 21.5,
+              "advantage_score": -7.610000000000001,
+              "sample_size": 56
             }
           },
           "advantage_summary": "Limited advantages found",
-          "disadvantage_summary": "Struggles vs SI (-7.6), FF (-7.3)",
+          "disadvantage_summary": "Struggles vs FF (-7.3), SI (-7.6)",
           "total_sample_size": 135
         },
         "handedness_analysis": {
@@ -3646,10 +3623,10 @@
       "trend_analysis": {
         "trend_available": true,
         "games_analyzed": 12,
-        "recent_3_avg": 0.22366666666666668,
-        "recent_5_avg": 0.22240000000000001,
-        "recent_7_avg": 0.2225714285714286,
-        "season_avg": 0.22333333333333333,
+        "recent_3_avg": 0.22566666666666668,
+        "recent_5_avg": 0.2238,
+        "recent_7_avg": 0.223,
+        "season_avg": 0.2235,
         "trend_direction": "stable",
         "trend_score": 0,
         "hr_last_3": 0.0,
@@ -3733,15 +3710,6 @@
           "overall_advantage": -9.28949438202247,
           "confidence": 1.0,
           "pitch_matchups": {
-            "SL": {
-              "batter_slg": 0.298,
-              "pitcher_slg_allowed": 0.576,
-              "batter_woba": 0.271,
-              "batter_hard_hit": 19.2,
-              "pitcher_usage": 32.3,
-              "advantage_score": -16.99,
-              "sample_size": 58
-            },
             "FF": {
               "batter_slg": 0.485,
               "pitcher_slg_allowed": 0.477,
@@ -3750,6 +3718,15 @@
               "pitcher_usage": 24.9,
               "advantage_score": 3.05,
               "sample_size": 78
+            },
+            "SL": {
+              "batter_slg": 0.298,
+              "pitcher_slg_allowed": 0.576,
+              "batter_woba": 0.271,
+              "batter_hard_hit": 19.2,
+              "pitcher_usage": 32.3,
+              "advantage_score": -16.99,
+              "sample_size": 58
             },
             "SI": {
               "batter_slg": 0.294,
@@ -3785,10 +3762,10 @@
       "trend_analysis": {
         "trend_available": true,
         "games_analyzed": 11,
-        "recent_3_avg": 0.26933333333333337,
-        "recent_5_avg": 0.26980000000000004,
-        "recent_7_avg": 0.2702857142857143,
-        "season_avg": 0.26845454545454545,
+        "recent_3_avg": 0.27033333333333337,
+        "recent_5_avg": 0.27040000000000003,
+        "recent_7_avg": 0.27071428571428574,
+        "season_avg": 0.2691818181818182,
         "trend_direction": "stable",
         "trend_score": 0,
         "hr_last_3": 0.0,
@@ -3870,15 +3847,6 @@
           "overall_advantage": -1.9995331695331704,
           "confidence": 1.0,
           "pitch_matchups": {
-            "SI": {
-              "batter_slg": 0.364,
-              "pitcher_slg_allowed": 0.425,
-              "batter_woba": 0.346,
-              "batter_hard_hit": 30.5,
-              "pitcher_usage": 21.5,
-              "advantage_score": -0.990000000000002,
-              "sample_size": 97
-            },
             "FF": {
               "batter_slg": 0.374,
               "pitcher_slg_allowed": 0.479,
@@ -3887,6 +3855,15 @@
               "pitcher_usage": 19.2,
               "advantage_score": -3.1299999999999994,
               "sample_size": 125
+            },
+            "SI": {
+              "batter_slg": 0.364,
+              "pitcher_slg_allowed": 0.425,
+              "batter_woba": 0.346,
+              "batter_hard_hit": 30.5,
+              "pitcher_usage": 21.5,
+              "advantage_score": -0.990000000000002,
+              "sample_size": 97
             }
           },
           "advantage_summary": "Limited advantages found",
@@ -3913,10 +3890,10 @@
       "trend_analysis": {
         "trend_available": true,
         "games_analyzed": 13,
-        "recent_3_avg": 0.291,
-        "recent_5_avg": 0.291,
-        "recent_7_avg": 0.2918571428571428,
-        "season_avg": 0.2906923076923077,
+        "recent_3_avg": 0.29066666666666663,
+        "recent_5_avg": 0.2908,
+        "recent_7_avg": 0.29157142857142854,
+        "season_avg": 0.29107692307692307,
         "trend_direction": "stable",
         "trend_score": 0,
         "hr_last_3": 0.0,
@@ -4007,15 +3984,6 @@
             "overall_advantage": -2.8766853932584264,
             "confidence": 1.0,
             "pitch_matchups": {
-              "SL": {
-                "batter_slg": 0.345,
-                "pitcher_slg_allowed": 0.576,
-                "batter_woba": 0.237,
-                "batter_hard_hit": 58.1,
-                "pitcher_usage": 32.3,
-                "advantage_score": -11.47,
-                "sample_size": 60
-              },
               "FF": {
                 "batter_slg": 0.494,
                 "pitcher_slg_allowed": 0.477,
@@ -4024,6 +3992,15 @@
                 "pitcher_usage": 24.9,
                 "advantage_score": 7.890000000000001,
                 "sample_size": 96
+              },
+              "SL": {
+                "batter_slg": 0.345,
+                "pitcher_slg_allowed": 0.576,
+                "batter_woba": 0.237,
+                "batter_hard_hit": 58.1,
+                "pitcher_usage": 32.3,
+                "advantage_score": -11.47,
+                "sample_size": 60
               },
               "SI": {
                 "batter_slg": 0.407,
@@ -4055,10 +4032,10 @@
         "trend_analysis": {
           "trend_available": true,
           "games_analyzed": 14,
-          "recent_3_avg": 0.208,
-          "recent_5_avg": 0.2082,
-          "recent_7_avg": 0.20928571428571427,
-          "season_avg": 0.2139285714285714,
+          "recent_3_avg": 0.20766666666666667,
+          "recent_5_avg": 0.20779999999999998,
+          "recent_7_avg": 0.2084285714285714,
+          "season_avg": 0.21321428571428572,
           "trend_direction": "stable",
           "trend_score": 0,
           "hr_last_3": 0.0,
@@ -4143,9 +4120,18 @@
           },
           "arsenal_matchup": {
             "matchup_available": true,
-            "overall_advantage": 7.3988466413181255,
+            "overall_advantage": 7.398846641318126,
             "confidence": 1.0,
             "pitch_matchups": {
+              "FF": {
+                "batter_slg": 0.523,
+                "pitcher_slg_allowed": 0.479,
+                "batter_woba": 0.35,
+                "batter_hard_hit": 60.3,
+                "pitcher_usage": 19.2,
+                "advantage_score": 5.800000000000002,
+                "sample_size": 126
+              },
               "CU": {
                 "batter_slg": 0.379,
                 "pitcher_slg_allowed": 0.256,
@@ -4164,15 +4150,6 @@
                 "advantage_score": 1.6700000000000008,
                 "sample_size": 49
               },
-              "FF": {
-                "batter_slg": 0.523,
-                "pitcher_slg_allowed": 0.479,
-                "batter_woba": 0.35,
-                "batter_hard_hit": 60.3,
-                "pitcher_usage": 19.2,
-                "advantage_score": 5.800000000000002,
-                "sample_size": 126
-              },
               "SI": {
                 "batter_slg": 0.603,
                 "pitcher_slg_allowed": 0.425,
@@ -4183,7 +4160,7 @@
                 "sample_size": 86
               }
             },
-            "advantage_summary": "Strong vs CU (+6.0), FF (+5.8)",
+            "advantage_summary": "Strong vs FF (+5.8), CU (+6.0)",
             "disadvantage_summary": "No major weaknesses",
             "total_sample_size": 294
           },
@@ -4208,9 +4185,9 @@
           "trend_available": true,
           "games_analyzed": 12,
           "recent_3_avg": 0.251,
-          "recent_5_avg": 0.2498,
-          "recent_7_avg": 0.249,
-          "season_avg": 0.24991666666666668,
+          "recent_5_avg": 0.2502,
+          "recent_7_avg": 0.24942857142857142,
+          "season_avg": 0.24966666666666668,
           "trend_direction": "stable",
           "trend_score": 0,
           "hr_last_3": 0.0,
@@ -4235,126 +4212,6 @@
         "exit_velocity_avg": 92.1,
         "hard_hit_percent": 49.8,
         "sweet_spot_percent": 42.9
-      },
-      {
-        "playerName": "Andrew Vaughn",
-        "player_name": "Andrew Vaughn",
-        "team": "CHW",
-        "pitcher": "vs Slade Cecconi",
-        "pitcher_name": "Slade Cecconi",
-        "confidenceScore": 39.02059061631512,
-        "confidence_score": 39.02059061631512,
-        "classification": "Solid Bet",
-        "pathway": "batterDriven",
-        "reasoning": "Elite exit velocity: 92.2 mph (90th percentile); Elite barrel rate: 13.9% (crushing the ball consistently); Allows hard contact: 91.2 mph avg, 11.4% barrels",
-        "detailed_reasoning": [
-          "Elite exit velocity: 92.2 mph (90th percentile)",
-          "Elite barrel rate: 13.9% (crushing the ball consistently)",
-          "Allows hard contact: 91.2 mph avg, 11.4% barrels"
-        ],
-        "game": "CLE @ CHW",
-        "venue": "Rate Field",
-        "gameTime": "18:10",
-        "is_home": true,
-        "odds": {
-          "american": "+350",
-          "decimal": 4.5,
-          "source": "current"
-        },
-        "component_scores": {
-          "batter_analysis": {
-            "data_available": true,
-            "exit_velocity_avg": 92.2,
-            "exit_velocity_score": 86.80995475113126,
-            "exit_velocity_percentile": 90.0,
-            "barrel_rate": 13.9,
-            "barrel_rate_score": 83.0,
-            "hard_hit_percent": 51.0,
-            "iso": 0.179,
-            "home_runs": 11.0,
-            "power_score": 70.63694267515923,
-            "overall_score": 80.00641409920166,
-            "sweet_spot_percent": 37.1,
-            "data_source": "exit_velocity"
-          },
-          "pitcher_analysis": {
-            "data_available": true,
-            "era": 3.77,
-            "era_score": 70.94117647058823,
-            "hr_per_9": 0.0,
-            "hr_score": 50.0,
-            "exit_velocity_allowed": 91.2,
-            "contact_quality_score": 75.35714285714289,
-            "barrel_rate_allowed": 11.4,
-            "vulnerability_score": 64.71575630252102,
-            "overall_score": 64.71575630252102,
-            "whip": 0.0,
-            "k_percent": 20.0,
-            "data_source": "pitcher_exit_velocity"
-          },
-          "arsenal_matchup": {
-            "matchup_available": true,
-            "overall_advantage": 4.34,
-            "confidence": 0.425,
-            "pitch_matchups": {
-              "FF": {
-                "batter_slg": 0.519,
-                "pitcher_slg_allowed": 0.523,
-                "batter_woba": 0.376,
-                "batter_hard_hit": 62.1,
-                "pitcher_usage": 41.1,
-                "advantage_score": 4.34,
-                "sample_size": 85
-              }
-            },
-            "advantage_summary": "Limited advantages found",
-            "disadvantage_summary": "No major weaknesses",
-            "total_sample_size": 85
-          },
-          "handedness_analysis": {
-            "matchup_available": true,
-            "matchup_key": "RHP_vs_RHB",
-            "woba": 0.0,
-            "iso": 0.0,
-            "hr_fb_percent": 0.0,
-            "advantage_score": 0,
-            "advantage_description": "Neutral handedness matchup"
-          },
-          "swing_analysis": {
-            "data_available": false,
-            "optimization_score": 50
-          }
-        },
-        "trend_analysis": {
-          "trend_available": true,
-          "games_analyzed": 13,
-          "recent_3_avg": 0.36266666666666664,
-          "recent_5_avg": 0.3658,
-          "recent_7_avg": 0.36757142857142855,
-          "season_avg": 0.3619230769230769,
-          "trend_direction": "stable",
-          "trend_score": 0,
-          "hr_last_3": 0.0,
-          "hr_last_7": 0.0,
-          "is_trending_up": false,
-          "momentum": "negative"
-        },
-        "data_sources_used": [
-          "custom_batter_stats",
-          "exit_velocity_data",
-          "custom_pitcher_stats",
-          "pitcher_exit_velocity",
-          "daily_json_files",
-          "pitch_arsenal_data"
-        ],
-        "swing_optimization_score": 50,
-        "swing_attack_angle": 0,
-        "swing_ideal_rate": 0,
-        "swing_bat_speed": 0,
-        "barrel_rate": 13.9,
-        "exit_velocity_avg": 92.2,
-        "hard_hit_percent": 51.0,
-        "sweet_spot_percent": 37.1
       },
       {
         "playerName": "Willson Contreras",
@@ -4451,10 +4308,10 @@
         "trend_analysis": {
           "trend_available": true,
           "games_analyzed": 13,
-          "recent_3_avg": 0.25,
-          "recent_5_avg": 0.2522,
-          "recent_7_avg": 0.25385714285714284,
-          "season_avg": 0.25153846153846154,
+          "recent_3_avg": 0.25133333333333335,
+          "recent_5_avg": 0.2518,
+          "recent_7_avg": 0.25342857142857145,
+          "season_avg": 0.2523076923076923,
           "trend_direction": "stable",
           "trend_score": 0,
           "hr_last_3": 0.0,
@@ -4538,9 +4395,18 @@
           },
           "arsenal_matchup": {
             "matchup_available": true,
-            "overall_advantage": 3.32157712305026,
+            "overall_advantage": 3.3215771230502606,
             "confidence": 1.0,
             "pitch_matchups": {
+              "FF": {
+                "batter_slg": 0.612,
+                "pitcher_slg_allowed": 0.479,
+                "batter_woba": 0.406,
+                "batter_hard_hit": 58.3,
+                "pitcher_usage": 19.2,
+                "advantage_score": 11.350000000000001,
+                "sample_size": 125
+              },
               "CU": {
                 "batter_slg": 0.436,
                 "pitcher_slg_allowed": 0.256,
@@ -4558,18 +4424,9 @@
                 "pitcher_usage": 21.5,
                 "advantage_score": -5.2700000000000005,
                 "sample_size": 44
-              },
-              "FF": {
-                "batter_slg": 0.612,
-                "pitcher_slg_allowed": 0.479,
-                "batter_woba": 0.406,
-                "batter_hard_hit": 58.3,
-                "pitcher_usage": 19.2,
-                "advantage_score": 11.350000000000001,
-                "sample_size": 125
               }
             },
-            "advantage_summary": "Strong vs CU (+5.1), FF (+11.4)",
+            "advantage_summary": "Strong vs FF (+11.4), CU (+5.1)",
             "disadvantage_summary": "Struggles vs SI (-5.3)",
             "total_sample_size": 212
           },
@@ -4589,10 +4446,10 @@
         "trend_analysis": {
           "trend_available": true,
           "games_analyzed": 13,
-          "recent_3_avg": 0.26566666666666666,
-          "recent_5_avg": 0.2666,
-          "recent_7_avg": 0.26742857142857146,
-          "season_avg": 0.2713076923076923,
+          "recent_3_avg": 0.26433333333333336,
+          "recent_5_avg": 0.2656,
+          "recent_7_avg": 0.26657142857142857,
+          "season_avg": 0.2700769230769231,
           "trend_direction": "stable",
           "trend_score": 0,
           "hr_last_3": 0.0,
@@ -4679,6 +4536,15 @@
             "overall_advantage": 11.780710571923745,
             "confidence": 1.0,
             "pitch_matchups": {
+              "FF": {
+                "batter_slg": 0.5,
+                "pitcher_slg_allowed": 0.479,
+                "batter_woba": 0.312,
+                "batter_hard_hit": 56.8,
+                "pitcher_usage": 19.2,
+                "advantage_score": 1.8600000000000003,
+                "sample_size": 127
+              },
               "CU": {
                 "batter_slg": 0.818,
                 "pitcher_slg_allowed": 0.256,
@@ -4696,15 +4562,6 @@
                 "pitcher_usage": 21.5,
                 "advantage_score": 9.31,
                 "sample_size": 56
-              },
-              "FF": {
-                "batter_slg": 0.5,
-                "pitcher_slg_allowed": 0.479,
-                "batter_woba": 0.312,
-                "batter_hard_hit": 56.8,
-                "pitcher_usage": 19.2,
-                "advantage_score": 1.8600000000000003,
-                "sample_size": 127
               }
             },
             "advantage_summary": "Strong vs CU (+26.1), SI (+9.3)",
@@ -4727,10 +4584,10 @@
         "trend_analysis": {
           "trend_available": true,
           "games_analyzed": 13,
-          "recent_3_avg": 0.261,
-          "recent_5_avg": 0.263,
-          "recent_7_avg": 0.26457142857142857,
-          "season_avg": 0.26676923076923076,
+          "recent_3_avg": 0.25933333333333336,
+          "recent_5_avg": 0.2616,
+          "recent_7_avg": 0.263,
+          "season_avg": 0.2661538461538462,
           "trend_direction": "stable",
           "trend_score": 0,
           "hr_last_3": 0.0,
@@ -4757,6 +4614,113 @@
         "sweet_spot_percent": 35.5
       },
       {
+        "playerName": "Andrew Vaughn",
+        "player_name": "Andrew Vaughn",
+        "team": "MIL",
+        "pitcher": "vs Sean Manaea",
+        "pitcher_name": "Sean Manaea",
+        "confidenceScore": 37.5869242297605,
+        "confidence_score": 37.5869242297605,
+        "classification": "Solid Bet",
+        "pathway": "batterDriven",
+        "reasoning": "Elite exit velocity: 92.2 mph (90th percentile); Elite barrel rate: 13.9% (crushing the ball consistently)",
+        "detailed_reasoning": [
+          "Elite exit velocity: 92.2 mph (90th percentile)",
+          "Elite barrel rate: 13.9% (crushing the ball consistently)"
+        ],
+        "game": "NYM @ MIL",
+        "venue": "American Family Field",
+        "gameTime": "18:10",
+        "is_home": true,
+        "odds": {
+          "american": "+350",
+          "decimal": 4.5,
+          "source": "current"
+        },
+        "component_scores": {
+          "batter_analysis": {
+            "data_available": true,
+            "exit_velocity_avg": 92.2,
+            "exit_velocity_score": 86.80995475113126,
+            "exit_velocity_percentile": 90.0,
+            "barrel_rate": 13.9,
+            "barrel_rate_score": 83.0,
+            "hard_hit_percent": 51.0,
+            "iso": 0.179,
+            "home_runs": 11.0,
+            "power_score": 70.63694267515923,
+            "overall_score": 80.00641409920166,
+            "sweet_spot_percent": 37.1,
+            "data_source": "exit_velocity"
+          },
+          "pitcher_analysis": {
+            "data_available": true,
+            "era": 2.08,
+            "era_score": 95,
+            "hr_per_9": 0.0,
+            "hr_score": 50.0,
+            "exit_velocity_allowed": 86.8,
+            "contact_quality_score": 25,
+            "barrel_rate_allowed": 7.3,
+            "vulnerability_score": 61.75,
+            "overall_score": 61.75,
+            "whip": 0.0,
+            "k_percent": 32.4,
+            "data_source": "custom_pitcher"
+          },
+          "arsenal_matchup": {
+            "matchup_available": false,
+            "overall_advantage": 0,
+            "confidence": 0,
+            "pitch_matchups": {},
+            "advantage_summary": "No arsenal data available",
+            "disadvantage_summary": "Limited matchup data"
+          },
+          "handedness_analysis": {
+            "matchup_available": true,
+            "matchup_key": "RHP_vs_RHB",
+            "woba": 0.0,
+            "iso": 0.0,
+            "hr_fb_percent": 0.0,
+            "advantage_score": 0,
+            "advantage_description": "Neutral handedness matchup"
+          },
+          "swing_analysis": {
+            "data_available": false,
+            "optimization_score": 50
+          }
+        },
+        "trend_analysis": {
+          "trend_available": true,
+          "games_analyzed": 13,
+          "recent_3_avg": 0.353,
+          "recent_5_avg": 0.36119999999999997,
+          "recent_7_avg": 0.36428571428571427,
+          "season_avg": 0.3637692307692308,
+          "trend_direction": "stable",
+          "trend_score": 0,
+          "hr_last_3": 0.0,
+          "hr_last_7": 0.0,
+          "is_trending_up": false,
+          "momentum": "negative"
+        },
+        "data_sources_used": [
+          "custom_batter_stats",
+          "exit_velocity_data",
+          "custom_pitcher_stats",
+          "pitcher_exit_velocity",
+          "daily_json_files"
+        ],
+        "swing_optimization_score": 50,
+        "swing_attack_angle": 0,
+        "swing_ideal_rate": 0,
+        "swing_bat_speed": 0,
+        "barrel_rate": 13.9,
+        "exit_velocity_avg": 92.2,
+        "hard_hit_percent": 51.0,
+        "sweet_spot_percent": 37.1
+      },
+      {
         "playerName": "Kyle Tucker",
         "player_name": "Kyle Tucker",
         "team": "CHC",
@@ -4766,12 +4730,12 @@
         "confidence_score": 36.10119513447562,
         "classification": "Solid Bet",
         "pathway": "batterDriven",
-        "reasoning": "Above-average exit velocity: 90.4 mph; Strong barrel rate: 11.5% (quality contact); Strong power profile: 18.0 HRs, 0.207 ISO; Favorable pitch matchups: Strong vs CU (+15.1), SI (+11.4); Optimal swing mechanics: 73% efficiency",
+        "reasoning": "Above-average exit velocity: 90.4 mph; Strong barrel rate: 11.5% (quality contact); Strong power profile: 18.0 HRs, 0.207 ISO; Favorable pitch matchups: Strong vs FF (+6.4), CU (+15.1); Optimal swing mechanics: 73% efficiency",
         "detailed_reasoning": [
           "Above-average exit velocity: 90.4 mph",
           "Strong barrel rate: 11.5% (quality contact)",
           "Strong power profile: 18.0 HRs, 0.207 ISO",
-          "Favorable pitch matchups: Strong vs CU (+15.1), SI (+11.4)",
+          "Favorable pitch matchups: Strong vs FF (+6.4), CU (+15.1)",
           "Optimal swing mechanics: 73% efficiency"
         ],
         "game": "STL @ STL",
@@ -4819,6 +4783,15 @@
             "overall_advantage": 10.848492201039862,
             "confidence": 1.0,
             "pitch_matchups": {
+              "FF": {
+                "batter_slg": 0.519,
+                "pitcher_slg_allowed": 0.479,
+                "batter_woba": 0.413,
+                "batter_hard_hit": 50.4,
+                "pitcher_usage": 19.2,
+                "advantage_score": 6.44,
+                "sample_size": 166
+              },
               "CU": {
                 "batter_slg": 0.548,
                 "pitcher_slg_allowed": 0.256,
@@ -4836,18 +4809,9 @@
                 "pitcher_usage": 21.5,
                 "advantage_score": 11.399999999999999,
                 "sample_size": 64
-              },
-              "FF": {
-                "batter_slg": 0.519,
-                "pitcher_slg_allowed": 0.479,
-                "batter_woba": 0.413,
-                "batter_hard_hit": 50.4,
-                "pitcher_usage": 19.2,
-                "advantage_score": 6.44,
-                "sample_size": 166
               }
             },
-            "advantage_summary": "Strong vs CU (+15.1), SI (+11.4)",
+            "advantage_summary": "Strong vs FF (+6.4), CU (+15.1)",
             "disadvantage_summary": "No major weaknesses",
             "total_sample_size": 277
           },
@@ -4868,9 +4832,9 @@
           "trend_available": true,
           "games_analyzed": 12,
           "recent_3_avg": 0.27166666666666667,
-          "recent_5_avg": 0.273,
-          "recent_7_avg": 0.2731428571428572,
-          "season_avg": 0.27366666666666667,
+          "recent_5_avg": 0.272,
+          "recent_7_avg": 0.27271428571428574,
+          "season_avg": 0.2734166666666667,
           "trend_direction": "stable",
           "trend_score": 0,
           "hr_last_3": 0.0,
@@ -4971,11 +4935,11 @@
         },
         "trend_analysis": {
           "trend_available": true,
-          "games_analyzed": 12,
-          "recent_3_avg": 0.276,
-          "recent_5_avg": 0.2634,
-          "recent_7_avg": 0.26885714285714285,
-          "season_avg": 0.25858333333333333,
+          "games_analyzed": 13,
+          "recent_3_avg": 0.27066666666666667,
+          "recent_5_avg": 0.267,
+          "recent_7_avg": 0.26385714285714285,
+          "season_avg": 0.25884615384615384,
           "trend_direction": "stable",
           "trend_score": 0,
           "hr_last_3": 0.0,
@@ -5059,15 +5023,6 @@
             "overall_advantage": 3.622261712439418,
             "confidence": 1.0,
             "pitch_matchups": {
-              "ST": {
-                "batter_slg": 0.379,
-                "pitcher_slg_allowed": 0.238,
-                "batter_woba": 0.269,
-                "batter_hard_hit": 33.3,
-                "pitcher_usage": 21.2,
-                "advantage_score": 3.54,
-                "sample_size": 32
-              },
               "FF": {
                 "batter_slg": 0.409,
                 "pitcher_slg_allowed": 0.479,
@@ -5085,6 +5040,15 @@
                 "pitcher_usage": 21.5,
                 "advantage_score": 7.34,
                 "sample_size": 81
+              },
+              "ST": {
+                "batter_slg": 0.379,
+                "pitcher_slg_allowed": 0.238,
+                "batter_woba": 0.269,
+                "batter_hard_hit": 33.3,
+                "pitcher_usage": 21.2,
+                "advantage_score": 3.54,
+                "sample_size": 32
               }
             },
             "advantage_summary": "Strong vs SI (+7.3)",
@@ -5111,10 +5075,10 @@
         "trend_analysis": {
           "trend_available": true,
           "games_analyzed": 12,
-          "recent_3_avg": 0.24666666666666667,
-          "recent_5_avg": 0.2464,
-          "recent_7_avg": 0.24628571428571427,
-          "season_avg": 0.24783333333333332,
+          "recent_3_avg": 0.249,
+          "recent_5_avg": 0.2474,
+          "recent_7_avg": 0.24714285714285714,
+          "season_avg": 0.24775,
           "trend_direction": "stable",
           "trend_score": 0,
           "hr_last_3": 0.0,
@@ -5146,14 +5110,15 @@
         "team": "CHC",
         "pitcher": "vs Sonny Gray",
         "pitcher_name": "Sonny Gray",
-        "confidenceScore": 31.328021423584993,
-        "confidence_score": 31.328021423584993,
+        "confidenceScore": 31.928021423584994,
+        "confidence_score": 31.928021423584994,
         "classification": "Value Play",
         "pathway": "batterDriven",
-        "reasoning": "Strong barrel rate: 10.6% (quality contact); Strong power profile: 13.0 HRs, 0.223 ISO",
+        "reasoning": "Strong barrel rate: 10.6% (quality contact); Strong power profile: 13.0 HRs, 0.223 ISO; Recent cold spell: 0.183 AVG last 3 games",
         "detailed_reasoning": [
           "Strong barrel rate: 10.6% (quality contact)",
-          "Strong power profile: 13.0 HRs, 0.223 ISO"
+          "Strong power profile: 13.0 HRs, 0.223 ISO",
+          "Recent cold spell: 0.183 AVG last 3 games"
         ],
         "game": "STL @ STL",
         "venue": "Busch Stadium",
@@ -5200,15 +5165,6 @@
             "overall_advantage": 2.8935626535626535,
             "confidence": 0.65,
             "pitch_matchups": {
-              "SI": {
-                "batter_slg": 0.462,
-                "pitcher_slg_allowed": 0.425,
-                "batter_woba": 0.426,
-                "batter_hard_hit": 41.0,
-                "pitcher_usage": 21.5,
-                "advantage_score": 6.960000000000001,
-                "sample_size": 49
-              },
               "FF": {
                 "batter_slg": 0.439,
                 "pitcher_slg_allowed": 0.479,
@@ -5217,6 +5173,15 @@
                 "pitcher_usage": 19.2,
                 "advantage_score": -1.6600000000000004,
                 "sample_size": 81
+              },
+              "SI": {
+                "batter_slg": 0.462,
+                "pitcher_slg_allowed": 0.425,
+                "batter_woba": 0.426,
+                "batter_hard_hit": 41.0,
+                "pitcher_usage": 21.5,
+                "advantage_score": 6.960000000000001,
+                "sample_size": 49
               }
             },
             "advantage_summary": "Strong vs SI (+7.0)",
@@ -5243,12 +5208,12 @@
         "trend_analysis": {
           "trend_available": true,
           "games_analyzed": 11,
-          "recent_3_avg": 0.09200000000000001,
-          "recent_5_avg": 0.1618,
+          "recent_3_avg": 0.18266666666666667,
+          "recent_5_avg": 0.16240000000000002,
           "recent_7_avg": 0.1932857142857143,
-          "season_avg": 0.22236363636363637,
-          "trend_direction": "very_cold",
-          "trend_score": -15,
+          "season_avg": 0.222,
+          "trend_direction": "cold",
+          "trend_score": -10,
           "hr_last_3": 0.0,
           "hr_last_7": 0.0,
           "is_trending_up": false,
@@ -5363,10 +5328,10 @@
         "trend_analysis": {
           "trend_available": true,
           "games_analyzed": 13,
-          "recent_3_avg": 0.282,
-          "recent_5_avg": 0.281,
-          "recent_7_avg": 0.28185714285714286,
-          "season_avg": 0.2839230769230769,
+          "recent_3_avg": 0.2823333333333333,
+          "recent_5_avg": 0.2808,
+          "recent_7_avg": 0.2812857142857143,
+          "season_avg": 0.2835384615384615,
           "trend_direction": "stable",
           "trend_score": 0,
           "hr_last_3": 0.0,
@@ -5468,10 +5433,10 @@
         "trend_analysis": {
           "trend_available": true,
           "games_analyzed": 10,
-          "recent_3_avg": 0.236,
-          "recent_5_avg": 0.2446,
-          "recent_7_avg": 0.2547142857142857,
-          "season_avg": 0.2544,
+          "recent_3_avg": 0.231,
+          "recent_5_avg": 0.236,
+          "recent_7_avg": 0.2507142857142857,
+          "season_avg": 0.2535,
           "trend_direction": "stable",
           "trend_score": 0,
           "hr_last_3": 0.0,
@@ -5573,11 +5538,11 @@
         },
         "trend_analysis": {
           "trend_available": true,
-          "games_analyzed": 13,
+          "games_analyzed": 12,
           "recent_3_avg": 0.259,
           "recent_5_avg": 0.2596,
           "recent_7_avg": 0.2601428571428572,
-          "season_avg": 0.2579230769230769,
+          "season_avg": 0.25816666666666666,
           "trend_direction": "stable",
           "trend_score": 0,
           "hr_last_3": 0.0,
@@ -5663,15 +5628,6 @@
             "overall_advantage": -3.3348174157303347,
             "confidence": 1.0,
             "pitch_matchups": {
-              "SL": {
-                "batter_slg": 0.397,
-                "pitcher_slg_allowed": 0.576,
-                "batter_woba": 0.264,
-                "batter_hard_hit": 48.7,
-                "pitcher_usage": 32.3,
-                "advantage_score": -9.169999999999996,
-                "sample_size": 66
-              },
               "FF": {
                 "batter_slg": 0.395,
                 "pitcher_slg_allowed": 0.477,
@@ -5680,6 +5636,15 @@
                 "pitcher_usage": 24.9,
                 "advantage_score": 1.2800000000000002,
                 "sample_size": 124
+              },
+              "SL": {
+                "batter_slg": 0.397,
+                "pitcher_slg_allowed": 0.576,
+                "batter_woba": 0.264,
+                "batter_hard_hit": 48.7,
+                "pitcher_usage": 32.3,
+                "advantage_score": -9.169999999999996,
+                "sample_size": 66
               },
               "SI": {
                 "batter_slg": 0.468,
@@ -5711,10 +5676,10 @@
         "trend_analysis": {
           "trend_available": true,
           "games_analyzed": 13,
-          "recent_3_avg": 0.23966666666666667,
-          "recent_5_avg": 0.23879999999999998,
-          "recent_7_avg": 0.23814285714285713,
-          "season_avg": 0.23607692307692307,
+          "recent_3_avg": 0.24033333333333332,
+          "recent_5_avg": 0.2392,
+          "recent_7_avg": 0.2387142857142857,
+          "season_avg": 0.23684615384615385,
           "trend_direction": "stable",
           "trend_score": 0,
           "hr_last_3": 0.0,
@@ -5797,9 +5762,18 @@
           },
           "arsenal_matchup": {
             "matchup_available": true,
-            "overall_advantage": 9.245493934142113,
+            "overall_advantage": 9.245493934142115,
             "confidence": 1.0,
             "pitch_matchups": {
+              "FF": {
+                "batter_slg": 0.252,
+                "pitcher_slg_allowed": 0.479,
+                "batter_woba": 0.283,
+                "batter_hard_hit": 46.0,
+                "pitcher_usage": 19.2,
+                "advantage_score": -9.850000000000001,
+                "sample_size": 157
+              },
               "CU": {
                 "batter_slg": 0.54,
                 "pitcher_slg_allowed": 0.256,
@@ -5817,15 +5791,6 @@
                 "pitcher_usage": 21.5,
                 "advantage_score": 22.61,
                 "sample_size": 48
-              },
-              "FF": {
-                "batter_slg": 0.252,
-                "pitcher_slg_allowed": 0.479,
-                "batter_woba": 0.283,
-                "batter_hard_hit": 46.0,
-                "pitcher_usage": 19.2,
-                "advantage_score": -9.850000000000001,
-                "sample_size": 157
               }
             },
             "advantage_summary": "Strong vs CU (+13.9), SI (+22.6)",
@@ -5848,10 +5813,10 @@
         "trend_analysis": {
           "trend_available": true,
           "games_analyzed": 13,
-          "recent_3_avg": 0.23133333333333334,
-          "recent_5_avg": 0.23020000000000002,
-          "recent_7_avg": 0.2292857142857143,
-          "season_avg": 0.2280769230769231,
+          "recent_3_avg": 0.2316666666666667,
+          "recent_5_avg": 0.2308,
+          "recent_7_avg": 0.22985714285714287,
+          "season_avg": 0.22838461538461538,
           "trend_direction": "stable",
           "trend_score": 0,
           "hr_last_3": 0.0,
@@ -5967,10 +5932,10 @@
         "trend_analysis": {
           "trend_available": true,
           "games_analyzed": 11,
-          "recent_3_avg": 0.237,
-          "recent_5_avg": 0.2322,
-          "recent_7_avg": 0.23114285714285715,
-          "season_avg": 0.22972727272727272,
+          "recent_3_avg": 0.24033333333333332,
+          "recent_5_avg": 0.235,
+          "recent_7_avg": 0.2327142857142857,
+          "season_avg": 0.23118181818181818,
           "trend_direction": "stable",
           "trend_score": 0,
           "hr_last_3": 0.0,
@@ -6054,15 +6019,6 @@
             "overall_advantage": -2.0513061797752794,
             "confidence": 0.97,
             "pitch_matchups": {
-              "SL": {
-                "batter_slg": 0.439,
-                "pitcher_slg_allowed": 0.576,
-                "batter_woba": 0.362,
-                "batter_hard_hit": 50.0,
-                "pitcher_usage": 32.3,
-                "advantage_score": -4.509999999999999,
-                "sample_size": 46
-              },
               "FF": {
                 "batter_slg": 0.403,
                 "pitcher_slg_allowed": 0.477,
@@ -6071,6 +6027,15 @@
                 "pitcher_usage": 24.9,
                 "advantage_score": 0.8000000000000016,
                 "sample_size": 84
+              },
+              "SL": {
+                "batter_slg": 0.439,
+                "pitcher_slg_allowed": 0.576,
+                "batter_woba": 0.362,
+                "batter_hard_hit": 50.0,
+                "pitcher_usage": 32.3,
+                "advantage_score": -4.509999999999999,
+                "sample_size": 46
               },
               "SI": {
                 "batter_slg": 0.362,
@@ -6103,10 +6068,10 @@
         "trend_analysis": {
           "trend_available": true,
           "games_analyzed": 11,
-          "recent_3_avg": 0.269,
-          "recent_5_avg": 0.2682,
-          "recent_7_avg": 0.2691428571428572,
-          "season_avg": 0.2675454545454546,
+          "recent_3_avg": 0.26766666666666666,
+          "recent_5_avg": 0.26780000000000004,
+          "recent_7_avg": 0.2681428571428572,
+          "season_avg": 0.2681818181818182,
           "trend_direction": "stable",
           "trend_score": 0,
           "hr_last_3": 0.0,
@@ -6217,11 +6182,11 @@
         },
         "trend_analysis": {
           "trend_available": true,
-          "games_analyzed": 6,
-          "recent_3_avg": 0.226,
-          "recent_5_avg": 0.22440000000000002,
-          "recent_7_avg": 0.22383333333333333,
-          "season_avg": 0.22383333333333333,
+          "games_analyzed": 7,
+          "recent_3_avg": 0.22633333333333333,
+          "recent_5_avg": 0.2256,
+          "recent_7_avg": 0.22442857142857142,
+          "season_avg": 0.22442857142857142,
           "trend_direction": "stable",
           "trend_score": 0,
           "hr_last_3": 0.0,
@@ -6245,117 +6210,6 @@
         "exit_velocity_avg": 89.0,
         "hard_hit_percent": 43.1,
         "sweet_spot_percent": 41.6
-      },
-      {
-        "playerName": "William Contreras",
-        "player_name": "William Contreras",
-        "team": "MIL",
-        "pitcher": "vs Sean Manaea",
-        "pitcher_name": "Sean Manaea",
-        "confidenceScore": 30.414649865701655,
-        "confidence_score": 30.414649865701655,
-        "classification": "Value Play",
-        "pathway": "pitcherDriven",
-        "reasoning": "Above-average exit velocity: 90.7 mph; Optimal swing mechanics: 82% efficiency",
-        "detailed_reasoning": [
-          "Above-average exit velocity: 90.7 mph",
-          "Optimal swing mechanics: 82% efficiency"
-        ],
-        "game": "NYM @ MIL",
-        "venue": "American Family Field",
-        "gameTime": "18:10",
-        "is_home": true,
-        "odds": {
-          "american": "+380",
-          "decimal": 4.8,
-          "source": "current"
-        },
-        "component_scores": {
-          "batter_analysis": {
-            "data_available": true,
-            "exit_velocity_avg": 90.7,
-            "exit_velocity_score": 70.0,
-            "exit_velocity_percentile": 75.0,
-            "barrel_rate": 5.4,
-            "barrel_rate_score": 41.5,
-            "hard_hit_percent": 46.7,
-            "iso": 0.118,
-            "home_runs": 9.0,
-            "power_score": 45.45945945945946,
-            "overall_score": 52.86081081081081,
-            "sweet_spot_percent": 32.2,
-            "data_source": "exit_velocity"
-          },
-          "pitcher_analysis": {
-            "data_available": true,
-            "era": 2.08,
-            "era_score": 95,
-            "hr_per_9": 0.0,
-            "hr_score": 50.0,
-            "exit_velocity_allowed": 86.8,
-            "contact_quality_score": 25,
-            "barrel_rate_allowed": 7.3,
-            "vulnerability_score": 61.75,
-            "overall_score": 61.75,
-            "whip": 0.0,
-            "k_percent": 32.4,
-            "data_source": "custom_pitcher"
-          },
-          "arsenal_matchup": {
-            "matchup_available": false,
-            "overall_advantage": 0,
-            "confidence": 0,
-            "pitch_matchups": {},
-            "advantage_summary": "No arsenal data available",
-            "disadvantage_summary": "Limited matchup data"
-          },
-          "handedness_analysis": {
-            "matchup_available": true,
-            "matchup_key": "RHP_vs_RHB",
-            "woba": 0.0,
-            "iso": 0.0,
-            "hr_fb_percent": 0.0,
-            "advantage_score": 0,
-            "advantage_description": "Neutral handedness matchup"
-          },
-          "swing_analysis": {
-            "data_available": true,
-            "bat_speed": 72.95893282809611,
-            "attack_angle": 10.31516831199466,
-            "ideal_angle_rate": 0.6765249537892791,
-            "optimization_score": 82.38022074861365
-          }
-        },
-        "trend_analysis": {
-          "trend_available": true,
-          "games_analyzed": 13,
-          "recent_3_avg": 0.25,
-          "recent_5_avg": 0.2522,
-          "recent_7_avg": 0.25385714285714284,
-          "season_avg": 0.25153846153846154,
-          "trend_direction": "stable",
-          "trend_score": 0,
-          "hr_last_3": 0.0,
-          "hr_last_7": 0.0,
-          "is_trending_up": false,
-          "momentum": "negative"
-        },
-        "data_sources_used": [
-          "custom_batter_stats",
-          "exit_velocity_data",
-          "custom_pitcher_stats",
-          "pitcher_exit_velocity",
-          "daily_json_files",
-          "swing_path_data"
-        ],
-        "swing_optimization_score": 82.38022074861365,
-        "swing_attack_angle": 10.31516831199466,
-        "swing_ideal_rate": 0.6765249537892791,
-        "swing_bat_speed": 72.95893282809611,
-        "barrel_rate": 5.4,
-        "exit_velocity_avg": 90.7,
-        "hard_hit_percent": 46.7,
-        "sweet_spot_percent": 32.2
       },
       {
         "playerName": "Andrew McCutchen",
@@ -6416,15 +6270,6 @@
             "overall_advantage": -6.521811797752809,
             "confidence": 1.0,
             "pitch_matchups": {
-              "SL": {
-                "batter_slg": 0.411,
-                "pitcher_slg_allowed": 0.576,
-                "batter_woba": 0.344,
-                "batter_hard_hit": 36.8,
-                "pitcher_usage": 32.3,
-                "advantage_score": -8.960000000000003,
-                "sample_size": 67
-              },
               "FF": {
                 "batter_slg": 0.299,
                 "pitcher_slg_allowed": 0.477,
@@ -6433,6 +6278,15 @@
                 "pitcher_usage": 24.9,
                 "advantage_score": -6.249999999999998,
                 "sample_size": 117
+              },
+              "SL": {
+                "batter_slg": 0.411,
+                "pitcher_slg_allowed": 0.576,
+                "batter_woba": 0.344,
+                "batter_hard_hit": 36.8,
+                "pitcher_usage": 32.3,
+                "advantage_score": -8.960000000000003,
+                "sample_size": 67
               },
               "SI": {
                 "batter_slg": 0.394,
@@ -6445,7 +6299,7 @@
               }
             },
             "advantage_summary": "Limited advantages found",
-            "disadvantage_summary": "Struggles vs SL (-9.0), FF (-6.2)",
+            "disadvantage_summary": "Struggles vs FF (-6.2), SL (-9.0)",
             "total_sample_size": 266
           },
           "handedness_analysis": {
@@ -6468,10 +6322,10 @@
         "trend_analysis": {
           "trend_available": true,
           "games_analyzed": 10,
-          "recent_3_avg": 0.24833333333333332,
-          "recent_5_avg": 0.2474,
-          "recent_7_avg": 0.24714285714285714,
-          "season_avg": 0.2473,
+          "recent_3_avg": 0.24766666666666667,
+          "recent_5_avg": 0.2476,
+          "recent_7_avg": 0.24757142857142858,
+          "season_avg": 0.2472,
           "trend_direction": "stable",
           "trend_score": 0,
           "hr_last_3": 0.0,
@@ -6575,10 +6429,10 @@
         "trend_analysis": {
           "trend_available": true,
           "games_analyzed": 12,
-          "recent_3_avg": 0.2763333333333334,
-          "recent_5_avg": 0.2762,
-          "recent_7_avg": 0.276,
-          "season_avg": 0.2754166666666667,
+          "recent_3_avg": 0.2773333333333334,
+          "recent_5_avg": 0.2766,
+          "recent_7_avg": 0.27642857142857147,
+          "season_avg": 0.27558333333333335,
           "trend_direction": "stable",
           "trend_score": 0,
           "hr_last_3": 0.0,
@@ -6686,10 +6540,10 @@
         "trend_analysis": {
           "trend_available": true,
           "games_analyzed": 14,
-          "recent_3_avg": 0.261,
-          "recent_5_avg": 0.2616,
-          "recent_7_avg": 0.26157142857142857,
-          "season_avg": 0.25442857142857145,
+          "recent_3_avg": 0.26233333333333336,
+          "recent_5_avg": 0.2622,
+          "recent_7_avg": 0.26257142857142857,
+          "season_avg": 0.25592857142857145,
           "trend_direction": "stable",
           "trend_score": 0,
           "hr_last_3": 0.0,
@@ -6799,11 +6653,11 @@
         },
         "trend_analysis": {
           "trend_available": true,
-          "games_analyzed": 10,
-          "recent_3_avg": 0.16833333333333333,
-          "recent_5_avg": 0.1674,
+          "games_analyzed": 11,
+          "recent_3_avg": 0.17066666666666666,
+          "recent_5_avg": 0.168,
           "recent_7_avg": 0.168,
-          "season_avg": 0.1701,
+          "season_avg": 0.17018181818181818,
           "trend_direction": "stable",
           "trend_score": 0,
           "hr_last_3": 0.0,
@@ -6911,11 +6765,11 @@
         },
         "trend_analysis": {
           "trend_available": true,
-          "games_analyzed": 12,
-          "recent_3_avg": 0.278,
-          "recent_5_avg": 0.276,
-          "recent_7_avg": 0.27371428571428574,
-          "season_avg": 0.266,
+          "games_analyzed": 13,
+          "recent_3_avg": 0.2786666666666667,
+          "recent_5_avg": 0.277,
+          "recent_7_avg": 0.2765714285714286,
+          "season_avg": 0.2671538461538462,
           "trend_direction": "stable",
           "trend_score": 0,
           "hr_last_3": 0.0,
@@ -7016,10 +6870,10 @@
         "trend_analysis": {
           "trend_available": true,
           "games_analyzed": 12,
-          "recent_3_avg": 0.29033333333333333,
-          "recent_5_avg": 0.2874,
-          "recent_7_avg": 0.2847142857142857,
-          "season_avg": 0.28075,
+          "recent_3_avg": 0.29133333333333333,
+          "recent_5_avg": 0.29019999999999996,
+          "recent_7_avg": 0.28728571428571426,
+          "season_avg": 0.2826666666666667,
           "trend_direction": "stable",
           "trend_score": 0,
           "hr_last_3": 0.0,
@@ -7129,11 +6983,11 @@
         },
         "trend_analysis": {
           "trend_available": true,
-          "games_analyzed": 10,
-          "recent_3_avg": 0.23566666666666666,
-          "recent_5_avg": 0.2338,
-          "recent_7_avg": 0.2337142857142857,
-          "season_avg": 0.2353,
+          "games_analyzed": 11,
+          "recent_3_avg": 0.23966666666666667,
+          "recent_5_avg": 0.2358,
+          "recent_7_avg": 0.2342857142857143,
+          "season_avg": 0.23581818181818182,
           "trend_direction": "stable",
           "trend_score": 0,
           "hr_last_3": 0.0,
@@ -7249,9 +7103,9 @@
         "trend_analysis": {
           "trend_available": true,
           "games_analyzed": 12,
-          "recent_3_avg": 0.27033333333333337,
-          "recent_5_avg": 0.2696,
-          "recent_7_avg": 0.2701428571428572,
+          "recent_3_avg": 0.26933333333333337,
+          "recent_5_avg": 0.269,
+          "recent_7_avg": 0.2692857142857143,
           "season_avg": 0.26983333333333337,
           "trend_direction": "stable",
           "trend_score": 0,
@@ -7276,6 +7130,106 @@
         "exit_velocity_avg": 88.4,
         "hard_hit_percent": 36.0,
         "sweet_spot_percent": 32.5
+      },
+      {
+        "playerName": "Anthony Seigler",
+        "player_name": "Anthony Seigler",
+        "team": "MIL",
+        "pitcher": "vs Sean Manaea",
+        "pitcher_name": "Sean Manaea",
+        "confidenceScore": 25.722499999999997,
+        "confidence_score": 25.722499999999997,
+        "classification": "Avoid",
+        "pathway": "pitcherDriven",
+        "reasoning": "",
+        "detailed_reasoning": [],
+        "game": "NYM @ MIL",
+        "venue": "American Family Field",
+        "gameTime": "18:10",
+        "is_home": true,
+        "odds": {
+          "american": "+550",
+          "decimal": 6.5,
+          "source": "current"
+        },
+        "component_scores": {
+          "batter_analysis": {
+            "data_available": true,
+            "exit_velocity_avg": 88.3,
+            "exit_velocity_score": 44.166666666666636,
+            "exit_velocity_percentile": 25.0,
+            "barrel_rate": 3.6,
+            "barrel_rate_score": 25,
+            "hard_hit_percent": 35.7,
+            "iso": 0.0,
+            "home_runs": 0.0,
+            "power_score": 50.0,
+            "overall_score": 40.45833333333332,
+            "sweet_spot_percent": 42.9,
+            "data_source": "custom_batter"
+          },
+          "pitcher_analysis": {
+            "data_available": true,
+            "era": 2.08,
+            "era_score": 95,
+            "hr_per_9": 0.0,
+            "hr_score": 50.0,
+            "exit_velocity_allowed": 86.8,
+            "contact_quality_score": 25,
+            "barrel_rate_allowed": 7.3,
+            "vulnerability_score": 61.75,
+            "overall_score": 61.75,
+            "whip": 0.0,
+            "k_percent": 32.4,
+            "data_source": "custom_pitcher"
+          },
+          "arsenal_matchup": {
+            "matchup_available": false,
+            "overall_advantage": 0,
+            "confidence": 0,
+            "pitch_matchups": {},
+            "advantage_summary": "No arsenal data available",
+            "disadvantage_summary": "Limited matchup data"
+          },
+          "handedness_analysis": {
+            "matchup_available": false,
+            "advantage_score": 0,
+            "advantage_description": "No handedness data available"
+          },
+          "swing_analysis": {
+            "data_available": false,
+            "optimization_score": 50
+          }
+        },
+        "trend_analysis": {
+          "trend_available": true,
+          "games_analyzed": 10,
+          "recent_3_avg": 0.196,
+          "recent_5_avg": 0.19039999999999999,
+          "recent_7_avg": 0.19014285714285714,
+          "season_avg": 0.1868,
+          "trend_direction": "stable",
+          "trend_score": 0,
+          "hr_last_3": 0.0,
+          "hr_last_7": 0.0,
+          "is_trending_up": true,
+          "momentum": "positive"
+        },
+        "data_sources_used": [
+          "custom_batter_stats",
+          "exit_velocity_data",
+          "custom_pitcher_stats",
+          "pitcher_exit_velocity",
+          "daily_json_files"
+        ],
+        "swing_optimization_score": 50,
+        "swing_attack_angle": 0,
+        "swing_ideal_rate": 0,
+        "swing_bat_speed": 0,
+        "barrel_rate": 3.6,
+        "exit_velocity_avg": 88.3,
+        "hard_hit_percent": 35.7,
+        "sweet_spot_percent": 42.9
       },
       {
         "playerName": "Caleb Durbin",
@@ -7357,10 +7311,10 @@
         "trend_analysis": {
           "trend_available": true,
           "games_analyzed": 12,
-          "recent_3_avg": 0.26033333333333336,
-          "recent_5_avg": 0.26180000000000003,
-          "recent_7_avg": 0.26285714285714284,
-          "season_avg": 0.26158333333333333,
+          "recent_3_avg": 0.259,
+          "recent_5_avg": 0.26,
+          "recent_7_avg": 0.262,
+          "season_avg": 0.2609166666666667,
           "trend_direction": "stable",
           "trend_score": 0,
           "hr_last_3": 0.0,
@@ -7464,10 +7418,10 @@
         "trend_analysis": {
           "trend_available": true,
           "games_analyzed": 13,
-          "recent_3_avg": 0.219,
-          "recent_5_avg": 0.2186,
-          "recent_7_avg": 0.218,
-          "season_avg": 0.21484615384615385,
+          "recent_3_avg": 0.22,
+          "recent_5_avg": 0.22,
+          "recent_7_avg": 0.21914285714285714,
+          "season_avg": 0.21553846153846154,
           "trend_direction": "stable",
           "trend_score": 0,
           "hr_last_3": 0.0,
@@ -7548,15 +7502,6 @@
             "overall_advantage": -7.4637592137592135,
             "confidence": 0.675,
             "pitch_matchups": {
-              "SI": {
-                "batter_slg": 0.271,
-                "pitcher_slg_allowed": 0.425,
-                "batter_woba": 0.321,
-                "batter_hard_hit": 23.8,
-                "pitcher_usage": 21.5,
-                "advantage_score": -7.610000000000001,
-                "sample_size": 56
-              },
               "FF": {
                 "batter_slg": 0.361,
                 "pitcher_slg_allowed": 0.479,
@@ -7565,10 +7510,19 @@
                 "pitcher_usage": 19.2,
                 "advantage_score": -7.299999999999999,
                 "sample_size": 79
+              },
+              "SI": {
+                "batter_slg": 0.271,
+                "pitcher_slg_allowed": 0.425,
+                "batter_woba": 0.321,
+                "batter_hard_hit": 23.8,
+                "pitcher_usage": 21.5,
+                "advantage_score": -7.610000000000001,
+                "sample_size": 56
               }
             },
             "advantage_summary": "Limited advantages found",
-            "disadvantage_summary": "Struggles vs SI (-7.6), FF (-7.3)",
+            "disadvantage_summary": "Struggles vs FF (-7.3), SI (-7.6)",
             "total_sample_size": 135
           },
           "handedness_analysis": {
@@ -7588,10 +7542,10 @@
         "trend_analysis": {
           "trend_available": true,
           "games_analyzed": 12,
-          "recent_3_avg": 0.22366666666666668,
-          "recent_5_avg": 0.22240000000000001,
-          "recent_7_avg": 0.2225714285714286,
-          "season_avg": 0.22333333333333333,
+          "recent_3_avg": 0.22566666666666668,
+          "recent_5_avg": 0.2238,
+          "recent_7_avg": 0.223,
+          "season_avg": 0.2235,
           "trend_direction": "stable",
           "trend_score": 0,
           "hr_last_3": 0.0,
@@ -7675,15 +7629,6 @@
             "overall_advantage": -9.28949438202247,
             "confidence": 1.0,
             "pitch_matchups": {
-              "SL": {
-                "batter_slg": 0.298,
-                "pitcher_slg_allowed": 0.576,
-                "batter_woba": 0.271,
-                "batter_hard_hit": 19.2,
-                "pitcher_usage": 32.3,
-                "advantage_score": -16.99,
-                "sample_size": 58
-              },
               "FF": {
                 "batter_slg": 0.485,
                 "pitcher_slg_allowed": 0.477,
@@ -7692,6 +7637,15 @@
                 "pitcher_usage": 24.9,
                 "advantage_score": 3.05,
                 "sample_size": 78
+              },
+              "SL": {
+                "batter_slg": 0.298,
+                "pitcher_slg_allowed": 0.576,
+                "batter_woba": 0.271,
+                "batter_hard_hit": 19.2,
+                "pitcher_usage": 32.3,
+                "advantage_score": -16.99,
+                "sample_size": 58
               },
               "SI": {
                 "batter_slg": 0.294,
@@ -7727,10 +7681,10 @@
         "trend_analysis": {
           "trend_available": true,
           "games_analyzed": 11,
-          "recent_3_avg": 0.26933333333333337,
-          "recent_5_avg": 0.26980000000000004,
-          "recent_7_avg": 0.2702857142857143,
-          "season_avg": 0.26845454545454545,
+          "recent_3_avg": 0.27033333333333337,
+          "recent_5_avg": 0.27040000000000003,
+          "recent_7_avg": 0.27071428571428574,
+          "season_avg": 0.2691818181818182,
           "trend_direction": "stable",
           "trend_score": 0,
           "hr_last_3": 0.0,
@@ -7812,15 +7766,6 @@
             "overall_advantage": -1.9995331695331704,
             "confidence": 1.0,
             "pitch_matchups": {
-              "SI": {
-                "batter_slg": 0.364,
-                "pitcher_slg_allowed": 0.425,
-                "batter_woba": 0.346,
-                "batter_hard_hit": 30.5,
-                "pitcher_usage": 21.5,
-                "advantage_score": -0.990000000000002,
-                "sample_size": 97
-              },
               "FF": {
                 "batter_slg": 0.374,
                 "pitcher_slg_allowed": 0.479,
@@ -7829,6 +7774,15 @@
                 "pitcher_usage": 19.2,
                 "advantage_score": -3.1299999999999994,
                 "sample_size": 125
+              },
+              "SI": {
+                "batter_slg": 0.364,
+                "pitcher_slg_allowed": 0.425,
+                "batter_woba": 0.346,
+                "batter_hard_hit": 30.5,
+                "pitcher_usage": 21.5,
+                "advantage_score": -0.990000000000002,
+                "sample_size": 97
               }
             },
             "advantage_summary": "Limited advantages found",
@@ -7855,10 +7809,10 @@
         "trend_analysis": {
           "trend_available": true,
           "games_analyzed": 13,
-          "recent_3_avg": 0.291,
-          "recent_5_avg": 0.291,
-          "recent_7_avg": 0.2918571428571428,
-          "season_avg": 0.2906923076923077,
+          "recent_3_avg": 0.29066666666666663,
+          "recent_5_avg": 0.2908,
+          "recent_7_avg": 0.29157142857142854,
+          "season_avg": 0.29107692307692307,
           "trend_direction": "stable",
           "trend_score": 0,
           "hr_last_3": 0.0,
@@ -7887,10 +7841,10 @@
   },
   "summary": {
     "totalPicks": 32,
-    "averageConfidence": 31.7,
+    "averageConfidence": 31.6,
     "personalStraight": 0,
     "longshots": 8,
-    "processingTimeSeconds": 7.1
+    "processingTimeSeconds": 5.9
   },
   "dataQuality": {
     "customBatterStats": 580,

@@ -1,0 +1,4998 @@
+{
+  "date": "2025-08-11",
+  "updatedAt": "2025-08-11T11:04:50.002495",
+  "generatedBy": "enhanced_comprehensive_hellraiser_v6",
+  "version": "enhanced_comprehensive_v6.0",
+  "teamFilter": null,
+  "picks": [
+    {
+      "playerName": "Oneil Cruz",
+      "player_name": "Oneil Cruz",
+      "team": "PIT",
+      "pitcher": "vs Jose Quintana",
+      "pitcher_name": "Jose Quintana",
+      "confidenceScore": 41.199164406238815,
+      "confidence_score": 41.199164406238815,
+      "classification": "Solid Bet",
+      "pathway": "batterDriven",
+      "reasoning": "Elite exit velocity: 96.3 mph (95th percentile); Elite barrel rate: 20.3% (crushing the ball consistently); Strong power profile: 18.0 HRs, 0.202 ISO; Optimal swing mechanics: 93% efficiency",
+      "detailed_reasoning": [
+        "Elite exit velocity: 96.3 mph (95th percentile)",
+        "Elite barrel rate: 20.3% (crushing the ball consistently)",
+        "Strong power profile: 18.0 HRs, 0.202 ISO",
+        "Optimal swing mechanics: 93% efficiency"
+      ],
+      "game": "MIL @ MIL",
+      "venue": "American Family Field",
+      "gameTime": "23:40",
+      "is_home": false,
+      "odds": {
+        "american": "+400",
+        "decimal": 5.0,
+        "source": "current"
+      },
+      "component_scores": {
+        "batter_analysis": {
+          "data_available": true,
+          "exit_velocity_avg": 96.3,
+          "exit_velocity_score": 95,
+          "exit_velocity_percentile": 95.0,
+          "barrel_rate": 20.3,
+          "barrel_rate_score": 95,
+          "hard_hit_percent": 58.1,
+          "iso": 0.202,
+          "home_runs": 18.0,
+          "power_score": 77.96178343949045,
+          "overall_score": 89.03662420382166,
+          "sweet_spot_percent": 33.1,
+          "data_source": "exit_velocity"
+        },
+        "pitcher_analysis": {
+          "data_available": true,
+          "era": 3.5,
+          "era_score": 74.11764705882354,
+          "hr_per_9": 0.0,
+          "hr_score": 50.0,
+          "exit_velocity_allowed": 89.1,
+          "contact_quality_score": 44.64285714285711,
+          "barrel_rate_allowed": 9.8,
+          "vulnerability_score": 58.3077731092437,
+          "overall_score": 58.3077731092437,
+          "whip": 0.0,
+          "k_percent": 15.9,
+          "data_source": "pitcher_exit_velocity"
+        },
+        "arsenal_matchup": {
+          "matchup_available": true,
+          "overall_advantage": 2.04,
+          "confidence": 0.36,
+          "pitch_matchups": {
+            "SI": {
+              "batter_slg": 0.407,
+              "pitcher_slg_allowed": 0.416,
+              "batter_woba": 0.376,
+              "batter_hard_hit": 51.2,
+              "pitcher_usage": 47.9,
+              "advantage_score": 2.04,
+              "sample_size": 72
+            }
+          },
+          "advantage_summary": "Limited advantages found",
+          "disadvantage_summary": "No major weaknesses",
+          "total_sample_size": 72
+        },
+        "handedness_analysis": {
+          "matchup_available": false,
+          "advantage_score": 0,
+          "advantage_description": "No handedness data available"
+        },
+        "swing_analysis": {
+          "data_available": true,
+          "bat_speed": 78.90148878406717,
+          "attack_angle": 9.354753796607683,
+          "ideal_angle_rate": 0.490566037735849,
+          "optimization_score": 93.10890203529024
+        }
+      },
+      "trend_analysis": {
+        "trend_available": true,
+        "games_analyzed": 14,
+        "recent_3_avg": 0.20766666666666667,
+        "recent_5_avg": 0.20779999999999998,
+        "recent_7_avg": 0.2084285714285714,
+        "season_avg": 0.21321428571428572,
+        "trend_direction": "stable",
+        "trend_score": 0,
+        "hr_last_3": 0.0,
+        "hr_last_7": 0.0,
+        "is_trending_up": false,
+        "momentum": "negative"
+      },
+      "data_sources_used": [
+        "custom_batter_stats",
+        "exit_velocity_data",
+        "custom_pitcher_stats",
+        "pitcher_exit_velocity",
+        "daily_json_files",
+        "pitch_arsenal_data",
+        "swing_path_data"
+      ],
+      "swing_optimization_score": 93.10890203529024,
+      "swing_attack_angle": 9.354753796607683,
+      "swing_ideal_rate": 0.490566037735849,
+      "swing_bat_speed": 78.90148878406717,
+      "barrel_rate": 20.3,
+      "exit_velocity_avg": 96.3,
+      "hard_hit_percent": 58.1,
+      "sweet_spot_percent": 33.1
+    },
+    {
+      "playerName": "Andrew Vaughn",
+      "player_name": "Andrew Vaughn",
+      "team": "MIL",
+      "pitcher": "vs Andrew Heaney",
+      "pitcher_name": "Andrew Heaney",
+      "confidenceScore": 37.99327324936833,
+      "confidence_score": 37.99327324936833,
+      "classification": "Solid Bet",
+      "pathway": "batterDriven",
+      "reasoning": "Elite exit velocity: 92.2 mph (90th percentile); Elite barrel rate: 13.9% (crushing the ball consistently)",
+      "detailed_reasoning": [
+        "Elite exit velocity: 92.2 mph (90th percentile)",
+        "Elite barrel rate: 13.9% (crushing the ball consistently)"
+      ],
+      "game": "PIT @ MIL",
+      "venue": "American Family Field",
+      "gameTime": "23:40",
+      "is_home": true,
+      "odds": {
+        "american": "+350",
+        "decimal": 4.5,
+        "source": "current"
+      },
+      "component_scores": {
+        "batter_analysis": {
+          "data_available": true,
+          "exit_velocity_avg": 92.2,
+          "exit_velocity_score": 86.80995475113126,
+          "exit_velocity_percentile": 90.0,
+          "barrel_rate": 13.9,
+          "barrel_rate_score": 83.0,
+          "hard_hit_percent": 51.0,
+          "iso": 0.179,
+          "home_runs": 11.0,
+          "power_score": 70.63694267515923,
+          "overall_score": 80.00641409920166,
+          "sweet_spot_percent": 37.1,
+          "data_source": "exit_velocity"
+        },
+        "pitcher_analysis": {
+          "data_available": true,
+          "era": 4.89,
+          "era_score": 56.9607843137255,
+          "hr_per_9": 0.0,
+          "hr_score": 50.0,
+          "exit_velocity_allowed": 90.6,
+          "contact_quality_score": 68.18181818181804,
+          "barrel_rate_allowed": 10.5,
+          "vulnerability_score": 57.32976827094471,
+          "overall_score": 57.32976827094471,
+          "whip": 0.0,
+          "k_percent": 16.8,
+          "data_source": "pitcher_exit_velocity"
+        },
+        "arsenal_matchup": {
+          "matchup_available": true,
+          "overall_advantage": 7.660000000000002,
+          "confidence": 0.425,
+          "pitch_matchups": {
+            "FF": {
+              "batter_slg": 0.519,
+              "pitcher_slg_allowed": 0.425,
+              "batter_woba": 0.376,
+              "batter_hard_hit": 62.1,
+              "pitcher_usage": 45.3,
+              "advantage_score": 7.660000000000002,
+              "sample_size": 85
+            }
+          },
+          "advantage_summary": "Strong vs FF (+7.7)",
+          "disadvantage_summary": "No major weaknesses",
+          "total_sample_size": 85
+        },
+        "handedness_analysis": {
+          "matchup_available": true,
+          "matchup_key": "RHP_vs_RHB",
+          "woba": 0.0,
+          "iso": 0.0,
+          "hr_fb_percent": 0.0,
+          "advantage_score": 0,
+          "advantage_description": "Neutral handedness matchup"
+        },
+        "swing_analysis": {
+          "data_available": false,
+          "optimization_score": 50
+        }
+      },
+      "trend_analysis": {
+        "trend_available": true,
+        "games_analyzed": 13,
+        "recent_3_avg": 0.353,
+        "recent_5_avg": 0.36119999999999997,
+        "recent_7_avg": 0.36428571428571427,
+        "season_avg": 0.3637692307692308,
+        "trend_direction": "stable",
+        "trend_score": 0,
+        "hr_last_3": 0.0,
+        "hr_last_7": 0.0,
+        "is_trending_up": false,
+        "momentum": "negative"
+      },
+      "data_sources_used": [
+        "custom_batter_stats",
+        "exit_velocity_data",
+        "custom_pitcher_stats",
+        "pitcher_exit_velocity",
+        "daily_json_files",
+        "pitch_arsenal_data"
+      ],
+      "swing_optimization_score": 50,
+      "swing_attack_angle": 0,
+      "swing_ideal_rate": 0,
+      "swing_bat_speed": 0,
+      "barrel_rate": 13.9,
+      "exit_velocity_avg": 92.2,
+      "hard_hit_percent": 51.0,
+      "sweet_spot_percent": 37.1
+    },
+    {
+      "playerName": "Blake Perkins",
+      "player_name": "Blake Perkins",
+      "team": "MIL",
+      "pitcher": "vs Andrew Heaney",
+      "pitcher_name": "Andrew Heaney",
+      "confidenceScore": 34.44763305322128,
+      "confidence_score": 34.44763305322128,
+      "classification": "Value Play",
+      "pathway": "batterDriven",
+      "reasoning": "Above-average exit velocity: 90.5 mph; Strong power profile: 2.0 HRs, 0.269 ISO",
+      "detailed_reasoning": [
+        "Above-average exit velocity: 90.5 mph",
+        "Strong power profile: 2.0 HRs, 0.269 ISO"
+      ],
+      "game": "PIT @ MIL",
+      "venue": "American Family Field",
+      "gameTime": "23:40",
+      "is_home": true,
+      "odds": {
+        "american": "+500",
+        "decimal": 6.0,
+        "source": "current"
+      },
+      "component_scores": {
+        "batter_analysis": {
+          "data_available": true,
+          "exit_velocity_avg": 90.5,
+          "exit_velocity_score": 67.64705882352938,
+          "exit_velocity_percentile": 50.0,
+          "barrel_rate": 7.7,
+          "barrel_rate_score": 52.85714285714286,
+          "hard_hit_percent": 46.2,
+          "iso": 0.269,
+          "home_runs": 2.0,
+          "power_score": 95,
+          "overall_score": 72.78361344537814,
+          "sweet_spot_percent": 30.8,
+          "data_source": "custom_batter"
+        },
+        "pitcher_analysis": {
+          "data_available": true,
+          "era": 4.89,
+          "era_score": 56.9607843137255,
+          "hr_per_9": 0.0,
+          "hr_score": 50.0,
+          "exit_velocity_allowed": 90.6,
+          "contact_quality_score": 68.18181818181804,
+          "barrel_rate_allowed": 10.5,
+          "vulnerability_score": 57.32976827094471,
+          "overall_score": 57.32976827094471,
+          "whip": 0.0,
+          "k_percent": 16.8,
+          "data_source": "pitcher_exit_velocity"
+        },
+        "arsenal_matchup": {
+          "matchup_available": false,
+          "overall_advantage": 0,
+          "confidence": 0,
+          "pitch_matchups": {},
+          "advantage_summary": "No arsenal data available",
+          "disadvantage_summary": "Limited matchup data"
+        },
+        "handedness_analysis": {
+          "matchup_available": false,
+          "advantage_score": 0,
+          "advantage_description": "No handedness data available"
+        },
+        "swing_analysis": {
+          "data_available": false,
+          "optimization_score": 50
+        }
+      },
+      "trend_analysis": {
+        "trend_available": true,
+        "games_analyzed": 13,
+        "recent_3_avg": 0.27066666666666667,
+        "recent_5_avg": 0.267,
+        "recent_7_avg": 0.26385714285714285,
+        "season_avg": 0.25884615384615384,
+        "trend_direction": "stable",
+        "trend_score": 0,
+        "hr_last_3": 0.0,
+        "hr_last_7": 0.0,
+        "is_trending_up": true,
+        "momentum": "positive"
+      },
+      "data_sources_used": [
+        "custom_batter_stats",
+        "exit_velocity_data",
+        "custom_pitcher_stats",
+        "pitcher_exit_velocity",
+        "daily_json_files"
+      ],
+      "swing_optimization_score": 50,
+      "swing_attack_angle": 0,
+      "swing_ideal_rate": 0,
+      "swing_bat_speed": 0,
+      "barrel_rate": 7.7,
+      "exit_velocity_avg": 90.5,
+      "hard_hit_percent": 46.2,
+      "sweet_spot_percent": 30.8
+    },
+    {
+      "playerName": "Christian Yelich",
+      "player_name": "Christian Yelich",
+      "team": "MIL",
+      "pitcher": "vs Andrew Heaney",
+      "pitcher_name": "Andrew Heaney",
+      "confidenceScore": 34.424482587212886,
+      "confidence_score": 34.424482587212886,
+      "classification": "Value Play",
+      "pathway": "batterDriven",
+      "reasoning": "Above-average exit velocity: 90.7 mph; Optimal swing mechanics: 75% efficiency",
+      "detailed_reasoning": [
+        "Above-average exit velocity: 90.7 mph",
+        "Optimal swing mechanics: 75% efficiency"
+      ],
+      "game": "PIT @ MIL",
+      "venue": "American Family Field",
+      "gameTime": "23:40",
+      "is_home": true,
+      "odds": {
+        "american": "+475",
+        "decimal": 5.75,
+        "source": "current"
+      },
+      "component_scores": {
+        "batter_analysis": {
+          "data_available": true,
+          "exit_velocity_avg": 90.7,
+          "exit_velocity_score": 70.0,
+          "exit_velocity_percentile": 75.0,
+          "barrel_rate": 9.0,
+          "barrel_rate_score": 59.04761904761905,
+          "hard_hit_percent": 47.8,
+          "iso": 0.188,
+          "home_runs": 21.0,
+          "power_score": 73.5031847133758,
+          "overall_score": 67.94040036396724,
+          "sweet_spot_percent": 30.6,
+          "data_source": "exit_velocity"
+        },
+        "pitcher_analysis": {
+          "data_available": true,
+          "era": 4.89,
+          "era_score": 56.9607843137255,
+          "hr_per_9": 0.0,
+          "hr_score": 50.0,
+          "exit_velocity_allowed": 90.6,
+          "contact_quality_score": 68.18181818181804,
+          "barrel_rate_allowed": 10.5,
+          "vulnerability_score": 57.32976827094471,
+          "overall_score": 57.32976827094471,
+          "whip": 0.0,
+          "k_percent": 16.8,
+          "data_source": "pitcher_exit_velocity"
+        },
+        "arsenal_matchup": {
+          "matchup_available": true,
+          "overall_advantage": 3.8000000000000003,
+          "confidence": 0.6,
+          "pitch_matchups": {
+            "FF": {
+              "batter_slg": 0.485,
+              "pitcher_slg_allowed": 0.425,
+              "batter_woba": 0.401,
+              "batter_hard_hit": 50.6,
+              "pitcher_usage": 45.3,
+              "advantage_score": 3.8000000000000003,
+              "sample_size": 120
+            }
+          },
+          "advantage_summary": "Limited advantages found",
+          "disadvantage_summary": "No major weaknesses",
+          "total_sample_size": 120
+        },
+        "handedness_analysis": {
+          "matchup_available": false,
+          "advantage_score": 0,
+          "advantage_description": "No handedness data available"
+        },
+        "swing_analysis": {
+          "data_available": true,
+          "bat_speed": 73.51743197651672,
+          "attack_angle": 9.318791097258528,
+          "ideal_angle_rate": 0.4227005870841487,
+          "optimization_score": 74.86044861382935
+        }
+      },
+      "trend_analysis": {
+        "trend_available": true,
+        "games_analyzed": 12,
+        "recent_3_avg": 0.259,
+        "recent_5_avg": 0.2596,
+        "recent_7_avg": 0.2601428571428572,
+        "season_avg": 0.25816666666666666,
+        "trend_direction": "stable",
+        "trend_score": 0,
+        "hr_last_3": 0.0,
+        "hr_last_7": 0.0,
+        "is_trending_up": false,
+        "momentum": "negative"
+      },
+      "data_sources_used": [
+        "custom_batter_stats",
+        "exit_velocity_data",
+        "custom_pitcher_stats",
+        "pitcher_exit_velocity",
+        "daily_json_files",
+        "pitch_arsenal_data",
+        "swing_path_data"
+      ],
+      "swing_optimization_score": 74.86044861382935,
+      "swing_attack_angle": 9.318791097258528,
+      "swing_ideal_rate": 0.4227005870841487,
+      "swing_bat_speed": 73.51743197651672,
+      "barrel_rate": 9.0,
+      "exit_velocity_avg": 90.7,
+      "hard_hit_percent": 47.8,
+      "sweet_spot_percent": 30.6
+    },
+    {
+      "playerName": "Bryan Reynolds",
+      "player_name": "Bryan Reynolds",
+      "team": "PIT",
+      "pitcher": "vs Jose Quintana",
+      "pitcher_name": "Jose Quintana",
+      "confidenceScore": 33.9361953990202,
+      "confidence_score": 33.9361953990202,
+      "classification": "Value Play",
+      "pathway": "pitcherDriven",
+      "reasoning": "Above-average exit velocity: 91.1 mph; Strong barrel rate: 10.7% (quality contact); Optimal swing mechanics: 71% efficiency",
+      "detailed_reasoning": [
+        "Above-average exit velocity: 91.1 mph",
+        "Strong barrel rate: 10.7% (quality contact)",
+        "Optimal swing mechanics: 71% efficiency"
+      ],
+      "game": "MIL @ MIL",
+      "venue": "American Family Field",
+      "gameTime": "23:40",
+      "is_home": false,
+      "odds": {
+        "american": "+500",
+        "decimal": 6.0,
+        "source": "current"
+      },
+      "component_scores": {
+        "batter_analysis": {
+          "data_available": true,
+          "exit_velocity_avg": 91.1,
+          "exit_velocity_score": 74.61538461538453,
+          "exit_velocity_percentile": 75.0,
+          "barrel_rate": 10.7,
+          "barrel_rate_score": 67.14285714285714,
+          "hard_hit_percent": 46.6,
+          "iso": 0.137,
+          "home_runs": 10.0,
+          "power_score": 52.22222222222223,
+          "overall_score": 64.5360195360195,
+          "sweet_spot_percent": 39.6,
+          "data_source": "exit_velocity"
+        },
+        "pitcher_analysis": {
+          "data_available": true,
+          "era": 3.5,
+          "era_score": 74.11764705882354,
+          "hr_per_9": 0.0,
+          "hr_score": 50.0,
+          "exit_velocity_allowed": 89.1,
+          "contact_quality_score": 44.64285714285711,
+          "barrel_rate_allowed": 9.8,
+          "vulnerability_score": 58.3077731092437,
+          "overall_score": 58.3077731092437,
+          "whip": 0.0,
+          "k_percent": 15.9,
+          "data_source": "pitcher_exit_velocity"
+        },
+        "arsenal_matchup": {
+          "matchup_available": true,
+          "overall_advantage": 6.160000000000002,
+          "confidence": 0.265,
+          "pitch_matchups": {
+            "SI": {
+              "batter_slg": 0.468,
+              "pitcher_slg_allowed": 0.416,
+              "batter_woba": 0.365,
+              "batter_hard_hit": 61.1,
+              "pitcher_usage": 47.9,
+              "advantage_score": 6.160000000000002,
+              "sample_size": 53
+            }
+          },
+          "advantage_summary": "Strong vs SI (+6.2)",
+          "disadvantage_summary": "No major weaknesses",
+          "total_sample_size": 53
+        },
+        "handedness_analysis": {
+          "matchup_available": false,
+          "advantage_score": 0,
+          "advantage_description": "No handedness data available"
+        },
+        "swing_analysis": {
+          "data_available": true,
+          "bat_speed": 71.90958758445944,
+          "attack_angle": 13.75592552929578,
+          "ideal_angle_rate": 0.4527027027027027,
+          "optimization_score": 71.29598180602473
+        }
+      },
+      "trend_analysis": {
+        "trend_available": true,
+        "games_analyzed": 13,
+        "recent_3_avg": 0.24033333333333332,
+        "recent_5_avg": 0.2392,
+        "recent_7_avg": 0.2387142857142857,
+        "season_avg": 0.23684615384615385,
+        "trend_direction": "stable",
+        "trend_score": 0,
+        "hr_last_3": 0.0,
+        "hr_last_7": 0.0,
+        "is_trending_up": true,
+        "momentum": "positive"
+      },
+      "data_sources_used": [
+        "custom_batter_stats",
+        "exit_velocity_data",
+        "custom_pitcher_stats",
+        "pitcher_exit_velocity",
+        "daily_json_files",
+        "pitch_arsenal_data",
+        "swing_path_data"
+      ],
+      "swing_optimization_score": 71.29598180602473,
+      "swing_attack_angle": 13.75592552929578,
+      "swing_ideal_rate": 0.4527027027027027,
+      "swing_bat_speed": 71.90958758445944,
+      "barrel_rate": 10.7,
+      "exit_velocity_avg": 91.1,
+      "hard_hit_percent": 46.6,
+      "sweet_spot_percent": 39.6
+    },
+    {
+      "playerName": "Liover Peguero",
+      "player_name": "Liover Peguero",
+      "team": "PIT",
+      "pitcher": "vs Jose Quintana",
+      "pitcher_name": "Jose Quintana",
+      "confidenceScore": 33.53021008403361,
+      "confidence_score": 33.53021008403361,
+      "classification": "Value Play",
+      "pathway": "batterDriven",
+      "reasoning": "Strong barrel rate: 12.0% (quality contact); Strong power profile: 4.0 HRs, 0.382 ISO",
+      "detailed_reasoning": [
+        "Strong barrel rate: 12.0% (quality contact)",
+        "Strong power profile: 4.0 HRs, 0.382 ISO"
+      ],
+      "game": "MIL @ MIL",
+      "venue": "American Family Field",
+      "gameTime": "23:40",
+      "is_home": false,
+      "odds": {
+        "american": "+550",
+        "decimal": 6.5,
+        "source": "current"
+      },
+      "component_scores": {
+        "batter_analysis": {
+          "data_available": true,
+          "exit_velocity_avg": 87.7,
+          "exit_velocity_score": 39.16666666666667,
+          "exit_velocity_percentile": 25.0,
+          "barrel_rate": 12.0,
+          "barrel_rate_score": 73.5,
+          "hard_hit_percent": 40.0,
+          "iso": 0.382,
+          "home_runs": 4.0,
+          "power_score": 95,
+          "overall_score": 69.00833333333333,
+          "sweet_spot_percent": 24.0,
+          "data_source": "custom_batter"
+        },
+        "pitcher_analysis": {
+          "data_available": true,
+          "era": 3.5,
+          "era_score": 74.11764705882354,
+          "hr_per_9": 0.0,
+          "hr_score": 50.0,
+          "exit_velocity_allowed": 89.1,
+          "contact_quality_score": 44.64285714285711,
+          "barrel_rate_allowed": 9.8,
+          "vulnerability_score": 58.3077731092437,
+          "overall_score": 58.3077731092437,
+          "whip": 0.0,
+          "k_percent": 15.9,
+          "data_source": "pitcher_exit_velocity"
+        },
+        "arsenal_matchup": {
+          "matchup_available": false,
+          "overall_advantage": 0,
+          "confidence": 0,
+          "pitch_matchups": {},
+          "advantage_summary": "No arsenal data available",
+          "disadvantage_summary": "Limited matchup data"
+        },
+        "handedness_analysis": {
+          "matchup_available": false,
+          "advantage_score": 0,
+          "advantage_description": "No handedness data available"
+        },
+        "swing_analysis": {
+          "data_available": false,
+          "optimization_score": 50
+        }
+      },
+      "trend_analysis": {
+        "trend_available": true,
+        "games_analyzed": 10,
+        "recent_3_avg": 0.231,
+        "recent_5_avg": 0.236,
+        "recent_7_avg": 0.2507142857142857,
+        "season_avg": 0.2535,
+        "trend_direction": "stable",
+        "trend_score": 0,
+        "hr_last_3": 0.0,
+        "hr_last_7": 0.0,
+        "is_trending_up": false,
+        "momentum": "negative"
+      },
+      "data_sources_used": [
+        "custom_batter_stats",
+        "exit_velocity_data",
+        "custom_pitcher_stats",
+        "pitcher_exit_velocity",
+        "daily_json_files"
+      ],
+      "swing_optimization_score": 50,
+      "swing_attack_angle": 0,
+      "swing_ideal_rate": 0,
+      "swing_bat_speed": 0,
+      "barrel_rate": 12.0,
+      "exit_velocity_avg": 87.7,
+      "hard_hit_percent": 40.0,
+      "sweet_spot_percent": 24.0
+    },
+    {
+      "playerName": "Andrew McCutchen",
+      "player_name": "Andrew McCutchen",
+      "team": "PIT",
+      "pitcher": "vs Jose Quintana",
+      "pitcher_name": "Jose Quintana",
+      "confidenceScore": 30.569303791124376,
+      "confidence_score": 30.569303791124376,
+      "classification": "Value Play",
+      "pathway": "pitcherDriven",
+      "reasoning": "Optimal swing mechanics: 72% efficiency",
+      "detailed_reasoning": [
+        "Optimal swing mechanics: 72% efficiency"
+      ],
+      "game": "MIL @ MIL",
+      "venue": "American Family Field",
+      "gameTime": "23:40",
+      "is_home": false,
+      "odds": {
+        "american": "+600",
+        "decimal": 7.0,
+        "source": "current"
+      },
+      "component_scores": {
+        "batter_analysis": {
+          "data_available": true,
+          "exit_velocity_avg": 89.4,
+          "exit_velocity_score": 54.70588235294124,
+          "exit_velocity_percentile": 50.0,
+          "barrel_rate": 9.3,
+          "barrel_rate_score": 60.47619047619048,
+          "hard_hit_percent": 43.9,
+          "iso": 0.135,
+          "home_runs": 11.0,
+          "power_score": 51.333333333333336,
+          "overall_score": 55.25658263305324,
+          "sweet_spot_percent": 33.5,
+          "data_source": "exit_velocity"
+        },
+        "pitcher_analysis": {
+          "data_available": true,
+          "era": 3.5,
+          "era_score": 74.11764705882354,
+          "hr_per_9": 0.0,
+          "hr_score": 50.0,
+          "exit_velocity_allowed": 89.1,
+          "contact_quality_score": 44.64285714285711,
+          "barrel_rate_allowed": 9.8,
+          "vulnerability_score": 58.3077731092437,
+          "overall_score": 58.3077731092437,
+          "whip": 0.0,
+          "k_percent": 15.9,
+          "data_source": "pitcher_exit_velocity"
+        },
+        "arsenal_matchup": {
+          "matchup_available": true,
+          "overall_advantage": 2.8600000000000008,
+          "confidence": 0.41,
+          "pitch_matchups": {
+            "SI": {
+              "batter_slg": 0.394,
+              "pitcher_slg_allowed": 0.416,
+              "batter_woba": 0.355,
+              "batter_hard_hit": 61.7,
+              "pitcher_usage": 47.9,
+              "advantage_score": 2.8600000000000008,
+              "sample_size": 82
+            }
+          },
+          "advantage_summary": "Limited advantages found",
+          "disadvantage_summary": "No major weaknesses",
+          "total_sample_size": 82
+        },
+        "handedness_analysis": {
+          "matchup_available": true,
+          "matchup_key": "RHP_vs_RHB",
+          "woba": 0.0,
+          "iso": 0.0,
+          "hr_fb_percent": 0.0,
+          "advantage_score": 0,
+          "advantage_description": "Neutral handedness matchup"
+        },
+        "swing_analysis": {
+          "data_available": true,
+          "bat_speed": 71.06064825203246,
+          "attack_angle": 14.177085150508782,
+          "ideal_angle_rate": 0.5284552845528455,
+          "optimization_score": 71.66063057249306
+        }
+      },
+      "trend_analysis": {
+        "trend_available": true,
+        "games_analyzed": 10,
+        "recent_3_avg": 0.24766666666666667,
+        "recent_5_avg": 0.2476,
+        "recent_7_avg": 0.24757142857142858,
+        "season_avg": 0.2472,
+        "trend_direction": "stable",
+        "trend_score": 0,
+        "hr_last_3": 0.0,
+        "hr_last_7": 0.0,
+        "is_trending_up": true,
+        "momentum": "positive"
+      },
+      "data_sources_used": [
+        "custom_batter_stats",
+        "exit_velocity_data",
+        "custom_pitcher_stats",
+        "pitcher_exit_velocity",
+        "daily_json_files",
+        "pitch_arsenal_data",
+        "swing_path_data"
+      ],
+      "swing_optimization_score": 71.66063057249306,
+      "swing_attack_angle": 14.177085150508782,
+      "swing_ideal_rate": 0.5284552845528455,
+      "swing_bat_speed": 71.06064825203246,
+      "barrel_rate": 9.3,
+      "exit_velocity_avg": 89.4,
+      "hard_hit_percent": 43.9,
+      "sweet_spot_percent": 33.5
+    },
+    {
+      "playerName": "Tommy Pham",
+      "player_name": "Tommy Pham",
+      "team": "PIT",
+      "pitcher": "vs Jose Quintana",
+      "pitcher_name": "Jose Quintana",
+      "confidenceScore": 30.46826767239119,
+      "confidence_score": 30.46826767239119,
+      "classification": "Value Play",
+      "pathway": "pitcherDriven",
+      "reasoning": "Elite exit velocity: 91.6 mph (75th percentile)",
+      "detailed_reasoning": [
+        "Elite exit velocity: 91.6 mph (75th percentile)"
+      ],
+      "game": "MIL @ MIL",
+      "venue": "American Family Field",
+      "gameTime": "23:40",
+      "is_home": false,
+      "odds": {
+        "american": "+750",
+        "decimal": 8.5,
+        "source": "current"
+      },
+      "component_scores": {
+        "batter_analysis": {
+          "data_available": true,
+          "exit_velocity_avg": 91.6,
+          "exit_velocity_score": 80.3846153846153,
+          "exit_velocity_percentile": 75.0,
+          "barrel_rate": 6.2,
+          "barrel_rate_score": 45.5,
+          "hard_hit_percent": 45.4,
+          "iso": 0.113,
+          "home_runs": 5.0,
+          "power_score": 43.83783783783784,
+          "overall_score": 57.1278586278586,
+          "sweet_spot_percent": 32.0,
+          "data_source": "exit_velocity"
+        },
+        "pitcher_analysis": {
+          "data_available": true,
+          "era": 3.5,
+          "era_score": 74.11764705882354,
+          "hr_per_9": 0.0,
+          "hr_score": 50.0,
+          "exit_velocity_allowed": 89.1,
+          "contact_quality_score": 44.64285714285711,
+          "barrel_rate_allowed": 9.8,
+          "vulnerability_score": 58.3077731092437,
+          "overall_score": 58.3077731092437,
+          "whip": 0.0,
+          "k_percent": 15.9,
+          "data_source": "pitcher_exit_velocity"
+        },
+        "arsenal_matchup": {
+          "matchup_available": true,
+          "overall_advantage": 2.79,
+          "confidence": 0.32,
+          "pitch_matchups": {
+            "SI": {
+              "batter_slg": 0.362,
+              "pitcher_slg_allowed": 0.416,
+              "batter_woba": 0.369,
+              "batter_hard_hit": 60.0,
+              "pitcher_usage": 47.9,
+              "advantage_score": 2.79,
+              "sample_size": 64
+            }
+          },
+          "advantage_summary": "Limited advantages found",
+          "disadvantage_summary": "No major weaknesses",
+          "total_sample_size": 64
+        },
+        "handedness_analysis": {
+          "matchup_available": true,
+          "matchup_key": "RHP_vs_RHB",
+          "woba": 0.0,
+          "iso": 0.0,
+          "hr_fb_percent": 0.0,
+          "advantage_score": 0,
+          "advantage_description": "Neutral handedness matchup"
+        },
+        "swing_analysis": {
+          "data_available": false,
+          "optimization_score": 50
+        }
+      },
+      "trend_analysis": {
+        "trend_available": true,
+        "games_analyzed": 11,
+        "recent_3_avg": 0.26766666666666666,
+        "recent_5_avg": 0.26780000000000004,
+        "recent_7_avg": 0.2681428571428572,
+        "season_avg": 0.2681818181818182,
+        "trend_direction": "stable",
+        "trend_score": 0,
+        "hr_last_3": 0.0,
+        "hr_last_7": 0.0,
+        "is_trending_up": false,
+        "momentum": "negative"
+      },
+      "data_sources_used": [
+        "custom_batter_stats",
+        "exit_velocity_data",
+        "custom_pitcher_stats",
+        "pitcher_exit_velocity",
+        "daily_json_files",
+        "pitch_arsenal_data"
+      ],
+      "swing_optimization_score": 50,
+      "swing_attack_angle": 0,
+      "swing_ideal_rate": 0,
+      "swing_bat_speed": 0,
+      "barrel_rate": 6.2,
+      "exit_velocity_avg": 91.6,
+      "hard_hit_percent": 45.4,
+      "sweet_spot_percent": 32.0
+    },
+    {
+      "playerName": "Brice Turang",
+      "player_name": "Brice Turang",
+      "team": "MIL",
+      "pitcher": "vs Andrew Heaney",
+      "pitcher_name": "Andrew Heaney",
+      "confidenceScore": 28.707759830418645,
+      "confidence_score": 28.707759830418645,
+      "classification": "Longshot",
+      "pathway": "pitcherDriven",
+      "reasoning": "Above-average exit velocity: 90.7 mph",
+      "detailed_reasoning": [
+        "Above-average exit velocity: 90.7 mph"
+      ],
+      "game": "PIT @ MIL",
+      "venue": "American Family Field",
+      "gameTime": "23:40",
+      "is_home": true,
+      "odds": {
+        "american": "+700",
+        "decimal": 8.0,
+        "source": "current"
+      },
+      "component_scores": {
+        "batter_analysis": {
+          "data_available": true,
+          "exit_velocity_avg": 90.7,
+          "exit_velocity_score": 70.0,
+          "exit_velocity_percentile": 75.0,
+          "barrel_rate": 6.4,
+          "barrel_rate_score": 46.5,
+          "hard_hit_percent": 45.8,
+          "iso": 0.11,
+          "home_runs": 8.0,
+          "power_score": 42.86486486486486,
+          "overall_score": 53.4527027027027,
+          "sweet_spot_percent": 35.9,
+          "data_source": "exit_velocity"
+        },
+        "pitcher_analysis": {
+          "data_available": true,
+          "era": 4.89,
+          "era_score": 56.9607843137255,
+          "hr_per_9": 0.0,
+          "hr_score": 50.0,
+          "exit_velocity_allowed": 90.6,
+          "contact_quality_score": 68.18181818181804,
+          "barrel_rate_allowed": 10.5,
+          "vulnerability_score": 57.32976827094471,
+          "overall_score": 57.32976827094471,
+          "whip": 0.0,
+          "k_percent": 16.8,
+          "data_source": "pitcher_exit_velocity"
+        },
+        "arsenal_matchup": {
+          "matchup_available": true,
+          "overall_advantage": 0.3300000000000004,
+          "confidence": 0.66,
+          "pitch_matchups": {
+            "FF": {
+              "batter_slg": 0.396,
+              "pitcher_slg_allowed": 0.425,
+              "batter_woba": 0.346,
+              "batter_hard_hit": 56.4,
+              "pitcher_usage": 45.3,
+              "advantage_score": 0.3300000000000004,
+              "sample_size": 132
+            }
+          },
+          "advantage_summary": "Limited advantages found",
+          "disadvantage_summary": "No major weaknesses",
+          "total_sample_size": 132
+        },
+        "handedness_analysis": {
+          "matchup_available": false,
+          "advantage_score": 0,
+          "advantage_description": "No handedness data available"
+        },
+        "swing_analysis": {
+          "data_available": true,
+          "bat_speed": 70.36965137992834,
+          "attack_angle": 6.202997287527575,
+          "ideal_angle_rate": 0.4139784946236559,
+          "optimization_score": 59.35234340651143
+        }
+      },
+      "trend_analysis": {
+        "trend_available": true,
+        "games_analyzed": 12,
+        "recent_3_avg": 0.2773333333333334,
+        "recent_5_avg": 0.2766,
+        "recent_7_avg": 0.27642857142857147,
+        "season_avg": 0.27558333333333335,
+        "trend_direction": "stable",
+        "trend_score": 0,
+        "hr_last_3": 0.0,
+        "hr_last_7": 0.0,
+        "is_trending_up": true,
+        "momentum": "positive"
+      },
+      "data_sources_used": [
+        "custom_batter_stats",
+        "exit_velocity_data",
+        "custom_pitcher_stats",
+        "pitcher_exit_velocity",
+        "daily_json_files",
+        "pitch_arsenal_data"
+      ],
+      "swing_optimization_score": 59.35234340651143,
+      "swing_attack_angle": 6.202997287527575,
+      "swing_ideal_rate": 0.4139784946236559,
+      "swing_bat_speed": 70.36965137992834,
+      "barrel_rate": 6.4,
+      "exit_velocity_avg": 90.7,
+      "hard_hit_percent": 45.8,
+      "sweet_spot_percent": 35.9
+    },
+    {
+      "playerName": "Spencer Horwitz",
+      "player_name": "Spencer Horwitz",
+      "team": "PIT",
+      "pitcher": "vs Jose Quintana",
+      "pitcher_name": "Jose Quintana",
+      "confidenceScore": 27.906995798319322,
+      "confidence_score": 27.906995798319322,
+      "classification": "Longshot",
+      "pathway": "pitcherDriven",
+      "reasoning": "",
+      "detailed_reasoning": [],
+      "game": "MIL @ MIL",
+      "venue": "American Family Field",
+      "gameTime": "23:40",
+      "is_home": false,
+      "odds": {
+        "american": "+600",
+        "decimal": 7.0,
+        "source": "current"
+      },
+      "component_scores": {
+        "batter_analysis": {
+          "data_available": true,
+          "exit_velocity_avg": 88.0,
+          "exit_velocity_score": 41.66666666666666,
+          "exit_velocity_percentile": 25.0,
+          "barrel_rate": 9.0,
+          "barrel_rate_score": 59.04761904761905,
+          "hard_hit_percent": 41.6,
+          "iso": 0.135,
+          "home_runs": 5.0,
+          "power_score": 51.333333333333336,
+          "overall_score": 50.264285714285705,
+          "sweet_spot_percent": 40.4,
+          "data_source": "exit_velocity"
+        },
+        "pitcher_analysis": {
+          "data_available": true,
+          "era": 3.5,
+          "era_score": 74.11764705882354,
+          "hr_per_9": 0.0,
+          "hr_score": 50.0,
+          "exit_velocity_allowed": 89.1,
+          "contact_quality_score": 44.64285714285711,
+          "barrel_rate_allowed": 9.8,
+          "vulnerability_score": 58.3077731092437,
+          "overall_score": 58.3077731092437,
+          "whip": 0.0,
+          "k_percent": 15.9,
+          "data_source": "pitcher_exit_velocity"
+        },
+        "arsenal_matchup": {
+          "matchup_available": false,
+          "overall_advantage": 0,
+          "confidence": 0,
+          "pitch_matchups": {},
+          "advantage_summary": "No common pitch types found",
+          "disadvantage_summary": "Cannot analyze matchup"
+        },
+        "handedness_analysis": {
+          "matchup_available": false,
+          "advantage_score": 0,
+          "advantage_description": "No handedness data available"
+        },
+        "swing_analysis": {
+          "data_available": false,
+          "optimization_score": 50
+        }
+      },
+      "trend_analysis": {
+        "trend_available": true,
+        "games_analyzed": 14,
+        "recent_3_avg": 0.26233333333333336,
+        "recent_5_avg": 0.2622,
+        "recent_7_avg": 0.26257142857142857,
+        "season_avg": 0.25592857142857145,
+        "trend_direction": "stable",
+        "trend_score": 0,
+        "hr_last_3": 0.0,
+        "hr_last_7": 0.0,
+        "is_trending_up": false,
+        "momentum": "negative"
+      },
+      "data_sources_used": [
+        "custom_batter_stats",
+        "exit_velocity_data",
+        "custom_pitcher_stats",
+        "pitcher_exit_velocity",
+        "daily_json_files"
+      ],
+      "swing_optimization_score": 50,
+      "swing_attack_angle": 0,
+      "swing_ideal_rate": 0,
+      "swing_bat_speed": 0,
+      "barrel_rate": 9.0,
+      "exit_velocity_avg": 88.0,
+      "hard_hit_percent": 41.6,
+      "sweet_spot_percent": 40.4
+    },
+    {
+      "playerName": "Henry Davis",
+      "player_name": "Henry Davis",
+      "team": "PIT",
+      "pitcher": "vs Jose Quintana",
+      "pitcher_name": "Jose Quintana",
+      "confidenceScore": 27.49396491028844,
+      "confidence_score": 27.49396491028844,
+      "classification": "Longshot",
+      "pathway": "pitcherDriven",
+      "reasoning": "",
+      "detailed_reasoning": [],
+      "game": "MIL @ MIL",
+      "venue": "American Family Field",
+      "gameTime": "23:40",
+      "is_home": false,
+      "odds": {
+        "american": "+800",
+        "decimal": 9.0,
+        "source": "current"
+      },
+      "component_scores": {
+        "batter_analysis": {
+          "data_available": true,
+          "exit_velocity_avg": 88.2,
+          "exit_velocity_score": 43.33333333333334,
+          "exit_velocity_percentile": 25.0,
+          "barrel_rate": 10.1,
+          "barrel_rate_score": 64.28571428571428,
+          "hard_hit_percent": 36.1,
+          "iso": 0.105,
+          "home_runs": 4.0,
+          "power_score": 41.24324324324324,
+          "overall_score": 48.88751608751608,
+          "sweet_spot_percent": 37.0,
+          "data_source": "custom_batter"
+        },
+        "pitcher_analysis": {
+          "data_available": true,
+          "era": 3.5,
+          "era_score": 74.11764705882354,
+          "hr_per_9": 0.0,
+          "hr_score": 50.0,
+          "exit_velocity_allowed": 89.1,
+          "contact_quality_score": 44.64285714285711,
+          "barrel_rate_allowed": 9.8,
+          "vulnerability_score": 58.3077731092437,
+          "overall_score": 58.3077731092437,
+          "whip": 0.0,
+          "k_percent": 15.9,
+          "data_source": "pitcher_exit_velocity"
+        },
+        "arsenal_matchup": {
+          "matchup_available": false,
+          "overall_advantage": 0,
+          "confidence": 0,
+          "pitch_matchups": {},
+          "advantage_summary": "No common pitch types found",
+          "disadvantage_summary": "Cannot analyze matchup"
+        },
+        "handedness_analysis": {
+          "matchup_available": false,
+          "advantage_score": 0,
+          "advantage_description": "No handedness data available"
+        },
+        "swing_analysis": {
+          "data_available": false,
+          "optimization_score": 50
+        }
+      },
+      "trend_analysis": {
+        "trend_available": true,
+        "games_analyzed": 11,
+        "recent_3_avg": 0.17066666666666666,
+        "recent_5_avg": 0.168,
+        "recent_7_avg": 0.168,
+        "season_avg": 0.17018181818181818,
+        "trend_direction": "stable",
+        "trend_score": 0,
+        "hr_last_3": 0.0,
+        "hr_last_7": 0.0,
+        "is_trending_up": true,
+        "momentum": "positive"
+      },
+      "data_sources_used": [
+        "custom_batter_stats",
+        "exit_velocity_data",
+        "custom_pitcher_stats",
+        "pitcher_exit_velocity",
+        "daily_json_files"
+      ],
+      "swing_optimization_score": 50,
+      "swing_attack_angle": 0,
+      "swing_ideal_rate": 0,
+      "swing_bat_speed": 0,
+      "barrel_rate": 10.1,
+      "exit_velocity_avg": 88.2,
+      "hard_hit_percent": 36.1,
+      "sweet_spot_percent": 37.0
+    },
+    {
+      "playerName": "Nick Gonzales",
+      "player_name": "Nick Gonzales",
+      "team": "PIT",
+      "pitcher": "vs Jose Quintana",
+      "pitcher_name": "Jose Quintana",
+      "confidenceScore": 27.05354341736694,
+      "confidence_score": 27.05354341736694,
+      "classification": "Longshot",
+      "pathway": "pitcherDriven",
+      "reasoning": "",
+      "detailed_reasoning": [],
+      "game": "MIL @ MIL",
+      "venue": "American Family Field",
+      "gameTime": "23:40",
+      "is_home": false,
+      "odds": {
+        "american": "+750",
+        "decimal": 8.5,
+        "source": "current"
+      },
+      "component_scores": {
+        "batter_analysis": {
+          "data_available": true,
+          "exit_velocity_avg": 88.1,
+          "exit_velocity_score": 42.49999999999994,
+          "exit_velocity_percentile": 25.0,
+          "barrel_rate": 6.3,
+          "barrel_rate_score": 46.0,
+          "hard_hit_percent": 40.3,
+          "iso": 0.14,
+          "home_runs": 5.0,
+          "power_score": 53.55555555555556,
+          "overall_score": 47.41944444444442,
+          "sweet_spot_percent": 34.0,
+          "data_source": "custom_batter"
+        },
+        "pitcher_analysis": {
+          "data_available": true,
+          "era": 3.5,
+          "era_score": 74.11764705882354,
+          "hr_per_9": 0.0,
+          "hr_score": 50.0,
+          "exit_velocity_allowed": 89.1,
+          "contact_quality_score": 44.64285714285711,
+          "barrel_rate_allowed": 9.8,
+          "vulnerability_score": 58.3077731092437,
+          "overall_score": 58.3077731092437,
+          "whip": 0.0,
+          "k_percent": 15.9,
+          "data_source": "pitcher_exit_velocity"
+        },
+        "arsenal_matchup": {
+          "matchup_available": false,
+          "overall_advantage": 0,
+          "confidence": 0,
+          "pitch_matchups": {},
+          "advantage_summary": "No common pitch types found",
+          "disadvantage_summary": "Cannot analyze matchup"
+        },
+        "handedness_analysis": {
+          "matchup_available": false,
+          "advantage_score": 0,
+          "advantage_description": "No handedness data available"
+        },
+        "swing_analysis": {
+          "data_available": false,
+          "optimization_score": 50
+        }
+      },
+      "trend_analysis": {
+        "trend_available": true,
+        "games_analyzed": 13,
+        "recent_3_avg": 0.2786666666666667,
+        "recent_5_avg": 0.277,
+        "recent_7_avg": 0.2765714285714286,
+        "season_avg": 0.2671538461538462,
+        "trend_direction": "stable",
+        "trend_score": 0,
+        "hr_last_3": 0.0,
+        "hr_last_7": 0.0,
+        "is_trending_up": true,
+        "momentum": "positive"
+      },
+      "data_sources_used": [
+        "custom_batter_stats",
+        "exit_velocity_data",
+        "custom_pitcher_stats",
+        "pitcher_exit_velocity",
+        "daily_json_files"
+      ],
+      "swing_optimization_score": 50,
+      "swing_attack_angle": 0,
+      "swing_ideal_rate": 0,
+      "swing_bat_speed": 0,
+      "barrel_rate": 6.3,
+      "exit_velocity_avg": 88.1,
+      "hard_hit_percent": 40.3,
+      "sweet_spot_percent": 34.0
+    },
+    {
+      "playerName": "Willson Contreras",
+      "player_name": "Willson Contreras",
+      "team": "STL",
+      "pitcher": "vs TBD",
+      "pitcher_name": "TBD",
+      "confidenceScore": 25,
+      "confidence_score": 25,
+      "classification": "Moderate Play",
+      "pathway": "batterDriven",
+      "reasoning": "Above-average exit velocity: 90.8 mph; Elite barrel rate: 14.8% (crushing the ball consistently); Optimal swing mechanics: 86% efficiency",
+      "detailed_reasoning": [
+        "Above-average exit velocity: 90.8 mph",
+        "Elite barrel rate: 14.8% (crushing the ball consistently)",
+        "Optimal swing mechanics: 86% efficiency"
+      ],
+      "game": "COL @ STL",
+      "venue": "Busch Stadium",
+      "gameTime": "23:45",
+      "is_home": true,
+      "odds": {
+        "american": "+350",
+        "decimal": 4.5,
+        "source": "current"
+      },
+      "component_scores": {
+        "batter_analysis": {
+          "data_available": true,
+          "exit_velocity_avg": 90.8,
+          "exit_velocity_score": 71.15384615384609,
+          "exit_velocity_percentile": 75.0,
+          "barrel_rate": 14.8,
+          "barrel_rate_score": 87.36966824644551,
+          "hard_hit_percent": 49.3,
+          "iso": 0.189,
+          "home_runs": 15.0,
+          "power_score": 73.82165605095541,
+          "overall_score": 76.95232624561417,
+          "sweet_spot_percent": 39.4,
+          "data_source": "exit_velocity"
+        },
+        "pitcher_analysis": {
+          "data_available": false,
+          "overall_score": 50
+        },
+        "arsenal_matchup": {
+          "matchup_available": false,
+          "overall_advantage": 0,
+          "confidence": 0,
+          "pitch_matchups": {},
+          "advantage_summary": "No arsenal data available",
+          "disadvantage_summary": "Limited matchup data"
+        },
+        "handedness_analysis": {
+          "matchup_available": true,
+          "matchup_key": "RHP_vs_RHB",
+          "woba": 0.0,
+          "iso": 0.0,
+          "hr_fb_percent": 0.0,
+          "advantage_score": 0,
+          "advantage_description": "Neutral handedness matchup"
+        },
+        "swing_analysis": {
+          "data_available": true,
+          "bat_speed": 76.35797505474451,
+          "attack_angle": 9.48420085025927,
+          "ideal_angle_rate": 0.4981751824817518,
+          "optimization_score": 85.97566325273718
+        }
+      },
+      "trend_analysis": {
+        "trend_available": true,
+        "games_analyzed": 13,
+        "recent_3_avg": 0.25133333333333335,
+        "recent_5_avg": 0.2518,
+        "recent_7_avg": 0.25342857142857145,
+        "season_avg": 0.2523076923076923,
+        "trend_direction": "stable",
+        "trend_score": 0,
+        "hr_last_3": 0.0,
+        "hr_last_7": 0.0,
+        "is_trending_up": false,
+        "momentum": "negative"
+      },
+      "data_sources_used": [
+        "custom_batter_stats",
+        "exit_velocity_data",
+        "daily_json_files",
+        "swing_path_data"
+      ],
+      "swing_optimization_score": 85.97566325273718,
+      "swing_attack_angle": 9.48420085025927,
+      "swing_ideal_rate": 0.4981751824817518,
+      "swing_bat_speed": 76.35797505474451,
+      "barrel_rate": 14.8,
+      "exit_velocity_avg": 90.8,
+      "hard_hit_percent": 49.3,
+      "sweet_spot_percent": 39.4
+    },
+    {
+      "playerName": "Isaac Collins",
+      "player_name": "Isaac Collins",
+      "team": "MIL",
+      "pitcher": "vs Andrew Heaney",
+      "pitcher_name": "Andrew Heaney",
+      "confidenceScore": 25,
+      "confidence_score": 25,
+      "classification": "Longshot",
+      "pathway": "pitcherDriven",
+      "reasoning": "Challenging matchup: Struggles vs FF (-8.6)",
+      "detailed_reasoning": [
+        "Challenging matchup: Struggles vs FF (-8.6)"
+      ],
+      "game": "PIT @ MIL",
+      "venue": "American Family Field",
+      "gameTime": "23:40",
+      "is_home": true,
+      "odds": {
+        "american": "+425",
+        "decimal": 5.25,
+        "source": "current"
+      },
+      "component_scores": {
+        "batter_analysis": {
+          "data_available": true,
+          "exit_velocity_avg": 88.0,
+          "exit_velocity_score": 41.66666666666666,
+          "exit_velocity_percentile": 25.0,
+          "barrel_rate": 5.4,
+          "barrel_rate_score": 41.5,
+          "hard_hit_percent": 38.0,
+          "iso": 0.126,
+          "home_runs": 6.0,
+          "power_score": 48.05405405405405,
+          "overall_score": 43.85225225225224,
+          "sweet_spot_percent": 37.0,
+          "data_source": "exit_velocity"
+        },
+        "pitcher_analysis": {
+          "data_available": true,
+          "era": 4.89,
+          "era_score": 56.9607843137255,
+          "hr_per_9": 0.0,
+          "hr_score": 50.0,
+          "exit_velocity_allowed": 90.6,
+          "contact_quality_score": 68.18181818181804,
+          "barrel_rate_allowed": 10.5,
+          "vulnerability_score": 57.32976827094471,
+          "overall_score": 57.32976827094471,
+          "whip": 0.0,
+          "k_percent": 16.8,
+          "data_source": "pitcher_exit_velocity"
+        },
+        "arsenal_matchup": {
+          "matchup_available": true,
+          "overall_advantage": -8.59,
+          "confidence": 0.665,
+          "pitch_matchups": {
+            "FF": {
+              "batter_slg": 0.306,
+              "pitcher_slg_allowed": 0.425,
+              "batter_woba": 0.353,
+              "batter_hard_hit": 31.6,
+              "pitcher_usage": 45.3,
+              "advantage_score": -8.59,
+              "sample_size": 133
+            }
+          },
+          "advantage_summary": "Limited advantages found",
+          "disadvantage_summary": "Struggles vs FF (-8.6)",
+          "total_sample_size": 133
+        },
+        "handedness_analysis": {
+          "matchup_available": false,
+          "advantage_score": 0,
+          "advantage_description": "No handedness data available"
+        },
+        "swing_analysis": {
+          "data_available": true,
+          "bat_speed": 72.06879465753423,
+          "attack_angle": 3.0935048211216487,
+          "ideal_angle_rate": 0.3287671232876712,
+          "optimization_score": 55.11275154109583
+        }
+      },
+      "trend_analysis": {
+        "trend_available": true,
+        "games_analyzed": 12,
+        "recent_3_avg": 0.29133333333333333,
+        "recent_5_avg": 0.29019999999999996,
+        "recent_7_avg": 0.28728571428571426,
+        "season_avg": 0.2826666666666667,
+        "trend_direction": "stable",
+        "trend_score": 0,
+        "hr_last_3": 0.0,
+        "hr_last_7": 0.0,
+        "is_trending_up": true,
+        "momentum": "positive"
+      },
+      "data_sources_used": [
+        "custom_batter_stats",
+        "exit_velocity_data",
+        "custom_pitcher_stats",
+        "pitcher_exit_velocity",
+        "daily_json_files",
+        "pitch_arsenal_data"
+      ],
+      "swing_optimization_score": 55.11275154109583,
+      "swing_attack_angle": 3.0935048211216487,
+      "swing_ideal_rate": 0.3287671232876712,
+      "swing_bat_speed": 72.06879465753423,
+      "barrel_rate": 5.4,
+      "exit_velocity_avg": 88.0,
+      "hard_hit_percent": 38.0,
+      "sweet_spot_percent": 37.0
+    },
+    {
+      "playerName": "Masyn Winn",
+      "player_name": "Masyn Winn",
+      "team": "STL",
+      "pitcher": "vs TBD",
+      "pitcher_name": "TBD",
+      "confidenceScore": 25,
+      "confidence_score": 25,
+      "classification": "Longshot",
+      "pathway": "pitcherDriven",
+      "reasoning": "",
+      "detailed_reasoning": [],
+      "game": "COL @ STL",
+      "venue": "Busch Stadium",
+      "gameTime": "23:45",
+      "is_home": true,
+      "odds": {
+        "american": "+475",
+        "decimal": 5.75,
+        "source": "current"
+      },
+      "component_scores": {
+        "batter_analysis": {
+          "data_available": true,
+          "exit_velocity_avg": 88.4,
+          "exit_velocity_score": 45.00000000000004,
+          "exit_velocity_percentile": 25.0,
+          "barrel_rate": 5.1,
+          "barrel_rate_score": 40.0,
+          "hard_hit_percent": 36.0,
+          "iso": 0.117,
+          "home_runs": 7.0,
+          "power_score": 45.13513513513514,
+          "overall_score": 43.54729729729731,
+          "sweet_spot_percent": 32.5,
+          "data_source": "exit_velocity"
+        },
+        "pitcher_analysis": {
+          "data_available": false,
+          "overall_score": 50
+        },
+        "arsenal_matchup": {
+          "matchup_available": false,
+          "overall_advantage": 0,
+          "confidence": 0,
+          "pitch_matchups": {},
+          "advantage_summary": "No arsenal data available",
+          "disadvantage_summary": "Limited matchup data"
+        },
+        "handedness_analysis": {
+          "matchup_available": true,
+          "matchup_key": "RHP_vs_RHB",
+          "woba": 0.0,
+          "iso": 0.0,
+          "hr_fb_percent": 0.0,
+          "advantage_score": 0,
+          "advantage_description": "Neutral handedness matchup"
+        },
+        "swing_analysis": {
+          "data_available": true,
+          "bat_speed": 70.85865457076568,
+          "attack_angle": 4.239682530466739,
+          "ideal_angle_rate": 0.4315545243619489,
+          "optimization_score": 55.43770382830631
+        }
+      },
+      "trend_analysis": {
+        "trend_available": true,
+        "games_analyzed": 12,
+        "recent_3_avg": 0.26933333333333337,
+        "recent_5_avg": 0.269,
+        "recent_7_avg": 0.2692857142857143,
+        "season_avg": 0.26983333333333337,
+        "trend_direction": "stable",
+        "trend_score": 0,
+        "hr_last_3": 0.0,
+        "hr_last_7": 0.0,
+        "is_trending_up": true,
+        "momentum": "positive"
+      },
+      "data_sources_used": [
+        "custom_batter_stats",
+        "exit_velocity_data",
+        "daily_json_files"
+      ],
+      "swing_optimization_score": 55.43770382830631,
+      "swing_attack_angle": 4.239682530466739,
+      "swing_ideal_rate": 0.4315545243619489,
+      "swing_bat_speed": 70.85865457076568,
+      "barrel_rate": 5.1,
+      "exit_velocity_avg": 88.4,
+      "hard_hit_percent": 36.0,
+      "sweet_spot_percent": 32.5
+    },
+    {
+      "playerName": "Nolan Gorman",
+      "player_name": "Nolan Gorman",
+      "team": "STL",
+      "pitcher": "vs TBD",
+      "pitcher_name": "TBD",
+      "confidenceScore": 25,
+      "confidence_score": 25,
+      "classification": "Moderate Play",
+      "pathway": "batterDriven",
+      "reasoning": "Strong barrel rate: 10.9% (quality contact)",
+      "detailed_reasoning": [
+        "Strong barrel rate: 10.9% (quality contact)"
+      ],
+      "game": "COL @ STL",
+      "venue": "Busch Stadium",
+      "gameTime": "23:45",
+      "is_home": true,
+      "odds": {
+        "american": "+500",
+        "decimal": 6.0,
+        "source": "current"
+      },
+      "component_scores": {
+        "batter_analysis": {
+          "data_available": true,
+          "exit_velocity_avg": 89.0,
+          "exit_velocity_score": 50.0,
+          "exit_velocity_percentile": 50.0,
+          "barrel_rate": 10.9,
+          "barrel_rate_score": 68.0952380952381,
+          "hard_hit_percent": 43.1,
+          "iso": 0.179,
+          "home_runs": 9.0,
+          "power_score": 70.63694267515923,
+          "overall_score": 62.65150136487716,
+          "sweet_spot_percent": 41.6,
+          "data_source": "custom_batter"
+        },
+        "pitcher_analysis": {
+          "data_available": false,
+          "overall_score": 50
+        },
+        "arsenal_matchup": {
+          "matchup_available": false,
+          "overall_advantage": 0,
+          "confidence": 0,
+          "pitch_matchups": {},
+          "advantage_summary": "No arsenal data available",
+          "disadvantage_summary": "Limited matchup data"
+        },
+        "handedness_analysis": {
+          "matchup_available": false,
+          "advantage_score": 0,
+          "advantage_description": "No handedness data available"
+        },
+        "swing_analysis": {
+          "data_available": false,
+          "optimization_score": 50
+        }
+      },
+      "trend_analysis": {
+        "trend_available": true,
+        "games_analyzed": 7,
+        "recent_3_avg": 0.22633333333333333,
+        "recent_5_avg": 0.2256,
+        "recent_7_avg": 0.22442857142857142,
+        "season_avg": 0.22442857142857142,
+        "trend_direction": "stable",
+        "trend_score": 0,
+        "hr_last_3": 0.0,
+        "hr_last_7": 0.0,
+        "is_trending_up": true,
+        "momentum": "positive"
+      },
+      "data_sources_used": [
+        "custom_batter_stats",
+        "exit_velocity_data",
+        "daily_json_files"
+      ],
+      "swing_optimization_score": 50,
+      "swing_attack_angle": 0,
+      "swing_ideal_rate": 0,
+      "swing_bat_speed": 0,
+      "barrel_rate": 10.9,
+      "exit_velocity_avg": 89.0,
+      "hard_hit_percent": 43.1,
+      "sweet_spot_percent": 41.6
+    },
+    {
+      "playerName": "Caleb Durbin",
+      "player_name": "Caleb Durbin",
+      "team": "MIL",
+      "pitcher": "vs Andrew Heaney",
+      "pitcher_name": "Andrew Heaney",
+      "confidenceScore": 25,
+      "confidence_score": 25,
+      "classification": "Avoid",
+      "pathway": "pitcherDriven",
+      "reasoning": "",
+      "detailed_reasoning": [],
+      "game": "PIT @ MIL",
+      "venue": "American Family Field",
+      "gameTime": "23:40",
+      "is_home": true,
+      "odds": {
+        "american": "+500",
+        "decimal": 6.0,
+        "source": "current"
+      },
+      "component_scores": {
+        "batter_analysis": {
+          "data_available": true,
+          "exit_velocity_avg": 84.6,
+          "exit_velocity_score": 25,
+          "exit_velocity_percentile": 10.0,
+          "barrel_rate": 3.2,
+          "barrel_rate_score": 25,
+          "hard_hit_percent": 24.2,
+          "iso": 0.109,
+          "home_runs": 5.0,
+          "power_score": 42.54054054054054,
+          "overall_score": 31.13918918918919,
+          "sweet_spot_percent": 27.8,
+          "data_source": "exit_velocity"
+        },
+        "pitcher_analysis": {
+          "data_available": true,
+          "era": 4.89,
+          "era_score": 56.9607843137255,
+          "hr_per_9": 0.0,
+          "hr_score": 50.0,
+          "exit_velocity_allowed": 90.6,
+          "contact_quality_score": 68.18181818181804,
+          "barrel_rate_allowed": 10.5,
+          "vulnerability_score": 57.32976827094471,
+          "overall_score": 57.32976827094471,
+          "whip": 0.0,
+          "k_percent": 16.8,
+          "data_source": "pitcher_exit_velocity"
+        },
+        "arsenal_matchup": {
+          "matchup_available": true,
+          "overall_advantage": -4.749999999999998,
+          "confidence": 0.48,
+          "pitch_matchups": {
+            "FF": {
+              "batter_slg": 0.4,
+              "pitcher_slg_allowed": 0.425,
+              "batter_woba": 0.326,
+              "batter_hard_hit": 27.3,
+              "pitcher_usage": 45.3,
+              "advantage_score": -4.749999999999998,
+              "sample_size": 96
+            }
+          },
+          "advantage_summary": "Limited advantages found",
+          "disadvantage_summary": "No major weaknesses",
+          "total_sample_size": 96
+        },
+        "handedness_analysis": {
+          "matchup_available": true,
+          "matchup_key": "RHP_vs_RHB",
+          "woba": 0.0,
+          "iso": 0.0,
+          "hr_fb_percent": 0.0,
+          "advantage_score": 0,
+          "advantage_description": "Neutral handedness matchup"
+        },
+        "swing_analysis": {
+          "data_available": true,
+          "bat_speed": 67.949817654321,
+          "attack_angle": 8.199824608584724,
+          "ideal_angle_rate": 0.6481481481481481,
+          "optimization_score": 67.07585704732513
+        }
+      },
+      "trend_analysis": {
+        "trend_available": true,
+        "games_analyzed": 12,
+        "recent_3_avg": 0.259,
+        "recent_5_avg": 0.26,
+        "recent_7_avg": 0.262,
+        "season_avg": 0.2609166666666667,
+        "trend_direction": "stable",
+        "trend_score": 0,
+        "hr_last_3": 0.0,
+        "hr_last_7": 0.0,
+        "is_trending_up": false,
+        "momentum": "negative"
+      },
+      "data_sources_used": [
+        "custom_batter_stats",
+        "exit_velocity_data",
+        "custom_pitcher_stats",
+        "pitcher_exit_velocity",
+        "daily_json_files",
+        "pitch_arsenal_data"
+      ],
+      "swing_optimization_score": 67.07585704732513,
+      "swing_attack_angle": 8.199824608584724,
+      "swing_ideal_rate": 0.6481481481481481,
+      "swing_bat_speed": 67.949817654321,
+      "barrel_rate": 3.2,
+      "exit_velocity_avg": 84.6,
+      "hard_hit_percent": 24.2,
+      "sweet_spot_percent": 27.8
+    },
+    {
+      "playerName": "Joey Ortiz",
+      "player_name": "Joey Ortiz",
+      "team": "MIL",
+      "pitcher": "vs Andrew Heaney",
+      "pitcher_name": "Andrew Heaney",
+      "confidenceScore": 25,
+      "confidence_score": 25,
+      "classification": "Avoid",
+      "pathway": "pitcherDriven",
+      "reasoning": "",
+      "detailed_reasoning": [],
+      "game": "PIT @ MIL",
+      "venue": "American Family Field",
+      "gameTime": "23:40",
+      "is_home": true,
+      "odds": {
+        "american": "+550",
+        "decimal": 6.5,
+        "source": "current"
+      },
+      "component_scores": {
+        "batter_analysis": {
+          "data_available": true,
+          "exit_velocity_avg": 85.7,
+          "exit_velocity_score": 25,
+          "exit_velocity_percentile": 10.0,
+          "barrel_rate": 3.5,
+          "barrel_rate_score": 25,
+          "hard_hit_percent": 32.9,
+          "iso": 0.099,
+          "home_runs": 7.0,
+          "power_score": 39.2972972972973,
+          "overall_score": 30.004054054054052,
+          "sweet_spot_percent": 29.1,
+          "data_source": "exit_velocity"
+        },
+        "pitcher_analysis": {
+          "data_available": true,
+          "era": 4.89,
+          "era_score": 56.9607843137255,
+          "hr_per_9": 0.0,
+          "hr_score": 50.0,
+          "exit_velocity_allowed": 90.6,
+          "contact_quality_score": 68.18181818181804,
+          "barrel_rate_allowed": 10.5,
+          "vulnerability_score": 57.32976827094471,
+          "overall_score": 57.32976827094471,
+          "whip": 0.0,
+          "k_percent": 16.8,
+          "data_source": "pitcher_exit_velocity"
+        },
+        "arsenal_matchup": {
+          "matchup_available": true,
+          "overall_advantage": 0.879999999999999,
+          "confidence": 0.535,
+          "pitch_matchups": {
+            "FF": {
+              "batter_slg": 0.474,
+              "pitcher_slg_allowed": 0.425,
+              "batter_woba": 0.35,
+              "batter_hard_hit": 41.6,
+              "pitcher_usage": 45.3,
+              "advantage_score": 0.879999999999999,
+              "sample_size": 107
+            }
+          },
+          "advantage_summary": "Limited advantages found",
+          "disadvantage_summary": "No major weaknesses",
+          "total_sample_size": 107
+        },
+        "handedness_analysis": {
+          "matchup_available": true,
+          "matchup_key": "RHP_vs_RHB",
+          "woba": 0.0,
+          "iso": 0.0,
+          "hr_fb_percent": 0.0,
+          "advantage_score": 0,
+          "advantage_description": "Neutral handedness matchup"
+        },
+        "swing_analysis": {
+          "data_available": true,
+          "bat_speed": 72.79192262755103,
+          "attack_angle": 2.5855487075796297,
+          "ideal_angle_rate": 0.3647959183673469,
+          "optimization_score": 50.57295460246602
+        }
+      },
+      "trend_analysis": {
+        "trend_available": true,
+        "games_analyzed": 13,
+        "recent_3_avg": 0.22,
+        "recent_5_avg": 0.22,
+        "recent_7_avg": 0.21914285714285714,
+        "season_avg": 0.21553846153846154,
+        "trend_direction": "stable",
+        "trend_score": 0,
+        "hr_last_3": 0.0,
+        "hr_last_7": 0.0,
+        "is_trending_up": true,
+        "momentum": "positive"
+      },
+      "data_sources_used": [
+        "custom_batter_stats",
+        "exit_velocity_data",
+        "custom_pitcher_stats",
+        "pitcher_exit_velocity",
+        "daily_json_files",
+        "pitch_arsenal_data"
+      ],
+      "swing_optimization_score": 50.57295460246602,
+      "swing_attack_angle": 2.5855487075796297,
+      "swing_ideal_rate": 0.3647959183673469,
+      "swing_bat_speed": 72.79192262755103,
+      "barrel_rate": 3.5,
+      "exit_velocity_avg": 85.7,
+      "hard_hit_percent": 32.9,
+      "sweet_spot_percent": 29.1
+    },
+    {
+      "playerName": "Jordan Walker",
+      "player_name": "Jordan Walker",
+      "team": "STL",
+      "pitcher": "vs TBD",
+      "pitcher_name": "TBD",
+      "confidenceScore": 25,
+      "confidence_score": 25,
+      "classification": "Moderate Play",
+      "pathway": "batterDriven",
+      "reasoning": "Elite exit velocity: 92.2 mph (90th percentile)",
+      "detailed_reasoning": [
+        "Elite exit velocity: 92.2 mph (90th percentile)"
+      ],
+      "game": "COL @ STL",
+      "venue": "Busch Stadium",
+      "gameTime": "23:45",
+      "is_home": true,
+      "odds": {
+        "american": "+550",
+        "decimal": 6.5,
+        "source": "current"
+      },
+      "component_scores": {
+        "batter_analysis": {
+          "data_available": true,
+          "exit_velocity_avg": 92.2,
+          "exit_velocity_score": 86.80995475113126,
+          "exit_velocity_percentile": 90.0,
+          "barrel_rate": 9.3,
+          "barrel_rate_score": 60.47619047619048,
+          "hard_hit_percent": 49.3,
+          "iso": 0.092,
+          "home_runs": 3.0,
+          "power_score": 37.02702702702703,
+          "overall_score": 61.48580076521254,
+          "sweet_spot_percent": 30.0,
+          "data_source": "exit_velocity"
+        },
+        "pitcher_analysis": {
+          "data_available": false,
+          "overall_score": 50
+        },
+        "arsenal_matchup": {
+          "matchup_available": false,
+          "overall_advantage": 0,
+          "confidence": 0,
+          "pitch_matchups": {},
+          "advantage_summary": "No arsenal data available",
+          "disadvantage_summary": "Limited matchup data"
+        },
+        "handedness_analysis": {
+          "matchup_available": true,
+          "matchup_key": "RHP_vs_RHB",
+          "woba": 0.0,
+          "iso": 0.0,
+          "hr_fb_percent": 0.0,
+          "advantage_score": 0,
+          "advantage_description": "Neutral handedness matchup"
+        },
+        "swing_analysis": {
+          "data_available": false,
+          "optimization_score": 50
+        }
+      },
+      "trend_analysis": {
+        "trend_available": true,
+        "games_analyzed": 11,
+        "recent_3_avg": 0.24033333333333332,
+        "recent_5_avg": 0.235,
+        "recent_7_avg": 0.2327142857142857,
+        "season_avg": 0.23118181818181818,
+        "trend_direction": "stable",
+        "trend_score": 0,
+        "hr_last_3": 0.0,
+        "hr_last_7": 0.0,
+        "is_trending_up": true,
+        "momentum": "positive"
+      },
+      "data_sources_used": [
+        "custom_batter_stats",
+        "exit_velocity_data",
+        "daily_json_files"
+      ],
+      "swing_optimization_score": 50,
+      "swing_attack_angle": 0,
+      "swing_ideal_rate": 0,
+      "swing_bat_speed": 0,
+      "barrel_rate": 9.3,
+      "exit_velocity_avg": 92.2,
+      "hard_hit_percent": 49.3,
+      "sweet_spot_percent": 30.0
+    },
+    {
+      "playerName": "Anthony Seigler",
+      "player_name": "Anthony Seigler",
+      "team": "MIL",
+      "pitcher": "vs Andrew Heaney",
+      "pitcher_name": "Andrew Heaney",
+      "confidenceScore": 25,
+      "confidence_score": 25,
+      "classification": "Longshot",
+      "pathway": "pitcherDriven",
+      "reasoning": "",
+      "detailed_reasoning": [],
+      "game": "PIT @ MIL",
+      "venue": "American Family Field",
+      "gameTime": "23:40",
+      "is_home": true,
+      "odds": {
+        "american": "+550",
+        "decimal": 6.5,
+        "source": "current"
+      },
+      "component_scores": {
+        "batter_analysis": {
+          "data_available": true,
+          "exit_velocity_avg": 88.3,
+          "exit_velocity_score": 44.166666666666636,
+          "exit_velocity_percentile": 25.0,
+          "barrel_rate": 3.6,
+          "barrel_rate_score": 25,
+          "hard_hit_percent": 35.7,
+          "iso": 0.0,
+          "home_runs": 0.0,
+          "power_score": 50.0,
+          "overall_score": 40.45833333333332,
+          "sweet_spot_percent": 42.9,
+          "data_source": "custom_batter"
+        },
+        "pitcher_analysis": {
+          "data_available": true,
+          "era": 4.89,
+          "era_score": 56.9607843137255,
+          "hr_per_9": 0.0,
+          "hr_score": 50.0,
+          "exit_velocity_allowed": 90.6,
+          "contact_quality_score": 68.18181818181804,
+          "barrel_rate_allowed": 10.5,
+          "vulnerability_score": 57.32976827094471,
+          "overall_score": 57.32976827094471,
+          "whip": 0.0,
+          "k_percent": 16.8,
+          "data_source": "pitcher_exit_velocity"
+        },
+        "arsenal_matchup": {
+          "matchup_available": false,
+          "overall_advantage": 0,
+          "confidence": 0,
+          "pitch_matchups": {},
+          "advantage_summary": "No arsenal data available",
+          "disadvantage_summary": "Limited matchup data"
+        },
+        "handedness_analysis": {
+          "matchup_available": false,
+          "advantage_score": 0,
+          "advantage_description": "No handedness data available"
+        },
+        "swing_analysis": {
+          "data_available": false,
+          "optimization_score": 50
+        }
+      },
+      "trend_analysis": {
+        "trend_available": true,
+        "games_analyzed": 10,
+        "recent_3_avg": 0.196,
+        "recent_5_avg": 0.19039999999999999,
+        "recent_7_avg": 0.19014285714285714,
+        "season_avg": 0.1868,
+        "trend_direction": "stable",
+        "trend_score": 0,
+        "hr_last_3": 0.0,
+        "hr_last_7": 0.0,
+        "is_trending_up": true,
+        "momentum": "positive"
+      },
+      "data_sources_used": [
+        "custom_batter_stats",
+        "exit_velocity_data",
+        "custom_pitcher_stats",
+        "pitcher_exit_velocity",
+        "daily_json_files"
+      ],
+      "swing_optimization_score": 50,
+      "swing_attack_angle": 0,
+      "swing_ideal_rate": 0,
+      "swing_bat_speed": 0,
+      "barrel_rate": 3.6,
+      "exit_velocity_avg": 88.3,
+      "hard_hit_percent": 35.7,
+      "sweet_spot_percent": 42.9
+    },
+    {
+      "playerName": "Alec Burleson",
+      "player_name": "Alec Burleson",
+      "team": "STL",
+      "pitcher": "vs TBD",
+      "pitcher_name": "TBD",
+      "confidenceScore": 25,
+      "confidence_score": 25,
+      "classification": "Moderate Play",
+      "pathway": "batterDriven",
+      "reasoning": "Above-average exit velocity: 91.4 mph; Optimal swing mechanics: 80% efficiency",
+      "detailed_reasoning": [
+        "Above-average exit velocity: 91.4 mph",
+        "Optimal swing mechanics: 80% efficiency"
+      ],
+      "game": "COL @ STL",
+      "venue": "Busch Stadium",
+      "gameTime": "23:45",
+      "is_home": true,
+      "odds": {
+        "american": "+650",
+        "decimal": 7.5,
+        "source": "current"
+      },
+      "component_scores": {
+        "batter_analysis": {
+          "data_available": true,
+          "exit_velocity_avg": 91.4,
+          "exit_velocity_score": 78.07692307692312,
+          "exit_velocity_percentile": 75.0,
+          "barrel_rate": 10.0,
+          "barrel_rate_score": 63.80952380952381,
+          "hard_hit_percent": 42.8,
+          "iso": 0.177,
+          "home_runs": 14.0,
+          "power_score": 70.0,
+          "overall_score": 70.96978021978023,
+          "sweet_spot_percent": 33.8,
+          "data_source": "exit_velocity"
+        },
+        "pitcher_analysis": {
+          "data_available": false,
+          "overall_score": 50
+        },
+        "arsenal_matchup": {
+          "matchup_available": false,
+          "overall_advantage": 0,
+          "confidence": 0,
+          "pitch_matchups": {},
+          "advantage_summary": "No arsenal data available",
+          "disadvantage_summary": "Limited matchup data"
+        },
+        "handedness_analysis": {
+          "matchup_available": false,
+          "advantage_score": 0,
+          "advantage_description": "No handedness data available"
+        },
+        "swing_analysis": {
+          "data_available": true,
+          "bat_speed": 72.75868249471459,
+          "attack_angle": 11.135874843711845,
+          "ideal_angle_rate": 0.6300211416490487,
+          "optimization_score": 80.42195008809023
+        }
+      },
+      "trend_analysis": {
+        "trend_available": true,
+        "games_analyzed": 13,
+        "recent_3_avg": 0.2823333333333333,
+        "recent_5_avg": 0.2808,
+        "recent_7_avg": 0.2812857142857143,
+        "season_avg": 0.2835384615384615,
+        "trend_direction": "stable",
+        "trend_score": 0,
+        "hr_last_3": 0.0,
+        "hr_last_7": 0.0,
+        "is_trending_up": true,
+        "momentum": "positive"
+      },
+      "data_sources_used": [
+        "custom_batter_stats",
+        "exit_velocity_data",
+        "daily_json_files",
+        "swing_path_data"
+      ],
+      "swing_optimization_score": 80.42195008809023,
+      "swing_attack_angle": 11.135874843711845,
+      "swing_ideal_rate": 0.6300211416490487,
+      "swing_bat_speed": 72.75868249471459,
+      "barrel_rate": 10.0,
+      "exit_velocity_avg": 91.4,
+      "hard_hit_percent": 42.8,
+      "sweet_spot_percent": 33.8
+    },
+    {
+      "playerName": "Thomas Saggese",
+      "player_name": "Thomas Saggese",
+      "team": "STL",
+      "pitcher": "vs TBD",
+      "pitcher_name": "TBD",
+      "confidenceScore": 25,
+      "confidence_score": 25,
+      "classification": "Longshot",
+      "pathway": "pitcherDriven",
+      "reasoning": "Above-average exit velocity: 90.6 mph",
+      "detailed_reasoning": [
+        "Above-average exit velocity: 90.6 mph"
+      ],
+      "game": "COL @ STL",
+      "venue": "Busch Stadium",
+      "gameTime": "23:45",
+      "is_home": true,
+      "odds": {
+        "american": "+700",
+        "decimal": 8.0,
+        "source": "current"
+      },
+      "component_scores": {
+        "batter_analysis": {
+          "data_available": true,
+          "exit_velocity_avg": 90.6,
+          "exit_velocity_score": 68.82352941176461,
+          "exit_velocity_percentile": 50.0,
+          "barrel_rate": 4.2,
+          "barrel_rate_score": 35.5,
+          "hard_hit_percent": 45.1,
+          "iso": 0.1,
+          "home_runs": 1.0,
+          "power_score": 39.62162162162163,
+          "overall_score": 48.605802861685184,
+          "sweet_spot_percent": 38.0,
+          "data_source": "custom_batter"
+        },
+        "pitcher_analysis": {
+          "data_available": false,
+          "overall_score": 50
+        },
+        "arsenal_matchup": {
+          "matchup_available": false,
+          "overall_advantage": 0,
+          "confidence": 0,
+          "pitch_matchups": {},
+          "advantage_summary": "No arsenal data available",
+          "disadvantage_summary": "Limited matchup data"
+        },
+        "handedness_analysis": {
+          "matchup_available": false,
+          "advantage_score": 0,
+          "advantage_description": "No handedness data available"
+        },
+        "swing_analysis": {
+          "data_available": false,
+          "optimization_score": 50
+        }
+      },
+      "trend_analysis": {
+        "trend_available": true,
+        "games_analyzed": 11,
+        "recent_3_avg": 0.23966666666666667,
+        "recent_5_avg": 0.2358,
+        "recent_7_avg": 0.2342857142857143,
+        "season_avg": 0.23581818181818182,
+        "trend_direction": "stable",
+        "trend_score": 0,
+        "hr_last_3": 0.0,
+        "hr_last_7": 0.0,
+        "is_trending_up": true,
+        "momentum": "positive"
+      },
+      "data_sources_used": [
+        "custom_batter_stats",
+        "exit_velocity_data",
+        "daily_json_files"
+      ],
+      "swing_optimization_score": 50,
+      "swing_attack_angle": 0,
+      "swing_ideal_rate": 0,
+      "swing_bat_speed": 0,
+      "barrel_rate": 4.2,
+      "exit_velocity_avg": 90.6,
+      "hard_hit_percent": 45.1,
+      "sweet_spot_percent": 38.0
+    },
+    {
+      "playerName": "Isiah Kiner-Falefa",
+      "player_name": "Isiah Kiner-Falefa",
+      "team": "PIT",
+      "pitcher": "vs Jose Quintana",
+      "pitcher_name": "Jose Quintana",
+      "confidenceScore": 25,
+      "confidence_score": 25,
+      "classification": "Avoid",
+      "pathway": "pitcherDriven",
+      "reasoning": "Challenging matchup: Struggles vs SI (-9.2)",
+      "detailed_reasoning": [
+        "Challenging matchup: Struggles vs SI (-9.2)"
+      ],
+      "game": "MIL @ MIL",
+      "venue": "American Family Field",
+      "gameTime": "23:40",
+      "is_home": false,
+      "odds": {
+        "american": "+1100",
+        "decimal": 12.0,
+        "source": "current"
+      },
+      "component_scores": {
+        "batter_analysis": {
+          "data_available": true,
+          "exit_velocity_avg": 85.1,
+          "exit_velocity_score": 25,
+          "exit_velocity_percentile": 10.0,
+          "barrel_rate": 1.9,
+          "barrel_rate_score": 25,
+          "hard_hit_percent": 25.7,
+          "iso": 0.066,
+          "home_runs": 1.0,
+          "power_score": 25,
+          "overall_score": 25.0,
+          "sweet_spot_percent": 30.1,
+          "data_source": "exit_velocity"
+        },
+        "pitcher_analysis": {
+          "data_available": true,
+          "era": 3.5,
+          "era_score": 74.11764705882354,
+          "hr_per_9": 0.0,
+          "hr_score": 50.0,
+          "exit_velocity_allowed": 89.1,
+          "contact_quality_score": 44.64285714285711,
+          "barrel_rate_allowed": 9.8,
+          "vulnerability_score": 58.3077731092437,
+          "overall_score": 58.3077731092437,
+          "whip": 0.0,
+          "k_percent": 15.9,
+          "data_source": "pitcher_exit_velocity"
+        },
+        "arsenal_matchup": {
+          "matchup_available": true,
+          "overall_advantage": -9.230000000000002,
+          "confidence": 0.46,
+          "pitch_matchups": {
+            "SI": {
+              "batter_slg": 0.294,
+              "pitcher_slg_allowed": 0.416,
+              "batter_woba": 0.29,
+              "batter_hard_hit": 22.2,
+              "pitcher_usage": 47.9,
+              "advantage_score": -9.230000000000002,
+              "sample_size": 92
+            }
+          },
+          "advantage_summary": "Limited advantages found",
+          "disadvantage_summary": "Struggles vs SI (-9.2)",
+          "total_sample_size": 92
+        },
+        "handedness_analysis": {
+          "matchup_available": true,
+          "matchup_key": "RHP_vs_RHB",
+          "woba": 0.0,
+          "iso": 0.0,
+          "hr_fb_percent": 0.0,
+          "advantage_score": 0,
+          "advantage_description": "Neutral handedness matchup"
+        },
+        "swing_analysis": {
+          "data_available": true,
+          "bat_speed": 66.44740690217387,
+          "attack_angle": 4.845237995108848,
+          "ideal_angle_rate": 0.4103260869565217,
+          "optimization_score": 43.38722826086956
+        }
+      },
+      "trend_analysis": {
+        "trend_available": true,
+        "games_analyzed": 11,
+        "recent_3_avg": 0.27033333333333337,
+        "recent_5_avg": 0.27040000000000003,
+        "recent_7_avg": 0.27071428571428574,
+        "season_avg": 0.2691818181818182,
+        "trend_direction": "stable",
+        "trend_score": 0,
+        "hr_last_3": 0.0,
+        "hr_last_7": 0.0,
+        "is_trending_up": false,
+        "momentum": "negative"
+      },
+      "data_sources_used": [
+        "custom_batter_stats",
+        "exit_velocity_data",
+        "custom_pitcher_stats",
+        "pitcher_exit_velocity",
+        "daily_json_files",
+        "pitch_arsenal_data"
+      ],
+      "swing_optimization_score": 43.38722826086956,
+      "swing_attack_angle": 4.845237995108848,
+      "swing_ideal_rate": 0.4103260869565217,
+      "swing_bat_speed": 66.44740690217387,
+      "barrel_rate": 1.9,
+      "exit_velocity_avg": 85.1,
+      "hard_hit_percent": 25.7,
+      "sweet_spot_percent": 30.1
+    }
+  ],
+  "pathwayBreakdown": {
+    "perfectStorm": [],
+    "batterDriven": [
+      {
+        "playerName": "Oneil Cruz",
+        "player_name": "Oneil Cruz",
+        "team": "PIT",
+        "pitcher": "vs Jose Quintana",
+        "pitcher_name": "Jose Quintana",
+        "confidenceScore": 41.199164406238815,
+        "confidence_score": 41.199164406238815,
+        "classification": "Solid Bet",
+        "pathway": "batterDriven",
+        "reasoning": "Elite exit velocity: 96.3 mph (95th percentile); Elite barrel rate: 20.3% (crushing the ball consistently); Strong power profile: 18.0 HRs, 0.202 ISO; Optimal swing mechanics: 93% efficiency",
+        "detailed_reasoning": [
+          "Elite exit velocity: 96.3 mph (95th percentile)",
+          "Elite barrel rate: 20.3% (crushing the ball consistently)",
+          "Strong power profile: 18.0 HRs, 0.202 ISO",
+          "Optimal swing mechanics: 93% efficiency"
+        ],
+        "game": "MIL @ MIL",
+        "venue": "American Family Field",
+        "gameTime": "23:40",
+        "is_home": false,
+        "odds": {
+          "american": "+400",
+          "decimal": 5.0,
+          "source": "current"
+        },
+        "component_scores": {
+          "batter_analysis": {
+            "data_available": true,
+            "exit_velocity_avg": 96.3,
+            "exit_velocity_score": 95,
+            "exit_velocity_percentile": 95.0,
+            "barrel_rate": 20.3,
+            "barrel_rate_score": 95,
+            "hard_hit_percent": 58.1,
+            "iso": 0.202,
+            "home_runs": 18.0,
+            "power_score": 77.96178343949045,
+            "overall_score": 89.03662420382166,
+            "sweet_spot_percent": 33.1,
+            "data_source": "exit_velocity"
+          },
+          "pitcher_analysis": {
+            "data_available": true,
+            "era": 3.5,
+            "era_score": 74.11764705882354,
+            "hr_per_9": 0.0,
+            "hr_score": 50.0,
+            "exit_velocity_allowed": 89.1,
+            "contact_quality_score": 44.64285714285711,
+            "barrel_rate_allowed": 9.8,
+            "vulnerability_score": 58.3077731092437,
+            "overall_score": 58.3077731092437,
+            "whip": 0.0,
+            "k_percent": 15.9,
+            "data_source": "pitcher_exit_velocity"
+          },
+          "arsenal_matchup": {
+            "matchup_available": true,
+            "overall_advantage": 2.04,
+            "confidence": 0.36,
+            "pitch_matchups": {
+              "SI": {
+                "batter_slg": 0.407,
+                "pitcher_slg_allowed": 0.416,
+                "batter_woba": 0.376,
+                "batter_hard_hit": 51.2,
+                "pitcher_usage": 47.9,
+                "advantage_score": 2.04,
+                "sample_size": 72
+              }
+            },
+            "advantage_summary": "Limited advantages found",
+            "disadvantage_summary": "No major weaknesses",
+            "total_sample_size": 72
+          },
+          "handedness_analysis": {
+            "matchup_available": false,
+            "advantage_score": 0,
+            "advantage_description": "No handedness data available"
+          },
+          "swing_analysis": {
+            "data_available": true,
+            "bat_speed": 78.90148878406717,
+            "attack_angle": 9.354753796607683,
+            "ideal_angle_rate": 0.490566037735849,
+            "optimization_score": 93.10890203529024
+          }
+        },
+        "trend_analysis": {
+          "trend_available": true,
+          "games_analyzed": 14,
+          "recent_3_avg": 0.20766666666666667,
+          "recent_5_avg": 0.20779999999999998,
+          "recent_7_avg": 0.2084285714285714,
+          "season_avg": 0.21321428571428572,
+          "trend_direction": "stable",
+          "trend_score": 0,
+          "hr_last_3": 0.0,
+          "hr_last_7": 0.0,
+          "is_trending_up": false,
+          "momentum": "negative"
+        },
+        "data_sources_used": [
+          "custom_batter_stats",
+          "exit_velocity_data",
+          "custom_pitcher_stats",
+          "pitcher_exit_velocity",
+          "daily_json_files",
+          "pitch_arsenal_data",
+          "swing_path_data"
+        ],
+        "swing_optimization_score": 93.10890203529024,
+        "swing_attack_angle": 9.354753796607683,
+        "swing_ideal_rate": 0.490566037735849,
+        "swing_bat_speed": 78.90148878406717,
+        "barrel_rate": 20.3,
+        "exit_velocity_avg": 96.3,
+        "hard_hit_percent": 58.1,
+        "sweet_spot_percent": 33.1
+      },
+      {
+        "playerName": "Andrew Vaughn",
+        "player_name": "Andrew Vaughn",
+        "team": "MIL",
+        "pitcher": "vs Andrew Heaney",
+        "pitcher_name": "Andrew Heaney",
+        "confidenceScore": 37.99327324936833,
+        "confidence_score": 37.99327324936833,
+        "classification": "Solid Bet",
+        "pathway": "batterDriven",
+        "reasoning": "Elite exit velocity: 92.2 mph (90th percentile); Elite barrel rate: 13.9% (crushing the ball consistently)",
+        "detailed_reasoning": [
+          "Elite exit velocity: 92.2 mph (90th percentile)",
+          "Elite barrel rate: 13.9% (crushing the ball consistently)"
+        ],
+        "game": "PIT @ MIL",
+        "venue": "American Family Field",
+        "gameTime": "23:40",
+        "is_home": true,
+        "odds": {
+          "american": "+350",
+          "decimal": 4.5,
+          "source": "current"
+        },
+        "component_scores": {
+          "batter_analysis": {
+            "data_available": true,
+            "exit_velocity_avg": 92.2,
+            "exit_velocity_score": 86.80995475113126,
+            "exit_velocity_percentile": 90.0,
+            "barrel_rate": 13.9,
+            "barrel_rate_score": 83.0,
+            "hard_hit_percent": 51.0,
+            "iso": 0.179,
+            "home_runs": 11.0,
+            "power_score": 70.63694267515923,
+            "overall_score": 80.00641409920166,
+            "sweet_spot_percent": 37.1,
+            "data_source": "exit_velocity"
+          },
+          "pitcher_analysis": {
+            "data_available": true,
+            "era": 4.89,
+            "era_score": 56.9607843137255,
+            "hr_per_9": 0.0,
+            "hr_score": 50.0,
+            "exit_velocity_allowed": 90.6,
+            "contact_quality_score": 68.18181818181804,
+            "barrel_rate_allowed": 10.5,
+            "vulnerability_score": 57.32976827094471,
+            "overall_score": 57.32976827094471,
+            "whip": 0.0,
+            "k_percent": 16.8,
+            "data_source": "pitcher_exit_velocity"
+          },
+          "arsenal_matchup": {
+            "matchup_available": true,
+            "overall_advantage": 7.660000000000002,
+            "confidence": 0.425,
+            "pitch_matchups": {
+              "FF": {
+                "batter_slg": 0.519,
+                "pitcher_slg_allowed": 0.425,
+                "batter_woba": 0.376,
+                "batter_hard_hit": 62.1,
+                "pitcher_usage": 45.3,
+                "advantage_score": 7.660000000000002,
+                "sample_size": 85
+              }
+            },
+            "advantage_summary": "Strong vs FF (+7.7)",
+            "disadvantage_summary": "No major weaknesses",
+            "total_sample_size": 85
+          },
+          "handedness_analysis": {
+            "matchup_available": true,
+            "matchup_key": "RHP_vs_RHB",
+            "woba": 0.0,
+            "iso": 0.0,
+            "hr_fb_percent": 0.0,
+            "advantage_score": 0,
+            "advantage_description": "Neutral handedness matchup"
+          },
+          "swing_analysis": {
+            "data_available": false,
+            "optimization_score": 50
+          }
+        },
+        "trend_analysis": {
+          "trend_available": true,
+          "games_analyzed": 13,
+          "recent_3_avg": 0.353,
+          "recent_5_avg": 0.36119999999999997,
+          "recent_7_avg": 0.36428571428571427,
+          "season_avg": 0.3637692307692308,
+          "trend_direction": "stable",
+          "trend_score": 0,
+          "hr_last_3": 0.0,
+          "hr_last_7": 0.0,
+          "is_trending_up": false,
+          "momentum": "negative"
+        },
+        "data_sources_used": [
+          "custom_batter_stats",
+          "exit_velocity_data",
+          "custom_pitcher_stats",
+          "pitcher_exit_velocity",
+          "daily_json_files",
+          "pitch_arsenal_data"
+        ],
+        "swing_optimization_score": 50,
+        "swing_attack_angle": 0,
+        "swing_ideal_rate": 0,
+        "swing_bat_speed": 0,
+        "barrel_rate": 13.9,
+        "exit_velocity_avg": 92.2,
+        "hard_hit_percent": 51.0,
+        "sweet_spot_percent": 37.1
+      },
+      {
+        "playerName": "Blake Perkins",
+        "player_name": "Blake Perkins",
+        "team": "MIL",
+        "pitcher": "vs Andrew Heaney",
+        "pitcher_name": "Andrew Heaney",
+        "confidenceScore": 34.44763305322128,
+        "confidence_score": 34.44763305322128,
+        "classification": "Value Play",
+        "pathway": "batterDriven",
+        "reasoning": "Above-average exit velocity: 90.5 mph; Strong power profile: 2.0 HRs, 0.269 ISO",
+        "detailed_reasoning": [
+          "Above-average exit velocity: 90.5 mph",
+          "Strong power profile: 2.0 HRs, 0.269 ISO"
+        ],
+        "game": "PIT @ MIL",
+        "venue": "American Family Field",
+        "gameTime": "23:40",
+        "is_home": true,
+        "odds": {
+          "american": "+500",
+          "decimal": 6.0,
+          "source": "current"
+        },
+        "component_scores": {
+          "batter_analysis": {
+            "data_available": true,
+            "exit_velocity_avg": 90.5,
+            "exit_velocity_score": 67.64705882352938,
+            "exit_velocity_percentile": 50.0,
+            "barrel_rate": 7.7,
+            "barrel_rate_score": 52.85714285714286,
+            "hard_hit_percent": 46.2,
+            "iso": 0.269,
+            "home_runs": 2.0,
+            "power_score": 95,
+            "overall_score": 72.78361344537814,
+            "sweet_spot_percent": 30.8,
+            "data_source": "custom_batter"
+          },
+          "pitcher_analysis": {
+            "data_available": true,
+            "era": 4.89,
+            "era_score": 56.9607843137255,
+            "hr_per_9": 0.0,
+            "hr_score": 50.0,
+            "exit_velocity_allowed": 90.6,
+            "contact_quality_score": 68.18181818181804,
+            "barrel_rate_allowed": 10.5,
+            "vulnerability_score": 57.32976827094471,
+            "overall_score": 57.32976827094471,
+            "whip": 0.0,
+            "k_percent": 16.8,
+            "data_source": "pitcher_exit_velocity"
+          },
+          "arsenal_matchup": {
+            "matchup_available": false,
+            "overall_advantage": 0,
+            "confidence": 0,
+            "pitch_matchups": {},
+            "advantage_summary": "No arsenal data available",
+            "disadvantage_summary": "Limited matchup data"
+          },
+          "handedness_analysis": {
+            "matchup_available": false,
+            "advantage_score": 0,
+            "advantage_description": "No handedness data available"
+          },
+          "swing_analysis": {
+            "data_available": false,
+            "optimization_score": 50
+          }
+        },
+        "trend_analysis": {
+          "trend_available": true,
+          "games_analyzed": 13,
+          "recent_3_avg": 0.27066666666666667,
+          "recent_5_avg": 0.267,
+          "recent_7_avg": 0.26385714285714285,
+          "season_avg": 0.25884615384615384,
+          "trend_direction": "stable",
+          "trend_score": 0,
+          "hr_last_3": 0.0,
+          "hr_last_7": 0.0,
+          "is_trending_up": true,
+          "momentum": "positive"
+        },
+        "data_sources_used": [
+          "custom_batter_stats",
+          "exit_velocity_data",
+          "custom_pitcher_stats",
+          "pitcher_exit_velocity",
+          "daily_json_files"
+        ],
+        "swing_optimization_score": 50,
+        "swing_attack_angle": 0,
+        "swing_ideal_rate": 0,
+        "swing_bat_speed": 0,
+        "barrel_rate": 7.7,
+        "exit_velocity_avg": 90.5,
+        "hard_hit_percent": 46.2,
+        "sweet_spot_percent": 30.8
+      },
+      {
+        "playerName": "Christian Yelich",
+        "player_name": "Christian Yelich",
+        "team": "MIL",
+        "pitcher": "vs Andrew Heaney",
+        "pitcher_name": "Andrew Heaney",
+        "confidenceScore": 34.424482587212886,
+        "confidence_score": 34.424482587212886,
+        "classification": "Value Play",
+        "pathway": "batterDriven",
+        "reasoning": "Above-average exit velocity: 90.7 mph; Optimal swing mechanics: 75% efficiency",
+        "detailed_reasoning": [
+          "Above-average exit velocity: 90.7 mph",
+          "Optimal swing mechanics: 75% efficiency"
+        ],
+        "game": "PIT @ MIL",
+        "venue": "American Family Field",
+        "gameTime": "23:40",
+        "is_home": true,
+        "odds": {
+          "american": "+475",
+          "decimal": 5.75,
+          "source": "current"
+        },
+        "component_scores": {
+          "batter_analysis": {
+            "data_available": true,
+            "exit_velocity_avg": 90.7,
+            "exit_velocity_score": 70.0,
+            "exit_velocity_percentile": 75.0,
+            "barrel_rate": 9.0,
+            "barrel_rate_score": 59.04761904761905,
+            "hard_hit_percent": 47.8,
+            "iso": 0.188,
+            "home_runs": 21.0,
+            "power_score": 73.5031847133758,
+            "overall_score": 67.94040036396724,
+            "sweet_spot_percent": 30.6,
+            "data_source": "exit_velocity"
+          },
+          "pitcher_analysis": {
+            "data_available": true,
+            "era": 4.89,
+            "era_score": 56.9607843137255,
+            "hr_per_9": 0.0,
+            "hr_score": 50.0,
+            "exit_velocity_allowed": 90.6,
+            "contact_quality_score": 68.18181818181804,
+            "barrel_rate_allowed": 10.5,
+            "vulnerability_score": 57.32976827094471,
+            "overall_score": 57.32976827094471,
+            "whip": 0.0,
+            "k_percent": 16.8,
+            "data_source": "pitcher_exit_velocity"
+          },
+          "arsenal_matchup": {
+            "matchup_available": true,
+            "overall_advantage": 3.8000000000000003,
+            "confidence": 0.6,
+            "pitch_matchups": {
+              "FF": {
+                "batter_slg": 0.485,
+                "pitcher_slg_allowed": 0.425,
+                "batter_woba": 0.401,
+                "batter_hard_hit": 50.6,
+                "pitcher_usage": 45.3,
+                "advantage_score": 3.8000000000000003,
+                "sample_size": 120
+              }
+            },
+            "advantage_summary": "Limited advantages found",
+            "disadvantage_summary": "No major weaknesses",
+            "total_sample_size": 120
+          },
+          "handedness_analysis": {
+            "matchup_available": false,
+            "advantage_score": 0,
+            "advantage_description": "No handedness data available"
+          },
+          "swing_analysis": {
+            "data_available": true,
+            "bat_speed": 73.51743197651672,
+            "attack_angle": 9.318791097258528,
+            "ideal_angle_rate": 0.4227005870841487,
+            "optimization_score": 74.86044861382935
+          }
+        },
+        "trend_analysis": {
+          "trend_available": true,
+          "games_analyzed": 12,
+          "recent_3_avg": 0.259,
+          "recent_5_avg": 0.2596,
+          "recent_7_avg": 0.2601428571428572,
+          "season_avg": 0.25816666666666666,
+          "trend_direction": "stable",
+          "trend_score": 0,
+          "hr_last_3": 0.0,
+          "hr_last_7": 0.0,
+          "is_trending_up": false,
+          "momentum": "negative"
+        },
+        "data_sources_used": [
+          "custom_batter_stats",
+          "exit_velocity_data",
+          "custom_pitcher_stats",
+          "pitcher_exit_velocity",
+          "daily_json_files",
+          "pitch_arsenal_data",
+          "swing_path_data"
+        ],
+        "swing_optimization_score": 74.86044861382935,
+        "swing_attack_angle": 9.318791097258528,
+        "swing_ideal_rate": 0.4227005870841487,
+        "swing_bat_speed": 73.51743197651672,
+        "barrel_rate": 9.0,
+        "exit_velocity_avg": 90.7,
+        "hard_hit_percent": 47.8,
+        "sweet_spot_percent": 30.6
+      },
+      {
+        "playerName": "Liover Peguero",
+        "player_name": "Liover Peguero",
+        "team": "PIT",
+        "pitcher": "vs Jose Quintana",
+        "pitcher_name": "Jose Quintana",
+        "confidenceScore": 33.53021008403361,
+        "confidence_score": 33.53021008403361,
+        "classification": "Value Play",
+        "pathway": "batterDriven",
+        "reasoning": "Strong barrel rate: 12.0% (quality contact); Strong power profile: 4.0 HRs, 0.382 ISO",
+        "detailed_reasoning": [
+          "Strong barrel rate: 12.0% (quality contact)",
+          "Strong power profile: 4.0 HRs, 0.382 ISO"
+        ],
+        "game": "MIL @ MIL",
+        "venue": "American Family Field",
+        "gameTime": "23:40",
+        "is_home": false,
+        "odds": {
+          "american": "+550",
+          "decimal": 6.5,
+          "source": "current"
+        },
+        "component_scores": {
+          "batter_analysis": {
+            "data_available": true,
+            "exit_velocity_avg": 87.7,
+            "exit_velocity_score": 39.16666666666667,
+            "exit_velocity_percentile": 25.0,
+            "barrel_rate": 12.0,
+            "barrel_rate_score": 73.5,
+            "hard_hit_percent": 40.0,
+            "iso": 0.382,
+            "home_runs": 4.0,
+            "power_score": 95,
+            "overall_score": 69.00833333333333,
+            "sweet_spot_percent": 24.0,
+            "data_source": "custom_batter"
+          },
+          "pitcher_analysis": {
+            "data_available": true,
+            "era": 3.5,
+            "era_score": 74.11764705882354,
+            "hr_per_9": 0.0,
+            "hr_score": 50.0,
+            "exit_velocity_allowed": 89.1,
+            "contact_quality_score": 44.64285714285711,
+            "barrel_rate_allowed": 9.8,
+            "vulnerability_score": 58.3077731092437,
+            "overall_score": 58.3077731092437,
+            "whip": 0.0,
+            "k_percent": 15.9,
+            "data_source": "pitcher_exit_velocity"
+          },
+          "arsenal_matchup": {
+            "matchup_available": false,
+            "overall_advantage": 0,
+            "confidence": 0,
+            "pitch_matchups": {},
+            "advantage_summary": "No arsenal data available",
+            "disadvantage_summary": "Limited matchup data"
+          },
+          "handedness_analysis": {
+            "matchup_available": false,
+            "advantage_score": 0,
+            "advantage_description": "No handedness data available"
+          },
+          "swing_analysis": {
+            "data_available": false,
+            "optimization_score": 50
+          }
+        },
+        "trend_analysis": {
+          "trend_available": true,
+          "games_analyzed": 10,
+          "recent_3_avg": 0.231,
+          "recent_5_avg": 0.236,
+          "recent_7_avg": 0.2507142857142857,
+          "season_avg": 0.2535,
+          "trend_direction": "stable",
+          "trend_score": 0,
+          "hr_last_3": 0.0,
+          "hr_last_7": 0.0,
+          "is_trending_up": false,
+          "momentum": "negative"
+        },
+        "data_sources_used": [
+          "custom_batter_stats",
+          "exit_velocity_data",
+          "custom_pitcher_stats",
+          "pitcher_exit_velocity",
+          "daily_json_files"
+        ],
+        "swing_optimization_score": 50,
+        "swing_attack_angle": 0,
+        "swing_ideal_rate": 0,
+        "swing_bat_speed": 0,
+        "barrel_rate": 12.0,
+        "exit_velocity_avg": 87.7,
+        "hard_hit_percent": 40.0,
+        "sweet_spot_percent": 24.0
+      },
+      {
+        "playerName": "Willson Contreras",
+        "player_name": "Willson Contreras",
+        "team": "STL",
+        "pitcher": "vs TBD",
+        "pitcher_name": "TBD",
+        "confidenceScore": 25,
+        "confidence_score": 25,
+        "classification": "Moderate Play",
+        "pathway": "batterDriven",
+        "reasoning": "Above-average exit velocity: 90.8 mph; Elite barrel rate: 14.8% (crushing the ball consistently); Optimal swing mechanics: 86% efficiency",
+        "detailed_reasoning": [
+          "Above-average exit velocity: 90.8 mph",
+          "Elite barrel rate: 14.8% (crushing the ball consistently)",
+          "Optimal swing mechanics: 86% efficiency"
+        ],
+        "game": "COL @ STL",
+        "venue": "Busch Stadium",
+        "gameTime": "23:45",
+        "is_home": true,
+        "odds": {
+          "american": "+350",
+          "decimal": 4.5,
+          "source": "current"
+        },
+        "component_scores": {
+          "batter_analysis": {
+            "data_available": true,
+            "exit_velocity_avg": 90.8,
+            "exit_velocity_score": 71.15384615384609,
+            "exit_velocity_percentile": 75.0,
+            "barrel_rate": 14.8,
+            "barrel_rate_score": 87.36966824644551,
+            "hard_hit_percent": 49.3,
+            "iso": 0.189,
+            "home_runs": 15.0,
+            "power_score": 73.82165605095541,
+            "overall_score": 76.95232624561417,
+            "sweet_spot_percent": 39.4,
+            "data_source": "exit_velocity"
+          },
+          "pitcher_analysis": {
+            "data_available": false,
+            "overall_score": 50
+          },
+          "arsenal_matchup": {
+            "matchup_available": false,
+            "overall_advantage": 0,
+            "confidence": 0,
+            "pitch_matchups": {},
+            "advantage_summary": "No arsenal data available",
+            "disadvantage_summary": "Limited matchup data"
+          },
+          "handedness_analysis": {
+            "matchup_available": true,
+            "matchup_key": "RHP_vs_RHB",
+            "woba": 0.0,
+            "iso": 0.0,
+            "hr_fb_percent": 0.0,
+            "advantage_score": 0,
+            "advantage_description": "Neutral handedness matchup"
+          },
+          "swing_analysis": {
+            "data_available": true,
+            "bat_speed": 76.35797505474451,
+            "attack_angle": 9.48420085025927,
+            "ideal_angle_rate": 0.4981751824817518,
+            "optimization_score": 85.97566325273718
+          }
+        },
+        "trend_analysis": {
+          "trend_available": true,
+          "games_analyzed": 13,
+          "recent_3_avg": 0.25133333333333335,
+          "recent_5_avg": 0.2518,
+          "recent_7_avg": 0.25342857142857145,
+          "season_avg": 0.2523076923076923,
+          "trend_direction": "stable",
+          "trend_score": 0,
+          "hr_last_3": 0.0,
+          "hr_last_7": 0.0,
+          "is_trending_up": false,
+          "momentum": "negative"
+        },
+        "data_sources_used": [
+          "custom_batter_stats",
+          "exit_velocity_data",
+          "daily_json_files",
+          "swing_path_data"
+        ],
+        "swing_optimization_score": 85.97566325273718,
+        "swing_attack_angle": 9.48420085025927,
+        "swing_ideal_rate": 0.4981751824817518,
+        "swing_bat_speed": 76.35797505474451,
+        "barrel_rate": 14.8,
+        "exit_velocity_avg": 90.8,
+        "hard_hit_percent": 49.3,
+        "sweet_spot_percent": 39.4
+      },
+      {
+        "playerName": "Nolan Gorman",
+        "player_name": "Nolan Gorman",
+        "team": "STL",
+        "pitcher": "vs TBD",
+        "pitcher_name": "TBD",
+        "confidenceScore": 25,
+        "confidence_score": 25,
+        "classification": "Moderate Play",
+        "pathway": "batterDriven",
+        "reasoning": "Strong barrel rate: 10.9% (quality contact)",
+        "detailed_reasoning": [
+          "Strong barrel rate: 10.9% (quality contact)"
+        ],
+        "game": "COL @ STL",
+        "venue": "Busch Stadium",
+        "gameTime": "23:45",
+        "is_home": true,
+        "odds": {
+          "american": "+500",
+          "decimal": 6.0,
+          "source": "current"
+        },
+        "component_scores": {
+          "batter_analysis": {
+            "data_available": true,
+            "exit_velocity_avg": 89.0,
+            "exit_velocity_score": 50.0,
+            "exit_velocity_percentile": 50.0,
+            "barrel_rate": 10.9,
+            "barrel_rate_score": 68.0952380952381,
+            "hard_hit_percent": 43.1,
+            "iso": 0.179,
+            "home_runs": 9.0,
+            "power_score": 70.63694267515923,
+            "overall_score": 62.65150136487716,
+            "sweet_spot_percent": 41.6,
+            "data_source": "custom_batter"
+          },
+          "pitcher_analysis": {
+            "data_available": false,
+            "overall_score": 50
+          },
+          "arsenal_matchup": {
+            "matchup_available": false,
+            "overall_advantage": 0,
+            "confidence": 0,
+            "pitch_matchups": {},
+            "advantage_summary": "No arsenal data available",
+            "disadvantage_summary": "Limited matchup data"
+          },
+          "handedness_analysis": {
+            "matchup_available": false,
+            "advantage_score": 0,
+            "advantage_description": "No handedness data available"
+          },
+          "swing_analysis": {
+            "data_available": false,
+            "optimization_score": 50
+          }
+        },
+        "trend_analysis": {
+          "trend_available": true,
+          "games_analyzed": 7,
+          "recent_3_avg": 0.22633333333333333,
+          "recent_5_avg": 0.2256,
+          "recent_7_avg": 0.22442857142857142,
+          "season_avg": 0.22442857142857142,
+          "trend_direction": "stable",
+          "trend_score": 0,
+          "hr_last_3": 0.0,
+          "hr_last_7": 0.0,
+          "is_trending_up": true,
+          "momentum": "positive"
+        },
+        "data_sources_used": [
+          "custom_batter_stats",
+          "exit_velocity_data",
+          "daily_json_files"
+        ],
+        "swing_optimization_score": 50,
+        "swing_attack_angle": 0,
+        "swing_ideal_rate": 0,
+        "swing_bat_speed": 0,
+        "barrel_rate": 10.9,
+        "exit_velocity_avg": 89.0,
+        "hard_hit_percent": 43.1,
+        "sweet_spot_percent": 41.6
+      },
+      {
+        "playerName": "Jordan Walker",
+        "player_name": "Jordan Walker",
+        "team": "STL",
+        "pitcher": "vs TBD",
+        "pitcher_name": "TBD",
+        "confidenceScore": 25,
+        "confidence_score": 25,
+        "classification": "Moderate Play",
+        "pathway": "batterDriven",
+        "reasoning": "Elite exit velocity: 92.2 mph (90th percentile)",
+        "detailed_reasoning": [
+          "Elite exit velocity: 92.2 mph (90th percentile)"
+        ],
+        "game": "COL @ STL",
+        "venue": "Busch Stadium",
+        "gameTime": "23:45",
+        "is_home": true,
+        "odds": {
+          "american": "+550",
+          "decimal": 6.5,
+          "source": "current"
+        },
+        "component_scores": {
+          "batter_analysis": {
+            "data_available": true,
+            "exit_velocity_avg": 92.2,
+            "exit_velocity_score": 86.80995475113126,
+            "exit_velocity_percentile": 90.0,
+            "barrel_rate": 9.3,
+            "barrel_rate_score": 60.47619047619048,
+            "hard_hit_percent": 49.3,
+            "iso": 0.092,
+            "home_runs": 3.0,
+            "power_score": 37.02702702702703,
+            "overall_score": 61.48580076521254,
+            "sweet_spot_percent": 30.0,
+            "data_source": "exit_velocity"
+          },
+          "pitcher_analysis": {
+            "data_available": false,
+            "overall_score": 50
+          },
+          "arsenal_matchup": {
+            "matchup_available": false,
+            "overall_advantage": 0,
+            "confidence": 0,
+            "pitch_matchups": {},
+            "advantage_summary": "No arsenal data available",
+            "disadvantage_summary": "Limited matchup data"
+          },
+          "handedness_analysis": {
+            "matchup_available": true,
+            "matchup_key": "RHP_vs_RHB",
+            "woba": 0.0,
+            "iso": 0.0,
+            "hr_fb_percent": 0.0,
+            "advantage_score": 0,
+            "advantage_description": "Neutral handedness matchup"
+          },
+          "swing_analysis": {
+            "data_available": false,
+            "optimization_score": 50
+          }
+        },
+        "trend_analysis": {
+          "trend_available": true,
+          "games_analyzed": 11,
+          "recent_3_avg": 0.24033333333333332,
+          "recent_5_avg": 0.235,
+          "recent_7_avg": 0.2327142857142857,
+          "season_avg": 0.23118181818181818,
+          "trend_direction": "stable",
+          "trend_score": 0,
+          "hr_last_3": 0.0,
+          "hr_last_7": 0.0,
+          "is_trending_up": true,
+          "momentum": "positive"
+        },
+        "data_sources_used": [
+          "custom_batter_stats",
+          "exit_velocity_data",
+          "daily_json_files"
+        ],
+        "swing_optimization_score": 50,
+        "swing_attack_angle": 0,
+        "swing_ideal_rate": 0,
+        "swing_bat_speed": 0,
+        "barrel_rate": 9.3,
+        "exit_velocity_avg": 92.2,
+        "hard_hit_percent": 49.3,
+        "sweet_spot_percent": 30.0
+      },
+      {
+        "playerName": "Alec Burleson",
+        "player_name": "Alec Burleson",
+        "team": "STL",
+        "pitcher": "vs TBD",
+        "pitcher_name": "TBD",
+        "confidenceScore": 25,
+        "confidence_score": 25,
+        "classification": "Moderate Play",
+        "pathway": "batterDriven",
+        "reasoning": "Above-average exit velocity: 91.4 mph; Optimal swing mechanics: 80% efficiency",
+        "detailed_reasoning": [
+          "Above-average exit velocity: 91.4 mph",
+          "Optimal swing mechanics: 80% efficiency"
+        ],
+        "game": "COL @ STL",
+        "venue": "Busch Stadium",
+        "gameTime": "23:45",
+        "is_home": true,
+        "odds": {
+          "american": "+650",
+          "decimal": 7.5,
+          "source": "current"
+        },
+        "component_scores": {
+          "batter_analysis": {
+            "data_available": true,
+            "exit_velocity_avg": 91.4,
+            "exit_velocity_score": 78.07692307692312,
+            "exit_velocity_percentile": 75.0,
+            "barrel_rate": 10.0,
+            "barrel_rate_score": 63.80952380952381,
+            "hard_hit_percent": 42.8,
+            "iso": 0.177,
+            "home_runs": 14.0,
+            "power_score": 70.0,
+            "overall_score": 70.96978021978023,
+            "sweet_spot_percent": 33.8,
+            "data_source": "exit_velocity"
+          },
+          "pitcher_analysis": {
+            "data_available": false,
+            "overall_score": 50
+          },
+          "arsenal_matchup": {
+            "matchup_available": false,
+            "overall_advantage": 0,
+            "confidence": 0,
+            "pitch_matchups": {},
+            "advantage_summary": "No arsenal data available",
+            "disadvantage_summary": "Limited matchup data"
+          },
+          "handedness_analysis": {
+            "matchup_available": false,
+            "advantage_score": 0,
+            "advantage_description": "No handedness data available"
+          },
+          "swing_analysis": {
+            "data_available": true,
+            "bat_speed": 72.75868249471459,
+            "attack_angle": 11.135874843711845,
+            "ideal_angle_rate": 0.6300211416490487,
+            "optimization_score": 80.42195008809023
+          }
+        },
+        "trend_analysis": {
+          "trend_available": true,
+          "games_analyzed": 13,
+          "recent_3_avg": 0.2823333333333333,
+          "recent_5_avg": 0.2808,
+          "recent_7_avg": 0.2812857142857143,
+          "season_avg": 0.2835384615384615,
+          "trend_direction": "stable",
+          "trend_score": 0,
+          "hr_last_3": 0.0,
+          "hr_last_7": 0.0,
+          "is_trending_up": true,
+          "momentum": "positive"
+        },
+        "data_sources_used": [
+          "custom_batter_stats",
+          "exit_velocity_data",
+          "daily_json_files",
+          "swing_path_data"
+        ],
+        "swing_optimization_score": 80.42195008809023,
+        "swing_attack_angle": 11.135874843711845,
+        "swing_ideal_rate": 0.6300211416490487,
+        "swing_bat_speed": 72.75868249471459,
+        "barrel_rate": 10.0,
+        "exit_velocity_avg": 91.4,
+        "hard_hit_percent": 42.8,
+        "sweet_spot_percent": 33.8
+      }
+    ],
+    "pitcherDriven": [
+      {
+        "playerName": "Bryan Reynolds",
+        "player_name": "Bryan Reynolds",
+        "team": "PIT",
+        "pitcher": "vs Jose Quintana",
+        "pitcher_name": "Jose Quintana",
+        "confidenceScore": 33.9361953990202,
+        "confidence_score": 33.9361953990202,
+        "classification": "Value Play",
+        "pathway": "pitcherDriven",
+        "reasoning": "Above-average exit velocity: 91.1 mph; Strong barrel rate: 10.7% (quality contact); Optimal swing mechanics: 71% efficiency",
+        "detailed_reasoning": [
+          "Above-average exit velocity: 91.1 mph",
+          "Strong barrel rate: 10.7% (quality contact)",
+          "Optimal swing mechanics: 71% efficiency"
+        ],
+        "game": "MIL @ MIL",
+        "venue": "American Family Field",
+        "gameTime": "23:40",
+        "is_home": false,
+        "odds": {
+          "american": "+500",
+          "decimal": 6.0,
+          "source": "current"
+        },
+        "component_scores": {
+          "batter_analysis": {
+            "data_available": true,
+            "exit_velocity_avg": 91.1,
+            "exit_velocity_score": 74.61538461538453,
+            "exit_velocity_percentile": 75.0,
+            "barrel_rate": 10.7,
+            "barrel_rate_score": 67.14285714285714,
+            "hard_hit_percent": 46.6,
+            "iso": 0.137,
+            "home_runs": 10.0,
+            "power_score": 52.22222222222223,
+            "overall_score": 64.5360195360195,
+            "sweet_spot_percent": 39.6,
+            "data_source": "exit_velocity"
+          },
+          "pitcher_analysis": {
+            "data_available": true,
+            "era": 3.5,
+            "era_score": 74.11764705882354,
+            "hr_per_9": 0.0,
+            "hr_score": 50.0,
+            "exit_velocity_allowed": 89.1,
+            "contact_quality_score": 44.64285714285711,
+            "barrel_rate_allowed": 9.8,
+            "vulnerability_score": 58.3077731092437,
+            "overall_score": 58.3077731092437,
+            "whip": 0.0,
+            "k_percent": 15.9,
+            "data_source": "pitcher_exit_velocity"
+          },
+          "arsenal_matchup": {
+            "matchup_available": true,
+            "overall_advantage": 6.160000000000002,
+            "confidence": 0.265,
+            "pitch_matchups": {
+              "SI": {
+                "batter_slg": 0.468,
+                "pitcher_slg_allowed": 0.416,
+                "batter_woba": 0.365,
+                "batter_hard_hit": 61.1,
+                "pitcher_usage": 47.9,
+                "advantage_score": 6.160000000000002,
+                "sample_size": 53
+              }
+            },
+            "advantage_summary": "Strong vs SI (+6.2)",
+            "disadvantage_summary": "No major weaknesses",
+            "total_sample_size": 53
+          },
+          "handedness_analysis": {
+            "matchup_available": false,
+            "advantage_score": 0,
+            "advantage_description": "No handedness data available"
+          },
+          "swing_analysis": {
+            "data_available": true,
+            "bat_speed": 71.90958758445944,
+            "attack_angle": 13.75592552929578,
+            "ideal_angle_rate": 0.4527027027027027,
+            "optimization_score": 71.29598180602473
+          }
+        },
+        "trend_analysis": {
+          "trend_available": true,
+          "games_analyzed": 13,
+          "recent_3_avg": 0.24033333333333332,
+          "recent_5_avg": 0.2392,
+          "recent_7_avg": 0.2387142857142857,
+          "season_avg": 0.23684615384615385,
+          "trend_direction": "stable",
+          "trend_score": 0,
+          "hr_last_3": 0.0,
+          "hr_last_7": 0.0,
+          "is_trending_up": true,
+          "momentum": "positive"
+        },
+        "data_sources_used": [
+          "custom_batter_stats",
+          "exit_velocity_data",
+          "custom_pitcher_stats",
+          "pitcher_exit_velocity",
+          "daily_json_files",
+          "pitch_arsenal_data",
+          "swing_path_data"
+        ],
+        "swing_optimization_score": 71.29598180602473,
+        "swing_attack_angle": 13.75592552929578,
+        "swing_ideal_rate": 0.4527027027027027,
+        "swing_bat_speed": 71.90958758445944,
+        "barrel_rate": 10.7,
+        "exit_velocity_avg": 91.1,
+        "hard_hit_percent": 46.6,
+        "sweet_spot_percent": 39.6
+      },
+      {
+        "playerName": "Andrew McCutchen",
+        "player_name": "Andrew McCutchen",
+        "team": "PIT",
+        "pitcher": "vs Jose Quintana",
+        "pitcher_name": "Jose Quintana",
+        "confidenceScore": 30.569303791124376,
+        "confidence_score": 30.569303791124376,
+        "classification": "Value Play",
+        "pathway": "pitcherDriven",
+        "reasoning": "Optimal swing mechanics: 72% efficiency",
+        "detailed_reasoning": [
+          "Optimal swing mechanics: 72% efficiency"
+        ],
+        "game": "MIL @ MIL",
+        "venue": "American Family Field",
+        "gameTime": "23:40",
+        "is_home": false,
+        "odds": {
+          "american": "+600",
+          "decimal": 7.0,
+          "source": "current"
+        },
+        "component_scores": {
+          "batter_analysis": {
+            "data_available": true,
+            "exit_velocity_avg": 89.4,
+            "exit_velocity_score": 54.70588235294124,
+            "exit_velocity_percentile": 50.0,
+            "barrel_rate": 9.3,
+            "barrel_rate_score": 60.47619047619048,
+            "hard_hit_percent": 43.9,
+            "iso": 0.135,
+            "home_runs": 11.0,
+            "power_score": 51.333333333333336,
+            "overall_score": 55.25658263305324,
+            "sweet_spot_percent": 33.5,
+            "data_source": "exit_velocity"
+          },
+          "pitcher_analysis": {
+            "data_available": true,
+            "era": 3.5,
+            "era_score": 74.11764705882354,
+            "hr_per_9": 0.0,
+            "hr_score": 50.0,
+            "exit_velocity_allowed": 89.1,
+            "contact_quality_score": 44.64285714285711,
+            "barrel_rate_allowed": 9.8,
+            "vulnerability_score": 58.3077731092437,
+            "overall_score": 58.3077731092437,
+            "whip": 0.0,
+            "k_percent": 15.9,
+            "data_source": "pitcher_exit_velocity"
+          },
+          "arsenal_matchup": {
+            "matchup_available": true,
+            "overall_advantage": 2.8600000000000008,
+            "confidence": 0.41,
+            "pitch_matchups": {
+              "SI": {
+                "batter_slg": 0.394,
+                "pitcher_slg_allowed": 0.416,
+                "batter_woba": 0.355,
+                "batter_hard_hit": 61.7,
+                "pitcher_usage": 47.9,
+                "advantage_score": 2.8600000000000008,
+                "sample_size": 82
+              }
+            },
+            "advantage_summary": "Limited advantages found",
+            "disadvantage_summary": "No major weaknesses",
+            "total_sample_size": 82
+          },
+          "handedness_analysis": {
+            "matchup_available": true,
+            "matchup_key": "RHP_vs_RHB",
+            "woba": 0.0,
+            "iso": 0.0,
+            "hr_fb_percent": 0.0,
+            "advantage_score": 0,
+            "advantage_description": "Neutral handedness matchup"
+          },
+          "swing_analysis": {
+            "data_available": true,
+            "bat_speed": 71.06064825203246,
+            "attack_angle": 14.177085150508782,
+            "ideal_angle_rate": 0.5284552845528455,
+            "optimization_score": 71.66063057249306
+          }
+        },
+        "trend_analysis": {
+          "trend_available": true,
+          "games_analyzed": 10,
+          "recent_3_avg": 0.24766666666666667,
+          "recent_5_avg": 0.2476,
+          "recent_7_avg": 0.24757142857142858,
+          "season_avg": 0.2472,
+          "trend_direction": "stable",
+          "trend_score": 0,
+          "hr_last_3": 0.0,
+          "hr_last_7": 0.0,
+          "is_trending_up": true,
+          "momentum": "positive"
+        },
+        "data_sources_used": [
+          "custom_batter_stats",
+          "exit_velocity_data",
+          "custom_pitcher_stats",
+          "pitcher_exit_velocity",
+          "daily_json_files",
+          "pitch_arsenal_data",
+          "swing_path_data"
+        ],
+        "swing_optimization_score": 71.66063057249306,
+        "swing_attack_angle": 14.177085150508782,
+        "swing_ideal_rate": 0.5284552845528455,
+        "swing_bat_speed": 71.06064825203246,
+        "barrel_rate": 9.3,
+        "exit_velocity_avg": 89.4,
+        "hard_hit_percent": 43.9,
+        "sweet_spot_percent": 33.5
+      },
+      {
+        "playerName": "Tommy Pham",
+        "player_name": "Tommy Pham",
+        "team": "PIT",
+        "pitcher": "vs Jose Quintana",
+        "pitcher_name": "Jose Quintana",
+        "confidenceScore": 30.46826767239119,
+        "confidence_score": 30.46826767239119,
+        "classification": "Value Play",
+        "pathway": "pitcherDriven",
+        "reasoning": "Elite exit velocity: 91.6 mph (75th percentile)",
+        "detailed_reasoning": [
+          "Elite exit velocity: 91.6 mph (75th percentile)"
+        ],
+        "game": "MIL @ MIL",
+        "venue": "American Family Field",
+        "gameTime": "23:40",
+        "is_home": false,
+        "odds": {
+          "american": "+750",
+          "decimal": 8.5,
+          "source": "current"
+        },
+        "component_scores": {
+          "batter_analysis": {
+            "data_available": true,
+            "exit_velocity_avg": 91.6,
+            "exit_velocity_score": 80.3846153846153,
+            "exit_velocity_percentile": 75.0,
+            "barrel_rate": 6.2,
+            "barrel_rate_score": 45.5,
+            "hard_hit_percent": 45.4,
+            "iso": 0.113,
+            "home_runs": 5.0,
+            "power_score": 43.83783783783784,
+            "overall_score": 57.1278586278586,
+            "sweet_spot_percent": 32.0,
+            "data_source": "exit_velocity"
+          },
+          "pitcher_analysis": {
+            "data_available": true,
+            "era": 3.5,
+            "era_score": 74.11764705882354,
+            "hr_per_9": 0.0,
+            "hr_score": 50.0,
+            "exit_velocity_allowed": 89.1,
+            "contact_quality_score": 44.64285714285711,
+            "barrel_rate_allowed": 9.8,
+            "vulnerability_score": 58.3077731092437,
+            "overall_score": 58.3077731092437,
+            "whip": 0.0,
+            "k_percent": 15.9,
+            "data_source": "pitcher_exit_velocity"
+          },
+          "arsenal_matchup": {
+            "matchup_available": true,
+            "overall_advantage": 2.79,
+            "confidence": 0.32,
+            "pitch_matchups": {
+              "SI": {
+                "batter_slg": 0.362,
+                "pitcher_slg_allowed": 0.416,
+                "batter_woba": 0.369,
+                "batter_hard_hit": 60.0,
+                "pitcher_usage": 47.9,
+                "advantage_score": 2.79,
+                "sample_size": 64
+              }
+            },
+            "advantage_summary": "Limited advantages found",
+            "disadvantage_summary": "No major weaknesses",
+            "total_sample_size": 64
+          },
+          "handedness_analysis": {
+            "matchup_available": true,
+            "matchup_key": "RHP_vs_RHB",
+            "woba": 0.0,
+            "iso": 0.0,
+            "hr_fb_percent": 0.0,
+            "advantage_score": 0,
+            "advantage_description": "Neutral handedness matchup"
+          },
+          "swing_analysis": {
+            "data_available": false,
+            "optimization_score": 50
+          }
+        },
+        "trend_analysis": {
+          "trend_available": true,
+          "games_analyzed": 11,
+          "recent_3_avg": 0.26766666666666666,
+          "recent_5_avg": 0.26780000000000004,
+          "recent_7_avg": 0.2681428571428572,
+          "season_avg": 0.2681818181818182,
+          "trend_direction": "stable",
+          "trend_score": 0,
+          "hr_last_3": 0.0,
+          "hr_last_7": 0.0,
+          "is_trending_up": false,
+          "momentum": "negative"
+        },
+        "data_sources_used": [
+          "custom_batter_stats",
+          "exit_velocity_data",
+          "custom_pitcher_stats",
+          "pitcher_exit_velocity",
+          "daily_json_files",
+          "pitch_arsenal_data"
+        ],
+        "swing_optimization_score": 50,
+        "swing_attack_angle": 0,
+        "swing_ideal_rate": 0,
+        "swing_bat_speed": 0,
+        "barrel_rate": 6.2,
+        "exit_velocity_avg": 91.6,
+        "hard_hit_percent": 45.4,
+        "sweet_spot_percent": 32.0
+      },
+      {
+        "playerName": "Brice Turang",
+        "player_name": "Brice Turang",
+        "team": "MIL",
+        "pitcher": "vs Andrew Heaney",
+        "pitcher_name": "Andrew Heaney",
+        "confidenceScore": 28.707759830418645,
+        "confidence_score": 28.707759830418645,
+        "classification": "Longshot",
+        "pathway": "pitcherDriven",
+        "reasoning": "Above-average exit velocity: 90.7 mph",
+        "detailed_reasoning": [
+          "Above-average exit velocity: 90.7 mph"
+        ],
+        "game": "PIT @ MIL",
+        "venue": "American Family Field",
+        "gameTime": "23:40",
+        "is_home": true,
+        "odds": {
+          "american": "+700",
+          "decimal": 8.0,
+          "source": "current"
+        },
+        "component_scores": {
+          "batter_analysis": {
+            "data_available": true,
+            "exit_velocity_avg": 90.7,
+            "exit_velocity_score": 70.0,
+            "exit_velocity_percentile": 75.0,
+            "barrel_rate": 6.4,
+            "barrel_rate_score": 46.5,
+            "hard_hit_percent": 45.8,
+            "iso": 0.11,
+            "home_runs": 8.0,
+            "power_score": 42.86486486486486,
+            "overall_score": 53.4527027027027,
+            "sweet_spot_percent": 35.9,
+            "data_source": "exit_velocity"
+          },
+          "pitcher_analysis": {
+            "data_available": true,
+            "era": 4.89,
+            "era_score": 56.9607843137255,
+            "hr_per_9": 0.0,
+            "hr_score": 50.0,
+            "exit_velocity_allowed": 90.6,
+            "contact_quality_score": 68.18181818181804,
+            "barrel_rate_allowed": 10.5,
+            "vulnerability_score": 57.32976827094471,
+            "overall_score": 57.32976827094471,
+            "whip": 0.0,
+            "k_percent": 16.8,
+            "data_source": "pitcher_exit_velocity"
+          },
+          "arsenal_matchup": {
+            "matchup_available": true,
+            "overall_advantage": 0.3300000000000004,
+            "confidence": 0.66,
+            "pitch_matchups": {
+              "FF": {
+                "batter_slg": 0.396,
+                "pitcher_slg_allowed": 0.425,
+                "batter_woba": 0.346,
+                "batter_hard_hit": 56.4,
+                "pitcher_usage": 45.3,
+                "advantage_score": 0.3300000000000004,
+                "sample_size": 132
+              }
+            },
+            "advantage_summary": "Limited advantages found",
+            "disadvantage_summary": "No major weaknesses",
+            "total_sample_size": 132
+          },
+          "handedness_analysis": {
+            "matchup_available": false,
+            "advantage_score": 0,
+            "advantage_description": "No handedness data available"
+          },
+          "swing_analysis": {
+            "data_available": true,
+            "bat_speed": 70.36965137992834,
+            "attack_angle": 6.202997287527575,
+            "ideal_angle_rate": 0.4139784946236559,
+            "optimization_score": 59.35234340651143
+          }
+        },
+        "trend_analysis": {
+          "trend_available": true,
+          "games_analyzed": 12,
+          "recent_3_avg": 0.2773333333333334,
+          "recent_5_avg": 0.2766,
+          "recent_7_avg": 0.27642857142857147,
+          "season_avg": 0.27558333333333335,
+          "trend_direction": "stable",
+          "trend_score": 0,
+          "hr_last_3": 0.0,
+          "hr_last_7": 0.0,
+          "is_trending_up": true,
+          "momentum": "positive"
+        },
+        "data_sources_used": [
+          "custom_batter_stats",
+          "exit_velocity_data",
+          "custom_pitcher_stats",
+          "pitcher_exit_velocity",
+          "daily_json_files",
+          "pitch_arsenal_data"
+        ],
+        "swing_optimization_score": 59.35234340651143,
+        "swing_attack_angle": 6.202997287527575,
+        "swing_ideal_rate": 0.4139784946236559,
+        "swing_bat_speed": 70.36965137992834,
+        "barrel_rate": 6.4,
+        "exit_velocity_avg": 90.7,
+        "hard_hit_percent": 45.8,
+        "sweet_spot_percent": 35.9
+      },
+      {
+        "playerName": "Spencer Horwitz",
+        "player_name": "Spencer Horwitz",
+        "team": "PIT",
+        "pitcher": "vs Jose Quintana",
+        "pitcher_name": "Jose Quintana",
+        "confidenceScore": 27.906995798319322,
+        "confidence_score": 27.906995798319322,
+        "classification": "Longshot",
+        "pathway": "pitcherDriven",
+        "reasoning": "",
+        "detailed_reasoning": [],
+        "game": "MIL @ MIL",
+        "venue": "American Family Field",
+        "gameTime": "23:40",
+        "is_home": false,
+        "odds": {
+          "american": "+600",
+          "decimal": 7.0,
+          "source": "current"
+        },
+        "component_scores": {
+          "batter_analysis": {
+            "data_available": true,
+            "exit_velocity_avg": 88.0,
+            "exit_velocity_score": 41.66666666666666,
+            "exit_velocity_percentile": 25.0,
+            "barrel_rate": 9.0,
+            "barrel_rate_score": 59.04761904761905,
+            "hard_hit_percent": 41.6,
+            "iso": 0.135,
+            "home_runs": 5.0,
+            "power_score": 51.333333333333336,
+            "overall_score": 50.264285714285705,
+            "sweet_spot_percent": 40.4,
+            "data_source": "exit_velocity"
+          },
+          "pitcher_analysis": {
+            "data_available": true,
+            "era": 3.5,
+            "era_score": 74.11764705882354,
+            "hr_per_9": 0.0,
+            "hr_score": 50.0,
+            "exit_velocity_allowed": 89.1,
+            "contact_quality_score": 44.64285714285711,
+            "barrel_rate_allowed": 9.8,
+            "vulnerability_score": 58.3077731092437,
+            "overall_score": 58.3077731092437,
+            "whip": 0.0,
+            "k_percent": 15.9,
+            "data_source": "pitcher_exit_velocity"
+          },
+          "arsenal_matchup": {
+            "matchup_available": false,
+            "overall_advantage": 0,
+            "confidence": 0,
+            "pitch_matchups": {},
+            "advantage_summary": "No common pitch types found",
+            "disadvantage_summary": "Cannot analyze matchup"
+          },
+          "handedness_analysis": {
+            "matchup_available": false,
+            "advantage_score": 0,
+            "advantage_description": "No handedness data available"
+          },
+          "swing_analysis": {
+            "data_available": false,
+            "optimization_score": 50
+          }
+        },
+        "trend_analysis": {
+          "trend_available": true,
+          "games_analyzed": 14,
+          "recent_3_avg": 0.26233333333333336,
+          "recent_5_avg": 0.2622,
+          "recent_7_avg": 0.26257142857142857,
+          "season_avg": 0.25592857142857145,
+          "trend_direction": "stable",
+          "trend_score": 0,
+          "hr_last_3": 0.0,
+          "hr_last_7": 0.0,
+          "is_trending_up": false,
+          "momentum": "negative"
+        },
+        "data_sources_used": [
+          "custom_batter_stats",
+          "exit_velocity_data",
+          "custom_pitcher_stats",
+          "pitcher_exit_velocity",
+          "daily_json_files"
+        ],
+        "swing_optimization_score": 50,
+        "swing_attack_angle": 0,
+        "swing_ideal_rate": 0,
+        "swing_bat_speed": 0,
+        "barrel_rate": 9.0,
+        "exit_velocity_avg": 88.0,
+        "hard_hit_percent": 41.6,
+        "sweet_spot_percent": 40.4
+      },
+      {
+        "playerName": "Henry Davis",
+        "player_name": "Henry Davis",
+        "team": "PIT",
+        "pitcher": "vs Jose Quintana",
+        "pitcher_name": "Jose Quintana",
+        "confidenceScore": 27.49396491028844,
+        "confidence_score": 27.49396491028844,
+        "classification": "Longshot",
+        "pathway": "pitcherDriven",
+        "reasoning": "",
+        "detailed_reasoning": [],
+        "game": "MIL @ MIL",
+        "venue": "American Family Field",
+        "gameTime": "23:40",
+        "is_home": false,
+        "odds": {
+          "american": "+800",
+          "decimal": 9.0,
+          "source": "current"
+        },
+        "component_scores": {
+          "batter_analysis": {
+            "data_available": true,
+            "exit_velocity_avg": 88.2,
+            "exit_velocity_score": 43.33333333333334,
+            "exit_velocity_percentile": 25.0,
+            "barrel_rate": 10.1,
+            "barrel_rate_score": 64.28571428571428,
+            "hard_hit_percent": 36.1,
+            "iso": 0.105,
+            "home_runs": 4.0,
+            "power_score": 41.24324324324324,
+            "overall_score": 48.88751608751608,
+            "sweet_spot_percent": 37.0,
+            "data_source": "custom_batter"
+          },
+          "pitcher_analysis": {
+            "data_available": true,
+            "era": 3.5,
+            "era_score": 74.11764705882354,
+            "hr_per_9": 0.0,
+            "hr_score": 50.0,
+            "exit_velocity_allowed": 89.1,
+            "contact_quality_score": 44.64285714285711,
+            "barrel_rate_allowed": 9.8,
+            "vulnerability_score": 58.3077731092437,
+            "overall_score": 58.3077731092437,
+            "whip": 0.0,
+            "k_percent": 15.9,
+            "data_source": "pitcher_exit_velocity"
+          },
+          "arsenal_matchup": {
+            "matchup_available": false,
+            "overall_advantage": 0,
+            "confidence": 0,
+            "pitch_matchups": {},
+            "advantage_summary": "No common pitch types found",
+            "disadvantage_summary": "Cannot analyze matchup"
+          },
+          "handedness_analysis": {
+            "matchup_available": false,
+            "advantage_score": 0,
+            "advantage_description": "No handedness data available"
+          },
+          "swing_analysis": {
+            "data_available": false,
+            "optimization_score": 50
+          }
+        },
+        "trend_analysis": {
+          "trend_available": true,
+          "games_analyzed": 11,
+          "recent_3_avg": 0.17066666666666666,
+          "recent_5_avg": 0.168,
+          "recent_7_avg": 0.168,
+          "season_avg": 0.17018181818181818,
+          "trend_direction": "stable",
+          "trend_score": 0,
+          "hr_last_3": 0.0,
+          "hr_last_7": 0.0,
+          "is_trending_up": true,
+          "momentum": "positive"
+        },
+        "data_sources_used": [
+          "custom_batter_stats",
+          "exit_velocity_data",
+          "custom_pitcher_stats",
+          "pitcher_exit_velocity",
+          "daily_json_files"
+        ],
+        "swing_optimization_score": 50,
+        "swing_attack_angle": 0,
+        "swing_ideal_rate": 0,
+        "swing_bat_speed": 0,
+        "barrel_rate": 10.1,
+        "exit_velocity_avg": 88.2,
+        "hard_hit_percent": 36.1,
+        "sweet_spot_percent": 37.0
+      },
+      {
+        "playerName": "Nick Gonzales",
+        "player_name": "Nick Gonzales",
+        "team": "PIT",
+        "pitcher": "vs Jose Quintana",
+        "pitcher_name": "Jose Quintana",
+        "confidenceScore": 27.05354341736694,
+        "confidence_score": 27.05354341736694,
+        "classification": "Longshot",
+        "pathway": "pitcherDriven",
+        "reasoning": "",
+        "detailed_reasoning": [],
+        "game": "MIL @ MIL",
+        "venue": "American Family Field",
+        "gameTime": "23:40",
+        "is_home": false,
+        "odds": {
+          "american": "+750",
+          "decimal": 8.5,
+          "source": "current"
+        },
+        "component_scores": {
+          "batter_analysis": {
+            "data_available": true,
+            "exit_velocity_avg": 88.1,
+            "exit_velocity_score": 42.49999999999994,
+            "exit_velocity_percentile": 25.0,
+            "barrel_rate": 6.3,
+            "barrel_rate_score": 46.0,
+            "hard_hit_percent": 40.3,
+            "iso": 0.14,
+            "home_runs": 5.0,
+            "power_score": 53.55555555555556,
+            "overall_score": 47.41944444444442,
+            "sweet_spot_percent": 34.0,
+            "data_source": "custom_batter"
+          },
+          "pitcher_analysis": {
+            "data_available": true,
+            "era": 3.5,
+            "era_score": 74.11764705882354,
+            "hr_per_9": 0.0,
+            "hr_score": 50.0,
+            "exit_velocity_allowed": 89.1,
+            "contact_quality_score": 44.64285714285711,
+            "barrel_rate_allowed": 9.8,
+            "vulnerability_score": 58.3077731092437,
+            "overall_score": 58.3077731092437,
+            "whip": 0.0,
+            "k_percent": 15.9,
+            "data_source": "pitcher_exit_velocity"
+          },
+          "arsenal_matchup": {
+            "matchup_available": false,
+            "overall_advantage": 0,
+            "confidence": 0,
+            "pitch_matchups": {},
+            "advantage_summary": "No common pitch types found",
+            "disadvantage_summary": "Cannot analyze matchup"
+          },
+          "handedness_analysis": {
+            "matchup_available": false,
+            "advantage_score": 0,
+            "advantage_description": "No handedness data available"
+          },
+          "swing_analysis": {
+            "data_available": false,
+            "optimization_score": 50
+          }
+        },
+        "trend_analysis": {
+          "trend_available": true,
+          "games_analyzed": 13,
+          "recent_3_avg": 0.2786666666666667,
+          "recent_5_avg": 0.277,
+          "recent_7_avg": 0.2765714285714286,
+          "season_avg": 0.2671538461538462,
+          "trend_direction": "stable",
+          "trend_score": 0,
+          "hr_last_3": 0.0,
+          "hr_last_7": 0.0,
+          "is_trending_up": true,
+          "momentum": "positive"
+        },
+        "data_sources_used": [
+          "custom_batter_stats",
+          "exit_velocity_data",
+          "custom_pitcher_stats",
+          "pitcher_exit_velocity",
+          "daily_json_files"
+        ],
+        "swing_optimization_score": 50,
+        "swing_attack_angle": 0,
+        "swing_ideal_rate": 0,
+        "swing_bat_speed": 0,
+        "barrel_rate": 6.3,
+        "exit_velocity_avg": 88.1,
+        "hard_hit_percent": 40.3,
+        "sweet_spot_percent": 34.0
+      },
+      {
+        "playerName": "Isaac Collins",
+        "player_name": "Isaac Collins",
+        "team": "MIL",
+        "pitcher": "vs Andrew Heaney",
+        "pitcher_name": "Andrew Heaney",
+        "confidenceScore": 25,
+        "confidence_score": 25,
+        "classification": "Longshot",
+        "pathway": "pitcherDriven",
+        "reasoning": "Challenging matchup: Struggles vs FF (-8.6)",
+        "detailed_reasoning": [
+          "Challenging matchup: Struggles vs FF (-8.6)"
+        ],
+        "game": "PIT @ MIL",
+        "venue": "American Family Field",
+        "gameTime": "23:40",
+        "is_home": true,
+        "odds": {
+          "american": "+425",
+          "decimal": 5.25,
+          "source": "current"
+        },
+        "component_scores": {
+          "batter_analysis": {
+            "data_available": true,
+            "exit_velocity_avg": 88.0,
+            "exit_velocity_score": 41.66666666666666,
+            "exit_velocity_percentile": 25.0,
+            "barrel_rate": 5.4,
+            "barrel_rate_score": 41.5,
+            "hard_hit_percent": 38.0,
+            "iso": 0.126,
+            "home_runs": 6.0,
+            "power_score": 48.05405405405405,
+            "overall_score": 43.85225225225224,
+            "sweet_spot_percent": 37.0,
+            "data_source": "exit_velocity"
+          },
+          "pitcher_analysis": {
+            "data_available": true,
+            "era": 4.89,
+            "era_score": 56.9607843137255,
+            "hr_per_9": 0.0,
+            "hr_score": 50.0,
+            "exit_velocity_allowed": 90.6,
+            "contact_quality_score": 68.18181818181804,
+            "barrel_rate_allowed": 10.5,
+            "vulnerability_score": 57.32976827094471,
+            "overall_score": 57.32976827094471,
+            "whip": 0.0,
+            "k_percent": 16.8,
+            "data_source": "pitcher_exit_velocity"
+          },
+          "arsenal_matchup": {
+            "matchup_available": true,
+            "overall_advantage": -8.59,
+            "confidence": 0.665,
+            "pitch_matchups": {
+              "FF": {
+                "batter_slg": 0.306,
+                "pitcher_slg_allowed": 0.425,
+                "batter_woba": 0.353,
+                "batter_hard_hit": 31.6,
+                "pitcher_usage": 45.3,
+                "advantage_score": -8.59,
+                "sample_size": 133
+              }
+            },
+            "advantage_summary": "Limited advantages found",
+            "disadvantage_summary": "Struggles vs FF (-8.6)",
+            "total_sample_size": 133
+          },
+          "handedness_analysis": {
+            "matchup_available": false,
+            "advantage_score": 0,
+            "advantage_description": "No handedness data available"
+          },
+          "swing_analysis": {
+            "data_available": true,
+            "bat_speed": 72.06879465753423,
+            "attack_angle": 3.0935048211216487,
+            "ideal_angle_rate": 0.3287671232876712,
+            "optimization_score": 55.11275154109583
+          }
+        },
+        "trend_analysis": {
+          "trend_available": true,
+          "games_analyzed": 12,
+          "recent_3_avg": 0.29133333333333333,
+          "recent_5_avg": 0.29019999999999996,
+          "recent_7_avg": 0.28728571428571426,
+          "season_avg": 0.2826666666666667,
+          "trend_direction": "stable",
+          "trend_score": 0,
+          "hr_last_3": 0.0,
+          "hr_last_7": 0.0,
+          "is_trending_up": true,
+          "momentum": "positive"
+        },
+        "data_sources_used": [
+          "custom_batter_stats",
+          "exit_velocity_data",
+          "custom_pitcher_stats",
+          "pitcher_exit_velocity",
+          "daily_json_files",
+          "pitch_arsenal_data"
+        ],
+        "swing_optimization_score": 55.11275154109583,
+        "swing_attack_angle": 3.0935048211216487,
+        "swing_ideal_rate": 0.3287671232876712,
+        "swing_bat_speed": 72.06879465753423,
+        "barrel_rate": 5.4,
+        "exit_velocity_avg": 88.0,
+        "hard_hit_percent": 38.0,
+        "sweet_spot_percent": 37.0
+      },
+      {
+        "playerName": "Masyn Winn",
+        "player_name": "Masyn Winn",
+        "team": "STL",
+        "pitcher": "vs TBD",
+        "pitcher_name": "TBD",
+        "confidenceScore": 25,
+        "confidence_score": 25,
+        "classification": "Longshot",
+        "pathway": "pitcherDriven",
+        "reasoning": "",
+        "detailed_reasoning": [],
+        "game": "COL @ STL",
+        "venue": "Busch Stadium",
+        "gameTime": "23:45",
+        "is_home": true,
+        "odds": {
+          "american": "+475",
+          "decimal": 5.75,
+          "source": "current"
+        },
+        "component_scores": {
+          "batter_analysis": {
+            "data_available": true,
+            "exit_velocity_avg": 88.4,
+            "exit_velocity_score": 45.00000000000004,
+            "exit_velocity_percentile": 25.0,
+            "barrel_rate": 5.1,
+            "barrel_rate_score": 40.0,
+            "hard_hit_percent": 36.0,
+            "iso": 0.117,
+            "home_runs": 7.0,
+            "power_score": 45.13513513513514,
+            "overall_score": 43.54729729729731,
+            "sweet_spot_percent": 32.5,
+            "data_source": "exit_velocity"
+          },
+          "pitcher_analysis": {
+            "data_available": false,
+            "overall_score": 50
+          },
+          "arsenal_matchup": {
+            "matchup_available": false,
+            "overall_advantage": 0,
+            "confidence": 0,
+            "pitch_matchups": {},
+            "advantage_summary": "No arsenal data available",
+            "disadvantage_summary": "Limited matchup data"
+          },
+          "handedness_analysis": {
+            "matchup_available": true,
+            "matchup_key": "RHP_vs_RHB",
+            "woba": 0.0,
+            "iso": 0.0,
+            "hr_fb_percent": 0.0,
+            "advantage_score": 0,
+            "advantage_description": "Neutral handedness matchup"
+          },
+          "swing_analysis": {
+            "data_available": true,
+            "bat_speed": 70.85865457076568,
+            "attack_angle": 4.239682530466739,
+            "ideal_angle_rate": 0.4315545243619489,
+            "optimization_score": 55.43770382830631
+          }
+        },
+        "trend_analysis": {
+          "trend_available": true,
+          "games_analyzed": 12,
+          "recent_3_avg": 0.26933333333333337,
+          "recent_5_avg": 0.269,
+          "recent_7_avg": 0.2692857142857143,
+          "season_avg": 0.26983333333333337,
+          "trend_direction": "stable",
+          "trend_score": 0,
+          "hr_last_3": 0.0,
+          "hr_last_7": 0.0,
+          "is_trending_up": true,
+          "momentum": "positive"
+        },
+        "data_sources_used": [
+          "custom_batter_stats",
+          "exit_velocity_data",
+          "daily_json_files"
+        ],
+        "swing_optimization_score": 55.43770382830631,
+        "swing_attack_angle": 4.239682530466739,
+        "swing_ideal_rate": 0.4315545243619489,
+        "swing_bat_speed": 70.85865457076568,
+        "barrel_rate": 5.1,
+        "exit_velocity_avg": 88.4,
+        "hard_hit_percent": 36.0,
+        "sweet_spot_percent": 32.5
+      },
+      {
+        "playerName": "Caleb Durbin",
+        "player_name": "Caleb Durbin",
+        "team": "MIL",
+        "pitcher": "vs Andrew Heaney",
+        "pitcher_name": "Andrew Heaney",
+        "confidenceScore": 25,
+        "confidence_score": 25,
+        "classification": "Avoid",
+        "pathway": "pitcherDriven",
+        "reasoning": "",
+        "detailed_reasoning": [],
+        "game": "PIT @ MIL",
+        "venue": "American Family Field",
+        "gameTime": "23:40",
+        "is_home": true,
+        "odds": {
+          "american": "+500",
+          "decimal": 6.0,
+          "source": "current"
+        },
+        "component_scores": {
+          "batter_analysis": {
+            "data_available": true,
+            "exit_velocity_avg": 84.6,
+            "exit_velocity_score": 25,
+            "exit_velocity_percentile": 10.0,
+            "barrel_rate": 3.2,
+            "barrel_rate_score": 25,
+            "hard_hit_percent": 24.2,
+            "iso": 0.109,
+            "home_runs": 5.0,
+            "power_score": 42.54054054054054,
+            "overall_score": 31.13918918918919,
+            "sweet_spot_percent": 27.8,
+            "data_source": "exit_velocity"
+          },
+          "pitcher_analysis": {
+            "data_available": true,
+            "era": 4.89,
+            "era_score": 56.9607843137255,
+            "hr_per_9": 0.0,
+            "hr_score": 50.0,
+            "exit_velocity_allowed": 90.6,
+            "contact_quality_score": 68.18181818181804,
+            "barrel_rate_allowed": 10.5,
+            "vulnerability_score": 57.32976827094471,
+            "overall_score": 57.32976827094471,
+            "whip": 0.0,
+            "k_percent": 16.8,
+            "data_source": "pitcher_exit_velocity"
+          },
+          "arsenal_matchup": {
+            "matchup_available": true,
+            "overall_advantage": -4.749999999999998,
+            "confidence": 0.48,
+            "pitch_matchups": {
+              "FF": {
+                "batter_slg": 0.4,
+                "pitcher_slg_allowed": 0.425,
+                "batter_woba": 0.326,
+                "batter_hard_hit": 27.3,
+                "pitcher_usage": 45.3,
+                "advantage_score": -4.749999999999998,
+                "sample_size": 96
+              }
+            },
+            "advantage_summary": "Limited advantages found",
+            "disadvantage_summary": "No major weaknesses",
+            "total_sample_size": 96
+          },
+          "handedness_analysis": {
+            "matchup_available": true,
+            "matchup_key": "RHP_vs_RHB",
+            "woba": 0.0,
+            "iso": 0.0,
+            "hr_fb_percent": 0.0,
+            "advantage_score": 0,
+            "advantage_description": "Neutral handedness matchup"
+          },
+          "swing_analysis": {
+            "data_available": true,
+            "bat_speed": 67.949817654321,
+            "attack_angle": 8.199824608584724,
+            "ideal_angle_rate": 0.6481481481481481,
+            "optimization_score": 67.07585704732513
+          }
+        },
+        "trend_analysis": {
+          "trend_available": true,
+          "games_analyzed": 12,
+          "recent_3_avg": 0.259,
+          "recent_5_avg": 0.26,
+          "recent_7_avg": 0.262,
+          "season_avg": 0.2609166666666667,
+          "trend_direction": "stable",
+          "trend_score": 0,
+          "hr_last_3": 0.0,
+          "hr_last_7": 0.0,
+          "is_trending_up": false,
+          "momentum": "negative"
+        },
+        "data_sources_used": [
+          "custom_batter_stats",
+          "exit_velocity_data",
+          "custom_pitcher_stats",
+          "pitcher_exit_velocity",
+          "daily_json_files",
+          "pitch_arsenal_data"
+        ],
+        "swing_optimization_score": 67.07585704732513,
+        "swing_attack_angle": 8.199824608584724,
+        "swing_ideal_rate": 0.6481481481481481,
+        "swing_bat_speed": 67.949817654321,
+        "barrel_rate": 3.2,
+        "exit_velocity_avg": 84.6,
+        "hard_hit_percent": 24.2,
+        "sweet_spot_percent": 27.8
+      },
+      {
+        "playerName": "Joey Ortiz",
+        "player_name": "Joey Ortiz",
+        "team": "MIL",
+        "pitcher": "vs Andrew Heaney",
+        "pitcher_name": "Andrew Heaney",
+        "confidenceScore": 25,
+        "confidence_score": 25,
+        "classification": "Avoid",
+        "pathway": "pitcherDriven",
+        "reasoning": "",
+        "detailed_reasoning": [],
+        "game": "PIT @ MIL",
+        "venue": "American Family Field",
+        "gameTime": "23:40",
+        "is_home": true,
+        "odds": {
+          "american": "+550",
+          "decimal": 6.5,
+          "source": "current"
+        },
+        "component_scores": {
+          "batter_analysis": {
+            "data_available": true,
+            "exit_velocity_avg": 85.7,
+            "exit_velocity_score": 25,
+            "exit_velocity_percentile": 10.0,
+            "barrel_rate": 3.5,
+            "barrel_rate_score": 25,
+            "hard_hit_percent": 32.9,
+            "iso": 0.099,
+            "home_runs": 7.0,
+            "power_score": 39.2972972972973,
+            "overall_score": 30.004054054054052,
+            "sweet_spot_percent": 29.1,
+            "data_source": "exit_velocity"
+          },
+          "pitcher_analysis": {
+            "data_available": true,
+            "era": 4.89,
+            "era_score": 56.9607843137255,
+            "hr_per_9": 0.0,
+            "hr_score": 50.0,
+            "exit_velocity_allowed": 90.6,
+            "contact_quality_score": 68.18181818181804,
+            "barrel_rate_allowed": 10.5,
+            "vulnerability_score": 57.32976827094471,
+            "overall_score": 57.32976827094471,
+            "whip": 0.0,
+            "k_percent": 16.8,
+            "data_source": "pitcher_exit_velocity"
+          },
+          "arsenal_matchup": {
+            "matchup_available": true,
+            "overall_advantage": 0.879999999999999,
+            "confidence": 0.535,
+            "pitch_matchups": {
+              "FF": {
+                "batter_slg": 0.474,
+                "pitcher_slg_allowed": 0.425,
+                "batter_woba": 0.35,
+                "batter_hard_hit": 41.6,
+                "pitcher_usage": 45.3,
+                "advantage_score": 0.879999999999999,
+                "sample_size": 107
+              }
+            },
+            "advantage_summary": "Limited advantages found",
+            "disadvantage_summary": "No major weaknesses",
+            "total_sample_size": 107
+          },
+          "handedness_analysis": {
+            "matchup_available": true,
+            "matchup_key": "RHP_vs_RHB",
+            "woba": 0.0,
+            "iso": 0.0,
+            "hr_fb_percent": 0.0,
+            "advantage_score": 0,
+            "advantage_description": "Neutral handedness matchup"
+          },
+          "swing_analysis": {
+            "data_available": true,
+            "bat_speed": 72.79192262755103,
+            "attack_angle": 2.5855487075796297,
+            "ideal_angle_rate": 0.3647959183673469,
+            "optimization_score": 50.57295460246602
+          }
+        },
+        "trend_analysis": {
+          "trend_available": true,
+          "games_analyzed": 13,
+          "recent_3_avg": 0.22,
+          "recent_5_avg": 0.22,
+          "recent_7_avg": 0.21914285714285714,
+          "season_avg": 0.21553846153846154,
+          "trend_direction": "stable",
+          "trend_score": 0,
+          "hr_last_3": 0.0,
+          "hr_last_7": 0.0,
+          "is_trending_up": true,
+          "momentum": "positive"
+        },
+        "data_sources_used": [
+          "custom_batter_stats",
+          "exit_velocity_data",
+          "custom_pitcher_stats",
+          "pitcher_exit_velocity",
+          "daily_json_files",
+          "pitch_arsenal_data"
+        ],
+        "swing_optimization_score": 50.57295460246602,
+        "swing_attack_angle": 2.5855487075796297,
+        "swing_ideal_rate": 0.3647959183673469,
+        "swing_bat_speed": 72.79192262755103,
+        "barrel_rate": 3.5,
+        "exit_velocity_avg": 85.7,
+        "hard_hit_percent": 32.9,
+        "sweet_spot_percent": 29.1
+      },
+      {
+        "playerName": "Anthony Seigler",
+        "player_name": "Anthony Seigler",
+        "team": "MIL",
+        "pitcher": "vs Andrew Heaney",
+        "pitcher_name": "Andrew Heaney",
+        "confidenceScore": 25,
+        "confidence_score": 25,
+        "classification": "Longshot",
+        "pathway": "pitcherDriven",
+        "reasoning": "",
+        "detailed_reasoning": [],
+        "game": "PIT @ MIL",
+        "venue": "American Family Field",
+        "gameTime": "23:40",
+        "is_home": true,
+        "odds": {
+          "american": "+550",
+          "decimal": 6.5,
+          "source": "current"
+        },
+        "component_scores": {
+          "batter_analysis": {
+            "data_available": true,
+            "exit_velocity_avg": 88.3,
+            "exit_velocity_score": 44.166666666666636,
+            "exit_velocity_percentile": 25.0,
+            "barrel_rate": 3.6,
+            "barrel_rate_score": 25,
+            "hard_hit_percent": 35.7,
+            "iso": 0.0,
+            "home_runs": 0.0,
+            "power_score": 50.0,
+            "overall_score": 40.45833333333332,
+            "sweet_spot_percent": 42.9,
+            "data_source": "custom_batter"
+          },
+          "pitcher_analysis": {
+            "data_available": true,
+            "era": 4.89,
+            "era_score": 56.9607843137255,
+            "hr_per_9": 0.0,
+            "hr_score": 50.0,
+            "exit_velocity_allowed": 90.6,
+            "contact_quality_score": 68.18181818181804,
+            "barrel_rate_allowed": 10.5,
+            "vulnerability_score": 57.32976827094471,
+            "overall_score": 57.32976827094471,
+            "whip": 0.0,
+            "k_percent": 16.8,
+            "data_source": "pitcher_exit_velocity"
+          },
+          "arsenal_matchup": {
+            "matchup_available": false,
+            "overall_advantage": 0,
+            "confidence": 0,
+            "pitch_matchups": {},
+            "advantage_summary": "No arsenal data available",
+            "disadvantage_summary": "Limited matchup data"
+          },
+          "handedness_analysis": {
+            "matchup_available": false,
+            "advantage_score": 0,
+            "advantage_description": "No handedness data available"
+          },
+          "swing_analysis": {
+            "data_available": false,
+            "optimization_score": 50
+          }
+        },
+        "trend_analysis": {
+          "trend_available": true,
+          "games_analyzed": 10,
+          "recent_3_avg": 0.196,
+          "recent_5_avg": 0.19039999999999999,
+          "recent_7_avg": 0.19014285714285714,
+          "season_avg": 0.1868,
+          "trend_direction": "stable",
+          "trend_score": 0,
+          "hr_last_3": 0.0,
+          "hr_last_7": 0.0,
+          "is_trending_up": true,
+          "momentum": "positive"
+        },
+        "data_sources_used": [
+          "custom_batter_stats",
+          "exit_velocity_data",
+          "custom_pitcher_stats",
+          "pitcher_exit_velocity",
+          "daily_json_files"
+        ],
+        "swing_optimization_score": 50,
+        "swing_attack_angle": 0,
+        "swing_ideal_rate": 0,
+        "swing_bat_speed": 0,
+        "barrel_rate": 3.6,
+        "exit_velocity_avg": 88.3,
+        "hard_hit_percent": 35.7,
+        "sweet_spot_percent": 42.9
+      },
+      {
+        "playerName": "Thomas Saggese",
+        "player_name": "Thomas Saggese",
+        "team": "STL",
+        "pitcher": "vs TBD",
+        "pitcher_name": "TBD",
+        "confidenceScore": 25,
+        "confidence_score": 25,
+        "classification": "Longshot",
+        "pathway": "pitcherDriven",
+        "reasoning": "Above-average exit velocity: 90.6 mph",
+        "detailed_reasoning": [
+          "Above-average exit velocity: 90.6 mph"
+        ],
+        "game": "COL @ STL",
+        "venue": "Busch Stadium",
+        "gameTime": "23:45",
+        "is_home": true,
+        "odds": {
+          "american": "+700",
+          "decimal": 8.0,
+          "source": "current"
+        },
+        "component_scores": {
+          "batter_analysis": {
+            "data_available": true,
+            "exit_velocity_avg": 90.6,
+            "exit_velocity_score": 68.82352941176461,
+            "exit_velocity_percentile": 50.0,
+            "barrel_rate": 4.2,
+            "barrel_rate_score": 35.5,
+            "hard_hit_percent": 45.1,
+            "iso": 0.1,
+            "home_runs": 1.0,
+            "power_score": 39.62162162162163,
+            "overall_score": 48.605802861685184,
+            "sweet_spot_percent": 38.0,
+            "data_source": "custom_batter"
+          },
+          "pitcher_analysis": {
+            "data_available": false,
+            "overall_score": 50
+          },
+          "arsenal_matchup": {
+            "matchup_available": false,
+            "overall_advantage": 0,
+            "confidence": 0,
+            "pitch_matchups": {},
+            "advantage_summary": "No arsenal data available",
+            "disadvantage_summary": "Limited matchup data"
+          },
+          "handedness_analysis": {
+            "matchup_available": false,
+            "advantage_score": 0,
+            "advantage_description": "No handedness data available"
+          },
+          "swing_analysis": {
+            "data_available": false,
+            "optimization_score": 50
+          }
+        },
+        "trend_analysis": {
+          "trend_available": true,
+          "games_analyzed": 11,
+          "recent_3_avg": 0.23966666666666667,
+          "recent_5_avg": 0.2358,
+          "recent_7_avg": 0.2342857142857143,
+          "season_avg": 0.23581818181818182,
+          "trend_direction": "stable",
+          "trend_score": 0,
+          "hr_last_3": 0.0,
+          "hr_last_7": 0.0,
+          "is_trending_up": true,
+          "momentum": "positive"
+        },
+        "data_sources_used": [
+          "custom_batter_stats",
+          "exit_velocity_data",
+          "daily_json_files"
+        ],
+        "swing_optimization_score": 50,
+        "swing_attack_angle": 0,
+        "swing_ideal_rate": 0,
+        "swing_bat_speed": 0,
+        "barrel_rate": 4.2,
+        "exit_velocity_avg": 90.6,
+        "hard_hit_percent": 45.1,
+        "sweet_spot_percent": 38.0
+      },
+      {
+        "playerName": "Isiah Kiner-Falefa",
+        "player_name": "Isiah Kiner-Falefa",
+        "team": "PIT",
+        "pitcher": "vs Jose Quintana",
+        "pitcher_name": "Jose Quintana",
+        "confidenceScore": 25,
+        "confidence_score": 25,
+        "classification": "Avoid",
+        "pathway": "pitcherDriven",
+        "reasoning": "Challenging matchup: Struggles vs SI (-9.2)",
+        "detailed_reasoning": [
+          "Challenging matchup: Struggles vs SI (-9.2)"
+        ],
+        "game": "MIL @ MIL",
+        "venue": "American Family Field",
+        "gameTime": "23:40",
+        "is_home": false,
+        "odds": {
+          "american": "+1100",
+          "decimal": 12.0,
+          "source": "current"
+        },
+        "component_scores": {
+          "batter_analysis": {
+            "data_available": true,
+            "exit_velocity_avg": 85.1,
+            "exit_velocity_score": 25,
+            "exit_velocity_percentile": 10.0,
+            "barrel_rate": 1.9,
+            "barrel_rate_score": 25,
+            "hard_hit_percent": 25.7,
+            "iso": 0.066,
+            "home_runs": 1.0,
+            "power_score": 25,
+            "overall_score": 25.0,
+            "sweet_spot_percent": 30.1,
+            "data_source": "exit_velocity"
+          },
+          "pitcher_analysis": {
+            "data_available": true,
+            "era": 3.5,
+            "era_score": 74.11764705882354,
+            "hr_per_9": 0.0,
+            "hr_score": 50.0,
+            "exit_velocity_allowed": 89.1,
+            "contact_quality_score": 44.64285714285711,
+            "barrel_rate_allowed": 9.8,
+            "vulnerability_score": 58.3077731092437,
+            "overall_score": 58.3077731092437,
+            "whip": 0.0,
+            "k_percent": 15.9,
+            "data_source": "pitcher_exit_velocity"
+          },
+          "arsenal_matchup": {
+            "matchup_available": true,
+            "overall_advantage": -9.230000000000002,
+            "confidence": 0.46,
+            "pitch_matchups": {
+              "SI": {
+                "batter_slg": 0.294,
+                "pitcher_slg_allowed": 0.416,
+                "batter_woba": 0.29,
+                "batter_hard_hit": 22.2,
+                "pitcher_usage": 47.9,
+                "advantage_score": -9.230000000000002,
+                "sample_size": 92
+              }
+            },
+            "advantage_summary": "Limited advantages found",
+            "disadvantage_summary": "Struggles vs SI (-9.2)",
+            "total_sample_size": 92
+          },
+          "handedness_analysis": {
+            "matchup_available": true,
+            "matchup_key": "RHP_vs_RHB",
+            "woba": 0.0,
+            "iso": 0.0,
+            "hr_fb_percent": 0.0,
+            "advantage_score": 0,
+            "advantage_description": "Neutral handedness matchup"
+          },
+          "swing_analysis": {
+            "data_available": true,
+            "bat_speed": 66.44740690217387,
+            "attack_angle": 4.845237995108848,
+            "ideal_angle_rate": 0.4103260869565217,
+            "optimization_score": 43.38722826086956
+          }
+        },
+        "trend_analysis": {
+          "trend_available": true,
+          "games_analyzed": 11,
+          "recent_3_avg": 0.27033333333333337,
+          "recent_5_avg": 0.27040000000000003,
+          "recent_7_avg": 0.27071428571428574,
+          "season_avg": 0.2691818181818182,
+          "trend_direction": "stable",
+          "trend_score": 0,
+          "hr_last_3": 0.0,
+          "hr_last_7": 0.0,
+          "is_trending_up": false,
+          "momentum": "negative"
+        },
+        "data_sources_used": [
+          "custom_batter_stats",
+          "exit_velocity_data",
+          "custom_pitcher_stats",
+          "pitcher_exit_velocity",
+          "daily_json_files",
+          "pitch_arsenal_data"
+        ],
+        "swing_optimization_score": 43.38722826086956,
+        "swing_attack_angle": 4.845237995108848,
+        "swing_ideal_rate": 0.4103260869565217,
+        "swing_bat_speed": 66.44740690217387,
+        "barrel_rate": 1.9,
+        "exit_velocity_avg": 85.1,
+        "hard_hit_percent": 25.7,
+        "sweet_spot_percent": 30.1
+      }
+    ]
+  },
+  "summary": {
+    "totalPicks": 23,
+    "averageConfidence": 28.8,
+    "personalStraight": 0,
+    "longshots": 8,
+    "processingTimeSeconds": 4.4
+  },
+  "dataQuality": {
+    "customBatterStats": 580,
+    "customPitcherStats": 710,
+    "exitVelocityData": 252,
+    "pitcherExitVelocityData": 357,
+    "handednessSplits": 509,
+    "swingPathData": 216,
+    "pitchArsenalHitter": 348,
+    "pitchArsenalPitcher": 314,
+    "baseballApiAvailable": true,
+    "percentileBenchmarksBuilt": true
+  },
+  "comprehensiveFeatures": {
+    "percentileBasedScoring": true,
+    "multiSourceDataIntegration": true,
+    "rollingTrendAnalysis": true,
+    "baseballApiIntegration": true,
+    "handednessMatchupAnalysis": true,
+    "swingPathOptimization": true,
+    "launchAngleMastersIntegration": true,
+    "barrelMatchupIntegration": true,
+    "detailedReasoningGeneration": true
+  }
+}
