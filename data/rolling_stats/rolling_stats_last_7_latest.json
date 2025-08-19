@@ -1,7 +1,34 @@
 {
-  "generatedAt": "2025-08-19T12:16:03.411Z",
+  "generatedAt": "2025-08-19T15:58:09.083Z",
   "targetDate": "2025-08-19",
   "totalPlayers": 1566,
+  "leagueAverages": {
+    "generatedAt": "2025-08-19T15:58:09.083Z",
+    "dataSource": "rolling_stats_qualified_players",
+    "minimumGames": 20,
+    "over05HitsPercentage": 56.6,
+    "over05HRPercentage": 10.6,
+    "qualifiedPlayers": 497,
+    "totalGamesSampled": 37080,
+    "over05HitsGames": 20975,
+    "over05HRGames": 3945,
+    "avgHitsPerGame": 0.566,
+    "avgHRPerGame": 0.106,
+    "thresholds": {
+      "over05Hits": {
+        "excellent": 70.7,
+        "good": 62.2,
+        "average": 50.9,
+        "poor": 42.4
+      },
+      "over05HR": {
+        "excellent": 16,
+        "good": 13.3,
+        "average": 9.6,
+        "poor": 8
+      }
+    }
+  },
   "topHitters": [
     {
       "name": "B. Bichette",
