@@ -1,13 +1,13 @@
 {
   "date": "2025-08-18",
-  "lastUpdated": "2025-08-18T08:30:01.805540",
+  "lastUpdated": "2025-08-18T22:30:09.921865",
   "updateCount": 1,
   "totalGames": 13,
-  "gamesWithLineups": 11,
+  "gamesWithLineups": 12,
   "metadata": {
     "scrapedFrom": "https://statsapi.mlb.com/api/v1",
     "dataQuality": "complete",
-    "nextUpdateScheduled": "2025-08-18T09:00:01.805540"
+    "nextUpdateScheduled": "2025-08-18T23:00:09.921865"
   },
   "games": [
     {
@@ -15,7 +15,7 @@
       "date": "2025-08-18",
       "gameTime": "18:20",
       "timezone": "UTC",
-      "status": "Scheduled",
+      "status": "Final",
       "venue": {
         "name": "Wrigley Field",
         "city": "",
@@ -28,14 +28,14 @@
           "name": "Chicago Cubs",
           "record": {
             "wins": 70,
-            "losses": 53
+            "losses": 54
           }
         },
         "away": {
           "abbr": "MIL",
           "name": "Milwaukee Brewers",
           "record": {
-            "wins": 78,
+            "wins": 79,
             "losses": 45
           }
         }
@@ -70,14 +70,124 @@
       },
       "lineups": {
         "home": {
-          "confirmed": false,
-          "lastUpdated": "2025-08-18T08:30:01.805431",
-          "batting_order": []
+          "confirmed": true,
+          "lastUpdated": "2025-08-18T22:30:01.461011",
+          "batting_order": [
+            {
+              "position": 1,
+              "name": "Michael Busch",
+              "fieldPosition": "1B",
+              "handedness": "L"
+            },
+            {
+              "position": 2,
+              "name": "Kyle Tucker",
+              "fieldPosition": "RF",
+              "handedness": "L"
+            },
+            {
+              "position": 3,
+              "name": "Seiya Suzuki",
+              "fieldPosition": "DH",
+              "handedness": "R"
+            },
+            {
+              "position": 4,
+              "name": "Pete Crow-Armstrong",
+              "fieldPosition": "CF",
+              "handedness": "L"
+            },
+            {
+              "position": 5,
+              "name": "Carson Kelly",
+              "fieldPosition": "C",
+              "handedness": "R"
+            },
+            {
+              "position": 6,
+              "name": "Owen Caissie",
+              "fieldPosition": "LF",
+              "handedness": "L"
+            },
+            {
+              "position": 7,
+              "name": "Nico Hoerner",
+              "fieldPosition": "SS",
+              "handedness": "R"
+            },
+            {
+              "position": 8,
+              "name": "Willi Castro",
+              "fieldPosition": "2B",
+              "handedness": "S"
+            },
+            {
+              "position": 9,
+              "name": "Matt Shaw",
+              "fieldPosition": "3B",
+              "handedness": "R"
+            }
+          ]
         },
         "away": {
-          "confirmed": false,
-          "lastUpdated": "2025-08-18T08:30:01.805443",
-          "batting_order": []
+          "confirmed": true,
+          "lastUpdated": "2025-08-18T22:30:01.461024",
+          "batting_order": [
+            {
+              "position": 1,
+              "name": "Brice Turang",
+              "fieldPosition": "2B",
+              "handedness": "L"
+            },
+            {
+              "position": 2,
+              "name": "Caleb Durbin",
+              "fieldPosition": "3B",
+              "handedness": "R"
+            },
+            {
+              "position": 3,
+              "name": "William Contreras",
+              "fieldPosition": "DH",
+              "handedness": "R"
+            },
+            {
+              "position": 4,
+              "name": "Christian Yelich",
+              "fieldPosition": "LF",
+              "handedness": "L"
+            },
+            {
+              "position": 5,
+              "name": "Andrew Vaughn",
+              "fieldPosition": "1B",
+              "handedness": "R"
+            },
+            {
+              "position": 6,
+              "name": "Blake Perkins",
+              "fieldPosition": "CF",
+              "handedness": "S"
+            },
+            {
+              "position": 7,
+              "name": "Sal Frelick",
+              "fieldPosition": "RF",
+              "handedness": "L"
+            },
+            {
+              "position": 8,
+              "name": "Danny Jansen",
+              "fieldPosition": "C",
+              "handedness": "R"
+            },
+            {
+              "position": 9,
+              "name": "Joey Ortiz",
+              "fieldPosition": "SS",
+              "handedness": "R"
+            }
+          ]
         }
       },
       "updates": [],
@@ -85,85 +195,11 @@
       "pitcherMatchup": "Freddy Peralta vs Cade Horton"
     },
     {
-      "gameId": "776691",
-      "date": "2025-08-19",
-      "gameTime": "00:05",
-      "timezone": "UTC",
-      "status": "Scheduled",
-      "venue": {
-        "name": "Wrigley Field",
-        "city": "",
-        "state": ""
-      },
-      "weather": {},
-      "teams": {
-        "home": {
-          "abbr": "CHC",
-          "name": "Chicago Cubs",
-          "record": {
-            "wins": 70,
-            "losses": 53
-          }
-        },
-        "away": {
-          "abbr": "MIL",
-          "name": "Milwaukee Brewers",
-          "record": {
-            "wins": 78,
-            "losses": 45
-          }
-        }
-      },
-      "pitchers": {
-        "home": {
-          "name": "TBD",
-          "id": "",
-          "throws": "",
-          "era": 0.0,
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "lastStart": "",
-          "status": "unknown",
-          "confidence": 0
-        },
-        "away": {
-          "name": "TBD",
-          "id": "",
-          "throws": "",
-          "era": 0.0,
-          "record": {
-            "wins": 0,
-            "losses": 0
-          },
-          "lastStart": "",
-          "status": "unknown",
-          "confidence": 0
-        }
-      },
-      "lineups": {
-        "home": {
-          "confirmed": false,
-          "lastUpdated": "2025-08-18T08:30:01.805451",
-          "batting_order": []
-        },
-        "away": {
-          "confirmed": false,
-          "lastUpdated": "2025-08-18T08:30:01.805454",
-          "batting_order": []
-        }
-      },
-      "updates": [],
-      "matchupKey": "MIL@CHC_00:05",
-      "pitcherMatchup": "TBD vs TBD"
-    },
-    {
       "gameId": "776692",
       "date": "2025-08-18",
       "gameTime": "22:40",
       "timezone": "UTC",
-      "status": "Scheduled",
+      "status": "Final",
       "venue": {
         "name": "Comerica Park",
         "city": "",
@@ -175,7 +211,7 @@
           "abbr": "DET",
           "name": "Detroit Tigers",
           "record": {
-            "wins": 73,
+            "wins": 74,
             "losses": 53
           }
         },
@@ -184,7 +220,7 @@
           "name": "Houston Astros",
           "record": {
             "wins": 69,
-            "losses": 55
+            "losses": 56
           }
         }
       },
@@ -218,14 +254,124 @@
       },
       "lineups": {
         "home": {
-          "confirmed": false,
-          "lastUpdated": "2025-08-18T08:30:01.805462",
-          "batting_order": []
+          "confirmed": true,
+          "lastUpdated": "2025-08-18T22:30:02.269508",
+          "batting_order": [
+            {
+              "position": 1,
+              "name": "Colt Keith",
+              "fieldPosition": "3B",
+              "handedness": "L"
+            },
+            {
+              "position": 2,
+              "name": "Gleyber Torres",
+              "fieldPosition": "2B",
+              "handedness": "R"
+            },
+            {
+              "position": 3,
+              "name": "Kerry Carpenter",
+              "fieldPosition": "LF",
+              "handedness": "L"
+            },
+            {
+              "position": 4,
+              "name": "Riley Greene",
+              "fieldPosition": "DH",
+              "handedness": "L"
+            },
+            {
+              "position": 5,
+              "name": "Spencer Torkelson",
+              "fieldPosition": "1B",
+              "handedness": "R"
+            },
+            {
+              "position": 6,
+              "name": "Wenceel Pérez",
+              "fieldPosition": "RF",
+              "handedness": "S"
+            },
+            {
+              "position": 7,
+              "name": "Dillon Dingler",
+              "fieldPosition": "C",
+              "handedness": "R"
+            },
+            {
+              "position": 8,
+              "name": "Trey Sweeney",
+              "fieldPosition": "SS",
+              "handedness": "L"
+            },
+            {
+              "position": 9,
+              "name": "Javier Báez",
+              "fieldPosition": "CF",
+              "handedness": "R"
+            }
+          ]
         },
         "away": {
-          "confirmed": false,
-          "lastUpdated": "2025-08-18T08:30:01.805464",
-          "batting_order": []
+          "confirmed": true,
+          "lastUpdated": "2025-08-18T22:30:02.269526",
+          "batting_order": [
+            {
+              "position": 1,
+              "name": "Jeremy Peña",
+              "fieldPosition": "SS",
+              "handedness": "R"
+            },
+            {
+              "position": 2,
+              "name": "Carlos Correa",
+              "fieldPosition": "3B",
+              "handedness": "R"
+            },
+            {
+              "position": 3,
+              "name": "Jose Altuve",
+              "fieldPosition": "2B",
+              "handedness": "R"
+            },
+            {
+              "position": 4,
+              "name": "Jesús Sánchez",
+              "fieldPosition": "LF",
+              "handedness": "L"
+            },
+            {
+              "position": 5,
+              "name": "Christian Walker",
+              "fieldPosition": "1B",
+              "handedness": "R"
+            },
+            {
+              "position": 6,
+              "name": "Victor Caratini",
+              "fieldPosition": "C",
+              "handedness": "S"
+            },
+            {
+              "position": 7,
+              "name": "Yainer Diaz",
+              "fieldPosition": "DH",
+              "handedness": "R"
+            },
+            {
+              "position": 8,
+              "name": "Cam Smith",
+              "fieldPosition": "RF",
+              "handedness": "R"
+            },
+            {
+              "position": 9,
+              "name": "Jacob Melton",
+              "fieldPosition": "CF",
+              "handedness": "L"
+            }
+          ]
         }
       },
       "updates": [],
@@ -237,7 +383,7 @@
       "date": "2025-08-18",
       "gameTime": "22:40",
       "timezone": "UTC",
-      "status": "Scheduled",
+      "status": "Final",
       "venue": {
         "name": "PNC Park",
         "city": "",
@@ -249,7 +395,7 @@
           "abbr": "PIT",
           "name": "Pittsburgh Pirates",
           "record": {
-            "wins": 52,
+            "wins": 53,
             "losses": 73
           }
         },
@@ -258,7 +404,7 @@
           "name": "Toronto Blue Jays",
           "record": {
             "wins": 73,
-            "losses": 52
+            "losses": 53
           }
         }
       },
@@ -292,14 +438,124 @@
       },
       "lineups": {
         "home": {
-          "confirmed": false,
-          "lastUpdated": "2025-08-18T08:30:01.805468",
-          "batting_order": []
+          "confirmed": true,
+          "lastUpdated": "2025-08-18T22:30:03.193286",
+          "batting_order": [
+            {
+              "position": 1,
+              "name": "Spencer Horwitz",
+              "fieldPosition": "1B",
+              "handedness": "L"
+            },
+            {
+              "position": 2,
+              "name": "Tommy Pham",
+              "fieldPosition": "LF",
+              "handedness": "R"
+            },
+            {
+              "position": 3,
+              "name": "Bryan Reynolds",
+              "fieldPosition": "RF",
+              "handedness": "S"
+            },
+            {
+              "position": 4,
+              "name": "Nick Gonzales",
+              "fieldPosition": "2B",
+              "handedness": "R"
+            },
+            {
+              "position": 5,
+              "name": "Andrew McCutchen",
+              "fieldPosition": "DH",
+              "handedness": "R"
+            },
+            {
+              "position": 6,
+              "name": "Jared Triolo",
+              "fieldPosition": "SS",
+              "handedness": "R"
+            },
+            {
+              "position": 7,
+              "name": "Alexander Canario",
+              "fieldPosition": "CF",
+              "handedness": "R"
+            },
+            {
+              "position": 8,
+              "name": "Henry Davis",
+              "fieldPosition": "C",
+              "handedness": "R"
+            },
+            {
+              "position": 9,
+              "name": "Isiah Kiner-Falefa",
+              "fieldPosition": "3B",
+              "handedness": "R"
+            }
+          ]
         },
         "away": {
-          "confirmed": false,
-          "lastUpdated": "2025-08-18T08:30:01.805470",
-          "batting_order": []
+          "confirmed": true,
+          "lastUpdated": "2025-08-18T22:30:03.193303",
+          "batting_order": [
+            {
+              "position": 1,
+              "name": "George Springer",
+              "fieldPosition": "DH",
+              "handedness": "R"
+            },
+            {
+              "position": 2,
+              "name": "Addison Barger",
+              "fieldPosition": "RF",
+              "handedness": "L"
+            },
+            {
+              "position": 3,
+              "name": "Vladimir Guerrero Jr.",
+              "fieldPosition": "1B",
+              "handedness": "R"
+            },
+            {
+              "position": 4,
+              "name": "Bo Bichette",
+              "fieldPosition": "SS",
+              "handedness": "R"
+            },
+            {
+              "position": 5,
+              "name": "Daulton Varsho",
+              "fieldPosition": "CF",
+              "handedness": "L"
+            },
+            {
+              "position": 6,
+              "name": "Ernie Clement",
+              "fieldPosition": "3B",
+              "handedness": "R"
+            },
+            {
+              "position": 7,
+              "name": "Nathan Lukes",
+              "fieldPosition": "LF",
+              "handedness": "L"
+            },
+            {
+              "position": 8,
+              "name": "Tyler Heineman",
+              "fieldPosition": "C",
+              "handedness": "S"
+            },
+            {
+              "position": 9,
+              "name": "Andrés Giménez",
+              "fieldPosition": "2B",
+              "handedness": "L"
+            }
+          ]
         }
       },
       "updates": [],
@@ -311,7 +567,7 @@
       "date": "2025-08-18",
       "gameTime": "22:40",
       "timezone": "UTC",
-      "status": "Scheduled",
+      "status": "Final",
       "venue": {
         "name": "loanDepot park",
         "city": "",
@@ -324,14 +580,14 @@
           "name": "Miami Marlins",
           "record": {
             "wins": 59,
-            "losses": 65
+            "losses": 66
           }
         },
         "away": {
           "abbr": "STL",
           "name": "St. Louis Cardinals",
           "record": {
-            "wins": 61,
+            "wins": 62,
             "losses": 64
           }
         }
@@ -366,14 +622,124 @@
       },
       "lineups": {
         "home": {
-          "confirmed": false,
-          "lastUpdated": "2025-08-18T08:30:01.805473",
-          "batting_order": []
+          "confirmed": true,
+          "lastUpdated": "2025-08-18T22:30:03.962582",
+          "batting_order": [
+            {
+              "position": 1,
+              "name": "Otto Lopez",
+              "fieldPosition": "SS",
+              "handedness": "R"
+            },
+            {
+              "position": 2,
+              "name": "Agustín Ramírez",
+              "fieldPosition": "C",
+              "handedness": "R"
+            },
+            {
+              "position": 3,
+              "name": "Jakob Marsee",
+              "fieldPosition": "LF",
+              "handedness": "L"
+            },
+            {
+              "position": 4,
+              "name": "Heriberto Hernández",
+              "fieldPosition": "DH",
+              "handedness": "R"
+            },
+            {
+              "position": 5,
+              "name": "Dane Myers",
+              "fieldPosition": "RF",
+              "handedness": "R"
+            },
+            {
+              "position": 6,
+              "name": "Eric Wagaman",
+              "fieldPosition": "1B",
+              "handedness": "R"
+            },
+            {
+              "position": 7,
+              "name": "Javier Sanoja",
+              "fieldPosition": "3B",
+              "handedness": "R"
+            },
+            {
+              "position": 8,
+              "name": "Maximo Acosta",
+              "fieldPosition": "2B",
+              "handedness": "R"
+            },
+            {
+              "position": 9,
+              "name": "Derek Hill",
+              "fieldPosition": "CF",
+              "handedness": "R"
+            }
+          ]
         },
         "away": {
-          "confirmed": false,
-          "lastUpdated": "2025-08-18T08:30:01.805479",
-          "batting_order": []
+          "confirmed": true,
+          "lastUpdated": "2025-08-18T22:30:03.962599",
+          "batting_order": [
+            {
+              "position": 1,
+              "name": "Lars Nootbaar",
+              "fieldPosition": "RF",
+              "handedness": "L"
+            },
+            {
+              "position": 2,
+              "name": "Iván Herrera",
+              "fieldPosition": "DH",
+              "handedness": "R"
+            },
+            {
+              "position": 3,
+              "name": "Alec Burleson",
+              "fieldPosition": "LF",
+              "handedness": "L"
+            },
+            {
+              "position": 4,
+              "name": "Willson Contreras",
+              "fieldPosition": "1B",
+              "handedness": "R"
+            },
+            {
+              "position": 5,
+              "name": "Masyn Winn",
+              "fieldPosition": "SS",
+              "handedness": "R"
+            },
+            {
+              "position": 6,
+              "name": "Nolan Gorman",
+              "fieldPosition": "3B",
+              "handedness": "L"
+            },
+            {
+              "position": 7,
+              "name": "Thomas Saggese",
+              "fieldPosition": "2B",
+              "handedness": "R"
+            },
+            {
+              "position": 8,
+              "name": "Pedro Pagés",
+              "fieldPosition": "C",
+              "handedness": "R"
+            },
+            {
+              "position": 9,
+              "name": "Nathan Church",
+              "fieldPosition": "CF",
+              "handedness": "L"
+            }
+          ]
         }
       },
       "updates": [],
@@ -385,7 +751,7 @@
       "date": "2025-08-18",
       "gameTime": "22:45",
       "timezone": "UTC",
-      "status": "Scheduled",
+      "status": "Final",
       "venue": {
         "name": "Citizens Bank Park",
         "city": "",
@@ -397,7 +763,7 @@
           "abbr": "PHI",
           "name": "Philadelphia Phillies",
           "record": {
-            "wins": 71,
+            "wins": 72,
             "losses": 53
           }
         },
@@ -406,7 +772,7 @@
           "name": "Seattle Mariners",
           "record": {
             "wins": 68,
-            "losses": 57
+            "losses": 58
           }
         }
       },
@@ -440,14 +806,124 @@
       },
       "lineups": {
         "home": {
-          "confirmed": false,
-          "lastUpdated": "2025-08-18T08:30:01.805482",
-          "batting_order": []
+          "confirmed": true,
+          "lastUpdated": "2025-08-18T22:30:04.560904",
+          "batting_order": [
+            {
+              "position": 1,
+              "name": "Trea Turner",
+              "fieldPosition": "SS",
+              "handedness": "R"
+            },
+            {
+              "position": 2,
+              "name": "Kyle Schwarber",
+              "fieldPosition": "DH",
+              "handedness": "L"
+            },
+            {
+              "position": 3,
+              "name": "Bryce Harper",
+              "fieldPosition": "1B",
+              "handedness": "L"
+            },
+            {
+              "position": 4,
+              "name": "J.T. Realmuto",
+              "fieldPosition": "C",
+              "handedness": "R"
+            },
+            {
+              "position": 5,
+              "name": "Alec Bohm",
+              "fieldPosition": "3B",
+              "handedness": "R"
+            },
+            {
+              "position": 6,
+              "name": "Brandon Marsh",
+              "fieldPosition": "CF",
+              "handedness": "L"
+            },
+            {
+              "position": 7,
+              "name": "Nick Castellanos",
+              "fieldPosition": "RF",
+              "handedness": "R"
+            },
+            {
+              "position": 8,
+              "name": "Max Kepler",
+              "fieldPosition": "LF",
+              "handedness": "L"
+            },
+            {
+              "position": 9,
+              "name": "Bryson Stott",
+              "fieldPosition": "2B",
+              "handedness": "L"
+            }
+          ]
         },
         "away": {
-          "confirmed": false,
-          "lastUpdated": "2025-08-18T08:30:01.805484",
-          "batting_order": []
+          "confirmed": true,
+          "lastUpdated": "2025-08-18T22:30:04.560920",
+          "batting_order": [
+            {
+              "position": 1,
+              "name": "Randy Arozarena",
+              "fieldPosition": "LF",
+              "handedness": "R"
+            },
+            {
+              "position": 2,
+              "name": "Cal Raleigh",
+              "fieldPosition": "C",
+              "handedness": "S"
+            },
+            {
+              "position": 3,
+              "name": "Julio Rodríguez",
+              "fieldPosition": "CF",
+              "handedness": "R"
+            },
+            {
+              "position": 4,
+              "name": "Eugenio Suárez",
+              "fieldPosition": "3B",
+              "handedness": "R"
+            },
+            {
+              "position": 5,
+              "name": "Josh Naylor",
+              "fieldPosition": "1B",
+              "handedness": "L"
+            },
+            {
+              "position": 6,
+              "name": "Mitch Garver",
+              "fieldPosition": "DH",
+              "handedness": "R"
+            },
+            {
+              "position": 7,
+              "name": "Dominic Canzone",
+              "fieldPosition": "RF",
+              "handedness": "L"
+            },
+            {
+              "position": 8,
+              "name": "J.P. Crawford",
+              "fieldPosition": "SS",
+              "handedness": "L"
+            },
+            {
+              "position": 9,
+              "name": "Cole Young",
+              "fieldPosition": "2B",
+              "handedness": "L"
+            }
+          ]
         }
       },
       "updates": [],
@@ -459,7 +935,7 @@
       "date": "2025-08-18",
       "gameTime": "23:10",
       "timezone": "UTC",
-      "status": "Scheduled",
+      "status": "Final",
       "venue": {
         "name": "Fenway Park",
         "city": "",
@@ -472,14 +948,14 @@
           "name": "Boston Red Sox",
           "record": {
             "wins": 68,
-            "losses": 57
+            "losses": 58
           }
         },
         "away": {
           "abbr": "BAL",
           "name": "Baltimore Orioles",
           "record": {
-            "wins": 57,
+            "wins": 58,
             "losses": 67
           }
         }
@@ -514,14 +990,124 @@
       },
       "lineups": {
         "home": {
-          "confirmed": false,
-          "lastUpdated": "2025-08-18T08:30:01.805487",
-          "batting_order": []
+          "confirmed": true,
+          "lastUpdated": "2025-08-18T22:30:05.204402",
+          "batting_order": [
+            {
+              "position": 1,
+              "name": "Nate Eaton",
+              "fieldPosition": "DH",
+              "handedness": "R"
+            },
+            {
+              "position": 2,
+              "name": "Roman Anthony",
+              "fieldPosition": "RF",
+              "handedness": "L"
+            },
+            {
+              "position": 3,
+              "name": "Alex Bregman",
+              "fieldPosition": "3B",
+              "handedness": "R"
+            },
+            {
+              "position": 4,
+              "name": "Romy Gonzalez",
+              "fieldPosition": "2B",
+              "handedness": "R"
+            },
+            {
+              "position": 5,
+              "name": "Trevor Story",
+              "fieldPosition": "SS",
+              "handedness": "R"
+            },
+            {
+              "position": 6,
+              "name": "Jarren Duran",
+              "fieldPosition": "LF",
+              "handedness": "L"
+            },
+            {
+              "position": 7,
+              "name": "Ceddanne Rafaela",
+              "fieldPosition": "CF",
+              "handedness": "R"
+            },
+            {
+              "position": 8,
+              "name": "Carlos Narváez",
+              "fieldPosition": "C",
+              "handedness": "R"
+            },
+            {
+              "position": 9,
+              "name": "Abraham Toro",
+              "fieldPosition": "1B",
+              "handedness": "S"
+            }
+          ]
         },
         "away": {
-          "confirmed": false,
-          "lastUpdated": "2025-08-18T08:30:01.805489",
-          "batting_order": []
+          "confirmed": true,
+          "lastUpdated": "2025-08-18T22:30:05.204421",
+          "batting_order": [
+            {
+              "position": 1,
+              "name": "Jackson Holliday",
+              "fieldPosition": "2B",
+              "handedness": "L"
+            },
+            {
+              "position": 2,
+              "name": "Jordan Westburg",
+              "fieldPosition": "3B",
+              "handedness": "R"
+            },
+            {
+              "position": 3,
+              "name": "Gunnar Henderson",
+              "fieldPosition": "SS",
+              "handedness": "L"
+            },
+            {
+              "position": 4,
+              "name": "Ryan Mountcastle",
+              "fieldPosition": "1B",
+              "handedness": "R"
+            },
+            {
+              "position": 5,
+              "name": "Colton Cowser",
+              "fieldPosition": "CF",
+              "handedness": "L"
+            },
+            {
+              "position": 6,
+              "name": "Samuel Basallo",
+              "fieldPosition": "C",
+              "handedness": "L"
+            },
+            {
+              "position": 7,
+              "name": "Jeremiah Jackson",
+              "fieldPosition": "DH",
+              "handedness": "R"
+            },
+            {
+              "position": 8,
+              "name": "Dylan Beavers",
+              "fieldPosition": "RF",
+              "handedness": "L"
+            },
+            {
+              "position": 9,
+              "name": "Dylan Carlson",
+              "fieldPosition": "LF",
+              "handedness": "S"
+            }
+          ]
         }
       },
       "updates": [],
@@ -533,7 +1119,7 @@
       "date": "2025-08-18",
       "gameTime": "23:15",
       "timezone": "UTC",
-      "status": "Scheduled",
+      "status": "In Progress",
       "venue": {
         "name": "Truist Park",
         "city": "",
@@ -588,14 +1174,124 @@
       },
       "lineups": {
         "home": {
-          "confirmed": false,
-          "lastUpdated": "2025-08-18T08:30:01.805492",
-          "batting_order": []
+          "confirmed": true,
+          "lastUpdated": "2025-08-18T22:30:05.857302",
+          "batting_order": [
+            {
+              "position": 1,
+              "name": "Jurickson Profar",
+              "fieldPosition": "LF",
+              "handedness": "S"
+            },
+            {
+              "position": 2,
+              "name": "Matt Olson",
+              "fieldPosition": "1B",
+              "handedness": "L"
+            },
+            {
+              "position": 3,
+              "name": "Ronald Acuña Jr.",
+              "fieldPosition": "RF",
+              "handedness": "R"
+            },
+            {
+              "position": 4,
+              "name": "Drake Baldwin",
+              "fieldPosition": "C",
+              "handedness": "L"
+            },
+            {
+              "position": 5,
+              "name": "Marcell Ozuna",
+              "fieldPosition": "DH",
+              "handedness": "R"
+            },
+            {
+              "position": 6,
+              "name": "Michael Harris II",
+              "fieldPosition": "CF",
+              "handedness": "L"
+            },
+            {
+              "position": 7,
+              "name": "Ozzie Albies",
+              "fieldPosition": "2B",
+              "handedness": "S"
+            },
+            {
+              "position": 8,
+              "name": "Nacho Alvarez Jr.",
+              "fieldPosition": "3B",
+              "handedness": "R"
+            },
+            {
+              "position": 9,
+              "name": "Nick Allen",
+              "fieldPosition": "SS",
+              "handedness": "R"
+            }
+          ]
         },
         "away": {
-          "confirmed": false,
-          "lastUpdated": "2025-08-18T08:30:01.805494",
-          "batting_order": []
+          "confirmed": true,
+          "lastUpdated": "2025-08-18T22:30:05.857318",
+          "batting_order": [
+            {
+              "position": 1,
+              "name": "Mike Tauchman",
+              "fieldPosition": "RF",
+              "handedness": "L"
+            },
+            {
+              "position": 2,
+              "name": "Miguel Vargas",
+              "fieldPosition": "3B",
+              "handedness": "R"
+            },
+            {
+              "position": 3,
+              "name": "Colson Montgomery",
+              "fieldPosition": "SS",
+              "handedness": "L"
+            },
+            {
+              "position": 4,
+              "name": "Lenyn Sosa",
+              "fieldPosition": "1B",
+              "handedness": "R"
+            },
+            {
+              "position": 5,
+              "name": "Andrew Benintendi",
+              "fieldPosition": "DH",
+              "handedness": "L"
+            },
+            {
+              "position": 6,
+              "name": "Luis Robert Jr.",
+              "fieldPosition": "CF",
+              "handedness": "R"
+            },
+            {
+              "position": 7,
+              "name": "Kyle Teel",
+              "fieldPosition": "C",
+              "handedness": "L"
+            },
+            {
+              "position": 8,
+              "name": "Chase Meidroth",
+              "fieldPosition": "2B",
+              "handedness": "R"
+            },
+            {
+              "position": 9,
+              "name": "Brooks Baldwin",
+              "fieldPosition": "LF",
+              "handedness": "S"
+            }
+          ]
         }
       },
       "updates": [],
@@ -607,7 +1303,7 @@
       "date": "2025-08-18",
       "gameTime": "23:40",
       "timezone": "UTC",
-      "status": "Scheduled",
+      "status": "Final",
       "venue": {
         "name": "Kauffman Stadium",
         "city": "",
@@ -619,7 +1315,7 @@
           "abbr": "KC",
           "name": "Kansas City Royals",
           "record": {
-            "wins": 63,
+            "wins": 64,
             "losses": 61
           }
         },
@@ -628,7 +1324,7 @@
           "name": "Texas Rangers",
           "record": {
             "wins": 62,
-            "losses": 63
+            "losses": 64
           }
         }
       },
@@ -662,14 +1358,124 @@
       },
       "lineups": {
         "home": {
-          "confirmed": false,
-          "lastUpdated": "2025-08-18T08:30:01.805497",
-          "batting_order": []
+          "confirmed": true,
+          "lastUpdated": "2025-08-18T22:30:06.738161",
+          "batting_order": [
+            {
+              "position": 1,
+              "name": "Mike Yastrzemski",
+              "fieldPosition": "DH",
+              "handedness": "L"
+            },
+            {
+              "position": 2,
+              "name": "Bobby Witt Jr.",
+              "fieldPosition": "SS",
+              "handedness": "R"
+            },
+            {
+              "position": 3,
+              "name": "Vinnie Pasquantino",
+              "fieldPosition": "1B",
+              "handedness": "L"
+            },
+            {
+              "position": 4,
+              "name": "Maikel Garcia",
+              "fieldPosition": "3B",
+              "handedness": "R"
+            },
+            {
+              "position": 5,
+              "name": "Adam Frazier",
+              "fieldPosition": "LF",
+              "handedness": "L"
+            },
+            {
+              "position": 6,
+              "name": "Jonathan India",
+              "fieldPosition": "2B",
+              "handedness": "R"
+            },
+            {
+              "position": 7,
+              "name": "John Rave",
+              "fieldPosition": "RF",
+              "handedness": "L"
+            },
+            {
+              "position": 8,
+              "name": "Luke Maile",
+              "fieldPosition": "C",
+              "handedness": "R"
+            },
+            {
+              "position": 9,
+              "name": "Kyle Isbel",
+              "fieldPosition": "CF",
+              "handedness": "L"
+            }
+          ]
         },
         "away": {
-          "confirmed": false,
-          "lastUpdated": "2025-08-18T08:30:01.805499",
-          "batting_order": []
+          "confirmed": true,
+          "lastUpdated": "2025-08-18T22:30:06.738177",
+          "batting_order": [
+            {
+              "position": 1,
+              "name": "Josh Smith",
+              "fieldPosition": "RF",
+              "handedness": "L"
+            },
+            {
+              "position": 2,
+              "name": "Wyatt Langford",
+              "fieldPosition": "LF",
+              "handedness": "R"
+            },
+            {
+              "position": 3,
+              "name": "Corey Seager",
+              "fieldPosition": "SS",
+              "handedness": "L"
+            },
+            {
+              "position": 4,
+              "name": "Rowdy Tellez",
+              "fieldPosition": "1B",
+              "handedness": "L"
+            },
+            {
+              "position": 5,
+              "name": "Evan Carter",
+              "fieldPosition": "CF",
+              "handedness": "L"
+            },
+            {
+              "position": 6,
+              "name": "Marcus Semien",
+              "fieldPosition": "2B",
+              "handedness": "R"
+            },
+            {
+              "position": 7,
+              "name": "Joc Pederson",
+              "fieldPosition": "DH",
+              "handedness": "L"
+            },
+            {
+              "position": 8,
+              "name": "Cody Freeman",
+              "fieldPosition": "3B",
+              "handedness": "R"
+            },
+            {
+              "position": 9,
+              "name": "Jonah Heim",
+              "fieldPosition": "C",
+              "handedness": "S"
+            }
+          ]
         }
       },
       "updates": [],
@@ -681,7 +1487,7 @@
       "date": "2025-08-19",
       "gameTime": "00:40",
       "timezone": "UTC",
-      "status": "Scheduled",
+      "status": "In Progress",
       "venue": {
         "name": "Coors Field",
         "city": "",
@@ -736,14 +1542,124 @@
       },
       "lineups": {
         "home": {
-          "confirmed": false,
-          "lastUpdated": "2025-08-18T08:30:01.805502",
-          "batting_order": []
+          "confirmed": true,
+          "lastUpdated": "2025-08-18T22:30:07.335337",
+          "batting_order": [
+            {
+              "position": 1,
+              "name": "Tyler Freeman",
+              "fieldPosition": "DH",
+              "handedness": "R"
+            },
+            {
+              "position": 2,
+              "name": "Mickey Moniak",
+              "fieldPosition": "RF",
+              "handedness": "L"
+            },
+            {
+              "position": 3,
+              "name": "Hunter Goodman",
+              "fieldPosition": "C",
+              "handedness": "R"
+            },
+            {
+              "position": 4,
+              "name": "Jordan Beck",
+              "fieldPosition": "LF",
+              "handedness": "R"
+            },
+            {
+              "position": 5,
+              "name": "Ezequiel Tovar",
+              "fieldPosition": "SS",
+              "handedness": "R"
+            },
+            {
+              "position": 6,
+              "name": "Warming Bernabel",
+              "fieldPosition": "1B",
+              "handedness": "R"
+            },
+            {
+              "position": 7,
+              "name": "Kyle Karros",
+              "fieldPosition": "3B",
+              "handedness": "R"
+            },
+            {
+              "position": 8,
+              "name": "Brenton Doyle",
+              "fieldPosition": "CF",
+              "handedness": "R"
+            },
+            {
+              "position": 9,
+              "name": "Ryan Ritter",
+              "fieldPosition": "2B",
+              "handedness": "R"
+            }
+          ]
         },
         "away": {
-          "confirmed": false,
-          "lastUpdated": "2025-08-18T08:30:01.805504",
-          "batting_order": []
+          "confirmed": true,
+          "lastUpdated": "2025-08-18T22:30:07.335356",
+          "batting_order": [
+            {
+              "position": 1,
+              "name": "Shohei Ohtani",
+              "fieldPosition": "DH",
+              "handedness": "L"
+            },
+            {
+              "position": 2,
+              "name": "Mookie Betts",
+              "fieldPosition": "SS",
+              "handedness": "R"
+            },
+            {
+              "position": 3,
+              "name": "Teoscar Hernández",
+              "fieldPosition": "RF",
+              "handedness": "R"
+            },
+            {
+              "position": 4,
+              "name": "Freddie Freeman",
+              "fieldPosition": "1B",
+              "handedness": "L"
+            },
+            {
+              "position": 5,
+              "name": "Andy Pages",
+              "fieldPosition": "CF",
+              "handedness": "R"
+            },
+            {
+              "position": 6,
+              "name": "Alex Call",
+              "fieldPosition": "LF",
+              "handedness": "R"
+            },
+            {
+              "position": 7,
+              "name": "Miguel Rojas",
+              "fieldPosition": "2B",
+              "handedness": "R"
+            },
+            {
+              "position": 8,
+              "name": "Buddy Kennedy",
+              "fieldPosition": "3B",
+              "handedness": "R"
+            },
+            {
+              "position": 9,
+              "name": "Dalton Rushing",
+              "fieldPosition": "C",
+              "handedness": "L"
+            }
+          ]
         }
       },
       "updates": [],
@@ -755,7 +1671,7 @@
       "date": "2025-08-19",
       "gameTime": "01:38",
       "timezone": "UTC",
-      "status": "Scheduled",
+      "status": "In Progress",
       "venue": {
         "name": "Angel Stadium",
         "city": "",
@@ -810,14 +1726,124 @@
       },
       "lineups": {
         "home": {
-          "confirmed": false,
-          "lastUpdated": "2025-08-18T08:30:01.805511",
-          "batting_order": []
+          "confirmed": true,
+          "lastUpdated": "2025-08-18T22:30:07.967660",
+          "batting_order": [
+            {
+              "position": 1,
+              "name": "Zach Neto",
+              "fieldPosition": "SS",
+              "handedness": "R"
+            },
+            {
+              "position": 2,
+              "name": "Nolan Schanuel",
+              "fieldPosition": "1B",
+              "handedness": "L"
+            },
+            {
+              "position": 3,
+              "name": "Mike Trout",
+              "fieldPosition": "DH",
+              "handedness": "R"
+            },
+            {
+              "position": 4,
+              "name": "Taylor Ward",
+              "fieldPosition": "LF",
+              "handedness": "R"
+            },
+            {
+              "position": 5,
+              "name": "Yoán Moncada",
+              "fieldPosition": "3B",
+              "handedness": "S"
+            },
+            {
+              "position": 6,
+              "name": "Jo Adell",
+              "fieldPosition": "RF",
+              "handedness": "R"
+            },
+            {
+              "position": 7,
+              "name": "Christian Moore",
+              "fieldPosition": "2B",
+              "handedness": "R"
+            },
+            {
+              "position": 8,
+              "name": "Logan O'Hoppe",
+              "fieldPosition": "C",
+              "handedness": "R"
+            },
+            {
+              "position": 9,
+              "name": "Bryce Teodosio",
+              "fieldPosition": "CF",
+              "handedness": "R"
+            }
+          ]
         },
         "away": {
-          "confirmed": false,
-          "lastUpdated": "2025-08-18T08:30:01.805512",
-          "batting_order": []
+          "confirmed": true,
+          "lastUpdated": "2025-08-18T22:30:07.967679",
+          "batting_order": [
+            {
+              "position": 1,
+              "name": "TJ Friedl",
+              "fieldPosition": "CF",
+              "handedness": "L"
+            },
+            {
+              "position": 2,
+              "name": "Gavin Lux",
+              "fieldPosition": "DH",
+              "handedness": "L"
+            },
+            {
+              "position": 3,
+              "name": "Elly De La Cruz",
+              "fieldPosition": "SS",
+              "handedness": "S"
+            },
+            {
+              "position": 4,
+              "name": "Austin Hays",
+              "fieldPosition": "LF",
+              "handedness": "R"
+            },
+            {
+              "position": 5,
+              "name": "Noelvi Marte",
+              "fieldPosition": "RF",
+              "handedness": "R"
+            },
+            {
+              "position": 6,
+              "name": "Spencer Steer",
+              "fieldPosition": "1B",
+              "handedness": "R"
+            },
+            {
+              "position": 7,
+              "name": "Jose Trevino",
+              "fieldPosition": "C",
+              "handedness": "R"
+            },
+            {
+              "position": 8,
+              "name": "Ke'Bryan Hayes",
+              "fieldPosition": "3B",
+              "handedness": "R"
+            },
+            {
+              "position": 9,
+              "name": "Matt McLain",
+              "fieldPosition": "2B",
+              "handedness": "R"
+            }
+          ]
         }
       },
       "updates": [],
@@ -829,7 +1855,7 @@
       "date": "2025-08-19",
       "gameTime": "01:40",
       "timezone": "UTC",
-      "status": "Scheduled",
+      "status": "In Progress",
       "venue": {
         "name": "Chase Field",
         "city": "",
@@ -856,8 +1882,8 @@
       },
       "pitchers": {
         "home": {
-          "name": "TBD",
-          "id": "",
+          "name": "Zac Gallen",
+          "id": "668678",
           "throws": "",
           "era": 0.0,
           "record": {
@@ -865,8 +1891,8 @@
             "losses": 0
           },
           "lastStart": "",
-          "status": "unknown",
-          "confidence": 0
+          "status": "probable",
+          "confidence": 90
         },
         "away": {
           "name": "Gavin Williams",
@@ -884,26 +1910,136 @@
       },
       "lineups": {
         "home": {
-          "confirmed": false,
-          "lastUpdated": "2025-08-18T08:30:01.805516",
-          "batting_order": []
+          "confirmed": true,
+          "lastUpdated": "2025-08-18T22:30:08.585599",
+          "batting_order": [
+            {
+              "position": 1,
+              "name": "Geraldo Perdomo",
+              "fieldPosition": "SS",
+              "handedness": "S"
+            },
+            {
+              "position": 2,
+              "name": "Ketel Marte",
+              "fieldPosition": "2B",
+              "handedness": "S"
+            },
+            {
+              "position": 3,
+              "name": "Corbin Carroll",
+              "fieldPosition": "RF",
+              "handedness": "L"
+            },
+            {
+              "position": 4,
+              "name": "Lourdes Gurriel Jr.",
+              "fieldPosition": "LF",
+              "handedness": "R"
+            },
+            {
+              "position": 5,
+              "name": "Pavin Smith",
+              "fieldPosition": "1B",
+              "handedness": "L"
+            },
+            {
+              "position": 6,
+              "name": "Adrian Del Castillo",
+              "fieldPosition": "DH",
+              "handedness": "L"
+            },
+            {
+              "position": 7,
+              "name": "Blaze Alexander",
+              "fieldPosition": "3B",
+              "handedness": "R"
+            },
+            {
+              "position": 8,
+              "name": "Alek Thomas",
+              "fieldPosition": "CF",
+              "handedness": "L"
+            },
+            {
+              "position": 9,
+              "name": "James McCann",
+              "fieldPosition": "C",
+              "handedness": "R"
+            }
+          ]
         },
         "away": {
-          "confirmed": false,
-          "lastUpdated": "2025-08-18T08:30:01.805517",
-          "batting_order": []
+          "confirmed": true,
+          "lastUpdated": "2025-08-18T22:30:08.585616",
+          "batting_order": [
+            {
+              "position": 1,
+              "name": "Steven Kwan",
+              "fieldPosition": "LF",
+              "handedness": "L"
+            },
+            {
+              "position": 2,
+              "name": "Daniel Schneemann",
+              "fieldPosition": "CF",
+              "handedness": "L"
+            },
+            {
+              "position": 3,
+              "name": "José Ramírez",
+              "fieldPosition": "3B",
+              "handedness": "S"
+            },
+            {
+              "position": 4,
+              "name": "Kyle Manzardo",
+              "fieldPosition": "DH",
+              "handedness": "L"
+            },
+            {
+              "position": 5,
+              "name": "Bo Naylor",
+              "fieldPosition": "C",
+              "handedness": "L"
+            },
+            {
+              "position": 6,
+              "name": "Gabriel Arias",
+              "fieldPosition": "SS",
+              "handedness": "R"
+            },
+            {
+              "position": 7,
+              "name": "C.J. Kayfus",
+              "fieldPosition": "1B",
+              "handedness": "L"
+            },
+            {
+              "position": 8,
+              "name": "Nolan Jones",
+              "fieldPosition": "RF",
+              "handedness": "L"
+            },
+            {
+              "position": 9,
+              "name": "Brayan Rocchio",
+              "fieldPosition": "2B",
+              "handedness": "S"
+            }
+          ]
         }
       },
       "updates": [],
       "matchupKey": "CLE@ARI_01:40",
-      "pitcherMatchup": "Gavin Williams vs TBD"
+      "pitcherMatchup": "Gavin Williams vs Zac Gallen"
     },
     {
       "gameId": "776683",
       "date": "2025-08-19",
       "gameTime": "01:40",
       "timezone": "UTC",
-      "status": "Scheduled",
+      "status": "In Progress",
       "venue": {
         "name": "Petco Park",
         "city": "",
@@ -958,19 +2094,203 @@
       },
       "lineups": {
         "home": {
-          "confirmed": false,
-          "lastUpdated": "2025-08-18T08:30:01.805521",
-          "batting_order": []
+          "confirmed": true,
+          "lastUpdated": "2025-08-18T22:30:09.205269",
+          "batting_order": [
+            {
+              "position": 1,
+              "name": "Fernando Tatis Jr.",
+              "fieldPosition": "RF",
+              "handedness": "R"
+            },
+            {
+              "position": 2,
+              "name": "Luis Arraez",
+              "fieldPosition": "1B",
+              "handedness": "L"
+            },
+            {
+              "position": 3,
+              "name": "Manny Machado",
+              "fieldPosition": "DH",
+              "handedness": "R"
+            },
+            {
+              "position": 4,
+              "name": "Ramón Laureano",
+              "fieldPosition": "LF",
+              "handedness": "R"
+            },
+            {
+              "position": 5,
+              "name": "Xander Bogaerts",
+              "fieldPosition": "SS",
+              "handedness": "R"
+            },
+            {
+              "position": 6,
+              "name": "Jose Iglesias",
+              "fieldPosition": "3B",
+              "handedness": "R"
+            },
+            {
+              "position": 7,
+              "name": "Freddy Fermin",
+              "fieldPosition": "C",
+              "handedness": "R"
+            },
+            {
+              "position": 8,
+              "name": "Jake Cronenworth",
+              "fieldPosition": "2B",
+              "handedness": "L"
+            },
+            {
+              "position": 9,
+              "name": "Bryce Johnson",
+              "fieldPosition": "CF",
+              "handedness": "S"
+            }
+          ]
         },
         "away": {
-          "confirmed": false,
-          "lastUpdated": "2025-08-18T08:30:01.805522",
-          "batting_order": []
+          "confirmed": true,
+          "lastUpdated": "2025-08-18T22:30:09.205288",
+          "batting_order": [
+            {
+              "position": 1,
+              "name": "Heliot Ramos",
+              "fieldPosition": "LF",
+              "handedness": "R"
+            },
+            {
+              "position": 2,
+              "name": "Rafael Devers",
+              "fieldPosition": "1B",
+              "handedness": "L"
+            },
+            {
+              "position": 3,
+              "name": "Willy Adames",
+              "fieldPosition": "SS",
+              "handedness": "R"
+            },
+            {
+              "position": 4,
+              "name": "Casey Schmitt",
+              "fieldPosition": "3B",
+              "handedness": "R"
+            },
+            {
+              "position": 5,
+              "name": "Wilmer Flores",
+              "fieldPosition": "DH",
+              "handedness": "R"
+            },
+            {
+              "position": 6,
+              "name": "Jung Hoo Lee",
+              "fieldPosition": "CF",
+              "handedness": "L"
+            },
+            {
+              "position": 7,
+              "name": "Christian Koss",
+              "fieldPosition": "2B",
+              "handedness": "R"
+            },
+            {
+              "position": 8,
+              "name": "Tyler Fitzgerald",
+              "fieldPosition": "RF",
+              "handedness": "R"
+            },
+            {
+              "position": 9,
+              "name": "Patrick Bailey",
+              "fieldPosition": "C",
+              "handedness": "S"
+            }
+          ]
         }
       },
       "updates": [],
       "matchupKey": "SF@SD_01:40",
       "pitcherMatchup": "Robbie Ray vs Nestor Cortes"
+    },
+    {
+      "gameId": "776691",
+      "date": "2025-08-19",
+      "gameTime": "00:05",
+      "timezone": "UTC",
+      "status": "Postponed",
+      "venue": {
+        "name": "Wrigley Field",
+        "city": "",
+        "state": ""
+      },
+      "weather": {},
+      "teams": {
+        "home": {
+          "abbr": "CHC",
+          "name": "Chicago Cubs",
+          "record": {
+            "wins": 70,
+            "losses": 54
+          }
+        },
+        "away": {
+          "abbr": "MIL",
+          "name": "Milwaukee Brewers",
+          "record": {
+            "wins": 79,
+            "losses": 45
+          }
+        }
+      },
+      "pitchers": {
+        "home": {
+          "name": "TBD",
+          "id": "",
+          "throws": "",
+          "era": 0.0,
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "lastStart": "",
+          "status": "unknown",
+          "confidence": 0
+        },
+        "away": {
+          "name": "TBD",
+          "id": "",
+          "throws": "",
+          "era": 0.0,
+          "record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "lastStart": "",
+          "status": "unknown",
+          "confidence": 0
+        }
+      },
+      "lineups": {
+        "home": {
+          "confirmed": false,
+          "lastUpdated": "2025-08-18T22:30:09.921784",
+          "batting_order": []
+        },
+        "away": {
+          "confirmed": false,
+          "lastUpdated": "2025-08-18T22:30:09.921801",
+          "batting_order": []
+        }
+      },
+      "updates": [],
+      "matchupKey": "MIL@CHC_00:05",
+      "pitcherMatchup": "TBD vs TBD"
     }
   ],
   "quickLookup": {
@@ -1116,7 +2436,7 @@
         "homeAway": "away"
       },
       "ARI": {
-        "pitcher": "TBD",
+        "pitcher": "Zac Gallen",
         "opponent": "CLE",
         "opponentPitcher": "Gavin Williams",
         "gameTime": "01:40",
@@ -1125,7 +2445,7 @@
       "CLE": {
         "pitcher": "Gavin Williams",
         "opponent": "ARI",
-        "opponentPitcher": "TBD",
+        "opponentPitcher": "Zac Gallen",
         "gameTime": "01:40",
         "homeAway": "away"
       },
@@ -1158,13 +2478,6 @@
         "opponentPitcher": "Cade Horton",
         "gameTime": "18:20",
         "venue": "Wrigley Field"
-      },
-      "TBD": {
-        "team": "ARI",
-        "opponent": "CLE",
-        "opponentPitcher": "Gavin Williams",
-        "gameTime": "01:40",
-        "venue": "Chase Field"
       },
       "Jack Flaherty": {
         "team": "DET",
@@ -1292,10 +2605,17 @@
         "gameTime": "01:38",
         "venue": "Angel Stadium"
       },
+      "Zac Gallen": {
+        "team": "ARI",
+        "opponent": "CLE",
+        "opponentPitcher": "Gavin Williams",
+        "gameTime": "01:40",
+        "venue": "Chase Field"
+      },
       "Gavin Williams": {
         "team": "CLE",
         "opponent": "ARI",
-        "opponentPitcher": "TBD",
+        "opponentPitcher": "Zac Gallen",
         "gameTime": "01:40",
         "venue": "Chase Field"
       },
@@ -1312,6 +2632,13 @@
         "opponentPitcher": "Nestor Cortes",
         "gameTime": "01:40",
         "venue": "Petco Park"
+      },
+      "TBD": {
+        "team": "MIL",
+        "opponent": "CHC",
+        "opponentPitcher": "TBD",
+        "gameTime": "00:05",
+        "venue": "Wrigley Field"
       }
     }
   },
@@ -1319,8 +2646,8 @@
   "statistics": {
     "totalPitchers": 26,
     "confirmedPitchers": 0,
-    "probablePitchers": 23,
-    "tbdPitchers": 3,
+    "probablePitchers": 24,
+    "tbdPitchers": 2,
     "scratchedPitchers": 0,
     "postponedGames": 0,
     "lineupsPosted": 0,
