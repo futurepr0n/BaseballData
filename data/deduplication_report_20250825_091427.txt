@@ -1,0 +1,287 @@
+DUPLICATE PLAYER DEDUPLICATION REPORT
+Generated: 2025-08-25T09:14:27.991979
+================================================================================
+
+DUPLICATE PLAYER DEDUPLICATION SCRIPT
+============================================================
+Started at: 2025-08-25T09:14:27.809122
+✅ Loaded 1326 players from rosters.json
+
+🔍 IDENTIFYING DUPLICATE PLAYERS
+==================================================
+Found 23 players with duplicate entries:
+  - A. Houser: 2 entries
+  - B. Falter: 2 entries
+  - B. Kennedy: 2 entries
+  - B. Kriske: 2 entries
+  - C. Beeter: 2 entries
+  - C. Kelly: 2 entries
+  - C. Mead: 2 entries
+  - D. Johnson: 2 entries
+  - D. May: 2 entries
+  - E. Diaz: 2 entries
+  - J. Burgos: 2 entries
+  - J. Fermin: 2 entries
+  - M. Kelly: 2 entries
+  - R. Bergert: 2 entries
+  - R. Gusto: 2 entries
+  - R. McMahon: 2 entries
+  - R. Montero: 2 entries
+  - S. Ohtani: 2 entries
+  - T. Hatch: 2 entries
+  - T. Rogers: 3 entries
+  - V. Brujan: 2 entries
+  - W. Contreras: 2 entries
+  - Z. Littell: 2 entries
+
+🔧 DEDUPLICATING PLAYERS
+==================================================
+
+A. Houser: 2 -> 1 entries
+  Reason: All empty - keep most recent ID (CHW)
+  ✅ KEEP: CHW (ID: 666155)
+  ❌ REMOVE: TB (ID: 665600)
+
+B. Falter: 2 -> 1 entries
+  Reason: Keep entry with data (PIT)
+  ✅ KEEP: PIT (ID: 665427)
+  ❌ REMOVE: KC (ID: 665728)
+
+B. Kennedy: 2 -> 1 entries
+  Reason: All empty - keep most recent ID (PHI)
+  ✅ KEEP: PHI (ID: 666129)
+  ❌ REMOVE: TOR (ID: 665853)
+
+B. Kriske: 2 -> 1 entries
+  Reason: All empty - keep most recent ID (CHC)
+  ✅ KEEP: CHC (ID: 666317)
+  ❌ REMOVE: MIN (ID: 665770)
+
+C. Beeter: 2 -> 1 entries
+  Reason: All empty - keep most recent ID (NYY)
+  ✅ KEEP: NYY (ID: 666236)
+  ❌ REMOVE: WSH (ID: 665872)
+
+C. Kelly: 2 -> 1 entries
+  Reason: Keep entry with data (CHC)
+  ✅ KEEP: CHC (ID: 665252)
+  ❌ REMOVE: ARI (ID: 665655)
+
+C. Mead: 2 -> 1 entries
+  Reason: Keep entry with data (TB)
+  ✅ KEEP: TB (ID: 665576)
+  ❌ REMOVE: CHW (ID: 665677)
+
+D. Johnson: 2 -> 1 entries
+  Reason: All empty - keep most recent ID (BAL)
+  ✅ KEEP: BAL (ID: 665996)
+  ❌ REMOVE: SF (ID: 665379)
+
+D. May: 2 -> 1 entries
+  Reason: Keep entry with data (LAD)
+  ✅ KEEP: LAD (ID: 666126)
+  ❌ REMOVE: BOS (ID: 665667)
+
+E. Diaz: 2 -> 1 entries
+  Reason: All empty - keep most recent ID (NYM)
+  ✅ KEEP: NYM (ID: 665997)
+  ❌ REMOVE: SD (ID: 665856)
+
+J. Burgos: 2 -> 1 entries
+  Reason: All empty - keep most recent ID (SEA)
+  ✅ KEEP: SEA (ID: 666220)
+  ❌ REMOVE: ARI (ID: 665950)
+
+J. Fermin: 2 -> 1 entries
+  Reason: All empty - keep most recent ID (STL)
+  ✅ KEEP: STL (ID: 665825)
+  ❌ REMOVE: LAA (ID: 665738)
+
+M. Kelly: 2 -> 1 entries
+  Reason: All empty - keep most recent ID (OAK)
+  ✅ KEEP: OAK (ID: 666010)
+  ❌ REMOVE: TEX (ID: 665944)
+
+R. Bergert: 2 -> 1 entries
+  Reason: All empty - keep most recent ID (SD)
+  ✅ KEEP: SD (ID: 665735)
+  ❌ REMOVE: KC (ID: 665729)
+
+R. Gusto: 2 -> 1 entries
+  Reason: Keep entry with data (HOU)
+  ✅ KEEP: HOU (ID: 665039)
+  ❌ REMOVE: MIA (ID: 665965)
+
+R. McMahon: 2 -> 1 entries
+  Reason: Keep entry with data (NYY)
+  ✅ KEEP: NYY (ID: 665137)
+  ❌ REMOVE: COL (ID: 666148)
+
+R. Montero: 2 -> 1 entries
+  Reason: Keep entry with data (ATL)
+  ✅ KEEP: ATL (ID: 665883)
+  ❌ REMOVE: DET (ID: 665714)
+
+S. Ohtani: 2 -> 2 entries
+  Reason: Special case: Two-way player (pitcher & hitter)
+  ✅ KEEP: LAD (ID: 665062)
+  ✅ KEEP: LAD (ID: 660271)
+
+T. Hatch: 2 -> 1 entries
+  Reason: All empty - keep most recent ID (KC)
+  ✅ KEEP: KC (ID: 666374)
+  ❌ REMOVE: MIN (ID: 665769)
+
+T. Rogers: 3 -> 1 entries
+  Reason: Keep entry with data (NYM)
+  ✅ KEEP: NYM (ID: 665270)
+  ❌ REMOVE: BAL (ID: 665662)
+  ❌ REMOVE: CHC (ID: 665673)
+
+V. Brujan: 2 -> 1 entries
+  Reason: All empty - keep most recent ID (ATL)
+  ✅ KEEP: ATL (ID: 665875)
+  ❌ REMOVE: CHC (ID: 665777)
+
+W. Contreras: 2 -> 1 entries
+  Reason: All empty - keep most recent ID (MIL)
+  ✅ KEEP: MIL (ID: 665750)
+  ❌ REMOVE: STL (ID: 665616)
+
+Z. Littell: 2 -> 1 entries
+  Reason: Keep entry with data (TB)
+  ✅ KEEP: TB (ID: 665288)
+  ❌ REMOVE: CIN (ID: 665690)
+
+📊 DEDUPLICATION SUMMARY:
+  Original players: 1326
+  Deduplicated players: 1303
+  Players removed: 23
+
+🔍 VALIDATING RESULTS
+==================================================
+✅ Only expected duplicates remain: ['S. Ohtani']
+✅ JSON structure is valid
+✅ Total players: 1303
+✅ Players with IDs: 1132
+⚠️  Warning: 171 players missing playerIds
+✅ Saved deduplicated roster to rosters.json
+✅ Saved player ID mapping to player_id_mapping_20250825_091427.json
+
+REMOVED PLAYERS DETAILS:
+----------------------------------------
+Name: A. Houser
+Team: TB
+Player ID: 665600
+Type: pitcher
+----------------------------------------
+Name: B. Falter
+Team: KC
+Player ID: 665728
+Type: pitcher
+----------------------------------------
+Name: B. Kennedy
+Team: TOR
+Player ID: 665853
+Type: hitter
+----------------------------------------
+Name: B. Kriske
+Team: MIN
+Player ID: 665770
+Type: pitcher
+----------------------------------------
+Name: C. Beeter
+Team: WSH
+Player ID: 665872
+Type: pitcher
+----------------------------------------
+Name: C. Kelly
+Team: ARI
+Player ID: 665655
+Type: pitcher
+----------------------------------------
+Name: C. Mead
+Team: CHW
+Player ID: 665677
+Type: hitter
+----------------------------------------
+Name: D. Johnson
+Team: SF
+Player ID: 665379
+Type: hitter
+----------------------------------------
+Name: D. May
+Team: BOS
+Player ID: 665667
+Type: pitcher
+----------------------------------------
+Name: E. Diaz
+Team: SD
+Player ID: 665856
+Type: hitter
+----------------------------------------
+Name: J. Burgos
+Team: ARI
+Player ID: 665950
+Type: pitcher
+----------------------------------------
+Name: J. Fermin
+Team: LAA
+Player ID: 665738
+Type: pitcher
+----------------------------------------
+Name: M. Kelly
+Team: TEX
+Player ID: 665944
+Type: pitcher
+----------------------------------------
+Name: R. Bergert
+Team: KC
+Player ID: 665729
+Type: pitcher
+----------------------------------------
+Name: R. Gusto
+Team: MIA
+Player ID: 665965
+Type: pitcher
+----------------------------------------
+Name: R. McMahon
+Team: COL
+Player ID: 666148
+Type: hitter
+----------------------------------------
+Name: R. Montero
+Team: DET
+Player ID: 665714
+Type: pitcher
+----------------------------------------
+Name: T. Hatch
+Team: MIN
+Player ID: 665769
+Type: pitcher
+----------------------------------------
+Name: T. Rogers
+Team: BAL
+Player ID: 665662
+Type: pitcher
+----------------------------------------
+Name: T. Rogers
+Team: CHC
+Player ID: 665673
+Type: pitcher
+----------------------------------------
+Name: V. Brujan
+Team: CHC
+Player ID: 665777
+Type: hitter
+----------------------------------------
+Name: W. Contreras
+Team: STL
+Player ID: 665616
+Type: hitter
+----------------------------------------
+Name: Z. Littell
+Team: CIN
+Player ID: 665690
+Type: pitcher
+----------------------------------------

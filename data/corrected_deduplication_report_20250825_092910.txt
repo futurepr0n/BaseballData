@@ -1,0 +1,27 @@
+CORRECTED DUPLICATE PLAYER DEDUPLICATION REPORT\nGenerated: 2025-08-25T09:29:10.444047\n================================================================================\n\nCORRECTED DUPLICATE PLAYER DEDUPLICATION SCRIPT\n============================================================\nStarted at: 2025-08-25T09:29:10.273603\n✅ Loaded 1326 players from rosters.json\n
+🔍 IDENTIFYING DUPLICATE PLAYERS\n==================================================\nFound 23 players with duplicate entries\n
+🔧 CORRECTED DEDUPLICATION WITH TEAM VALIDATION\n============================================================\n
+A. Houser: 2 -> 1 entries\n  Reason: Current team validated: TB (with merged data)\n  ✅ KEEP: TB (ID: 665600)\n  ❌ REMOVE: CHW (ID: 666155)\n  ❌ REMOVE: TB (ID: 665600)\n  ⚾ Merged pitches from PIT to KC\n
+B. Falter: 2 -> 1 entries\n  Reason: Current team validated: KC (with merged data)\n  ✅ KEEP: KC (ID: 665728)\n  ❌ REMOVE: PIT (ID: 665427)\n  ❌ REMOVE: KC (ID: 665728)\n
+B. Kennedy: 2 -> 1 entries\n  Reason: All empty - keep recent ID (PHI)\n  ✅ KEEP: PHI (ID: 666129)\n  ❌ REMOVE: TOR (ID: 665853)\n
+B. Kriske: 2 -> 1 entries\n  Reason: All empty - keep recent ID (CHC)\n  ✅ KEEP: CHC (ID: 666317)\n  ❌ REMOVE: MIN (ID: 665770)\n
+C. Beeter: 2 -> 1 entries\n  Reason: All empty - keep recent ID (NYY)\n  ✅ KEEP: NYY (ID: 666236)\n  ❌ REMOVE: WSH (ID: 665872)\n
+C. Kelly: 2 -> 1 entries\n  Reason: Keep entry with data (CHC)\n  ✅ KEEP: CHC (ID: 665252)\n  ❌ REMOVE: ARI (ID: 665655)\n  📊 Merged stats from TB to CHW\n
+C. Mead: 2 -> 1 entries\n  Reason: Current team validated: CHW (with merged data)\n  ✅ KEEP: CHW (ID: 665677)\n  ❌ REMOVE: TB (ID: 665576)\n  ❌ REMOVE: CHW (ID: 665677)\n
+D. Johnson: 2 -> 1 entries\n  Reason: All empty - keep recent ID (BAL)\n  ✅ KEEP: BAL (ID: 665996)\n  ❌ REMOVE: SF (ID: 665379)\n
+D. May: 2 -> 1 entries\n  Reason: Keep entry with data (LAD)\n  ✅ KEEP: LAD (ID: 666126)\n  ❌ REMOVE: BOS (ID: 665667)\n
+E. Diaz: 2 -> 1 entries\n  Reason: All empty - keep recent ID (NYM)\n  ✅ KEEP: NYM (ID: 665997)\n  ❌ REMOVE: SD (ID: 665856)\n
+J. Burgos: 2 -> 1 entries\n  Reason: All empty - keep recent ID (SEA)\n  ✅ KEEP: SEA (ID: 666220)\n  ❌ REMOVE: ARI (ID: 665950)\n
+J. Fermin: 2 -> 1 entries\n  Reason: All empty - keep recent ID (STL)\n  ✅ KEEP: STL (ID: 665825)\n  ❌ REMOVE: LAA (ID: 665738)\n
+M. Kelly: 2 -> 1 entries\n  Reason: All empty - keep recent ID (OAK)\n  ✅ KEEP: OAK (ID: 666010)\n  ❌ REMOVE: TEX (ID: 665944)\n
+R. Bergert: 2 -> 1 entries\n  Reason: All empty - keep recent ID (SD)\n  ✅ KEEP: SD (ID: 665735)\n  ❌ REMOVE: KC (ID: 665729)\n
+R. Gusto: 2 -> 1 entries\n  Reason: Keep entry with data (HOU)\n  ✅ KEEP: HOU (ID: 665039)\n  ❌ REMOVE: MIA (ID: 665965)\n
+R. McMahon: 2 -> 1 entries\n  Reason: Current team validated: NYY (with merged data)\n  ✅ KEEP: NYY (ID: 665137)\n  ❌ REMOVE: COL (ID: 666148)\n  ⚾ Merged pitches from ATL to DET\n
+R. Montero: 2 -> 1 entries\n  Reason: Current team validated: DET (with merged data)\n  ✅ KEEP: DET (ID: 665714)\n  ❌ REMOVE: ATL (ID: 665883)\n  ❌ REMOVE: DET (ID: 665714)\n
+S. Ohtani: 2 -> 2 entries\n  Reason: Special case: Two-way player (pitcher & hitter)\n  ✅ KEEP: LAD (ID: 665062)\n  ✅ KEEP: LAD (ID: 660271)\n
+T. Hatch: 2 -> 1 entries\n  Reason: All empty - keep recent ID (KC)\n  ✅ KEEP: KC (ID: 666374)\n  ❌ REMOVE: MIN (ID: 665769)\n
+T. Rogers: 3 -> 1 entries\n  Reason: Keep entry with data (NYM)\n  ✅ KEEP: NYM (ID: 665270)\n  ❌ REMOVE: BAL (ID: 665662)\n  ❌ REMOVE: CHC (ID: 665673)\n
+V. Brujan: 2 -> 1 entries\n  Reason: All empty - keep recent ID (ATL)\n  ✅ KEEP: ATL (ID: 665875)\n  ❌ REMOVE: CHC (ID: 665777)\n
+W. Contreras: 2 -> 1 entries\n  Reason: All empty - keep recent ID (MIL)\n  ✅ KEEP: MIL (ID: 665750)\n  ❌ REMOVE: STL (ID: 665616)\n
+Z. Littell: 2 -> 1 entries\n  Reason: Keep entry with data (TB)\n  ✅ KEEP: TB (ID: 665288)\n  ❌ REMOVE: CIN (ID: 665690)\n
+📊 CORRECTED DEDUPLICATION SUMMARY:\n  Original players: 1326\n  Deduplicated players: 1303\n  Team validations made: 6\n\n🔍 VALIDATING CORRECTED RESULTS\n==================================================\n✅ Only expected duplicates remain: ['S. Ohtani']\n✅ R. Montero: Correct team DET\n✅ R. McMahon: Correct team NYY\n✅ B. Falter: Correct team KC\n✅ C. Mead: Correct team CHW\n✅ Total players: 1303\n✅ Saved corrected roster to rosters.json\n✅ Saved corrections report to team_validation_corrections_20250825_092910.json\n\nVALIDATED TEAM CHANGES:\n----------------------------------------\nPlayer: A. Houser\nValidated Team: TB\nAction: Current team validated: TB (with merged data)\n----------------------------------------\nPlayer: B. Falter\nValidated Team: KC\nAction: Current team validated: KC (with merged data)\n----------------------------------------\nPlayer: C. Mead\nValidated Team: CHW\nAction: Current team validated: CHW (with merged data)\n----------------------------------------\nPlayer: R. McMahon\nValidated Team: NYY\nAction: Current team validated: NYY (with merged data)\n----------------------------------------\nPlayer: R. Montero\nValidated Team: DET\nAction: Current team validated: DET (with merged data)\n----------------------------------------\nPlayer: S. Ohtani\nValidated Team: LAD\nAction: Special case: Two-way player (pitcher & hitter)\n----------------------------------------\n

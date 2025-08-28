@@ -1,10 +1,10 @@
 {
   "date": "2025-08-25",
-  "generatedAt": "2025-08-25T08:19:19.196613",
-  "totalPlayersAnalyzed": 605,
-  "playersWithPositiveMomentum": 368,
+  "generatedAt": "2025-08-25T11:57:12.581456",
+  "totalPlayersAnalyzed": 599,
+  "playersWithPositiveMomentum": 366,
   "pythonOptimized": true,
-  "analysisTimeSeconds": 23.8,
+  "analysisTimeSeconds": 13.3,
   "predictions": [
     {
       "playerName": "B. Turang",
@@ -11846,6 +11846,635 @@
       }
     },
     {
+      "playerName": "M. Tauchman",
+      "team": "CHW",
+      "totalPositiveScore": 48,
+      "momentumLevel": "HIGH",
+      "seasonAvg": 0.233,
+      "totalGames": 122,
+      "currentStreak": 7,
+      "positiveFactors": [
+        {
+          "type": "bounce_back",
+          "description": "weak bounce back candidate (50.0% potential)",
+          "positivePoints": 4,
+          "details": {
+            "current_situation": {
+              "current_cold_streak": 0,
+              "consecutive_poor_games": 0,
+              "failed_bounce_back_attempts": 0,
+              "total_bounce_back_opportunities": 2,
+              "failure_rate": 0.0,
+              "last_good_game": {
+                "date": "2025-08-24",
+                "avg": 0.5,
+                "hits": 2,
+                "abs": 4,
+                "days_ago": 0
+              },
+              "days_since_good_game": 0
+            },
+            "reasons": [],
+            "warnings": []
+          }
+        },
+        {
+          "type": "hot_streak",
+          "description": "7-game hitting streak",
+          "positivePoints": 21,
+          "details": {
+            "current_streak": 7,
+            "continuation_probability": 0,
+            "longest_streak": 9,
+            "streak_patterns": {
+              "2": {
+                "continuation_rate": 0.34782608695652173,
+                "total_occurrences": 23,
+                "is_reliable_pattern": true
+              },
+              "5": {
+                "continuation_rate": 0.6,
+                "total_occurrences": 5,
+                "is_reliable_pattern": true
+              },
+              "4": {
+                "continuation_rate": 0.625,
+                "total_occurrences": 8,
+                "is_reliable_pattern": true
+              },
+              "6": {
+                "continuation_rate": 0.6666666666666666,
+                "total_occurrences": 3,
+                "is_reliable_pattern": false
+              },
+              "3": {
+                "continuation_rate": 0.7777777777777778,
+                "total_occurrences": 9,
+                "is_reliable_pattern": true
+              }
+            }
+          }
+        },
+        {
+          "type": "recent_form",
+          "description": "Recent performance hot - 8/20, 1 HR in last 5 games",
+          "positivePoints": 20,
+          "details": {
+            "recent_games": [
+              {
+                "date": "2025-08-19",
+                "date_display": "08/19",
+                "hits": 2,
+                "abs": 5,
+                "hr": 0,
+                "rbi": 1,
+                "strikeouts": 0,
+                "avg": 0.4,
+                "hit_display": "2/5",
+                "hr_display": "0 HR",
+                "summary": "08/19: 2/5, 0 HR",
+                "detailed_line": "08/19: 5 AB, 2 H, 0 HR, 1 RBI, 0 K",
+                "performance_level": "excellent",
+                "has_hit": true,
+                "is_multi_hit": true,
+                "is_power_game": false
+              },
+              {
+                "date": "2025-08-20",
+                "date_display": "08/20",
+                "hits": 1,
+                "abs": 4,
+                "hr": 0,
+                "rbi": 0,
+                "strikeouts": 0,
+                "avg": 0.25,
+                "hit_display": "1/4",
+                "hr_display": "0 HR",
+                "summary": "08/20: 1/4, 0 HR",
+                "detailed_line": "08/20: 4 AB, 1 H, 0 HR, 0 RBI, 0 K",
+                "performance_level": "average",
+                "has_hit": true,
+                "is_multi_hit": false,
+                "is_power_game": false
+              },
+              {
+                "date": "2025-08-22",
+                "date_display": "08/22",
+                "hits": 1,
+                "abs": 3,
+                "hr": 0,
+                "rbi": 0,
+                "strikeouts": 1,
+                "avg": 0.3333333333333333,
+                "hit_display": "1/3",
+                "hr_display": "0 HR",
+                "summary": "08/22: 1/3, 0 HR",
+                "detailed_line": "08/22: 3 AB, 1 H, 0 HR, 0 RBI, 1 K",
+                "performance_level": "good",
+                "has_hit": true,
+                "is_multi_hit": false,
+                "is_power_game": false
+              },
+              {
+                "date": "2025-08-23",
+                "date_display": "08/23",
+                "hits": 2,
+                "abs": 4,
+                "hr": 1,
+                "rbi": 1,
+                "strikeouts": 0,
+                "avg": 0.5,
+                "hit_display": "2/4",
+                "hr_display": "1 HR",
+                "summary": "08/23: 2/4, 1 HR",
+                "detailed_line": "08/23: 4 AB, 2 H, 1 HR, 1 RBI, 0 K",
+                "performance_level": "excellent",
+                "has_hit": true,
+                "is_multi_hit": true,
+                "is_power_game": true
+              },
+              {
+                "date": "2025-08-24",
+                "date_display": "08/24",
+                "hits": 2,
+                "abs": 4,
+                "hr": 0,
+                "rbi": 0,
+                "strikeouts": 1,
+                "avg": 0.5,
+                "hit_display": "2/4",
+                "hr_display": "0 HR",
+                "summary": "08/24: 2/4, 0 HR",
+                "detailed_line": "08/24: 4 AB, 2 H, 0 HR, 0 RBI, 1 K",
+                "performance_level": "excellent",
+                "has_hit": true,
+                "is_multi_hit": true,
+                "is_power_game": false
+              }
+            ],
+            "recent_avg": 0.4,
+            "trend": "hot",
+            "total_hits_last_5": 8,
+            "total_hrs_last_5": 1,
+            "total_abs_last_5": 20,
+            "last_5_summary": "8/20, 1 HR in last 5 games"
+          }
+        },
+        {
+          "type": "home_advantage",
+          "description": "Standard home environment",
+          "positivePoints": 3
+        }
+      ],
+      "contextualInfo": {
+        "targetDate": "2025-08-25",
+        "actualRestDays": 0,
+        "contextWarnings": []
+      },
+      "sophisticatedAnalysis": {
+        "bounceBackAnalysis": {
+          "classification": "weak_bounce_back_candidate",
+          "potential": 0.5,
+          "confidence": 0.3,
+          "currentSituation": {
+            "current_cold_streak": 0,
+            "consecutive_poor_games": 0,
+            "failed_bounce_back_attempts": 0,
+            "total_bounce_back_opportunities": 2,
+            "failure_rate": 0.0,
+            "last_good_game": {
+              "date": "2025-08-24",
+              "avg": 0.5,
+              "hits": 2,
+              "abs": 4,
+              "days_ago": 0
+            },
+            "days_since_good_game": 0
+          },
+          "reasons": [],
+          "warnings": []
+        },
+        "restExcellence": {
+          "hasPattern": false,
+          "bestPattern": null,
+          "allPatterns": [],
+          "confidence": 0,
+          "actualRestDays": 0,
+          "isRelevantToday": false
+        },
+        "hotStreakDetails": {
+          "currentStreak": 7,
+          "continuationProbability": 0,
+          "longestStreak": 9,
+          "averageStreakLength": 3.5714285714285716,
+          "streakPatterns": {
+            "2": {
+              "continuation_rate": 0.34782608695652173,
+              "total_occurrences": 23,
+              "is_reliable_pattern": true
+            },
+            "5": {
+              "continuation_rate": 0.6,
+              "total_occurrences": 5,
+              "is_reliable_pattern": true
+            },
+            "4": {
+              "continuation_rate": 0.625,
+              "total_occurrences": 8,
+              "is_reliable_pattern": true
+            },
+            "6": {
+              "continuation_rate": 0.6666666666666666,
+              "total_occurrences": 3,
+              "is_reliable_pattern": false
+            },
+            "3": {
+              "continuation_rate": 0.7777777777777778,
+              "total_occurrences": 9,
+              "is_reliable_pattern": true
+            }
+          }
+        },
+        "recentPerformanceDetailed": {
+          "recent_games": [
+            {
+              "date": "2025-08-19",
+              "date_display": "08/19",
+              "hits": 2,
+              "abs": 5,
+              "hr": 0,
+              "rbi": 1,
+              "strikeouts": 0,
+              "avg": 0.4,
+              "hit_display": "2/5",
+              "hr_display": "0 HR",
+              "summary": "08/19: 2/5, 0 HR",
+              "detailed_line": "08/19: 5 AB, 2 H, 0 HR, 1 RBI, 0 K",
+              "performance_level": "excellent",
+              "has_hit": true,
+              "is_multi_hit": true,
+              "is_power_game": false
+            },
+            {
+              "date": "2025-08-20",
+              "date_display": "08/20",
+              "hits": 1,
+              "abs": 4,
+              "hr": 0,
+              "rbi": 0,
+              "strikeouts": 0,
+              "avg": 0.25,
+              "hit_display": "1/4",
+              "hr_display": "0 HR",
+              "summary": "08/20: 1/4, 0 HR",
+              "detailed_line": "08/20: 4 AB, 1 H, 0 HR, 0 RBI, 0 K",
+              "performance_level": "average",
+              "has_hit": true,
+              "is_multi_hit": false,
+              "is_power_game": false
+            },
+            {
+              "date": "2025-08-22",
+              "date_display": "08/22",
+              "hits": 1,
+              "abs": 3,
+              "hr": 0,
+              "rbi": 0,
+              "strikeouts": 1,
+              "avg": 0.3333333333333333,
+              "hit_display": "1/3",
+              "hr_display": "0 HR",
+              "summary": "08/22: 1/3, 0 HR",
+              "detailed_line": "08/22: 3 AB, 1 H, 0 HR, 0 RBI, 1 K",
+              "performance_level": "good",
+              "has_hit": true,
+              "is_multi_hit": false,
+              "is_power_game": false
+            },
+            {
+              "date": "2025-08-23",
+              "date_display": "08/23",
+              "hits": 2,
+              "abs": 4,
+              "hr": 1,
+              "rbi": 1,
+              "strikeouts": 0,
+              "avg": 0.5,
+              "hit_display": "2/4",
+              "hr_display": "1 HR",
+              "summary": "08/23: 2/4, 1 HR",
+              "detailed_line": "08/23: 4 AB, 2 H, 1 HR, 1 RBI, 0 K",
+              "performance_level": "excellent",
+              "has_hit": true,
+              "is_multi_hit": true,
+              "is_power_game": true
+            },
+            {
+              "date": "2025-08-24",
+              "date_display": "08/24",
+              "hits": 2,
+              "abs": 4,
+              "hr": 0,
+              "rbi": 0,
+              "strikeouts": 1,
+              "avg": 0.5,
+              "hit_display": "2/4",
+              "hr_display": "0 HR",
+              "summary": "08/24: 2/4, 0 HR",
+              "detailed_line": "08/24: 4 AB, 2 H, 0 HR, 0 RBI, 1 K",
+              "performance_level": "excellent",
+              "has_hit": true,
+              "is_multi_hit": true,
+              "is_power_game": false
+            }
+          ],
+          "recent_avg": 0.4,
+          "season_avg": 0.22704918032786886,
+          "trend": "hot",
+          "trend_score": 20,
+          "total_hits_last_5": 8,
+          "total_hrs_last_5": 1,
+          "total_abs_last_5": 20,
+          "total_strikeouts_last_5": 2,
+          "games_analyzed": 5,
+          "last_5_summary": "8/20, 1 HR in last 5 games",
+          "detailed_table_data": [
+            {
+              "date": "2025-08-19",
+              "date_display": "08/19",
+              "hits": 2,
+              "abs": 5,
+              "hr": 0,
+              "rbi": 1,
+              "strikeouts": 0,
+              "avg": 0.4,
+              "hit_display": "2/5",
+              "hr_display": "0 HR",
+              "summary": "08/19: 2/5, 0 HR",
+              "detailed_line": "08/19: 5 AB, 2 H, 0 HR, 1 RBI, 0 K",
+              "performance_level": "excellent",
+              "has_hit": true,
+              "is_multi_hit": true,
+              "is_power_game": false
+            },
+            {
+              "date": "2025-08-20",
+              "date_display": "08/20",
+              "hits": 1,
+              "abs": 4,
+              "hr": 0,
+              "rbi": 0,
+              "strikeouts": 0,
+              "avg": 0.25,
+              "hit_display": "1/4",
+              "hr_display": "0 HR",
+              "summary": "08/20: 1/4, 0 HR",
+              "detailed_line": "08/20: 4 AB, 1 H, 0 HR, 0 RBI, 0 K",
+              "performance_level": "average",
+              "has_hit": true,
+              "is_multi_hit": false,
+              "is_power_game": false
+            },
+            {
+              "date": "2025-08-22",
+              "date_display": "08/22",
+              "hits": 1,
+              "abs": 3,
+              "hr": 0,
+              "rbi": 0,
+              "strikeouts": 1,
+              "avg": 0.3333333333333333,
+              "hit_display": "1/3",
+              "hr_display": "0 HR",
+              "summary": "08/22: 1/3, 0 HR",
+              "detailed_line": "08/22: 3 AB, 1 H, 0 HR, 0 RBI, 1 K",
+              "performance_level": "good",
+              "has_hit": true,
+              "is_multi_hit": false,
+              "is_power_game": false
+            },
+            {
+              "date": "2025-08-23",
+              "date_display": "08/23",
+              "hits": 2,
+              "abs": 4,
+              "hr": 1,
+              "rbi": 1,
+              "strikeouts": 0,
+              "avg": 0.5,
+              "hit_display": "2/4",
+              "hr_display": "1 HR",
+              "summary": "08/23: 2/4, 1 HR",
+              "detailed_line": "08/23: 4 AB, 2 H, 1 HR, 1 RBI, 0 K",
+              "performance_level": "excellent",
+              "has_hit": true,
+              "is_multi_hit": true,
+              "is_power_game": true
+            },
+            {
+              "date": "2025-08-24",
+              "date_display": "08/24",
+              "hits": 2,
+              "abs": 4,
+              "hr": 0,
+              "rbi": 0,
+              "strikeouts": 1,
+              "avg": 0.5,
+              "hit_display": "2/4",
+              "hr_display": "0 HR",
+              "summary": "08/24: 2/4, 0 HR",
+              "detailed_line": "08/24: 4 AB, 2 H, 0 HR, 0 RBI, 1 K",
+              "performance_level": "excellent",
+              "has_hit": true,
+              "is_multi_hit": true,
+              "is_power_game": false
+            }
+          ],
+          "performance_indicators": {
+            "multi_hit_games": 3,
+            "power_games": 1,
+            "hitless_games": 0,
+            "strikeout_rate": 0.1
+          }
+        },
+        "travelAdvantage": null
+      },
+      "tooltipData": {
+        "detailedGameTable": [
+          {
+            "date": "2025-08-19",
+            "date_display": "08/19",
+            "hits": 2,
+            "abs": 5,
+            "hr": 0,
+            "rbi": 1,
+            "strikeouts": 0,
+            "avg": 0.4,
+            "hit_display": "2/5",
+            "hr_display": "0 HR",
+            "summary": "08/19: 2/5, 0 HR",
+            "detailed_line": "08/19: 5 AB, 2 H, 0 HR, 1 RBI, 0 K",
+            "performance_level": "excellent",
+            "has_hit": true,
+            "is_multi_hit": true,
+            "is_power_game": false
+          },
+          {
+            "date": "2025-08-20",
+            "date_display": "08/20",
+            "hits": 1,
+            "abs": 4,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.25,
+            "hit_display": "1/4",
+            "hr_display": "0 HR",
+            "summary": "08/20: 1/4, 0 HR",
+            "detailed_line": "08/20: 4 AB, 1 H, 0 HR, 0 RBI, 0 K",
+            "performance_level": "average",
+            "has_hit": true,
+            "is_multi_hit": false,
+            "is_power_game": false
+          },
+          {
+            "date": "2025-08-22",
+            "date_display": "08/22",
+            "hits": 1,
+            "abs": 3,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 1,
+            "avg": 0.3333333333333333,
+            "hit_display": "1/3",
+            "hr_display": "0 HR",
+            "summary": "08/22: 1/3, 0 HR",
+            "detailed_line": "08/22: 3 AB, 1 H, 0 HR, 0 RBI, 1 K",
+            "performance_level": "good",
+            "has_hit": true,
+            "is_multi_hit": false,
+            "is_power_game": false
+          },
+          {
+            "date": "2025-08-23",
+            "date_display": "08/23",
+            "hits": 2,
+            "abs": 4,
+            "hr": 1,
+            "rbi": 1,
+            "strikeouts": 0,
+            "avg": 0.5,
+            "hit_display": "2/4",
+            "hr_display": "1 HR",
+            "summary": "08/23: 2/4, 1 HR",
+            "detailed_line": "08/23: 4 AB, 2 H, 1 HR, 1 RBI, 0 K",
+            "performance_level": "excellent",
+            "has_hit": true,
+            "is_multi_hit": true,
+            "is_power_game": true
+          },
+          {
+            "date": "2025-08-24",
+            "date_display": "08/24",
+            "hits": 2,
+            "abs": 4,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 1,
+            "avg": 0.5,
+            "hit_display": "2/4",
+            "hr_display": "0 HR",
+            "summary": "08/24: 2/4, 0 HR",
+            "detailed_line": "08/24: 4 AB, 2 H, 0 HR, 0 RBI, 1 K",
+            "performance_level": "excellent",
+            "has_hit": true,
+            "is_multi_hit": true,
+            "is_power_game": false
+          }
+        ],
+        "performanceIndicators": {
+          "multi_hit_games": 3,
+          "power_games": 1,
+          "hitless_games": 0,
+          "strikeout_rate": 0.1
+        },
+        "crossReferencedCards": [
+          {
+            "card_type": "player_performance",
+            "card_name": "Player Performance",
+            "filename": "player_performance_latest.json",
+            "appears_in": true
+          }
+        ],
+        "weatherContext": {
+          "available": false,
+          "message": "Weather context available via Node.js PositiveMomentumCard integration",
+          "integration_note": "Weather data can be pushed from frontend weather services"
+        },
+        "gameLogSummary": {
+          "last_5_games": [
+            {
+              "date": "08/19",
+              "ab": 5,
+              "hits": 2,
+              "hr": 0,
+              "rbi": 1,
+              "strikeouts": 0,
+              "avg": "0.400",
+              "performance_level": "excellent"
+            },
+            {
+              "date": "08/20",
+              "ab": 4,
+              "hits": 1,
+              "hr": 0,
+              "rbi": 0,
+              "strikeouts": 0,
+              "avg": "0.250",
+              "performance_level": "average"
+            },
+            {
+              "date": "08/22",
+              "ab": 3,
+              "hits": 1,
+              "hr": 0,
+              "rbi": 0,
+              "strikeouts": 1,
+              "avg": "0.333",
+              "performance_level": "good"
+            },
+            {
+              "date": "08/23",
+              "ab": 4,
+              "hits": 2,
+              "hr": 1,
+              "rbi": 1,
+              "strikeouts": 0,
+              "avg": "0.500",
+              "performance_level": "excellent"
+            },
+            {
+              "date": "08/24",
+              "ab": 4,
+              "hits": 2,
+              "hr": 0,
+              "rbi": 0,
+              "strikeouts": 1,
+              "avg": "0.500",
+              "performance_level": "excellent"
+            }
+          ],
+          "totals": {
+            "ab": 20,
+            "hits": 8,
+            "hr": 1,
+            "strikeouts": 2,
+            "avg": "0.400"
+          }
+        }
+      }
+    },
+    {
       "playerName": "M. Vientos",
       "team": "NYM",
       "totalPositiveScore": 48,
@@ -14307,625 +14936,6 @@
             "hr": 2,
             "strikeouts": 3,
             "avg": "0.500"
-          }
-        }
-      }
-    },
-    {
-      "playerName": "M. Tauchman",
-      "team": "CHW",
-      "totalPositiveScore": 45,
-      "momentumLevel": "HIGH",
-      "seasonAvg": 0.276,
-      "totalGames": 73,
-      "currentStreak": 6,
-      "positiveFactors": [
-        {
-          "type": "bounce_back",
-          "description": "weak bounce back candidate (50.0% potential)",
-          "positivePoints": 4,
-          "details": {
-            "current_situation": {
-              "current_cold_streak": 0,
-              "consecutive_poor_games": 0,
-              "failed_bounce_back_attempts": 0,
-              "total_bounce_back_opportunities": 3,
-              "failure_rate": 0.0,
-              "last_good_game": {
-                "date": "2025-08-24",
-                "avg": 0.5,
-                "hits": 2,
-                "abs": 4,
-                "days_ago": 0
-              },
-              "days_since_good_game": 0
-            },
-            "reasons": [],
-            "warnings": []
-          }
-        },
-        {
-          "type": "hot_streak",
-          "description": "6-game hitting streak",
-          "positivePoints": 18,
-          "details": {
-            "current_streak": 6,
-            "continuation_probability": 0,
-            "longest_streak": 8,
-            "streak_patterns": {
-              "3": {
-                "continuation_rate": 0.7142857142857143,
-                "total_occurrences": 7,
-                "is_reliable_pattern": true
-              },
-              "5": {
-                "continuation_rate": 0.5,
-                "total_occurrences": 4,
-                "is_reliable_pattern": false
-              },
-              "2": {
-                "continuation_rate": 0.5384615384615384,
-                "total_occurrences": 13,
-                "is_reliable_pattern": true
-              },
-              "4": {
-                "continuation_rate": 0.6666666666666666,
-                "total_occurrences": 6,
-                "is_reliable_pattern": true
-              }
-            }
-          }
-        },
-        {
-          "type": "recent_form",
-          "description": "Recent performance hot - 8/22, 0 HR in last 5 games",
-          "positivePoints": 20,
-          "details": {
-            "recent_games": [
-              {
-                "date": "2025-08-18",
-                "date_display": "08/18",
-                "hits": 2,
-                "abs": 6,
-                "hr": 0,
-                "rbi": 2,
-                "strikeouts": 1,
-                "avg": 0.3333333333333333,
-                "hit_display": "2/6",
-                "hr_display": "0 HR",
-                "summary": "08/18: 2/6, 0 HR",
-                "detailed_line": "08/18: 6 AB, 2 H, 0 HR, 2 RBI, 1 K",
-                "performance_level": "good",
-                "has_hit": true,
-                "is_multi_hit": true,
-                "is_power_game": true
-              },
-              {
-                "date": "2025-08-19",
-                "date_display": "08/19",
-                "hits": 2,
-                "abs": 5,
-                "hr": 0,
-                "rbi": 1,
-                "strikeouts": 0,
-                "avg": 0.4,
-                "hit_display": "2/5",
-                "hr_display": "0 HR",
-                "summary": "08/19: 2/5, 0 HR",
-                "detailed_line": "08/19: 5 AB, 2 H, 0 HR, 1 RBI, 0 K",
-                "performance_level": "excellent",
-                "has_hit": true,
-                "is_multi_hit": true,
-                "is_power_game": false
-              },
-              {
-                "date": "2025-08-20",
-                "date_display": "08/20",
-                "hits": 1,
-                "abs": 4,
-                "hr": 0,
-                "rbi": 0,
-                "strikeouts": 0,
-                "avg": 0.25,
-                "hit_display": "1/4",
-                "hr_display": "0 HR",
-                "summary": "08/20: 1/4, 0 HR",
-                "detailed_line": "08/20: 4 AB, 1 H, 0 HR, 0 RBI, 0 K",
-                "performance_level": "average",
-                "has_hit": true,
-                "is_multi_hit": false,
-                "is_power_game": false
-              },
-              {
-                "date": "2025-08-22",
-                "date_display": "08/22",
-                "hits": 1,
-                "abs": 3,
-                "hr": 0,
-                "rbi": 0,
-                "strikeouts": 1,
-                "avg": 0.3333333333333333,
-                "hit_display": "1/3",
-                "hr_display": "0 HR",
-                "summary": "08/22: 1/3, 0 HR",
-                "detailed_line": "08/22: 3 AB, 1 H, 0 HR, 0 RBI, 1 K",
-                "performance_level": "good",
-                "has_hit": true,
-                "is_multi_hit": false,
-                "is_power_game": false
-              },
-              {
-                "date": "2025-08-24",
-                "date_display": "08/24",
-                "hits": 2,
-                "abs": 4,
-                "hr": 0,
-                "rbi": 0,
-                "strikeouts": 1,
-                "avg": 0.5,
-                "hit_display": "2/4",
-                "hr_display": "0 HR",
-                "summary": "08/24: 2/4, 0 HR",
-                "detailed_line": "08/24: 4 AB, 2 H, 0 HR, 0 RBI, 1 K",
-                "performance_level": "excellent",
-                "has_hit": true,
-                "is_multi_hit": true,
-                "is_power_game": false
-              }
-            ],
-            "recent_avg": 0.36363636363636365,
-            "trend": "hot",
-            "total_hits_last_5": 8,
-            "total_hrs_last_5": 0,
-            "total_abs_last_5": 22,
-            "last_5_summary": "8/22, 0 HR in last 5 games"
-          }
-        },
-        {
-          "type": "home_advantage",
-          "description": "Standard home environment",
-          "positivePoints": 3
-        }
-      ],
-      "contextualInfo": {
-        "targetDate": "2025-08-25",
-        "actualRestDays": 0,
-        "contextWarnings": []
-      },
-      "sophisticatedAnalysis": {
-        "bounceBackAnalysis": {
-          "classification": "weak_bounce_back_candidate",
-          "potential": 0.5,
-          "confidence": 0.3,
-          "currentSituation": {
-            "current_cold_streak": 0,
-            "consecutive_poor_games": 0,
-            "failed_bounce_back_attempts": 0,
-            "total_bounce_back_opportunities": 3,
-            "failure_rate": 0.0,
-            "last_good_game": {
-              "date": "2025-08-24",
-              "avg": 0.5,
-              "hits": 2,
-              "abs": 4,
-              "days_ago": 0
-            },
-            "days_since_good_game": 0
-          },
-          "reasons": [],
-          "warnings": []
-        },
-        "restExcellence": {
-          "hasPattern": false,
-          "bestPattern": null,
-          "allPatterns": [],
-          "confidence": 0,
-          "actualRestDays": 0,
-          "isRelevantToday": false
-        },
-        "hotStreakDetails": {
-          "currentStreak": 6,
-          "continuationProbability": 0,
-          "longestStreak": 8,
-          "averageStreakLength": 4.0,
-          "streakPatterns": {
-            "3": {
-              "continuation_rate": 0.7142857142857143,
-              "total_occurrences": 7,
-              "is_reliable_pattern": true
-            },
-            "5": {
-              "continuation_rate": 0.5,
-              "total_occurrences": 4,
-              "is_reliable_pattern": false
-            },
-            "2": {
-              "continuation_rate": 0.5384615384615384,
-              "total_occurrences": 13,
-              "is_reliable_pattern": true
-            },
-            "4": {
-              "continuation_rate": 0.6666666666666666,
-              "total_occurrences": 6,
-              "is_reliable_pattern": true
-            }
-          }
-        },
-        "recentPerformanceDetailed": {
-          "recent_games": [
-            {
-              "date": "2025-08-18",
-              "date_display": "08/18",
-              "hits": 2,
-              "abs": 6,
-              "hr": 0,
-              "rbi": 2,
-              "strikeouts": 1,
-              "avg": 0.3333333333333333,
-              "hit_display": "2/6",
-              "hr_display": "0 HR",
-              "summary": "08/18: 2/6, 0 HR",
-              "detailed_line": "08/18: 6 AB, 2 H, 0 HR, 2 RBI, 1 K",
-              "performance_level": "good",
-              "has_hit": true,
-              "is_multi_hit": true,
-              "is_power_game": true
-            },
-            {
-              "date": "2025-08-19",
-              "date_display": "08/19",
-              "hits": 2,
-              "abs": 5,
-              "hr": 0,
-              "rbi": 1,
-              "strikeouts": 0,
-              "avg": 0.4,
-              "hit_display": "2/5",
-              "hr_display": "0 HR",
-              "summary": "08/19: 2/5, 0 HR",
-              "detailed_line": "08/19: 5 AB, 2 H, 0 HR, 1 RBI, 0 K",
-              "performance_level": "excellent",
-              "has_hit": true,
-              "is_multi_hit": true,
-              "is_power_game": false
-            },
-            {
-              "date": "2025-08-20",
-              "date_display": "08/20",
-              "hits": 1,
-              "abs": 4,
-              "hr": 0,
-              "rbi": 0,
-              "strikeouts": 0,
-              "avg": 0.25,
-              "hit_display": "1/4",
-              "hr_display": "0 HR",
-              "summary": "08/20: 1/4, 0 HR",
-              "detailed_line": "08/20: 4 AB, 1 H, 0 HR, 0 RBI, 0 K",
-              "performance_level": "average",
-              "has_hit": true,
-              "is_multi_hit": false,
-              "is_power_game": false
-            },
-            {
-              "date": "2025-08-22",
-              "date_display": "08/22",
-              "hits": 1,
-              "abs": 3,
-              "hr": 0,
-              "rbi": 0,
-              "strikeouts": 1,
-              "avg": 0.3333333333333333,
-              "hit_display": "1/3",
-              "hr_display": "0 HR",
-              "summary": "08/22: 1/3, 0 HR",
-              "detailed_line": "08/22: 3 AB, 1 H, 0 HR, 0 RBI, 1 K",
-              "performance_level": "good",
-              "has_hit": true,
-              "is_multi_hit": false,
-              "is_power_game": false
-            },
-            {
-              "date": "2025-08-24",
-              "date_display": "08/24",
-              "hits": 2,
-              "abs": 4,
-              "hr": 0,
-              "rbi": 0,
-              "strikeouts": 1,
-              "avg": 0.5,
-              "hit_display": "2/4",
-              "hr_display": "0 HR",
-              "summary": "08/24: 2/4, 0 HR",
-              "detailed_line": "08/24: 4 AB, 2 H, 0 HR, 0 RBI, 1 K",
-              "performance_level": "excellent",
-              "has_hit": true,
-              "is_multi_hit": true,
-              "is_power_game": false
-            }
-          ],
-          "recent_avg": 0.36363636363636365,
-          "season_avg": 0.2547945205479452,
-          "trend": "hot",
-          "trend_score": 20,
-          "total_hits_last_5": 8,
-          "total_hrs_last_5": 0,
-          "total_abs_last_5": 22,
-          "total_strikeouts_last_5": 3,
-          "games_analyzed": 5,
-          "last_5_summary": "8/22, 0 HR in last 5 games",
-          "detailed_table_data": [
-            {
-              "date": "2025-08-18",
-              "date_display": "08/18",
-              "hits": 2,
-              "abs": 6,
-              "hr": 0,
-              "rbi": 2,
-              "strikeouts": 1,
-              "avg": 0.3333333333333333,
-              "hit_display": "2/6",
-              "hr_display": "0 HR",
-              "summary": "08/18: 2/6, 0 HR",
-              "detailed_line": "08/18: 6 AB, 2 H, 0 HR, 2 RBI, 1 K",
-              "performance_level": "good",
-              "has_hit": true,
-              "is_multi_hit": true,
-              "is_power_game": true
-            },
-            {
-              "date": "2025-08-19",
-              "date_display": "08/19",
-              "hits": 2,
-              "abs": 5,
-              "hr": 0,
-              "rbi": 1,
-              "strikeouts": 0,
-              "avg": 0.4,
-              "hit_display": "2/5",
-              "hr_display": "0 HR",
-              "summary": "08/19: 2/5, 0 HR",
-              "detailed_line": "08/19: 5 AB, 2 H, 0 HR, 1 RBI, 0 K",
-              "performance_level": "excellent",
-              "has_hit": true,
-              "is_multi_hit": true,
-              "is_power_game": false
-            },
-            {
-              "date": "2025-08-20",
-              "date_display": "08/20",
-              "hits": 1,
-              "abs": 4,
-              "hr": 0,
-              "rbi": 0,
-              "strikeouts": 0,
-              "avg": 0.25,
-              "hit_display": "1/4",
-              "hr_display": "0 HR",
-              "summary": "08/20: 1/4, 0 HR",
-              "detailed_line": "08/20: 4 AB, 1 H, 0 HR, 0 RBI, 0 K",
-              "performance_level": "average",
-              "has_hit": true,
-              "is_multi_hit": false,
-              "is_power_game": false
-            },
-            {
-              "date": "2025-08-22",
-              "date_display": "08/22",
-              "hits": 1,
-              "abs": 3,
-              "hr": 0,
-              "rbi": 0,
-              "strikeouts": 1,
-              "avg": 0.3333333333333333,
-              "hit_display": "1/3",
-              "hr_display": "0 HR",
-              "summary": "08/22: 1/3, 0 HR",
-              "detailed_line": "08/22: 3 AB, 1 H, 0 HR, 0 RBI, 1 K",
-              "performance_level": "good",
-              "has_hit": true,
-              "is_multi_hit": false,
-              "is_power_game": false
-            },
-            {
-              "date": "2025-08-24",
-              "date_display": "08/24",
-              "hits": 2,
-              "abs": 4,
-              "hr": 0,
-              "rbi": 0,
-              "strikeouts": 1,
-              "avg": 0.5,
-              "hit_display": "2/4",
-              "hr_display": "0 HR",
-              "summary": "08/24: 2/4, 0 HR",
-              "detailed_line": "08/24: 4 AB, 2 H, 0 HR, 0 RBI, 1 K",
-              "performance_level": "excellent",
-              "has_hit": true,
-              "is_multi_hit": true,
-              "is_power_game": false
-            }
-          ],
-          "performance_indicators": {
-            "multi_hit_games": 3,
-            "power_games": 1,
-            "hitless_games": 0,
-            "strikeout_rate": 0.13636363636363635
-          }
-        },
-        "travelAdvantage": null
-      },
-      "tooltipData": {
-        "detailedGameTable": [
-          {
-            "date": "2025-08-18",
-            "date_display": "08/18",
-            "hits": 2,
-            "abs": 6,
-            "hr": 0,
-            "rbi": 2,
-            "strikeouts": 1,
-            "avg": 0.3333333333333333,
-            "hit_display": "2/6",
-            "hr_display": "0 HR",
-            "summary": "08/18: 2/6, 0 HR",
-            "detailed_line": "08/18: 6 AB, 2 H, 0 HR, 2 RBI, 1 K",
-            "performance_level": "good",
-            "has_hit": true,
-            "is_multi_hit": true,
-            "is_power_game": true
-          },
-          {
-            "date": "2025-08-19",
-            "date_display": "08/19",
-            "hits": 2,
-            "abs": 5,
-            "hr": 0,
-            "rbi": 1,
-            "strikeouts": 0,
-            "avg": 0.4,
-            "hit_display": "2/5",
-            "hr_display": "0 HR",
-            "summary": "08/19: 2/5, 0 HR",
-            "detailed_line": "08/19: 5 AB, 2 H, 0 HR, 1 RBI, 0 K",
-            "performance_level": "excellent",
-            "has_hit": true,
-            "is_multi_hit": true,
-            "is_power_game": false
-          },
-          {
-            "date": "2025-08-20",
-            "date_display": "08/20",
-            "hits": 1,
-            "abs": 4,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.25,
-            "hit_display": "1/4",
-            "hr_display": "0 HR",
-            "summary": "08/20: 1/4, 0 HR",
-            "detailed_line": "08/20: 4 AB, 1 H, 0 HR, 0 RBI, 0 K",
-            "performance_level": "average",
-            "has_hit": true,
-            "is_multi_hit": false,
-            "is_power_game": false
-          },
-          {
-            "date": "2025-08-22",
-            "date_display": "08/22",
-            "hits": 1,
-            "abs": 3,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 1,
-            "avg": 0.3333333333333333,
-            "hit_display": "1/3",
-            "hr_display": "0 HR",
-            "summary": "08/22: 1/3, 0 HR",
-            "detailed_line": "08/22: 3 AB, 1 H, 0 HR, 0 RBI, 1 K",
-            "performance_level": "good",
-            "has_hit": true,
-            "is_multi_hit": false,
-            "is_power_game": false
-          },
-          {
-            "date": "2025-08-24",
-            "date_display": "08/24",
-            "hits": 2,
-            "abs": 4,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 1,
-            "avg": 0.5,
-            "hit_display": "2/4",
-            "hr_display": "0 HR",
-            "summary": "08/24: 2/4, 0 HR",
-            "detailed_line": "08/24: 4 AB, 2 H, 0 HR, 0 RBI, 1 K",
-            "performance_level": "excellent",
-            "has_hit": true,
-            "is_multi_hit": true,
-            "is_power_game": false
-          }
-        ],
-        "performanceIndicators": {
-          "multi_hit_games": 3,
-          "power_games": 1,
-          "hitless_games": 0,
-          "strikeout_rate": 0.13636363636363635
-        },
-        "crossReferencedCards": [
-          {
-            "card_type": "player_performance",
-            "card_name": "Player Performance",
-            "filename": "player_performance_latest.json",
-            "appears_in": true
-          }
-        ],
-        "weatherContext": {
-          "available": false,
-          "message": "Weather context available via Node.js PositiveMomentumCard integration",
-          "integration_note": "Weather data can be pushed from frontend weather services"
-        },
-        "gameLogSummary": {
-          "last_5_games": [
-            {
-              "date": "08/18",
-              "ab": 6,
-              "hits": 2,
-              "hr": 0,
-              "rbi": 2,
-              "strikeouts": 1,
-              "avg": "0.333",
-              "performance_level": "good"
-            },
-            {
-              "date": "08/19",
-              "ab": 5,
-              "hits": 2,
-              "hr": 0,
-              "rbi": 1,
-              "strikeouts": 0,
-              "avg": "0.400",
-              "performance_level": "excellent"
-            },
-            {
-              "date": "08/20",
-              "ab": 4,
-              "hits": 1,
-              "hr": 0,
-              "rbi": 0,
-              "strikeouts": 0,
-              "avg": "0.250",
-              "performance_level": "average"
-            },
-            {
-              "date": "08/22",
-              "ab": 3,
-              "hits": 1,
-              "hr": 0,
-              "rbi": 0,
-              "strikeouts": 1,
-              "avg": "0.333",
-              "performance_level": "good"
-            },
-            {
-              "date": "08/24",
-              "ab": 4,
-              "hits": 2,
-              "hr": 0,
-              "rbi": 0,
-              "strikeouts": 1,
-              "avg": "0.500",
-              "performance_level": "excellent"
-            }
-          ],
-          "totals": {
-            "ab": 22,
-            "hits": 8,
-            "hr": 0,
-            "strikeouts": 3,
-            "avg": "0.364"
           }
         }
       }

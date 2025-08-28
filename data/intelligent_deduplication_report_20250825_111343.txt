@@ -1,0 +1,28 @@
+INTELLIGENT DUPLICATE PLAYER DEDUPLICATION REPORT\nGenerated: 2025-08-25T11:13:43.555601\n================================================================================\n\nINTELLIGENT DUPLICATE PLAYER DEDUPLICATION\n============================================================\nStarted at: 2025-08-25T11:13:43.436164\n✅ Loaded 1326 players from rosters.json\n
+🔍 IDENTIFYING DUPLICATE PLAYERS\n==================================================\nFound 23 players with duplicate entries\n
+🧠 INTELLIGENT DEDUPLICATION\n============================================================\n
+A. Houser: 2 → 1 entries\n  Decision: TEAM TRANSFER: Current team TB (with merged data)\n  ✅ KEEP: TB (ID: 665600) - A. Houser\n  ❌ REMOVE: CHW (ID: 666155) - Adrian Houser\n    ⚾ Merged pitches from PIT to KC\n
+B. Falter: 2 → 1 entries\n  Decision: TEAM TRANSFER: Current team KC (with merged data)\n  ✅ KEEP: KC (ID: 665728) - Bailey Falter\n  ❌ REMOVE: PIT (ID: 665427) - Bailey Falter\n  ❌ REMOVE: KC (ID: 665728) - Bailey Falter\n
+B. Kennedy: 2 → 1 entries\n  Decision: TRANSFER: Keep most recent ID (PHI)\n  ✅ KEEP: PHI (ID: 666129) - Buddy Kennedy\n  ❌ REMOVE: TOR (ID: 665853) - B. Kennedy\n
+B. Kriske: 2 → 1 entries\n  Decision: TRANSFER: Keep most recent ID (CHC)\n  ✅ KEEP: CHC (ID: 666317) - Brooks Kriske\n  ❌ REMOVE: MIN (ID: 665770) - Brooks Kriske\n
+C. Beeter: 2 → 1 entries\n  Decision: TRANSFER: Keep most recent ID (NYY)\n  ✅ KEEP: NYY (ID: 666236) - Clayton Beeter\n  ❌ REMOVE: WSH (ID: 665872) - Clayton Beeter\n
+C. Kelly: 2 → 1 entries\n  Decision: TRANSFER: Keep entry with data (CHC)\n  ✅ KEEP: CHC (ID: 665252) - Carson Kelly\n  ❌ REMOVE: ARI (ID: 665655) - Carson Kelly\n    📊 Merged stats from TB to CHW\n
+C. Mead: 2 → 1 entries\n  Decision: TEAM TRANSFER: Current team CHW (with merged data)\n  ✅ KEEP: CHW (ID: 665677) - Curtis Mead\n  ❌ REMOVE: TB (ID: 665576) - Curtis Mead\n  ❌ REMOVE: CHW (ID: 665677) - Curtis Mead\n
+D. Johnson: 2 → 1 entries\n  Decision: TRANSFER: Keep most recent ID (BAL)\n  ✅ KEEP: BAL (ID: 665996) - Daniel Johnson\n  ❌ REMOVE: SF (ID: 665379) - Daniel Johnson\n
+D. May: 2 → 1 entries\n  Decision: TRANSFER: Keep entry with data (LAD)\n  ✅ KEEP: LAD (ID: 666126) - Dustin May\n  ❌ REMOVE: BOS (ID: 665667) - D. May\n
+E. Diaz: 2 → 1 entries\n  Decision: TRANSFER: Keep most recent ID (NYM)\n  ✅ KEEP: NYM (ID: 665997) - E. Diaz\n  ❌ REMOVE: SD (ID: 665856) - Edwin Díaz\n
+J. Burgos: 2 → 1 entries\n  Decision: TRANSFER: Keep most recent ID (SEA)\n  ✅ KEEP: SEA (ID: 666220) - Jhan Burgos\n  ❌ REMOVE: ARI (ID: 665950) - Jhan Burgos\n
+J. Fermin: 2 → 1 entries\n  Decision: TRANSFER: Keep most recent ID (STL)\n  ✅ KEEP: STL (ID: 665825) - José Fermin\n  ❌ REMOVE: LAA (ID: 665738) - J. Fermin\n
+M. Kelly: 2 → 1 entries\n  Decision: TRANSFER: Keep most recent ID (OAK)\n  ✅ KEEP: OAK (ID: 666010) - Merrill Kelly\n  ❌ REMOVE: TEX (ID: 665944) - Merrill Kelly\n
+R. Bergert: 2 → 1 entries\n  Decision: TRANSFER: Keep most recent ID (SD)\n  ✅ KEEP: SD (ID: 665735) - Ryan Bergert\n  ❌ REMOVE: KC (ID: 665729) - R. Bergert\n
+R. Gusto: 2 → 1 entries\n  Decision: TRANSFER: Keep entry with data (HOU)\n  ✅ KEEP: HOU (ID: 665039) - Ryan Gusto\n  ❌ REMOVE: MIA (ID: 665965) - R. Gusto\n
+R. McMahon: 2 → 1 entries\n  Decision: TEAM TRANSFER: Current team NYY (with merged data)\n  ✅ KEEP: NYY (ID: 665137) - Ryan McMahon\n  ❌ REMOVE: COL (ID: 666148) - Ryan McMahon\n    ⚾ Merged pitches from ATL to DET\n
+R. Montero: 2 → 1 entries\n  Decision: TEAM TRANSFER: Current team DET (with merged data)\n  ✅ KEEP: DET (ID: 665714) - R. Montero\n  ❌ REMOVE: ATL (ID: 665883) - Rafael Montero\n  ❌ REMOVE: DET (ID: 665714) - R. Montero\n
+S. Ohtani: 2 → 2 entries\n  Decision: Special case: Two-way player (pitcher & hitter)\n  ✅ KEEP: LAD (ID: 665062) - Shohei Ohtani\n  ✅ KEEP: LAD (ID: 660271) - Shohei Ohtani\n
+T. Hatch: 2 → 1 entries\n  Decision: TRANSFER: Keep most recent ID (KC)\n  ✅ KEEP: KC (ID: 666374) - T. Hatch\n  ❌ REMOVE: MIN (ID: 665769) - T. Hatch\n
+T. Rogers: 3 → 1 entries\n  Decision: TRANSFER: Keep entry with data (NYM)\n  ✅ KEEP: NYM (ID: 665270) - Tyler Rogers\n  ❌ REMOVE: BAL (ID: 665662) - T. Rogers\n  ❌ REMOVE: CHC (ID: 665673) - T. Rogers\n
+V. Brujan: 2 → 1 entries\n  Decision: TRANSFER: Keep most recent ID (ATL)\n  ✅ KEEP: ATL (ID: 665875) - Vidal Bruján\n  ❌ REMOVE: CHC (ID: 665777) - Vidal Bruján\n  🔍 Identified as DIFFERENT PLAYERS: W. Contreras\n    🔧 Updated fullName: W. Contreras → William Contreras\n
+W. Contreras: 2 → 2 entries\n  Decision: DIFFERENT PLAYERS: Keep all 2 entries\n  ✅ KEEP: STL (ID: 665616) - Willson Contreras\n  ✅ KEEP: MIL (ID: 665750) - William Contreras\n  ❌ REMOVE: MIL (ID: 665750) - W. Contreras\n
+Z. Littell: 2 → 1 entries\n  Decision: TRANSFER: Keep entry with data (TB)\n  ✅ KEEP: TB (ID: 665288) - Zack Littell\n  ❌ REMOVE: CIN (ID: 665690) - Z. Littell\n
+📊 INTELLIGENT DEDUPLICATION SUMMARY:\n  Original players: 1326\n  Final players: 1304\n  Players removed: 22\n  Different players preserved: 1\n
+🔍 VALIDATING INTELLIGENT RESULTS\n==================================================\n✅ Expected duplicates preserved: ['W. Contreras', 'S. Ohtani']\n✅ R. Montero: Correct team DET\n✅ R. McMahon: Correct team NYY\n✅ B. Falter: Correct team KC\n✅ C. Mead: Correct team CHW\n✅ Contreras brothers both preserved: Willson (STL), William (MIL)\n✅ Saved intelligent roster to rosters.json
