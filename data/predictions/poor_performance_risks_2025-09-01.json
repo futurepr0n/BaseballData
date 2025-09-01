@@ -1,587 +1,19 @@
 {
   "date": "2025-09-01",
-  "generatedAt": "2025-09-01T09:37:56.875897",
-  "totalPlayersAnalyzed": 606,
-  "playersWithRisks": 97,
+  "generatedAt": "2025-09-01T10:21:59.618994",
+  "totalPlayersAnalyzed": 608,
+  "playersWithRisks": 101,
   "riskAnalysisEnabled": true,
   "filteringInfo": {
     "injuredPlayersFiltered": 0,
-    "inactivePlayersFiltered": 218,
-    "totalFiltered": 218
+    "inactivePlayersFiltered": 219,
+    "totalFiltered": 219
   },
   "predictions": [
     {
-      "playerName": "A. Bregman",
-      "team": "BOS",
-      "totalRiskScore": 73,
-      "riskLevel": "HIGH",
-      "riskFactors": [
-        {
-          "type": "consecutive_games_fatigue",
-          "description": "10 consecutive games without rest",
-          "riskPoints": 25,
-          "consecutive_games": 10
-        },
-        {
-          "type": "cold_streak",
-          "description": "4-game hitless streak",
-          "riskPoints": 20,
-          "streak_length": 4
-        },
-        {
-          "type": "poor_recent_performance",
-          "description": "Recent avg: 0.050 (last 5 games)",
-          "riskPoints": 20,
-          "recent_avg": 0.05,
-          "games_sample": 5
-        },
-        {
-          "type": "performance_decline",
-          "description": "Recent decline: 0.200 vs season 0.290",
-          "riskPoints": 8,
-          "season_avg": 0.28955223880597014,
-          "recent_avg": 0.2,
-          "decline_percent": 30.92783505154639
-        }
-      ],
-      "consecutiveGames": 10,
-      "currentColdStreak": 4,
-      "seasonAvg": 0.29,
-      "recentAvg": 0.05,
-      "contextualWarnings": [
-        "Extended fatigue: 10 consecutive games",
-        "Significant recent decline: 0.050 vs 0.290"
-      ],
-      "analysis": {
-        "gameHistory": [
-          {
-            "date": "2025-08-21",
-            "atBats": 5,
-            "hits": 3,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.6,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-22",
-            "atBats": 4,
-            "hits": 3,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.75,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-23",
-            "atBats": 4,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 1,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-24",
-            "atBats": 3,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.3333333333333333,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-25",
-            "atBats": 4,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-26",
-            "atBats": 4,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.25,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-27",
-            "atBats": 3,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-28",
-            "atBats": 4,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-29",
-            "atBats": 4,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-30",
-            "atBats": 5,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          }
-        ]
-      }
-    },
-    {
       "playerName": "T. Locklear",
       "team": "ARI",
-      "totalRiskScore": 65,
-      "riskLevel": "HIGH",
-      "riskFactors": [
-        {
-          "type": "consecutive_games_fatigue",
-          "description": "5 consecutive games without rest",
-          "riskPoints": 15,
-          "consecutive_games": 5
-        },
-        {
-          "type": "cold_streak",
-          "description": "6-game hitless streak",
-          "riskPoints": 30,
-          "streak_length": 6
-        },
-        {
-          "type": "poor_recent_performance",
-          "description": "Recent avg: 0.000 (last 5 games)",
-          "riskPoints": 20,
-          "recent_avg": 0.0,
-          "games_sample": 5
-        }
-      ],
-      "consecutiveGames": 5,
-      "currentColdStreak": 6,
-      "seasonAvg": 0.163,
-      "recentAvg": 0.0,
-      "contextualWarnings": [
-        "Extended cold streak: 6 games without hit",
-        "Significant recent decline: 0.000 vs 0.163"
-      ],
-      "analysis": {
-        "gameHistory": [
-          {
-            "date": "2025-08-16",
-            "atBats": 4,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-17",
-            "atBats": 4,
-            "hits": 2,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.5,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-18",
-            "atBats": 1,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-20",
-            "atBats": 3,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.3333333333333333,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-23",
-            "atBats": 4,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-26",
-            "atBats": 1,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-27",
-            "atBats": 1,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-28",
-            "atBats": 3,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 2,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-29",
-            "atBats": 4,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-30",
-            "atBats": 3,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          }
-        ]
-      }
-    },
-    {
-      "playerName": "X. Edwards",
-      "team": "MIA",
-      "totalRiskScore": 64,
-      "riskLevel": "HIGH",
-      "riskFactors": [
-        {
-          "type": "consecutive_games_fatigue",
-          "description": "9 consecutive games without rest",
-          "riskPoints": 25,
-          "consecutive_games": 9
-        },
-        {
-          "type": "poor_recent_performance",
-          "description": "Recent avg: 0.136 (last 5 games)",
-          "riskPoints": 20,
-          "recent_avg": 0.13636363636363635,
-          "games_sample": 5
-        },
-        {
-          "type": "performance_decline",
-          "description": "Recent decline: 0.093 vs season 0.284",
-          "riskPoints": 19,
-          "season_avg": 0.2839506172839506,
-          "recent_avg": 0.09302325581395349,
-          "decline_percent": 67.23963599595551
-        }
-      ],
-      "consecutiveGames": 9,
-      "currentColdStreak": 0,
-      "seasonAvg": 0.284,
-      "recentAvg": 0.136,
-      "contextualWarnings": [
-        "Extended fatigue: 9 consecutive games",
-        "Significant recent decline: 0.136 vs 0.284"
-      ],
-      "analysis": {
-        "gameHistory": [
-          {
-            "date": "2025-08-20",
-            "atBats": 4,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-22",
-            "atBats": 4,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-23",
-            "atBats": 6,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-24",
-            "atBats": 3,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-25",
-            "atBats": 4,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.25,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-26",
-            "atBats": 5,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.2,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-27",
-            "atBats": 3,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-28",
-            "atBats": 4,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-29",
-            "atBats": 5,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.2,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-30",
-            "atBats": 5,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.2,
-            "restDay": false
-          }
-        ]
-      }
-    },
-    {
-      "playerName": "C. Young",
-      "team": "SEA",
-      "totalRiskScore": 59,
-      "riskLevel": "HIGH",
-      "riskFactors": [
-        {
-          "type": "cold_streak",
-          "description": "6-game hitless streak",
-          "riskPoints": 30,
-          "streak_length": 6
-        },
-        {
-          "type": "poor_recent_performance",
-          "description": "Recent avg: 0.000 (last 5 games)",
-          "riskPoints": 20,
-          "recent_avg": 0.0,
-          "games_sample": 5
-        },
-        {
-          "type": "performance_decline",
-          "description": "Recent decline: 0.129 vs season 0.226",
-          "riskPoints": 9,
-          "season_avg": 0.22613065326633167,
-          "recent_avg": 0.12903225806451613,
-          "decline_percent": 42.939068100358426
-        }
-      ],
-      "consecutiveGames": 1,
-      "currentColdStreak": 6,
-      "seasonAvg": 0.226,
-      "recentAvg": 0.0,
-      "contextualWarnings": [
-        "Extended cold streak: 6 games without hit",
-        "Significant recent decline: 0.000 vs 0.226"
-      ],
-      "analysis": {
-        "gameHistory": [
-          {
-            "date": "2025-08-15",
-            "atBats": 4,
-            "hits": 3,
-            "hr": 0,
-            "rbi": 3,
-            "strikeouts": 0,
-            "avg": 0.75,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-16",
-            "atBats": 2,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-17",
-            "atBats": 4,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-18",
-            "atBats": 4,
-            "hits": 1,
-            "hr": 1,
-            "rbi": 4,
-            "strikeouts": 0,
-            "avg": 0.25,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-20",
-            "atBats": 3,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-22",
-            "atBats": 3,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-23",
-            "atBats": 3,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-26",
-            "atBats": 3,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-27",
-            "atBats": 3,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-30",
-            "atBats": 2,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          }
-        ]
-      }
-    },
-    {
-      "playerName": "V. Brujan",
-      "team": "ATL",
-      "totalRiskScore": 58,
+      "totalRiskScore": 68,
       "riskLevel": "HIGH",
       "riskFactors": [
         {
@@ -592,70 +24,61 @@
         },
         {
           "type": "cold_streak",
-          "description": "4-game hitless streak",
-          "riskPoints": 20,
-          "streak_length": 4
+          "description": "7-game hitless streak",
+          "riskPoints": 30,
+          "streak_length": 7
         },
         {
           "type": "poor_recent_performance",
-          "description": "Recent avg: 0.083 (last 5 games)",
+          "description": "Recent avg: 0.000 (last 5 games)",
           "riskPoints": 20,
-          "recent_avg": 0.08333333333333333,
+          "recent_avg": 0.0,
           "games_sample": 5
         }
       ],
       "consecutiveGames": 6,
-      "currentColdStreak": 4,
-      "seasonAvg": 0.214,
-      "recentAvg": 0.083,
+      "currentColdStreak": 7,
+      "seasonAvg": 0.155,
+      "recentAvg": 0.0,
       "contextualWarnings": [
-        "Significant recent decline: 0.083 vs 0.214"
+        "Extended cold streak: 7 games without hit",
+        "Significant recent decline: 0.000 vs 0.155"
       ],
       "analysis": {
         "gameHistory": [
           {
-            "date": "2025-08-18",
-            "atBats": 2,
-            "hits": 1,
+            "date": "2025-08-17",
+            "atBats": 4,
+            "hits": 2,
             "hr": 0,
-            "rbi": 1,
+            "rbi": 0,
             "strikeouts": 0,
             "avg": 0.5,
             "restDay": false
           },
           {
-            "date": "2025-08-19",
+            "date": "2025-08-18",
             "atBats": 1,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-20",
+            "atBats": 3,
             "hits": 1,
             "hr": 0,
             "rbi": 0,
             "strikeouts": 0,
-            "avg": 1.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-22",
-            "atBats": 2,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 1,
-            "strikeouts": 0,
-            "avg": 0.5,
+            "avg": 0.3333333333333333,
             "restDay": false
           },
           {
             "date": "2025-08-23",
-            "atBats": 2,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.5,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-25",
-            "atBats": 1,
+            "atBats": 4,
             "hits": 0,
             "hr": 0,
             "rbi": 0,
@@ -666,16 +89,16 @@
           {
             "date": "2025-08-26",
             "atBats": 1,
-            "hits": 1,
+            "hits": 0,
             "hr": 0,
-            "rbi": 1,
+            "rbi": 0,
             "strikeouts": 0,
-            "avg": 1.0,
+            "avg": 0.0,
             "restDay": false
           },
           {
             "date": "2025-08-27",
-            "atBats": 5,
+            "atBats": 1,
             "hits": 0,
             "hr": 0,
             "rbi": 0,
@@ -688,14 +111,14 @@
             "atBats": 3,
             "hits": 0,
             "hr": 0,
-            "rbi": 0,
+            "rbi": 2,
             "strikeouts": 0,
             "avg": 0.0,
             "restDay": false
           },
           {
             "date": "2025-08-29",
-            "atBats": 2,
+            "atBats": 4,
             "hits": 0,
             "hr": 0,
             "rbi": 0,
@@ -705,7 +128,17 @@
           },
           {
             "date": "2025-08-30",
-            "atBats": 1,
+            "atBats": 3,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-31",
+            "atBats": 4,
             "hits": 0,
             "hr": 0,
             "rbi": 0,
@@ -717,16 +150,162 @@
       }
     },
     {
-      "playerName": "V. Guerrero Jr.",
-      "team": "TOR",
-      "totalRiskScore": 56,
+      "playerName": "P. Crow-Armstrong",
+      "team": "CHC",
+      "totalRiskScore": 61,
       "riskLevel": "HIGH",
       "riskFactors": [
         {
+          "type": "consecutive_games_fatigue",
+          "description": "6 consecutive games without rest",
+          "riskPoints": 18,
+          "consecutive_games": 6
+        },
+        {
           "type": "cold_streak",
-          "description": "4-game hitless streak",
+          "description": "3-game hitless streak",
+          "riskPoints": 15,
+          "streak_length": 3
+        },
+        {
+          "type": "poor_recent_performance",
+          "description": "Recent avg: 0.105 (last 5 games)",
           "riskPoints": 20,
-          "streak_length": 4
+          "recent_avg": 0.10526315789473684,
+          "games_sample": 5
+        },
+        {
+          "type": "performance_decline",
+          "description": "Recent decline: 0.162 vs season 0.250",
+          "riskPoints": 8,
+          "season_avg": 0.25,
+          "recent_avg": 0.16216216216216217,
+          "decline_percent": 35.13513513513513
+        }
+      ],
+      "consecutiveGames": 6,
+      "currentColdStreak": 3,
+      "seasonAvg": 0.25,
+      "recentAvg": 0.105,
+      "contextualWarnings": [
+        "Significant recent decline: 0.105 vs 0.250"
+      ],
+      "analysis": {
+        "gameHistory": [
+          {
+            "date": "2025-08-21",
+            "atBats": 2,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 1,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-22",
+            "atBats": 4,
+            "hits": 1,
+            "hr": 1,
+            "rbi": 1,
+            "strikeouts": 0,
+            "avg": 0.25,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-23",
+            "atBats": 4,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.25,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-24",
+            "atBats": 4,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 1,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-26",
+            "atBats": 4,
+            "hits": 2,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.5,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-27",
+            "atBats": 4,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.25,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-28",
+            "atBats": 4,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.25,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-29",
+            "atBats": 4,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 1,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-30",
+            "atBats": 4,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-31",
+            "atBats": 3,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          }
+        ]
+      }
+    },
+    {
+      "playerName": "A. Bregman",
+      "team": "BOS",
+      "totalRiskScore": 58,
+      "riskLevel": "HIGH",
+      "riskFactors": [
+        {
+          "type": "consecutive_games_fatigue",
+          "description": "11 consecutive games without rest",
+          "riskPoints": 25,
+          "consecutive_games": 11
         },
         {
           "type": "poor_recent_performance",
@@ -737,55 +316,36 @@
         },
         {
           "type": "performance_decline",
-          "description": "Recent decline: 0.125 vs season 0.290",
-          "riskPoints": 16,
-          "season_avg": 0.28958333333333336,
-          "recent_avg": 0.125,
-          "decline_percent": 56.83453237410072
+          "description": "Recent decline: 0.158 vs season 0.290",
+          "riskPoints": 13,
+          "season_avg": 0.28994082840236685,
+          "recent_avg": 0.15789473684210525,
+          "decline_percent": 45.54242749731471
         }
       ],
-      "consecutiveGames": 2,
-      "currentColdStreak": 4,
+      "consecutiveGames": 11,
+      "currentColdStreak": 0,
       "seasonAvg": 0.29,
       "recentAvg": 0.053,
       "contextualWarnings": [
+        "Extended fatigue: 11 consecutive games",
         "Significant recent decline: 0.053 vs 0.290"
       ],
       "analysis": {
         "gameHistory": [
           {
-            "date": "2025-08-15",
-            "atBats": 3,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.3333333333333333,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-16",
-            "atBats": 3,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-17",
+            "date": "2025-08-22",
             "atBats": 4,
-            "hits": 2,
-            "hr": 1,
-            "rbi": 1,
+            "hits": 3,
+            "hr": 0,
+            "rbi": 0,
             "strikeouts": 0,
-            "avg": 0.5,
+            "avg": 0.75,
             "restDay": false
           },
           {
-            "date": "2025-08-18",
-            "atBats": 2,
+            "date": "2025-08-23",
+            "atBats": 4,
             "hits": 0,
             "hr": 0,
             "rbi": 1,
@@ -795,7 +355,17 @@
           },
           {
             "date": "2025-08-24",
-            "atBats": 1,
+            "atBats": 3,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.3333333333333333,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-25",
+            "atBats": 4,
             "hits": 0,
             "hr": 0,
             "rbi": 0,
@@ -804,27 +374,27 @@
             "restDay": false
           },
           {
-            "date": "2025-08-25",
+            "date": "2025-08-26",
             "atBats": 4,
             "hits": 1,
             "hr": 0,
-            "rbi": 2,
+            "rbi": 0,
             "strikeouts": 0,
             "avg": 0.25,
             "restDay": false
           },
           {
-            "date": "2025-08-26",
-            "atBats": 4,
+            "date": "2025-08-27",
+            "atBats": 3,
             "hits": 0,
             "hr": 0,
-            "rbi": 1,
+            "rbi": 0,
             "strikeouts": 0,
             "avg": 0.0,
             "restDay": false
           },
           {
-            "date": "2025-08-27",
+            "date": "2025-08-28",
             "atBats": 4,
             "hits": 0,
             "hr": 0,
@@ -845,10 +415,302 @@
           },
           {
             "date": "2025-08-30",
+            "atBats": 5,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-31",
+            "atBats": 3,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.3333333333333333,
+            "restDay": false
+          }
+        ]
+      }
+    },
+    {
+      "playerName": "C. Raleigh",
+      "team": "SEA",
+      "totalRiskScore": 57,
+      "riskLevel": "HIGH",
+      "riskFactors": [
+        {
+          "type": "cold_streak",
+          "description": "5-game hitless streak",
+          "riskPoints": 25,
+          "streak_length": 5
+        },
+        {
+          "type": "poor_recent_performance",
+          "description": "Recent avg: 0.000 (last 5 games)",
+          "riskPoints": 20,
+          "recent_avg": 0.0,
+          "games_sample": 5
+        },
+        {
+          "type": "performance_decline",
+          "description": "Recent decline: 0.118 vs season 0.240",
+          "riskPoints": 12,
+          "season_avg": 0.24048096192384769,
+          "recent_avg": 0.11764705882352941,
+          "decline_percent": 51.07843137254902
+        }
+      ],
+      "consecutiveGames": 3,
+      "currentColdStreak": 5,
+      "seasonAvg": 0.24,
+      "recentAvg": 0.0,
+      "contextualWarnings": [
+        "Extended cold streak: 5 games without hit",
+        "Significant recent decline: 0.000 vs 0.240"
+      ],
+      "analysis": {
+        "gameHistory": [
+          {
+            "date": "2025-08-20",
+            "atBats": 4,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-22",
             "atBats": 3,
             "hits": 0,
             "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-23",
+            "atBats": 4,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-24",
+            "atBats": 5,
+            "hits": 3,
+            "hr": 2,
+            "rbi": 4,
+            "strikeouts": 0,
+            "avg": 0.6,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-25",
+            "atBats": 4,
+            "hits": 1,
+            "hr": 1,
             "rbi": 1,
+            "strikeouts": 0,
+            "avg": 0.25,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-26",
+            "atBats": 4,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-27",
+            "atBats": 3,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-29",
+            "atBats": 1,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-30",
+            "atBats": 4,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-31",
+            "atBats": 2,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          }
+        ]
+      }
+    },
+    {
+      "playerName": "R. Grichuk",
+      "team": "KC",
+      "totalRiskScore": 52,
+      "riskLevel": "HIGH",
+      "riskFactors": [
+        {
+          "type": "cold_streak",
+          "description": "5-game hitless streak",
+          "riskPoints": 25,
+          "streak_length": 5
+        },
+        {
+          "type": "poor_recent_performance",
+          "description": "Recent avg: 0.000 (last 5 games)",
+          "riskPoints": 20,
+          "recent_avg": 0.0,
+          "games_sample": 5
+        },
+        {
+          "type": "performance_decline",
+          "description": "Recent decline: 0.136 vs season 0.210",
+          "riskPoints": 7,
+          "season_avg": 0.20967741935483872,
+          "recent_avg": 0.13636363636363635,
+          "decline_percent": 34.965034965034974
+        }
+      ],
+      "consecutiveGames": 2,
+      "currentColdStreak": 5,
+      "seasonAvg": 0.21,
+      "recentAvg": 0.0,
+      "contextualWarnings": [
+        "Extended cold streak: 5 games without hit",
+        "Significant recent decline: 0.000 vs 0.210"
+      ],
+      "analysis": {
+        "gameHistory": [
+          {
+            "date": "2025-08-19",
+            "atBats": 2,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.5,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-20",
+            "atBats": 2,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-21",
+            "atBats": 3,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-22",
+            "atBats": 1,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 1.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-23",
+            "atBats": 3,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.3333333333333333,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-24",
+            "atBats": 2,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-25",
+            "atBats": 1,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-26",
+            "atBats": 2,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-30",
+            "atBats": 3,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-31",
+            "atBats": 3,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
             "strikeouts": 0,
             "avg": 0.0,
             "restDay": false
@@ -864,9 +726,9 @@
       "riskFactors": [
         {
           "type": "cold_streak",
-          "description": "6-game hitless streak",
+          "description": "7-game hitless streak",
           "riskPoints": 30,
-          "streak_length": 6
+          "streak_length": 7
         },
         {
           "type": "poor_recent_performance",
@@ -876,26 +738,16 @@
           "games_sample": 5
         }
       ],
-      "consecutiveGames": 2,
-      "currentColdStreak": 6,
-      "seasonAvg": 0.183,
+      "consecutiveGames": 3,
+      "currentColdStreak": 7,
+      "seasonAvg": 0.176,
       "recentAvg": 0.0,
       "contextualWarnings": [
-        "Extended cold streak: 6 games without hit",
-        "Significant recent decline: 0.000 vs 0.183"
+        "Extended cold streak: 7 games without hit",
+        "Significant recent decline: 0.000 vs 0.176"
       ],
       "analysis": {
         "gameHistory": [
-          {
-            "date": "2025-08-17",
-            "atBats": 2,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
           {
             "date": "2025-08-18",
             "atBats": 3,
@@ -979,6 +831,16 @@
           {
             "date": "2025-08-30",
             "atBats": 1,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-31",
+            "atBats": 3,
             "hits": 0,
             "hr": 0,
             "rbi": 0,
@@ -1123,6 +985,139 @@
       }
     },
     {
+      "playerName": "H. Feduccia",
+      "team": "TB",
+      "totalRiskScore": 50,
+      "riskLevel": "HIGH",
+      "riskFactors": [
+        {
+          "type": "cold_streak",
+          "description": "6-game hitless streak",
+          "riskPoints": 30,
+          "streak_length": 6
+        },
+        {
+          "type": "poor_recent_performance",
+          "description": "Recent avg: 0.000 (last 5 games)",
+          "riskPoints": 20,
+          "recent_avg": 0.0,
+          "games_sample": 5
+        }
+      ],
+      "consecutiveGames": 2,
+      "currentColdStreak": 6,
+      "seasonAvg": 0.114,
+      "recentAvg": 0.0,
+      "contextualWarnings": [
+        "Extended cold streak: 6 games without hit",
+        "Significant recent decline: 0.000 vs 0.114"
+      ],
+      "analysis": {
+        "gameHistory": [
+          {
+            "date": "2025-08-15",
+            "atBats": 1,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 1.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-16",
+            "atBats": 1,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-17",
+            "atBats": 2,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-20",
+            "atBats": 4,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 2,
+            "strikeouts": 0,
+            "avg": 0.25,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-22",
+            "atBats": 3,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-23",
+            "atBats": 1,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-25",
+            "atBats": 2,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 1,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-27",
+            "atBats": 2,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-30",
+            "atBats": 3,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-31",
+            "atBats": 4,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          }
+        ]
+      }
+    },
+    {
       "playerName": "J. Bauers",
       "team": "MIL",
       "totalRiskScore": 50,
@@ -1130,9 +1125,9 @@
       "riskFactors": [
         {
           "type": "cold_streak",
-          "description": "8-game hitless streak",
+          "description": "9-game hitless streak",
           "riskPoints": 30,
-          "streak_length": 8
+          "streak_length": 9
         },
         {
           "type": "poor_recent_performance",
@@ -1143,25 +1138,15 @@
         }
       ],
       "consecutiveGames": 1,
-      "currentColdStreak": 8,
-      "seasonAvg": 0.183,
+      "currentColdStreak": 9,
+      "seasonAvg": 0.182,
       "recentAvg": 0.0,
       "contextualWarnings": [
-        "Extended cold streak: 8 games without hit",
-        "Significant recent decline: 0.000 vs 0.183"
+        "Extended cold streak: 9 games without hit",
+        "Significant recent decline: 0.000 vs 0.182"
       ],
       "analysis": {
         "gameHistory": [
-          {
-            "date": "2025-07-05",
-            "atBats": 2,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
           {
             "date": "2025-07-06",
             "atBats": 4,
@@ -1248,6 +1233,149 @@
             "hits": 0,
             "hr": 0,
             "rbi": 1,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-31",
+            "atBats": 1,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          }
+        ]
+      }
+    },
+    {
+      "playerName": "N. Loftin",
+      "team": "KC",
+      "totalRiskScore": 50,
+      "riskLevel": "HIGH",
+      "riskFactors": [
+        {
+          "type": "cold_streak",
+          "description": "6-game hitless streak",
+          "riskPoints": 30,
+          "streak_length": 6
+        },
+        {
+          "type": "poor_recent_performance",
+          "description": "Recent avg: 0.000 (last 5 games)",
+          "riskPoints": 20,
+          "recent_avg": 0.0,
+          "games_sample": 5
+        }
+      ],
+      "consecutiveGames": 2,
+      "currentColdStreak": 6,
+      "seasonAvg": 0.188,
+      "recentAvg": 0.0,
+      "contextualWarnings": [
+        "Extended cold streak: 6 games without hit",
+        "Significant recent decline: 0.000 vs 0.188"
+      ],
+      "analysis": {
+        "gameHistory": [
+          {
+            "date": "2025-08-15",
+            "atBats": 3,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-16",
+            "atBats": 3,
+            "hits": 2,
+            "hr": 0,
+            "rbi": 1,
+            "strikeouts": 0,
+            "avg": 0.6666666666666666,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-20",
+            "atBats": 2,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-21",
+            "atBats": 3,
+            "hits": 1,
+            "hr": 1,
+            "rbi": 1,
+            "strikeouts": 0,
+            "avg": 0.3333333333333333,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-22",
+            "atBats": 1,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-23",
+            "atBats": 1,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-25",
+            "atBats": 1,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-26",
+            "atBats": 2,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-30",
+            "atBats": 1,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-31",
+            "atBats": 2,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
             "strikeouts": 0,
             "avg": 0.0,
             "restDay": false
@@ -1662,146 +1790,6 @@
       }
     },
     {
-      "playerName": "C. Raleigh",
-      "team": "SEA",
-      "totalRiskScore": 49,
-      "riskLevel": "MEDIUM",
-      "riskFactors": [
-        {
-          "type": "cold_streak",
-          "description": "4-game hitless streak",
-          "riskPoints": 20,
-          "streak_length": 4
-        },
-        {
-          "type": "poor_recent_performance",
-          "description": "Recent avg: 0.062 (last 5 games)",
-          "riskPoints": 20,
-          "recent_avg": 0.0625,
-          "games_sample": 5
-        },
-        {
-          "type": "performance_decline",
-          "description": "Recent decline: 0.143 vs season 0.241",
-          "riskPoints": 9,
-          "season_avg": 0.2414486921529175,
-          "recent_avg": 0.14285714285714285,
-          "decline_percent": 40.833333333333336
-        }
-      ],
-      "consecutiveGames": 2,
-      "currentColdStreak": 4,
-      "seasonAvg": 0.241,
-      "recentAvg": 0.062,
-      "contextualWarnings": [
-        "Significant recent decline: 0.062 vs 0.241"
-      ],
-      "analysis": {
-        "gameHistory": [
-          {
-            "date": "2025-08-19",
-            "atBats": 3,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.3333333333333333,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-20",
-            "atBats": 4,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-22",
-            "atBats": 3,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-23",
-            "atBats": 4,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-24",
-            "atBats": 5,
-            "hits": 3,
-            "hr": 2,
-            "rbi": 4,
-            "strikeouts": 0,
-            "avg": 0.6,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-25",
-            "atBats": 4,
-            "hits": 1,
-            "hr": 1,
-            "rbi": 1,
-            "strikeouts": 0,
-            "avg": 0.25,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-26",
-            "atBats": 4,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-27",
-            "atBats": 3,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-29",
-            "atBats": 1,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-30",
-            "atBats": 4,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          }
-        ]
-      }
-    },
-    {
       "playerName": "T. Trammell",
       "team": "HOU",
       "totalRiskScore": 49,
@@ -1942,64 +1930,44 @@
       }
     },
     {
-      "playerName": "M. Taylor",
-      "team": "CHW",
+      "playerName": "T. Ward",
+      "team": "LAA",
       "totalRiskScore": 48,
       "riskLevel": "MEDIUM",
       "riskFactors": [
         {
-          "type": "consecutive_games_fatigue",
-          "description": "5 consecutive games without rest",
+          "type": "cold_streak",
+          "description": "3-game hitless streak",
           "riskPoints": 15,
-          "consecutive_games": 5
+          "streak_length": 3
         },
         {
           "type": "poor_recent_performance",
-          "description": "Recent avg: 0.125 (last 5 games)",
+          "description": "Recent avg: 0.071 (last 5 games)",
           "riskPoints": 20,
-          "recent_avg": 0.125,
+          "recent_avg": 0.07142857142857142,
           "games_sample": 5
         },
         {
           "type": "performance_decline",
-          "description": "Recent decline: 0.074 vs season 0.210",
+          "description": "Recent decline: 0.097 vs season 0.228",
           "riskPoints": 13,
-          "season_avg": 0.20987654320987653,
-          "recent_avg": 0.07407407407407407,
-          "decline_percent": 64.70588235294117
+          "season_avg": 0.228,
+          "recent_avg": 0.0967741935483871,
+          "decline_percent": 57.555178268251275
         }
       ],
-      "consecutiveGames": 5,
-      "currentColdStreak": 0,
-      "seasonAvg": 0.21,
-      "recentAvg": 0.125,
+      "consecutiveGames": 3,
+      "currentColdStreak": 3,
+      "seasonAvg": 0.228,
+      "recentAvg": 0.071,
       "contextualWarnings": [
-        "Significant recent decline: 0.125 vs 0.210"
+        "Significant recent decline: 0.071 vs 0.228"
       ],
       "analysis": {
         "gameHistory": [
           {
-            "date": "2025-08-10",
-            "atBats": 1,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-11",
-            "atBats": 2,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-15",
+            "date": "2025-08-20",
             "atBats": 3,
             "hits": 0,
             "hr": 0,
@@ -2009,8 +1977,8 @@
             "restDay": false
           },
           {
-            "date": "2025-08-16",
-            "atBats": 2,
+            "date": "2025-08-22",
+            "atBats": 4,
             "hits": 0,
             "hr": 0,
             "rbi": 0,
@@ -2020,7 +1988,7 @@
           },
           {
             "date": "2025-08-23",
-            "atBats": 3,
+            "atBats": 4,
             "hits": 0,
             "hr": 0,
             "rbi": 0,
@@ -2029,8 +1997,18 @@
             "restDay": false
           },
           {
-            "date": "2025-08-25",
+            "date": "2025-08-24",
             "atBats": 4,
+            "hits": 2,
+            "hr": 1,
+            "rbi": 2,
+            "strikeouts": 0,
+            "avg": 0.5,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-25",
+            "atBats": 2,
             "hits": 0,
             "hr": 0,
             "rbi": 0,
@@ -2050,126 +2028,6 @@
           },
           {
             "date": "2025-08-27",
-            "atBats": 4,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-28",
-            "atBats": 2,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-29",
-            "atBats": 4,
-            "hits": 2,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.5,
-            "restDay": false
-          }
-        ]
-      }
-    },
-    {
-      "playerName": "D. Schneemann",
-      "team": "CLE",
-      "totalRiskScore": 47,
-      "riskLevel": "MEDIUM",
-      "riskFactors": [
-        {
-          "type": "cold_streak",
-          "description": "4-game hitless streak",
-          "riskPoints": 20,
-          "streak_length": 4
-        },
-        {
-          "type": "poor_recent_performance",
-          "description": "Recent avg: 0.056 (last 5 games)",
-          "riskPoints": 20,
-          "recent_avg": 0.05555555555555555,
-          "games_sample": 5
-        },
-        {
-          "type": "performance_decline",
-          "description": "Recent decline: 0.139 vs season 0.213",
-          "riskPoints": 7,
-          "season_avg": 0.21311475409836064,
-          "recent_avg": 0.1388888888888889,
-          "decline_percent": 34.82905982905982
-        }
-      ],
-      "consecutiveGames": 2,
-      "currentColdStreak": 4,
-      "seasonAvg": 0.213,
-      "recentAvg": 0.056,
-      "contextualWarnings": [
-        "Significant recent decline: 0.056 vs 0.213"
-      ],
-      "analysis": {
-        "gameHistory": [
-          {
-            "date": "2025-08-15",
-            "atBats": 4,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-16",
-            "atBats": 1,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-17",
-            "atBats": 5,
-            "hits": 2,
-            "hr": 0,
-            "rbi": 2,
-            "strikeouts": 0,
-            "avg": 0.4,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-18",
-            "atBats": 4,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-20",
-            "atBats": 4,
-            "hits": 2,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.5,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-22",
             "atBats": 3,
             "hits": 1,
             "hr": 0,
@@ -2179,17 +2037,7 @@
             "restDay": false
           },
           {
-            "date": "2025-08-23",
-            "atBats": 4,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-24",
+            "date": "2025-08-29",
             "atBats": 3,
             "hits": 0,
             "hr": 0,
@@ -2199,8 +2047,8 @@
             "restDay": false
           },
           {
-            "date": "2025-08-29",
-            "atBats": 4,
+            "date": "2025-08-30",
+            "atBats": 5,
             "hits": 0,
             "hr": 0,
             "rbi": 0,
@@ -2209,8 +2057,8 @@
             "restDay": false
           },
           {
-            "date": "2025-08-30",
-            "atBats": 4,
+            "date": "2025-08-31",
+            "atBats": 1,
             "hits": 0,
             "hr": 0,
             "rbi": 0,
@@ -2362,8 +2210,8 @@
       }
     },
     {
-      "playerName": "A. Freeland",
-      "team": "LAD",
+      "playerName": "A. Ibanez",
+      "team": "DET",
       "totalRiskScore": 45,
       "riskLevel": "MEDIUM",
       "riskFactors": [
@@ -2381,16 +2229,26 @@
           "games_sample": 5
         }
       ],
-      "consecutiveGames": 1,
+      "consecutiveGames": 3,
       "currentColdStreak": 5,
-      "seasonAvg": 0.192,
+      "seasonAvg": 0.243,
       "recentAvg": 0.0,
       "contextualWarnings": [
         "Extended cold streak: 5 games without hit",
-        "Significant recent decline: 0.000 vs 0.192"
+        "Significant recent decline: 0.000 vs 0.243"
       ],
       "analysis": {
         "gameHistory": [
+          {
+            "date": "2025-08-18",
+            "atBats": 1,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 1.0,
+            "restDay": false
+          },
           {
             "date": "2025-08-19",
             "atBats": 2,
@@ -2406,29 +2264,19 @@
             "atBats": 4,
             "hits": 1,
             "hr": 0,
-            "rbi": 0,
+            "rbi": 1,
             "strikeouts": 0,
             "avg": 0.25,
             "restDay": false
           },
           {
-            "date": "2025-08-21",
-            "atBats": 5,
-            "hits": 3,
+            "date": "2025-08-22",
+            "atBats": 2,
+            "hits": 2,
             "hr": 0,
             "rbi": 1,
             "strikeouts": 0,
-            "avg": 0.6,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-22",
-            "atBats": 2,
-            "hits": 1,
-            "hr": 1,
-            "rbi": 1,
-            "strikeouts": 0,
-            "avg": 0.5,
+            "avg": 1.0,
             "restDay": false
           },
           {
@@ -2442,27 +2290,7 @@
             "restDay": false
           },
           {
-            "date": "2025-08-24",
-            "atBats": 4,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
             "date": "2025-08-25",
-            "atBats": 4,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-26",
             "atBats": 2,
             "hits": 0,
             "hr": 0,
@@ -2473,7 +2301,7 @@
           },
           {
             "date": "2025-08-27",
-            "atBats": 3,
+            "atBats": 1,
             "hits": 0,
             "hr": 0,
             "rbi": 0,
@@ -2483,6 +2311,26 @@
           },
           {
             "date": "2025-08-29",
+            "atBats": 1,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-30",
+            "atBats": 2,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-31",
             "atBats": 2,
             "hits": 0,
             "hr": 0,
@@ -2502,38 +2350,28 @@
       "riskFactors": [
         {
           "type": "consecutive_games_fatigue",
-          "description": "10 consecutive games without rest",
+          "description": "11 consecutive games without rest",
           "riskPoints": 25,
-          "consecutive_games": 10
+          "consecutive_games": 11
         },
         {
           "type": "poor_recent_performance",
-          "description": "Recent avg: 0.100 (last 5 games)",
+          "description": "Recent avg: 0.048 (last 5 games)",
           "riskPoints": 20,
-          "recent_avg": 0.1,
+          "recent_avg": 0.047619047619047616,
           "games_sample": 5
         }
       ],
-      "consecutiveGames": 10,
-      "currentColdStreak": 0,
-      "seasonAvg": 0.214,
-      "recentAvg": 0.1,
+      "consecutiveGames": 11,
+      "currentColdStreak": 1,
+      "seasonAvg": 0.21,
+      "recentAvg": 0.048,
       "contextualWarnings": [
-        "Extended fatigue: 10 consecutive games",
-        "Significant recent decline: 0.100 vs 0.214"
+        "Extended fatigue: 11 consecutive games",
+        "Significant recent decline: 0.048 vs 0.210"
       ],
       "analysis": {
         "gameHistory": [
-          {
-            "date": "2025-08-21",
-            "atBats": 3,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.3333333333333333,
-            "restDay": false
-          },
           {
             "date": "2025-08-22",
             "atBats": 5,
@@ -2623,13 +2461,156 @@
             "strikeouts": 0,
             "avg": 0.2,
             "restDay": false
+          },
+          {
+            "date": "2025-08-31",
+            "atBats": 5,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
           }
         ]
       }
     },
     {
-      "playerName": "H. Feduccia",
-      "team": "TB",
+      "playerName": "G. Perdomo",
+      "team": "ARI",
+      "totalRiskScore": 45,
+      "riskLevel": "MEDIUM",
+      "riskFactors": [
+        {
+          "type": "consecutive_games_fatigue",
+          "description": "10 consecutive games without rest",
+          "riskPoints": 25,
+          "consecutive_games": 10
+        },
+        {
+          "type": "poor_recent_performance",
+          "description": "Recent avg: 0.143 (last 5 games)",
+          "riskPoints": 20,
+          "recent_avg": 0.14285714285714285,
+          "games_sample": 5
+        }
+      ],
+      "consecutiveGames": 10,
+      "currentColdStreak": 0,
+      "seasonAvg": 0.286,
+      "recentAvg": 0.143,
+      "contextualWarnings": [
+        "Extended fatigue: 10 consecutive games",
+        "Significant recent decline: 0.143 vs 0.286"
+      ],
+      "analysis": {
+        "gameHistory": [
+          {
+            "date": "2025-08-22",
+            "atBats": 1,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 1.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-23",
+            "atBats": 5,
+            "hits": 2,
+            "hr": 1,
+            "rbi": 3,
+            "strikeouts": 0,
+            "avg": 0.4,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-24",
+            "atBats": 3,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.3333333333333333,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-25",
+            "atBats": 3,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.3333333333333333,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-26",
+            "atBats": 5,
+            "hits": 2,
+            "hr": 0,
+            "rbi": 2,
+            "strikeouts": 0,
+            "avg": 0.4,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-27",
+            "atBats": 4,
+            "hits": 2,
+            "hr": 1,
+            "rbi": 1,
+            "strikeouts": 0,
+            "avg": 0.5,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-28",
+            "atBats": 5,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-29",
+            "atBats": 3,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-30",
+            "atBats": 5,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-31",
+            "atBats": 4,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.25,
+            "restDay": false
+          }
+        ]
+      }
+    },
+    {
+      "playerName": "N. Castellanos",
+      "team": "PHI",
       "totalRiskScore": 45,
       "riskLevel": "MEDIUM",
       "riskFactors": [
@@ -2647,68 +2628,48 @@
           "games_sample": 5
         }
       ],
-      "consecutiveGames": 1,
+      "consecutiveGames": 3,
       "currentColdStreak": 5,
-      "seasonAvg": 0.125,
+      "seasonAvg": 0.242,
       "recentAvg": 0.0,
       "contextualWarnings": [
         "Extended cold streak: 5 games without hit",
-        "Significant recent decline: 0.000 vs 0.125"
+        "Significant recent decline: 0.000 vs 0.242"
       ],
       "analysis": {
         "gameHistory": [
           {
-            "date": "2025-08-13",
-            "atBats": 2,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-15",
-            "atBats": 1,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 1.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-16",
-            "atBats": 1,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-17",
-            "atBats": 2,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-20",
+            "date": "2025-08-18",
             "atBats": 4,
-            "hits": 1,
+            "hits": 2,
             "hr": 0,
-            "rbi": 2,
+            "rbi": 0,
             "strikeouts": 0,
-            "avg": 0.25,
+            "avg": 0.5,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-19",
+            "atBats": 4,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
             "restDay": false
           },
           {
             "date": "2025-08-22",
+            "atBats": 4,
+            "hits": 3,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.75,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-23",
             "atBats": 3,
             "hits": 0,
             "hr": 0,
@@ -2718,8 +2679,18 @@
             "restDay": false
           },
           {
-            "date": "2025-08-23",
-            "atBats": 1,
+            "date": "2025-08-24",
+            "atBats": 4,
+            "hits": 2,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.5,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-26",
+            "atBats": 3,
             "hits": 0,
             "hr": 0,
             "rbi": 0,
@@ -2728,18 +2699,18 @@
             "restDay": false
           },
           {
-            "date": "2025-08-25",
-            "atBats": 2,
+            "date": "2025-08-27",
+            "atBats": 3,
             "hits": 0,
             "hr": 0,
-            "rbi": 1,
+            "rbi": 0,
             "strikeouts": 0,
             "avg": 0.0,
             "restDay": false
           },
           {
-            "date": "2025-08-27",
-            "atBats": 2,
+            "date": "2025-08-29",
+            "atBats": 3,
             "hits": 0,
             "hr": 0,
             "rbi": 0,
@@ -2750,6 +2721,16 @@
           {
             "date": "2025-08-30",
             "atBats": 3,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-31",
+            "atBats": 2,
             "hits": 0,
             "hr": 0,
             "rbi": 0,
@@ -2768,38 +2749,28 @@
       "riskFactors": [
         {
           "type": "consecutive_games_fatigue",
-          "description": "9 consecutive games without rest",
+          "description": "10 consecutive games without rest",
           "riskPoints": 25,
-          "consecutive_games": 9
+          "consecutive_games": 10
         },
         {
           "type": "poor_recent_performance",
-          "description": "Recent avg: 0.105 (last 5 games)",
+          "description": "Recent avg: 0.056 (last 5 games)",
           "riskPoints": 20,
-          "recent_avg": 0.10526315789473684,
+          "recent_avg": 0.05555555555555555,
           "games_sample": 5
         }
       ],
-      "consecutiveGames": 9,
-      "currentColdStreak": 1,
-      "seasonAvg": 0.221,
-      "recentAvg": 0.105,
+      "consecutiveGames": 10,
+      "currentColdStreak": 2,
+      "seasonAvg": 0.219,
+      "recentAvg": 0.056,
       "contextualWarnings": [
-        "Extended fatigue: 9 consecutive games",
-        "Significant recent decline: 0.105 vs 0.221"
+        "Extended fatigue: 10 consecutive games",
+        "Significant recent decline: 0.056 vs 0.219"
       ],
       "analysis": {
         "gameHistory": [
-          {
-            "date": "2025-08-20",
-            "atBats": 4,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
           {
             "date": "2025-08-22",
             "atBats": 2,
@@ -2889,136 +2860,13 @@
             "strikeouts": 0,
             "avg": 0.0,
             "restDay": false
-          }
-        ]
-      }
-    },
-    {
-      "playerName": "N. Loftin",
-      "team": "KC",
-      "totalRiskScore": 45,
-      "riskLevel": "MEDIUM",
-      "riskFactors": [
-        {
-          "type": "cold_streak",
-          "description": "5-game hitless streak",
-          "riskPoints": 25,
-          "streak_length": 5
-        },
-        {
-          "type": "poor_recent_performance",
-          "description": "Recent avg: 0.000 (last 5 games)",
-          "riskPoints": 20,
-          "recent_avg": 0.0,
-          "games_sample": 5
-        }
-      ],
-      "consecutiveGames": 1,
-      "currentColdStreak": 5,
-      "seasonAvg": 0.19,
-      "recentAvg": 0.0,
-      "contextualWarnings": [
-        "Extended cold streak: 5 games without hit",
-        "Significant recent decline: 0.000 vs 0.190"
-      ],
-      "analysis": {
-        "gameHistory": [
-          {
-            "date": "2025-08-13",
-            "atBats": 1,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
           },
           {
-            "date": "2025-08-15",
+            "date": "2025-08-31",
             "atBats": 3,
             "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-16",
-            "atBats": 3,
-            "hits": 2,
             "hr": 0,
             "rbi": 1,
-            "strikeouts": 0,
-            "avg": 0.6666666666666666,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-20",
-            "atBats": 2,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-21",
-            "atBats": 3,
-            "hits": 1,
-            "hr": 1,
-            "rbi": 1,
-            "strikeouts": 0,
-            "avg": 0.3333333333333333,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-22",
-            "atBats": 1,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-23",
-            "atBats": 1,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-25",
-            "atBats": 1,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-26",
-            "atBats": 2,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-30",
-            "atBats": 1,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
             "strikeouts": 0,
             "avg": 0.0,
             "restDay": false
@@ -3174,38 +3022,28 @@
       "riskFactors": [
         {
           "type": "consecutive_games_fatigue",
-          "description": "9 consecutive games without rest",
+          "description": "10 consecutive games without rest",
           "riskPoints": 25,
-          "consecutive_games": 9
+          "consecutive_games": 10
         },
         {
           "type": "poor_recent_performance",
-          "description": "Recent avg: 0.056 (last 5 games)",
+          "description": "Recent avg: 0.105 (last 5 games)",
           "riskPoints": 20,
-          "recent_avg": 0.05555555555555555,
+          "recent_avg": 0.10526315789473684,
           "games_sample": 5
         }
       ],
-      "consecutiveGames": 9,
+      "consecutiveGames": 10,
       "currentColdStreak": 0,
       "seasonAvg": 0.249,
-      "recentAvg": 0.056,
+      "recentAvg": 0.105,
       "contextualWarnings": [
-        "Extended fatigue: 9 consecutive games",
-        "Significant recent decline: 0.056 vs 0.249"
+        "Extended fatigue: 10 consecutive games",
+        "Significant recent decline: 0.105 vs 0.249"
       ],
       "analysis": {
         "gameHistory": [
-          {
-            "date": "2025-08-20",
-            "atBats": 4,
-            "hits": 1,
-            "hr": 1,
-            "rbi": 1,
-            "strikeouts": 0,
-            "avg": 0.25,
-            "restDay": false
-          },
           {
             "date": "2025-08-22",
             "atBats": 5,
@@ -3295,13 +3133,420 @@
             "strikeouts": 0,
             "avg": 0.25,
             "restDay": false
+          },
+          {
+            "date": "2025-08-31",
+            "atBats": 4,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.25,
+            "restDay": false
           }
         ]
       }
     },
     {
-      "playerName": "A. Ibanez",
-      "team": "DET",
+      "playerName": "S. Marte",
+      "team": "NYM",
+      "totalRiskScore": 41,
+      "riskLevel": "MEDIUM",
+      "riskFactors": [
+        {
+          "type": "consecutive_games_fatigue",
+          "description": "7 consecutive games without rest",
+          "riskPoints": 21,
+          "consecutive_games": 7
+        },
+        {
+          "type": "poor_recent_performance",
+          "description": "Recent avg: 0.091 (last 5 games)",
+          "riskPoints": 20,
+          "recent_avg": 0.09090909090909091,
+          "games_sample": 5
+        }
+      ],
+      "consecutiveGames": 7,
+      "currentColdStreak": 2,
+      "seasonAvg": 0.276,
+      "recentAvg": 0.091,
+      "contextualWarnings": [
+        "Extended fatigue: 7 consecutive games",
+        "Significant recent decline: 0.091 vs 0.276"
+      ],
+      "analysis": {
+        "gameHistory": [
+          {
+            "date": "2025-08-21",
+            "atBats": 3,
+            "hits": 1,
+            "hr": 1,
+            "rbi": 1,
+            "strikeouts": 0,
+            "avg": 0.3333333333333333,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-22",
+            "atBats": 5,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 1,
+            "strikeouts": 0,
+            "avg": 0.2,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-23",
+            "atBats": 3,
+            "hits": 3,
+            "hr": 1,
+            "rbi": 1,
+            "strikeouts": 0,
+            "avg": 1.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-25",
+            "atBats": 3,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 1,
+            "strikeouts": 0,
+            "avg": 0.3333333333333333,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-26",
+            "atBats": 4,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.25,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-27",
+            "atBats": 4,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-28",
+            "atBats": 1,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-29",
+            "atBats": 4,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 1,
+            "strikeouts": 0,
+            "avg": 0.25,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-30",
+            "atBats": 1,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-31",
+            "atBats": 1,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          }
+        ]
+      }
+    },
+    {
+      "playerName": "V. Brujan",
+      "team": "ATL",
+      "totalRiskScore": 41,
+      "riskLevel": "MEDIUM",
+      "riskFactors": [
+        {
+          "type": "consecutive_games_fatigue",
+          "description": "7 consecutive games without rest",
+          "riskPoints": 21,
+          "consecutive_games": 7
+        },
+        {
+          "type": "poor_recent_performance",
+          "description": "Recent avg: 0.077 (last 5 games)",
+          "riskPoints": 20,
+          "recent_avg": 0.07692307692307693,
+          "games_sample": 5
+        }
+      ],
+      "consecutiveGames": 7,
+      "currentColdStreak": 0,
+      "seasonAvg": 0.233,
+      "recentAvg": 0.077,
+      "contextualWarnings": [
+        "Extended fatigue: 7 consecutive games",
+        "Significant recent decline: 0.077 vs 0.233"
+      ],
+      "analysis": {
+        "gameHistory": [
+          {
+            "date": "2025-08-19",
+            "atBats": 1,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 1.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-22",
+            "atBats": 2,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 1,
+            "strikeouts": 0,
+            "avg": 0.5,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-23",
+            "atBats": 2,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.5,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-25",
+            "atBats": 1,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-26",
+            "atBats": 1,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 1,
+            "strikeouts": 0,
+            "avg": 1.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-27",
+            "atBats": 5,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-28",
+            "atBats": 3,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-29",
+            "atBats": 2,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-30",
+            "atBats": 1,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-31",
+            "atBats": 2,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.5,
+            "restDay": false
+          }
+        ]
+      }
+    },
+    {
+      "playerName": "A. Bohm",
+      "team": "PHI",
+      "totalRiskScore": 40,
+      "riskLevel": "MEDIUM",
+      "riskFactors": [
+        {
+          "type": "consecutive_games_fatigue",
+          "description": "10 consecutive games without rest",
+          "riskPoints": 25,
+          "consecutive_games": 10
+        },
+        {
+          "type": "cold_streak",
+          "description": "3-game hitless streak",
+          "riskPoints": 15,
+          "streak_length": 3
+        }
+      ],
+      "consecutiveGames": 10,
+      "currentColdStreak": 3,
+      "seasonAvg": 0.274,
+      "recentAvg": 0.167,
+      "contextualWarnings": [
+        "Extended fatigue: 10 consecutive games"
+      ],
+      "analysis": {
+        "gameHistory": [
+          {
+            "date": "2025-08-22",
+            "atBats": 4,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.25,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-23",
+            "atBats": 3,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 1,
+            "strikeouts": 0,
+            "avg": 0.3333333333333333,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-24",
+            "atBats": 4,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.25,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-25",
+            "atBats": 4,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 2,
+            "strikeouts": 0,
+            "avg": 0.25,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-26",
+            "atBats": 4,
+            "hits": 2,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.5,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-27",
+            "atBats": 3,
+            "hits": 2,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.6666666666666666,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-28",
+            "atBats": 5,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 2,
+            "strikeouts": 0,
+            "avg": 0.2,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-29",
+            "atBats": 3,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 1,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-30",
+            "atBats": 4,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-31",
+            "atBats": 3,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          }
+        ]
+      }
+    },
+    {
+      "playerName": "C. Mullins",
+      "team": "NYM",
       "totalRiskScore": 40,
       "riskLevel": "MEDIUM",
       "riskFactors": [
@@ -3313,234 +3558,83 @@
         },
         {
           "type": "poor_recent_performance",
-          "description": "Recent avg: 0.143 (last 5 games)",
+          "description": "Recent avg: 0.067 (last 5 games)",
           "riskPoints": 20,
-          "recent_avg": 0.14285714285714285,
+          "recent_avg": 0.06666666666666667,
           "games_sample": 5
         }
       ],
-      "consecutiveGames": 2,
+      "consecutiveGames": 4,
       "currentColdStreak": 4,
-      "seasonAvg": 0.246,
-      "recentAvg": 0.143,
+      "seasonAvg": 0.203,
+      "recentAvg": 0.067,
       "contextualWarnings": [
-        "Significant recent decline: 0.143 vs 0.246"
+        "Significant recent decline: 0.067 vs 0.203"
       ],
       "analysis": {
         "gameHistory": [
           {
-            "date": "2025-08-17",
-            "atBats": 1,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-18",
-            "atBats": 1,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 1.0,
-            "restDay": false
-          },
-          {
             "date": "2025-08-19",
-            "atBats": 2,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-20",
             "atBats": 4,
             "hits": 1,
             "hr": 0,
-            "rbi": 1,
+            "rbi": 0,
             "strikeouts": 0,
             "avg": 0.25,
             "restDay": false
           },
           {
-            "date": "2025-08-22",
-            "atBats": 2,
-            "hits": 2,
-            "hr": 0,
-            "rbi": 1,
-            "strikeouts": 0,
-            "avg": 1.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-23",
-            "atBats": 1,
-            "hits": 1,
-            "hr": 1,
-            "rbi": 1,
-            "strikeouts": 0,
-            "avg": 1.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-25",
-            "atBats": 2,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-27",
-            "atBats": 1,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-29",
-            "atBats": 1,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-30",
-            "atBats": 2,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          }
-        ]
-      }
-    },
-    {
-      "playerName": "G. Perdomo",
-      "team": "ARI",
-      "totalRiskScore": 40,
-      "riskLevel": "MEDIUM",
-      "riskFactors": [
-        {
-          "type": "consecutive_games_fatigue",
-          "description": "9 consecutive games without rest",
-          "riskPoints": 25,
-          "consecutive_games": 9
-        },
-        {
-          "type": "cold_streak",
-          "description": "3-game hitless streak",
-          "riskPoints": 15,
-          "streak_length": 3
-        }
-      ],
-      "consecutiveGames": 9,
-      "currentColdStreak": 3,
-      "seasonAvg": 0.286,
-      "recentAvg": 0.182,
-      "contextualWarnings": [
-        "Extended fatigue: 9 consecutive games"
-      ],
-      "analysis": {
-        "gameHistory": [
-          {
             "date": "2025-08-20",
             "atBats": 4,
+            "hits": 2,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.5,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-21",
+            "atBats": 3,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.3333333333333333,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-22",
+            "atBats": 4,
+            "hits": 3,
+            "hr": 0,
+            "rbi": 2,
+            "strikeouts": 0,
+            "avg": 0.75,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-23",
+            "atBats": 1,
             "hits": 0,
             "hr": 0,
             "rbi": 0,
             "strikeouts": 0,
             "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-22",
-            "atBats": 1,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 1.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-23",
-            "atBats": 5,
-            "hits": 2,
-            "hr": 1,
-            "rbi": 3,
-            "strikeouts": 0,
-            "avg": 0.4,
             "restDay": false
           },
           {
             "date": "2025-08-24",
-            "atBats": 3,
+            "atBats": 2,
             "hits": 1,
             "hr": 0,
             "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.3333333333333333,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-25",
-            "atBats": 3,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.3333333333333333,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-26",
-            "atBats": 5,
-            "hits": 2,
-            "hr": 0,
-            "rbi": 2,
-            "strikeouts": 0,
-            "avg": 0.4,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-27",
-            "atBats": 4,
-            "hits": 2,
-            "hr": 1,
-            "rbi": 1,
             "strikeouts": 0,
             "avg": 0.5,
             "restDay": false
           },
           {
             "date": "2025-08-28",
-            "atBats": 5,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-29",
             "atBats": 3,
             "hits": 0,
             "hr": 0,
@@ -3550,11 +3644,31 @@
             "restDay": false
           },
           {
-            "date": "2025-08-30",
-            "atBats": 5,
+            "date": "2025-08-29",
+            "atBats": 2,
             "hits": 0,
             "hr": 0,
             "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-30",
+            "atBats": 4,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-31",
+            "atBats": 4,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 1,
             "strikeouts": 0,
             "avg": 0.0,
             "restDay": false
@@ -3695,8 +3809,8 @@
       }
     },
     {
-      "playerName": "N. Castellanos",
-      "team": "PHI",
+      "playerName": "W. Castro",
+      "team": "CHC",
       "totalRiskScore": 40,
       "riskLevel": "MEDIUM",
       "riskFactors": [
@@ -3716,319 +3830,13 @@
       ],
       "consecutiveGames": 2,
       "currentColdStreak": 4,
-      "seasonAvg": 0.243,
+      "seasonAvg": 0.154,
       "recentAvg": 0.125,
-      "contextualWarnings": [
-        "Significant recent decline: 0.125 vs 0.243"
-      ],
+      "contextualWarnings": [],
       "analysis": {
         "gameHistory": [
           {
-            "date": "2025-08-17",
-            "atBats": 5,
-            "hits": 2,
-            "hr": 1,
-            "rbi": 1,
-            "strikeouts": 0,
-            "avg": 0.4,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-18",
-            "atBats": 4,
-            "hits": 2,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.5,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-19",
-            "atBats": 4,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-22",
-            "atBats": 4,
-            "hits": 3,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.75,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-23",
-            "atBats": 3,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-24",
-            "atBats": 4,
-            "hits": 2,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.5,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-26",
-            "atBats": 3,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-27",
-            "atBats": 3,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-29",
-            "atBats": 3,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-30",
-            "atBats": 3,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          }
-        ]
-      }
-    },
-    {
-      "playerName": "R. Grichuk",
-      "team": "KC",
-      "totalRiskScore": 40,
-      "riskLevel": "MEDIUM",
-      "riskFactors": [
-        {
-          "type": "cold_streak",
-          "description": "4-game hitless streak",
-          "riskPoints": 20,
-          "streak_length": 4
-        },
-        {
-          "type": "poor_recent_performance",
-          "description": "Recent avg: 0.091 (last 5 games)",
-          "riskPoints": 20,
-          "recent_avg": 0.09090909090909091,
-          "games_sample": 5
-        }
-      ],
-      "consecutiveGames": 1,
-      "currentColdStreak": 4,
-      "seasonAvg": 0.22,
-      "recentAvg": 0.091,
-      "contextualWarnings": [
-        "Significant recent decline: 0.091 vs 0.220"
-      ],
-      "analysis": {
-        "gameHistory": [
-          {
-            "date": "2025-08-16",
-            "atBats": 3,
-            "hits": 2,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.6666666666666666,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-19",
-            "atBats": 2,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.5,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-20",
-            "atBats": 2,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-21",
-            "atBats": 3,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-22",
-            "atBats": 1,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 1.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-23",
-            "atBats": 3,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.3333333333333333,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-24",
-            "atBats": 2,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-25",
-            "atBats": 1,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-26",
-            "atBats": 2,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-30",
-            "atBats": 3,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          }
-        ]
-      }
-    },
-    {
-      "playerName": "T. Heineman",
-      "team": "TOR",
-      "totalRiskScore": 40,
-      "riskLevel": "MEDIUM",
-      "riskFactors": [
-        {
-          "type": "cold_streak",
-          "description": "4-game hitless streak",
-          "riskPoints": 20,
-          "streak_length": 4
-        },
-        {
-          "type": "poor_recent_performance",
-          "description": "Recent avg: 0.083 (last 5 games)",
-          "riskPoints": 20,
-          "recent_avg": 0.08333333333333333,
-          "games_sample": 5
-        }
-      ],
-      "consecutiveGames": 1,
-      "currentColdStreak": 4,
-      "seasonAvg": 0.309,
-      "recentAvg": 0.083,
-      "contextualWarnings": [
-        "Significant recent decline: 0.083 vs 0.309"
-      ],
-      "analysis": {
-        "gameHistory": [
-          {
-            "date": "2025-07-29",
-            "atBats": 3,
-            "hits": 3,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 1.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-01",
-            "atBats": 3,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-04",
-            "atBats": 1,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-06",
-            "atBats": 4,
-            "hits": 2,
-            "hr": 0,
-            "rbi": 1,
-            "strikeouts": 0,
-            "avg": 0.5,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-10",
+            "date": "2025-08-12",
             "atBats": 2,
             "hits": 1,
             "hr": 0,
@@ -4039,6 +3847,36 @@
           },
           {
             "date": "2025-08-14",
+            "atBats": 4,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-17",
+            "atBats": 1,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-19",
+            "atBats": 1,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-21",
             "atBats": 3,
             "hits": 1,
             "hr": 0,
@@ -4048,7 +3886,27 @@
             "restDay": false
           },
           {
-            "date": "2025-08-18",
+            "date": "2025-08-23",
+            "atBats": 5,
+            "hits": 2,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.4,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-26",
+            "atBats": 1,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-27",
             "atBats": 3,
             "hits": 0,
             "hr": 0,
@@ -4058,8 +3916,71 @@
             "restDay": false
           },
           {
+            "date": "2025-08-30",
+            "atBats": 3,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-31",
+            "atBats": 4,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          }
+        ]
+      }
+    },
+    {
+      "playerName": "X. Edwards",
+      "team": "MIA",
+      "totalRiskScore": 39,
+      "riskLevel": "MEDIUM",
+      "riskFactors": [
+        {
+          "type": "consecutive_games_fatigue",
+          "description": "10 consecutive games without rest",
+          "riskPoints": 25,
+          "consecutive_games": 10
+        },
+        {
+          "type": "performance_decline",
+          "description": "Recent decline: 0.136 vs season 0.285",
+          "riskPoints": 14,
+          "season_avg": 0.285132382892057,
+          "recent_avg": 0.13636363636363635,
+          "decline_percent": 52.175324675324674
+        }
+      ],
+      "consecutiveGames": 10,
+      "currentColdStreak": 0,
+      "seasonAvg": 0.285,
+      "recentAvg": 0.182,
+      "contextualWarnings": [
+        "Extended fatigue: 10 consecutive games"
+      ],
+      "analysis": {
+        "gameHistory": [
+          {
+            "date": "2025-08-22",
+            "atBats": 4,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
             "date": "2025-08-23",
-            "atBats": 1,
+            "atBats": 6,
             "hits": 0,
             "hr": 0,
             "rbi": 0,
@@ -4078,8 +3999,200 @@
             "restDay": false
           },
           {
+            "date": "2025-08-25",
+            "atBats": 4,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.25,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-26",
+            "atBats": 5,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.2,
+            "restDay": false
+          },
+          {
             "date": "2025-08-27",
-            "atBats": 2,
+            "atBats": 3,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-28",
+            "atBats": 4,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-29",
+            "atBats": 5,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.2,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-30",
+            "atBats": 5,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.2,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-31",
+            "atBats": 5,
+            "hits": 2,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.4,
+            "restDay": false
+          }
+        ]
+      }
+    },
+    {
+      "playerName": "C. Correa",
+      "team": "HOU",
+      "totalRiskScore": 38,
+      "riskLevel": "MEDIUM",
+      "riskFactors": [
+        {
+          "type": "consecutive_games_fatigue",
+          "description": "6 consecutive games without rest",
+          "riskPoints": 18,
+          "consecutive_games": 6
+        },
+        {
+          "type": "poor_recent_performance",
+          "description": "Recent avg: 0.053 (last 5 games)",
+          "riskPoints": 20,
+          "recent_avg": 0.05263157894736842,
+          "games_sample": 5
+        }
+      ],
+      "consecutiveGames": 6,
+      "currentColdStreak": 2,
+      "seasonAvg": 0.295,
+      "recentAvg": 0.053,
+      "contextualWarnings": [
+        "Significant recent decline: 0.053 vs 0.295"
+      ],
+      "analysis": {
+        "gameHistory": [
+          {
+            "date": "2025-08-21",
+            "atBats": 5,
+            "hits": 2,
+            "hr": 0,
+            "rbi": 2,
+            "strikeouts": 0,
+            "avg": 0.4,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-22",
+            "atBats": 4,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.25,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-23",
+            "atBats": 5,
+            "hits": 2,
+            "hr": 1,
+            "rbi": 2,
+            "strikeouts": 0,
+            "avg": 0.4,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-24",
+            "atBats": 3,
+            "hits": 2,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.6666666666666666,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-26",
+            "atBats": 3,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.3333333333333333,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-27",
+            "atBats": 4,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-28",
+            "atBats": 4,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-29",
+            "atBats": 3,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 1,
+            "strikeouts": 0,
+            "avg": 0.3333333333333333,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-30",
+            "atBats": 4,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-31",
+            "atBats": 4,
             "hits": 0,
             "hr": 0,
             "rbi": 0,
@@ -4223,8 +4336,8 @@
       }
     },
     {
-      "playerName": "S. Marte",
-      "team": "NYM",
+      "playerName": "K. Karros",
+      "team": "COL",
       "totalRiskScore": 38,
       "riskLevel": "MEDIUM",
       "riskFactors": [
@@ -4236,160 +4349,27 @@
         },
         {
           "type": "poor_recent_performance",
-          "description": "Recent avg: 0.143 (last 5 games)",
+          "description": "Recent avg: 0.100 (last 5 games)",
           "riskPoints": 20,
-          "recent_avg": 0.14285714285714285,
+          "recent_avg": 0.1,
           "games_sample": 5
         }
       ],
       "consecutiveGames": 6,
-      "currentColdStreak": 1,
-      "seasonAvg": 0.277,
-      "recentAvg": 0.143,
+      "currentColdStreak": 2,
+      "seasonAvg": 0.243,
+      "recentAvg": 0.1,
       "contextualWarnings": [
-        "Significant recent decline: 0.143 vs 0.277"
+        "Significant recent decline: 0.100 vs 0.243"
       ],
       "analysis": {
         "gameHistory": [
           {
-            "date": "2025-08-20",
-            "atBats": 3,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.3333333333333333,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-21",
-            "atBats": 3,
+            "date": "2025-08-19",
+            "atBats": 4,
             "hits": 1,
             "hr": 1,
-            "rbi": 1,
-            "strikeouts": 0,
-            "avg": 0.3333333333333333,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-22",
-            "atBats": 5,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 1,
-            "strikeouts": 0,
-            "avg": 0.2,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-23",
-            "atBats": 3,
-            "hits": 3,
-            "hr": 1,
-            "rbi": 1,
-            "strikeouts": 0,
-            "avg": 1.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-25",
-            "atBats": 3,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 1,
-            "strikeouts": 0,
-            "avg": 0.3333333333333333,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-26",
-            "atBats": 4,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.25,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-27",
-            "atBats": 4,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-28",
-            "atBats": 1,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-29",
-            "atBats": 4,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 1,
-            "strikeouts": 0,
-            "avg": 0.25,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-30",
-            "atBats": 1,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          }
-        ]
-      }
-    },
-    {
-      "playerName": "A. Judge",
-      "team": "NYY",
-      "totalRiskScore": 36,
-      "riskLevel": "MEDIUM",
-      "riskFactors": [
-        {
-          "type": "consecutive_games_fatigue",
-          "description": "12 consecutive games without rest",
-          "riskPoints": 25,
-          "consecutive_games": 12
-        },
-        {
-          "type": "performance_decline",
-          "description": "Recent decline: 0.206 vs season 0.322",
-          "riskPoints": 11,
-          "season_avg": 0.3215077605321508,
-          "recent_avg": 0.20588235294117646,
-          "decline_percent": 35.963488843813394
-        }
-      ],
-      "consecutiveGames": 12,
-      "currentColdStreak": 0,
-      "seasonAvg": 0.322,
-      "recentAvg": 0.25,
-      "contextualWarnings": [
-        "Extended fatigue: 12 consecutive games"
-      ],
-      "analysis": {
-        "gameHistory": [
-          {
-            "date": "2025-08-21",
-            "atBats": 4,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 0,
+            "rbi": 2,
             "strikeouts": 0,
             "avg": 0.25,
             "restDay": false
@@ -4406,291 +4386,6 @@
           },
           {
             "date": "2025-08-23",
-            "atBats": 4,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.25,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-24",
-            "atBats": 3,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-25",
-            "atBats": 4,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 1,
-            "strikeouts": 0,
-            "avg": 0.25,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-26",
-            "atBats": 3,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-27",
-            "atBats": 4,
-            "hits": 2,
-            "hr": 1,
-            "rbi": 2,
-            "strikeouts": 0,
-            "avg": 0.5,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-28",
-            "atBats": 3,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.3333333333333333,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-29",
-            "atBats": 2,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-30",
-            "atBats": 4,
-            "hits": 1,
-            "hr": 1,
-            "rbi": 1,
-            "strikeouts": 0,
-            "avg": 0.25,
-            "restDay": false
-          }
-        ]
-      }
-    },
-    {
-      "playerName": "M. Harris",
-      "team": "ATL",
-      "totalRiskScore": 36,
-      "riskLevel": "MEDIUM",
-      "riskFactors": [
-        {
-          "type": "consecutive_games_fatigue",
-          "description": "9 consecutive games without rest",
-          "riskPoints": 25,
-          "consecutive_games": 9
-        },
-        {
-          "type": "performance_decline",
-          "description": "Recent decline: 0.128 vs season 0.245",
-          "riskPoints": 11,
-          "season_avg": 0.2450199203187251,
-          "recent_avg": 0.1282051282051282,
-          "decline_percent": 47.675630602459876
-        }
-      ],
-      "consecutiveGames": 9,
-      "currentColdStreak": 1,
-      "seasonAvg": 0.245,
-      "recentAvg": 0.19,
-      "contextualWarnings": [
-        "Extended fatigue: 9 consecutive games"
-      ],
-      "analysis": {
-        "gameHistory": [
-          {
-            "date": "2025-08-20",
-            "atBats": 3,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-22",
-            "atBats": 4,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-23",
-            "atBats": 4,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-24",
-            "atBats": 4,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.25,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-25",
-            "atBats": 3,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-26",
-            "atBats": 4,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-27",
-            "atBats": 5,
-            "hits": 2,
-            "hr": 1,
-            "rbi": 3,
-            "strikeouts": 0,
-            "avg": 0.4,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-28",
-            "atBats": 4,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 2,
-            "strikeouts": 0,
-            "avg": 0.25,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-29",
-            "atBats": 4,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.25,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-30",
-            "atBats": 4,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          }
-        ]
-      }
-    },
-    {
-      "playerName": "C. Correa",
-      "team": "HOU",
-      "totalRiskScore": 35,
-      "riskLevel": "MEDIUM",
-      "riskFactors": [
-        {
-          "type": "consecutive_games_fatigue",
-          "description": "5 consecutive games without rest",
-          "riskPoints": 15,
-          "consecutive_games": 5
-        },
-        {
-          "type": "poor_recent_performance",
-          "description": "Recent avg: 0.111 (last 5 games)",
-          "riskPoints": 20,
-          "recent_avg": 0.1111111111111111,
-          "games_sample": 5
-        }
-      ],
-      "consecutiveGames": 5,
-      "currentColdStreak": 1,
-      "seasonAvg": 0.307,
-      "recentAvg": 0.111,
-      "contextualWarnings": [
-        "Significant recent decline: 0.111 vs 0.307"
-      ],
-      "analysis": {
-        "gameHistory": [
-          {
-            "date": "2025-08-20",
-            "atBats": 3,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.3333333333333333,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-21",
-            "atBats": 5,
-            "hits": 2,
-            "hr": 0,
-            "rbi": 2,
-            "strikeouts": 0,
-            "avg": 0.4,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-22",
-            "atBats": 4,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.25,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-23",
-            "atBats": 5,
-            "hits": 2,
-            "hr": 1,
-            "rbi": 2,
-            "strikeouts": 0,
-            "avg": 0.4,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-24",
             "atBats": 3,
             "hits": 2,
             "hr": 0,
@@ -4700,13 +4395,301 @@
             "restDay": false
           },
           {
-            "date": "2025-08-26",
+            "date": "2025-08-24",
             "atBats": 3,
             "hits": 1,
             "hr": 0,
             "rbi": 0,
             "strikeouts": 0,
             "avg": 0.3333333333333333,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-26",
+            "atBats": 4,
+            "hits": 2,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.5,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-27",
+            "atBats": 3,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-28",
+            "atBats": 5,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.2,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-29",
+            "atBats": 4,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 1,
+            "strikeouts": 0,
+            "avg": 0.25,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-30",
+            "atBats": 4,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-31",
+            "atBats": 4,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          }
+        ]
+      }
+    },
+    {
+      "playerName": "C. Young",
+      "team": "SEA",
+      "totalRiskScore": 36,
+      "riskLevel": "MEDIUM",
+      "riskFactors": [
+        {
+          "type": "poor_recent_performance",
+          "description": "Recent avg: 0.071 (last 5 games)",
+          "riskPoints": 20,
+          "recent_avg": 0.07142857142857142,
+          "games_sample": 5
+        },
+        {
+          "type": "performance_decline",
+          "description": "Recent decline: 0.067 vs season 0.228",
+          "riskPoints": 16,
+          "season_avg": 0.22772277227722773,
+          "recent_avg": 0.06666666666666667,
+          "decline_percent": 70.72463768115942
+        }
+      ],
+      "consecutiveGames": 2,
+      "currentColdStreak": 0,
+      "seasonAvg": 0.228,
+      "recentAvg": 0.071,
+      "contextualWarnings": [
+        "Significant recent decline: 0.071 vs 0.228"
+      ],
+      "analysis": {
+        "gameHistory": [
+          {
+            "date": "2025-08-16",
+            "atBats": 2,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-17",
+            "atBats": 4,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-18",
+            "atBats": 4,
+            "hits": 1,
+            "hr": 1,
+            "rbi": 4,
+            "strikeouts": 0,
+            "avg": 0.25,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-20",
+            "atBats": 3,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-22",
+            "atBats": 3,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-23",
+            "atBats": 3,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-26",
+            "atBats": 3,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-27",
+            "atBats": 3,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-30",
+            "atBats": 2,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-31",
+            "atBats": 3,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.3333333333333333,
+            "restDay": false
+          }
+        ]
+      }
+    },
+    {
+      "playerName": "V. Guerrero Jr.",
+      "team": "TOR",
+      "totalRiskScore": 36,
+      "riskLevel": "MEDIUM",
+      "riskFactors": [
+        {
+          "type": "poor_recent_performance",
+          "description": "Recent avg: 0.053 (last 5 games)",
+          "riskPoints": 20,
+          "recent_avg": 0.05263157894736842,
+          "games_sample": 5
+        },
+        {
+          "type": "performance_decline",
+          "description": "Recent decline: 0.121 vs season 0.289",
+          "riskPoints": 16,
+          "season_avg": 0.2892561983471074,
+          "recent_avg": 0.12121212121212122,
+          "decline_percent": 58.09523809523809
+        }
+      ],
+      "consecutiveGames": 3,
+      "currentColdStreak": 0,
+      "seasonAvg": 0.289,
+      "recentAvg": 0.053,
+      "contextualWarnings": [
+        "Significant recent decline: 0.053 vs 0.289"
+      ],
+      "analysis": {
+        "gameHistory": [
+          {
+            "date": "2025-08-16",
+            "atBats": 3,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-17",
+            "atBats": 4,
+            "hits": 2,
+            "hr": 1,
+            "rbi": 1,
+            "strikeouts": 0,
+            "avg": 0.5,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-18",
+            "atBats": 2,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 1,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-24",
+            "atBats": 1,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-25",
+            "atBats": 4,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 2,
+            "strikeouts": 0,
+            "avg": 0.25,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-26",
+            "atBats": 4,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 1,
+            "strikeouts": 0,
+            "avg": 0.0,
             "restDay": false
           },
           {
@@ -4717,6 +4700,261 @@
             "rbi": 0,
             "strikeouts": 0,
             "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-29",
+            "atBats": 4,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-30",
+            "atBats": 3,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 1,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-31",
+            "atBats": 4,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 1,
+            "strikeouts": 0,
+            "avg": 0.25,
+            "restDay": false
+          }
+        ]
+      }
+    },
+    {
+      "playerName": "A. Hedges",
+      "team": "CLE",
+      "totalRiskScore": 35,
+      "riskLevel": "MEDIUM",
+      "riskFactors": [
+        {
+          "type": "cold_streak",
+          "description": "3-game hitless streak",
+          "riskPoints": 15,
+          "streak_length": 3
+        },
+        {
+          "type": "poor_recent_performance",
+          "description": "Recent avg: 0.077 (last 5 games)",
+          "riskPoints": 20,
+          "recent_avg": 0.07692307692307693,
+          "games_sample": 5
+        }
+      ],
+      "consecutiveGames": 1,
+      "currentColdStreak": 3,
+      "seasonAvg": 0.136,
+      "recentAvg": 0.077,
+      "contextualWarnings": [
+        "Significant recent decline: 0.077 vs 0.136"
+      ],
+      "analysis": {
+        "gameHistory": [
+          {
+            "date": "2025-07-30",
+            "atBats": 3,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-04",
+            "atBats": 3,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.3333333333333333,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-06",
+            "atBats": 3,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-10",
+            "atBats": 1,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-14",
+            "atBats": 3,
+            "hits": 2,
+            "hr": 0,
+            "rbi": 1,
+            "strikeouts": 0,
+            "avg": 0.6666666666666666,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-16",
+            "atBats": 3,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-19",
+            "atBats": 3,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 1,
+            "strikeouts": 0,
+            "avg": 0.3333333333333333,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-23",
+            "atBats": 3,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-27",
+            "atBats": 2,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-31",
+            "atBats": 2,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          }
+        ]
+      }
+    },
+    {
+      "playerName": "A. Vaughn",
+      "team": "MIL",
+      "totalRiskScore": 35,
+      "riskLevel": "MEDIUM",
+      "riskFactors": [
+        {
+          "type": "consecutive_games_fatigue",
+          "description": "8 consecutive games without rest",
+          "riskPoints": 24,
+          "consecutive_games": 8
+        },
+        {
+          "type": "performance_decline",
+          "description": "Recent decline: 0.167 vs season 0.287",
+          "riskPoints": 11,
+          "season_avg": 0.28662420382165604,
+          "recent_avg": 0.16666666666666666,
+          "decline_percent": 41.85185185185185
+        }
+      ],
+      "consecutiveGames": 8,
+      "currentColdStreak": 2,
+      "seasonAvg": 0.287,
+      "recentAvg": 0.2,
+      "contextualWarnings": [
+        "Extended fatigue: 8 consecutive games"
+      ],
+      "analysis": {
+        "gameHistory": [
+          {
+            "date": "2025-08-21",
+            "atBats": 3,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-22",
+            "atBats": 3,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 1,
+            "strikeouts": 0,
+            "avg": 0.3333333333333333,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-24",
+            "atBats": 4,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-25",
+            "atBats": 3,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-26",
+            "atBats": 3,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 1,
+            "strikeouts": 0,
+            "avg": 0.3333333333333333,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-27",
+            "atBats": 4,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.25,
             "restDay": false
           },
           {
@@ -4731,12 +4969,12 @@
           },
           {
             "date": "2025-08-29",
-            "atBats": 3,
-            "hits": 1,
+            "atBats": 5,
+            "hits": 3,
             "hr": 0,
-            "rbi": 1,
+            "rbi": 2,
             "strikeouts": 0,
-            "avg": 0.3333333333333333,
+            "avg": 0.6,
             "restDay": false
           },
           {
@@ -4748,13 +4986,23 @@
             "strikeouts": 0,
             "avg": 0.0,
             "restDay": false
+          },
+          {
+            "date": "2025-08-31",
+            "atBats": 3,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
           }
         ]
       }
     },
     {
-      "playerName": "C. Koss",
-      "team": "SF",
+      "playerName": "H. Davis",
+      "team": "PIT",
       "totalRiskScore": 35,
       "riskLevel": "MEDIUM",
       "riskFactors": [
@@ -4774,39 +5022,151 @@
       ],
       "consecutiveGames": 1,
       "currentColdStreak": 3,
-      "seasonAvg": 0.25,
+      "seasonAvg": 0.172,
       "recentAvg": 0.067,
       "contextualWarnings": [
-        "Significant recent decline: 0.067 vs 0.250"
+        "Significant recent decline: 0.067 vs 0.172"
       ],
       "analysis": {
         "gameHistory": [
           {
-            "date": "2025-08-13",
-            "atBats": 2,
+            "date": "2025-08-12",
+            "atBats": 3,
             "hits": 0,
             "hr": 0,
-            "rbi": 1,
+            "rbi": 0,
             "strikeouts": 0,
             "avg": 0.0,
             "restDay": false
           },
           {
             "date": "2025-08-15",
-            "atBats": 2,
-            "hits": 2,
+            "atBats": 4,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.25,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-18",
+            "atBats": 3,
+            "hits": 1,
             "hr": 0,
             "rbi": 1,
             "strikeouts": 0,
-            "avg": 1.0,
+            "avg": 0.3333333333333333,
             "restDay": false
           },
+          {
+            "date": "2025-08-20",
+            "atBats": 3,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-22",
+            "atBats": 4,
+            "hits": 2,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.5,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-24",
+            "atBats": 2,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-26",
+            "atBats": 3,
+            "hits": 1,
+            "hr": 1,
+            "rbi": 2,
+            "strikeouts": 0,
+            "avg": 0.3333333333333333,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-27",
+            "atBats": 4,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-29",
+            "atBats": 3,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 1,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-31",
+            "atBats": 3,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          }
+        ]
+      }
+    },
+    {
+      "playerName": "J. Caballero",
+      "team": "NYY",
+      "totalRiskScore": 35,
+      "riskLevel": "MEDIUM",
+      "riskFactors": [
+        {
+          "type": "cold_streak",
+          "description": "3-game hitless streak",
+          "riskPoints": 15,
+          "streak_length": 3
+        },
+        {
+          "type": "poor_recent_performance",
+          "description": "Recent avg: 0.091 (last 5 games)",
+          "riskPoints": 20,
+          "recent_avg": 0.09090909090909091,
+          "games_sample": 5
+        }
+      ],
+      "consecutiveGames": 1,
+      "currentColdStreak": 3,
+      "seasonAvg": 0.25,
+      "recentAvg": 0.091,
+      "contextualWarnings": [
+        "Significant recent decline: 0.091 vs 0.250"
+      ],
+      "analysis": {
+        "gameHistory": [
           {
             "date": "2025-08-16",
             "atBats": 4,
             "hits": 2,
             "hr": 0,
-            "rbi": 1,
+            "rbi": 0,
             "strikeouts": 0,
             "avg": 0.5,
             "restDay": false
@@ -4814,46 +5174,26 @@
           {
             "date": "2025-08-17",
             "atBats": 4,
-            "hits": 2,
-            "hr": 0,
-            "rbi": 1,
-            "strikeouts": 0,
-            "avg": 0.5,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-18",
-            "atBats": 4,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-19",
-            "atBats": 4,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-20",
-            "atBats": 4,
             "hits": 1,
             "hr": 0,
-            "rbi": 0,
+            "rbi": 1,
             "strikeouts": 0,
             "avg": 0.25,
             "restDay": false
           },
           {
-            "date": "2025-08-21",
+            "date": "2025-08-19",
             "atBats": 4,
+            "hits": 2,
+            "hr": 2,
+            "rbi": 3,
+            "strikeouts": 0,
+            "avg": 0.5,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-20",
+            "atBats": 1,
             "hits": 0,
             "hr": 0,
             "rbi": 0,
@@ -4862,7 +5202,7 @@
             "restDay": false
           },
           {
-            "date": "2025-08-22",
+            "date": "2025-08-23",
             "atBats": 2,
             "hits": 0,
             "hr": 0,
@@ -4872,8 +5212,48 @@
             "restDay": false
           },
           {
-            "date": "2025-08-27",
+            "date": "2025-08-24",
+            "atBats": 3,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 1,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-25",
+            "atBats": 4,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.25,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-28",
             "atBats": 1,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-29",
+            "atBats": 1,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-31",
+            "atBats": 2,
             "hits": 0,
             "hr": 0,
             "rbi": 0,
@@ -4885,8 +5265,8 @@
       }
     },
     {
-      "playerName": "C. Mullins",
-      "team": "NYM",
+      "playerName": "J. Walker",
+      "team": "STL",
       "totalRiskScore": 35,
       "riskLevel": "MEDIUM",
       "riskFactors": [
@@ -4898,366 +5278,94 @@
         },
         {
           "type": "poor_recent_performance",
-          "description": "Recent avg: 0.083 (last 5 games)",
+          "description": "Recent avg: 0.059 (last 5 games)",
           "riskPoints": 20,
-          "recent_avg": 0.08333333333333333,
+          "recent_avg": 0.058823529411764705,
           "games_sample": 5
         }
       ],
-      "consecutiveGames": 3,
+      "consecutiveGames": 4,
       "currentColdStreak": 3,
-      "seasonAvg": 0.213,
-      "recentAvg": 0.083,
+      "seasonAvg": 0.218,
+      "recentAvg": 0.059,
       "contextualWarnings": [
-        "Significant recent decline: 0.083 vs 0.213"
+        "Significant recent decline: 0.059 vs 0.218"
       ],
       "analysis": {
         "gameHistory": [
           {
             "date": "2025-08-17",
-            "atBats": 4,
-            "hits": 1,
+            "atBats": 3,
+            "hits": 0,
             "hr": 0,
             "rbi": 0,
             "strikeouts": 0,
-            "avg": 0.25,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-19",
-            "atBats": 4,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.25,
+            "avg": 0.0,
             "restDay": false
           },
           {
             "date": "2025-08-20",
             "atBats": 4,
-            "hits": 2,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.5,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-21",
-            "atBats": 3,
             "hits": 1,
             "hr": 0,
             "rbi": 0,
             "strikeouts": 0,
-            "avg": 0.3333333333333333,
+            "avg": 0.25,
             "restDay": false
           },
           {
             "date": "2025-08-22",
             "atBats": 4,
-            "hits": 3,
+            "hits": 1,
             "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.25,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-24",
+            "atBats": 4,
+            "hits": 2,
+            "hr": 0,
+            "rbi": 1,
+            "strikeouts": 0,
+            "avg": 0.5,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-25",
+            "atBats": 4,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.25,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-26",
+            "atBats": 3,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-28",
+            "atBats": 3,
+            "hits": 1,
+            "hr": 1,
             "rbi": 2,
             "strikeouts": 0,
-            "avg": 0.75,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-23",
-            "atBats": 1,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-24",
-            "atBats": 2,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.5,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-28",
-            "atBats": 3,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-29",
-            "atBats": 2,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-30",
-            "atBats": 4,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          }
-        ]
-      }
-    },
-    {
-      "playerName": "C. Schmitt",
-      "team": "SF",
-      "totalRiskScore": 35,
-      "riskLevel": "MEDIUM",
-      "riskFactors": [
-        {
-          "type": "consecutive_games_fatigue",
-          "description": "5 consecutive games without rest",
-          "riskPoints": 15,
-          "consecutive_games": 5
-        },
-        {
-          "type": "poor_recent_performance",
-          "description": "Recent avg: 0.143 (last 5 games)",
-          "riskPoints": 20,
-          "recent_avg": 0.14285714285714285,
-          "games_sample": 5
-        }
-      ],
-      "consecutiveGames": 5,
-      "currentColdStreak": 1,
-      "seasonAvg": 0.236,
-      "recentAvg": 0.143,
-      "contextualWarnings": [],
-      "analysis": {
-        "gameHistory": [
-          {
-            "date": "2025-08-20",
-            "atBats": 4,
-            "hits": 1,
-            "hr": 1,
-            "rbi": 1,
-            "strikeouts": 0,
-            "avg": 0.25,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-21",
-            "atBats": 3,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
             "avg": 0.3333333333333333,
             "restDay": false
           },
           {
-            "date": "2025-08-22",
-            "atBats": 3,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-23",
-            "atBats": 4,
-            "hits": 2,
-            "hr": 1,
-            "rbi": 4,
-            "strikeouts": 0,
-            "avg": 0.5,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-24",
-            "atBats": 4,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-26",
-            "atBats": 4,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-27",
-            "atBats": 4,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 1,
-            "strikeouts": 0,
-            "avg": 0.25,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-28",
-            "atBats": 4,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.25,
-            "restDay": false
-          },
-          {
             "date": "2025-08-29",
-            "atBats": 5,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.2,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-30",
             "atBats": 4,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          }
-        ]
-      }
-    },
-    {
-      "playerName": "M. Trout",
-      "team": "LAA",
-      "totalRiskScore": 35,
-      "riskLevel": "MEDIUM",
-      "riskFactors": [
-        {
-          "type": "cold_streak",
-          "description": "3-game hitless streak",
-          "riskPoints": 15,
-          "streak_length": 3
-        },
-        {
-          "type": "poor_recent_performance",
-          "description": "Recent avg: 0.056 (last 5 games)",
-          "riskPoints": 20,
-          "recent_avg": 0.05555555555555555,
-          "games_sample": 5
-        }
-      ],
-      "consecutiveGames": 2,
-      "currentColdStreak": 3,
-      "seasonAvg": 0.228,
-      "recentAvg": 0.056,
-      "contextualWarnings": [
-        "Significant recent decline: 0.056 vs 0.228"
-      ],
-      "analysis": {
-        "gameHistory": [
-          {
-            "date": "2025-08-18",
-            "atBats": 3,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.3333333333333333,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-19",
-            "atBats": 3,
-            "hits": 2,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.6666666666666666,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-20",
-            "atBats": 4,
-            "hits": 2,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.5,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-22",
-            "atBats": 3,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-23",
-            "atBats": 3,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-24",
-            "atBats": 4,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-26",
-            "atBats": 4,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.25,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-27",
-            "atBats": 4,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-29",
-            "atBats": 3,
             "hits": 0,
             "hr": 0,
             "rbi": 0,
@@ -5270,7 +5378,17 @@
             "atBats": 3,
             "hits": 0,
             "hr": 0,
-            "rbi": 1,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-31",
+            "atBats": 4,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
             "strikeouts": 0,
             "avg": 0.0,
             "restDay": false
@@ -5411,75 +5529,77 @@
       }
     },
     {
-      "playerName": "O. Cruz",
-      "team": "PIT",
+      "playerName": "S. Perez",
+      "team": "KC",
       "totalRiskScore": 35,
       "riskLevel": "MEDIUM",
       "riskFactors": [
         {
-          "type": "consecutive_games_fatigue",
-          "description": "5 consecutive games without rest",
+          "type": "cold_streak",
+          "description": "3-game hitless streak",
           "riskPoints": 15,
-          "consecutive_games": 5
+          "streak_length": 3
         },
         {
           "type": "poor_recent_performance",
-          "description": "Recent avg: 0.125 (last 5 games)",
+          "description": "Recent avg: 0.105 (last 5 games)",
           "riskPoints": 20,
-          "recent_avg": 0.125,
+          "recent_avg": 0.10526315789473684,
           "games_sample": 5
         }
       ],
-      "consecutiveGames": 5,
-      "currentColdStreak": 0,
-      "seasonAvg": 0.206,
-      "recentAvg": 0.125,
-      "contextualWarnings": [],
+      "consecutiveGames": 3,
+      "currentColdStreak": 3,
+      "seasonAvg": 0.235,
+      "recentAvg": 0.105,
+      "contextualWarnings": [
+        "Significant recent decline: 0.105 vs 0.235"
+      ],
       "analysis": {
         "gameHistory": [
           {
-            "date": "2025-08-07",
+            "date": "2025-08-21",
             "atBats": 4,
-            "hits": 1,
+            "hits": 2,
             "hr": 0,
             "rbi": 1,
             "strikeouts": 0,
-            "avg": 0.25,
+            "avg": 0.5,
             "restDay": false
           },
           {
-            "date": "2025-08-08",
-            "atBats": 4,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 1,
-            "strikeouts": 0,
-            "avg": 0.25,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-09",
+            "date": "2025-08-22",
             "atBats": 3,
-            "hits": 0,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 2,
+            "strikeouts": 0,
+            "avg": 0.3333333333333333,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-23",
+            "atBats": 4,
+            "hits": 1,
             "hr": 0,
             "rbi": 0,
             "strikeouts": 0,
-            "avg": 0.0,
+            "avg": 0.25,
             "restDay": false
           },
           {
-            "date": "2025-08-10",
-            "atBats": 5,
+            "date": "2025-08-24",
+            "atBats": 4,
             "hits": 1,
             "hr": 0,
             "rbi": 1,
             "strikeouts": 0,
-            "avg": 0.2,
+            "avg": 0.25,
             "restDay": false
           },
           {
-            "date": "2025-08-12",
-            "atBats": 1,
+            "date": "2025-08-25",
+            "atBats": 3,
             "hits": 0,
             "hr": 0,
             "rbi": 0,
@@ -5492,7 +5612,139 @@
             "atBats": 4,
             "hits": 0,
             "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-27",
+            "atBats": 4,
+            "hits": 2,
+            "hr": 1,
+            "rbi": 3,
+            "strikeouts": 0,
+            "avg": 0.5,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-29",
+            "atBats": 4,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-30",
+            "atBats": 3,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-31",
+            "atBats": 4,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          }
+        ]
+      }
+    },
+    {
+      "playerName": "S. Torkelson",
+      "team": "DET",
+      "totalRiskScore": 35,
+      "riskLevel": "MEDIUM",
+      "riskFactors": [
+        {
+          "type": "cold_streak",
+          "description": "3-game hitless streak",
+          "riskPoints": 15,
+          "streak_length": 3
+        },
+        {
+          "type": "poor_recent_performance",
+          "description": "Recent avg: 0.059 (last 5 games)",
+          "riskPoints": 20,
+          "recent_avg": 0.058823529411764705,
+          "games_sample": 5
+        }
+      ],
+      "consecutiveGames": 3,
+      "currentColdStreak": 3,
+      "seasonAvg": 0.233,
+      "recentAvg": 0.059,
+      "contextualWarnings": [
+        "Significant recent decline: 0.059 vs 0.233"
+      ],
+      "analysis": {
+        "gameHistory": [
+          {
+            "date": "2025-08-20",
+            "atBats": 4,
+            "hits": 1,
+            "hr": 0,
             "rbi": 1,
+            "strikeouts": 0,
+            "avg": 0.25,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-22",
+            "atBats": 3,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.3333333333333333,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-23",
+            "atBats": 4,
+            "hits": 2,
+            "hr": 1,
+            "rbi": 1,
+            "strikeouts": 0,
+            "avg": 0.5,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-24",
+            "atBats": 5,
+            "hits": 1,
+            "hr": 1,
+            "rbi": 1,
+            "strikeouts": 0,
+            "avg": 0.2,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-25",
+            "atBats": 3,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-26",
+            "atBats": 5,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
             "strikeouts": 0,
             "avg": 0.0,
             "restDay": false
@@ -5500,6 +5752,401 @@
           {
             "date": "2025-08-27",
             "atBats": 3,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.3333333333333333,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-29",
+            "atBats": 2,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-30",
+            "atBats": 4,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-31",
+            "atBats": 3,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          }
+        ]
+      }
+    },
+    {
+      "playerName": "T. d'Arnaud",
+      "team": "LAA",
+      "totalRiskScore": 35,
+      "riskLevel": "MEDIUM",
+      "riskFactors": [
+        {
+          "type": "cold_streak",
+          "description": "3-game hitless streak",
+          "riskPoints": 15,
+          "streak_length": 3
+        },
+        {
+          "type": "poor_recent_performance",
+          "description": "Recent avg: 0.125 (last 5 games)",
+          "riskPoints": 20,
+          "recent_avg": 0.125,
+          "games_sample": 5
+        }
+      ],
+      "consecutiveGames": 2,
+      "currentColdStreak": 3,
+      "seasonAvg": 0.195,
+      "recentAvg": 0.125,
+      "contextualWarnings": [],
+      "analysis": {
+        "gameHistory": [
+          {
+            "date": "2025-08-09",
+            "atBats": 3,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-11",
+            "atBats": 4,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-15",
+            "atBats": 3,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 1,
+            "strikeouts": 0,
+            "avg": 0.3333333333333333,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-19",
+            "atBats": 4,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.25,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-20",
+            "atBats": 3,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-24",
+            "atBats": 4,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-25",
+            "atBats": 4,
+            "hits": 2,
+            "hr": 0,
+            "rbi": 2,
+            "strikeouts": 0,
+            "avg": 0.5,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-26",
+            "atBats": 4,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-30",
+            "atBats": 1,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-31",
+            "atBats": 3,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          }
+        ]
+      }
+    },
+    {
+      "playerName": "K. Schwarber",
+      "team": "PHI",
+      "totalRiskScore": 33,
+      "riskLevel": "MEDIUM",
+      "riskFactors": [
+        {
+          "type": "consecutive_games_fatigue",
+          "description": "10 consecutive games without rest",
+          "riskPoints": 25,
+          "consecutive_games": 10
+        },
+        {
+          "type": "performance_decline",
+          "description": "Recent decline: 0.162 vs season 0.247",
+          "riskPoints": 8,
+          "season_avg": 0.24652087475149106,
+          "recent_avg": 0.16216216216216217,
+          "decline_percent": 34.21970357454228
+        }
+      ],
+      "consecutiveGames": 10,
+      "currentColdStreak": 0,
+      "seasonAvg": 0.247,
+      "recentAvg": 0.286,
+      "contextualWarnings": [
+        "Extended fatigue: 10 consecutive games"
+      ],
+      "analysis": {
+        "gameHistory": [
+          {
+            "date": "2025-08-22",
+            "atBats": 3,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-23",
+            "atBats": 4,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-24",
+            "atBats": 2,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-25",
+            "atBats": 3,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 1,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-26",
+            "atBats": 4,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-27",
+            "atBats": 4,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-28",
+            "atBats": 6,
+            "hits": 4,
+            "hr": 4,
+            "rbi": 9,
+            "strikeouts": 0,
+            "avg": 0.6666666666666666,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-29",
+            "atBats": 3,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.3333333333333333,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-30",
+            "atBats": 4,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-31",
+            "atBats": 4,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.25,
+            "restDay": false
+          }
+        ]
+      }
+    },
+    {
+      "playerName": "M. Taylor",
+      "team": "CHW",
+      "totalRiskScore": 33,
+      "riskLevel": "MEDIUM",
+      "riskFactors": [
+        {
+          "type": "poor_recent_performance",
+          "description": "Recent avg: 0.133 (last 5 games)",
+          "riskPoints": 20,
+          "recent_avg": 0.13333333333333333,
+          "games_sample": 5
+        },
+        {
+          "type": "performance_decline",
+          "description": "Recent decline: 0.069 vs season 0.207",
+          "riskPoints": 13,
+          "season_avg": 0.2073170731707317,
+          "recent_avg": 0.06896551724137931,
+          "decline_percent": 66.73427991886409
+        }
+      ],
+      "consecutiveGames": 1,
+      "currentColdStreak": 1,
+      "seasonAvg": 0.207,
+      "recentAvg": 0.133,
+      "contextualWarnings": [],
+      "analysis": {
+        "gameHistory": [
+          {
+            "date": "2025-08-11",
+            "atBats": 2,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-15",
+            "atBats": 3,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-16",
+            "atBats": 2,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-23",
+            "atBats": 3,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-25",
+            "atBats": 4,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-26",
+            "atBats": 2,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-27",
+            "atBats": 4,
             "hits": 0,
             "hr": 0,
             "rbi": 0,
@@ -5519,422 +6166,22 @@
           },
           {
             "date": "2025-08-29",
-            "atBats": 2,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.5,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-30",
-            "atBats": 5,
-            "hits": 1,
-            "hr": 1,
-            "rbi": 1,
-            "strikeouts": 0,
-            "avg": 0.2,
-            "restDay": false
-          }
-        ]
-      }
-    },
-    {
-      "playerName": "Z. McKinstry",
-      "team": "DET",
-      "totalRiskScore": 35,
-      "riskLevel": "MEDIUM",
-      "riskFactors": [
-        {
-          "type": "cold_streak",
-          "description": "3-game hitless streak",
-          "riskPoints": 15,
-          "streak_length": 3
-        },
-        {
-          "type": "poor_recent_performance",
-          "description": "Recent avg: 0.133 (last 5 games)",
-          "riskPoints": 20,
-          "recent_avg": 0.13333333333333333,
-          "games_sample": 5
-        }
-      ],
-      "consecutiveGames": 2,
-      "currentColdStreak": 3,
-      "seasonAvg": 0.26,
-      "recentAvg": 0.133,
-      "contextualWarnings": [
-        "Significant recent decline: 0.133 vs 0.260"
-      ],
-      "analysis": {
-        "gameHistory": [
-          {
-            "date": "2025-08-17",
-            "atBats": 2,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-19",
-            "atBats": 2,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.5,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-22",
-            "atBats": 4,
-            "hits": 3,
-            "hr": 1,
-            "rbi": 1,
-            "strikeouts": 0,
-            "avg": 0.75,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-23",
-            "atBats": 3,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.3333333333333333,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-24",
-            "atBats": 3,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 1,
-            "strikeouts": 0,
-            "avg": 0.3333333333333333,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-25",
-            "atBats": 4,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-26",
             "atBats": 4,
             "hits": 2,
             "hr": 0,
-            "rbi": 1,
+            "rbi": 0,
             "strikeouts": 0,
             "avg": 0.5,
             "restDay": false
           },
           {
-            "date": "2025-08-27",
+            "date": "2025-08-31",
             "atBats": 3,
             "hits": 0,
             "hr": 0,
             "rbi": 0,
             "strikeouts": 0,
             "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-29",
-            "atBats": 3,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-30",
-            "atBats": 1,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          }
-        ]
-      }
-    },
-    {
-      "playerName": "W. Smith",
-      "team": "LAD",
-      "totalRiskScore": 34,
-      "riskLevel": "MEDIUM",
-      "riskFactors": [
-        {
-          "type": "poor_recent_performance",
-          "description": "Recent avg: 0.071 (last 5 games)",
-          "riskPoints": 20,
-          "recent_avg": 0.07142857142857142,
-          "games_sample": 5
-        },
-        {
-          "type": "performance_decline",
-          "description": "Recent decline: 0.147 vs season 0.291",
-          "riskPoints": 14,
-          "season_avg": 0.2905982905982906,
-          "recent_avg": 0.14705882352941177,
-          "decline_percent": 49.39446366782007
-        }
-      ],
-      "consecutiveGames": 2,
-      "currentColdStreak": 2,
-      "seasonAvg": 0.291,
-      "recentAvg": 0.071,
-      "contextualWarnings": [
-        "Significant recent decline: 0.071 vs 0.291"
-      ],
-      "analysis": {
-        "gameHistory": [
-          {
-            "date": "2025-08-17",
-            "atBats": 4,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-19",
-            "atBats": 4,
-            "hits": 3,
-            "hr": 0,
-            "rbi": 2,
-            "strikeouts": 0,
-            "avg": 0.75,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-20",
-            "atBats": 4,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-21",
-            "atBats": 4,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 2,
-            "strikeouts": 0,
-            "avg": 0.25,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-22",
-            "atBats": 4,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-23",
-            "atBats": 3,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-25",
-            "atBats": 3,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-26",
-            "atBats": 3,
-            "hits": 1,
-            "hr": 1,
-            "rbi": 1,
-            "strikeouts": 0,
-            "avg": 0.3333333333333333,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-29",
-            "atBats": 3,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-30",
-            "atBats": 2,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          }
-        ]
-      }
-    },
-    {
-      "playerName": "A. Barger",
-      "team": "TOR",
-      "totalRiskScore": 33,
-      "riskLevel": "MEDIUM",
-      "riskFactors": [
-        {
-          "type": "poor_recent_performance",
-          "description": "Recent avg: 0.105 (last 5 games)",
-          "riskPoints": 20,
-          "recent_avg": 0.10526315789473684,
-          "games_sample": 5
-        },
-        {
-          "type": "performance_decline",
-          "description": "Recent decline: 0.111 vs season 0.249",
-          "riskPoints": 13,
-          "season_avg": 0.24934383202099739,
-          "recent_avg": 0.1111111111111111,
-          "decline_percent": 55.438596491228076
-        }
-      ],
-      "consecutiveGames": 2,
-      "currentColdStreak": 0,
-      "seasonAvg": 0.249,
-      "recentAvg": 0.105,
-      "contextualWarnings": [
-        "Significant recent decline: 0.105 vs 0.249"
-      ],
-      "analysis": {
-        "gameHistory": [
-          {
-            "date": "2025-08-17",
-            "atBats": 3,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-18",
-            "atBats": 3,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.3333333333333333,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-19",
-            "atBats": 3,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-20",
-            "atBats": 4,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-22",
-            "atBats": 4,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.25,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-23",
-            "atBats": 5,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-26",
-            "atBats": 3,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-27",
-            "atBats": 5,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 2,
-            "strikeouts": 0,
-            "avg": 0.2,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-29",
-            "atBats": 3,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-30",
-            "atBats": 3,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.3333333333333333,
             "restDay": false
           }
         ]
@@ -6209,139 +6456,6 @@
       }
     },
     {
-      "playerName": "A. Vaughn",
-      "team": "MIL",
-      "totalRiskScore": 31,
-      "riskLevel": "MEDIUM",
-      "riskFactors": [
-        {
-          "type": "consecutive_games_fatigue",
-          "description": "7 consecutive games without rest",
-          "riskPoints": 21,
-          "consecutive_games": 7
-        },
-        {
-          "type": "performance_decline",
-          "description": "Recent decline: 0.189 vs season 0.292",
-          "riskPoints": 10,
-          "season_avg": 0.2922077922077922,
-          "recent_avg": 0.1891891891891892,
-          "decline_percent": 35.25525525525525
-        }
-      ],
-      "consecutiveGames": 7,
-      "currentColdStreak": 1,
-      "seasonAvg": 0.292,
-      "recentAvg": 0.25,
-      "contextualWarnings": [
-        "Extended fatigue: 7 consecutive games"
-      ],
-      "analysis": {
-        "gameHistory": [
-          {
-            "date": "2025-08-20",
-            "atBats": 4,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.25,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-21",
-            "atBats": 3,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-22",
-            "atBats": 3,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 1,
-            "strikeouts": 0,
-            "avg": 0.3333333333333333,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-24",
-            "atBats": 4,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-25",
-            "atBats": 3,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-26",
-            "atBats": 3,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 1,
-            "strikeouts": 0,
-            "avg": 0.3333333333333333,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-27",
-            "atBats": 4,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.25,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-28",
-            "atBats": 4,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-29",
-            "atBats": 5,
-            "hits": 3,
-            "hr": 0,
-            "rbi": 2,
-            "strikeouts": 0,
-            "avg": 0.6,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-30",
-            "atBats": 4,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          }
-        ]
-      }
-    },
-    {
       "playerName": "J. Bleday",
       "team": "OAK",
       "totalRiskScore": 31,
@@ -6474,48 +6588,38 @@
       }
     },
     {
-      "playerName": "T. Ward",
-      "team": "LAA",
+      "playerName": "T. Heineman",
+      "team": "TOR",
       "totalRiskScore": 31,
       "riskLevel": "MEDIUM",
       "riskFactors": [
         {
           "type": "poor_recent_performance",
-          "description": "Recent avg: 0.067 (last 5 games)",
+          "description": "Recent avg: 0.077 (last 5 games)",
           "riskPoints": 20,
-          "recent_avg": 0.06666666666666667,
+          "recent_avg": 0.07692307692307693,
           "games_sample": 5
         },
         {
           "type": "performance_decline",
-          "description": "Recent decline: 0.118 vs season 0.228",
+          "description": "Recent decline: 0.192 vs season 0.307",
           "riskPoints": 11,
-          "season_avg": 0.22845691382765532,
-          "recent_avg": 0.11764705882352941,
-          "decline_percent": 48.503611971104235
+          "season_avg": 0.30708661417322836,
+          "recent_avg": 0.19230769230769232,
+          "decline_percent": 37.3767258382643
         }
       ],
-      "consecutiveGames": 2,
-      "currentColdStreak": 2,
-      "seasonAvg": 0.228,
-      "recentAvg": 0.067,
+      "consecutiveGames": 1,
+      "currentColdStreak": 0,
+      "seasonAvg": 0.307,
+      "recentAvg": 0.077,
       "contextualWarnings": [
-        "Significant recent decline: 0.067 vs 0.228"
+        "Significant recent decline: 0.077 vs 0.307"
       ],
       "analysis": {
         "gameHistory": [
           {
-            "date": "2025-08-19",
-            "atBats": 4,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 1,
-            "strikeouts": 0,
-            "avg": 0.25,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-20",
+            "date": "2025-08-01",
             "atBats": 3,
             "hits": 0,
             "hr": 0,
@@ -6525,8 +6629,48 @@
             "restDay": false
           },
           {
-            "date": "2025-08-22",
+            "date": "2025-08-04",
+            "atBats": 1,
+            "hits": 0,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.0,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-06",
             "atBats": 4,
+            "hits": 2,
+            "hr": 0,
+            "rbi": 1,
+            "strikeouts": 0,
+            "avg": 0.5,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-10",
+            "atBats": 2,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.5,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-14",
+            "atBats": 3,
+            "hits": 1,
+            "hr": 0,
+            "rbi": 0,
+            "strikeouts": 0,
+            "avg": 0.3333333333333333,
+            "restDay": false
+          },
+          {
+            "date": "2025-08-18",
+            "atBats": 3,
             "hits": 0,
             "hr": 0,
             "rbi": 0,
@@ -6536,7 +6680,7 @@
           },
           {
             "date": "2025-08-23",
-            "atBats": 4,
+            "atBats": 1,
             "hits": 0,
             "hr": 0,
             "rbi": 0,
@@ -6546,27 +6690,7 @@
           },
           {
             "date": "2025-08-24",
-            "atBats": 4,
-            "hits": 2,
-            "hr": 1,
-            "rbi": 2,
-            "strikeouts": 0,
-            "avg": 0.5,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-25",
-            "atBats": 2,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-26",
-            "atBats": 2,
+            "atBats": 3,
             "hits": 0,
             "hr": 0,
             "rbi": 0,
@@ -6576,100 +6700,6 @@
           },
           {
             "date": "2025-08-27",
-            "atBats": 3,
-            "hits": 1,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.3333333333333333,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-29",
-            "atBats": 3,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-30",
-            "atBats": 5,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          }
-        ]
-      }
-    },
-    {
-      "playerName": "C. McCormick",
-      "team": "HOU",
-      "totalRiskScore": 30,
-      "riskLevel": "MEDIUM",
-      "riskFactors": [
-        {
-          "type": "poor_recent_performance",
-          "description": "Recent avg: 0.091 (last 5 games)",
-          "riskPoints": 20,
-          "recent_avg": 0.09090909090909091,
-          "games_sample": 5
-        },
-        {
-          "type": "performance_decline",
-          "description": "Recent decline: 0.105 vs season 0.210",
-          "riskPoints": 10,
-          "season_avg": 0.21,
-          "recent_avg": 0.10526315789473684,
-          "decline_percent": 49.874686716791985
-        }
-      ],
-      "consecutiveGames": 1,
-      "currentColdStreak": 0,
-      "seasonAvg": 0.21,
-      "recentAvg": 0.091,
-      "contextualWarnings": [
-        "Significant recent decline: 0.091 vs 0.210"
-      ],
-      "analysis": {
-        "gameHistory": [
-          {
-            "date": "2025-08-11",
-            "atBats": 3,
-            "hits": 1,
-            "hr": 1,
-            "rbi": 2,
-            "strikeouts": 0,
-            "avg": 0.3333333333333333,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-12",
-            "atBats": 1,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-13",
-            "atBats": 1,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-16",
             "atBats": 2,
             "hits": 0,
             "hr": 0,
@@ -6679,63 +6709,13 @@
             "restDay": false
           },
           {
-            "date": "2025-08-19",
-            "atBats": 1,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-20",
-            "atBats": 1,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-22",
-            "atBats": 1,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-23",
-            "atBats": 2,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-24",
+            "date": "2025-08-31",
             "atBats": 4,
-            "hits": 0,
-            "hr": 0,
-            "rbi": 0,
-            "strikeouts": 0,
-            "avg": 0.0,
-            "restDay": false
-          },
-          {
-            "date": "2025-08-28",
-            "atBats": 3,
             "hits": 1,
             "hr": 0,
-            "rbi": 0,
+            "rbi": 1,
             "strikeouts": 0,
-            "avg": 0.3333333333333333,
+            "avg": 0.25,
             "restDay": false
           }
         ]
