@@ -1,0 +1,3450 @@
+{
+  "date": "2025-08-31",
+  "updatedAt": "2025-08-31T18:30:05.572704",
+  "generatedBy": "enhanced_comprehensive_hellraiser_v6",
+  "version": "enhanced_comprehensive_v6.0",
+  "teamFilter": null,
+  "picks": [
+    {
+      "playerName": "Kyle Schwarber",
+      "player_name": "Kyle Schwarber",
+      "team": "PHI",
+      "pitcher": "vs Hurston Waldrep",
+      "pitcher_name": "Hurston Waldrep",
+      "confidenceScore": 44.61268762285592,
+      "confidence_score": 44.61268762285592,
+      "classification": "Solid Bet",
+      "pathway": "batterDriven",
+      "reasoning": "Elite exit velocity: 94.5 mph (95th percentile); Elite barrel rate: 20.6% (crushing the ball consistently); Strong power profile: 49.0 HRs, 0.333 ISO; Optimal swing mechanics: 94% efficiency; Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)",
+      "detailed_reasoning": [
+        "Elite exit velocity: 94.5 mph (95th percentile)",
+        "Elite barrel rate: 20.6% (crushing the ball consistently)",
+        "Strong power profile: 49.0 HRs, 0.333 ISO",
+        "Optimal swing mechanics: 94% efficiency",
+        "Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)"
+      ],
+      "game": "ATL @ PHI",
+      "venue": "Citizens Bank Park",
+      "gameTime": "23:10",
+      "is_home": true,
+      "odds": {
+        "american": "+210",
+        "decimal": 3.1,
+        "source": "current"
+      },
+      "component_scores": {
+        "batter_analysis": {
+          "data_available": true,
+          "exit_velocity_avg": 94.5,
+          "exit_velocity_score": 95,
+          "exit_velocity_percentile": 95.0,
+          "barrel_rate": 20.6,
+          "barrel_rate_score": 95,
+          "hard_hit_percent": 60.3,
+          "iso": 0.333,
+          "home_runs": 49.0,
+          "power_score": 95,
+          "overall_score": 95.0,
+          "sweet_spot_percent": 35.4,
+          "data_source": "exit_velocity"
+        },
+        "pitcher_analysis": {
+          "data_available": true,
+          "era": 0.9,
+          "era_score": 95,
+          "hr_per_9": 0.0,
+          "hr_score": 50.0,
+          "exit_velocity_allowed": 87.6,
+          "contact_quality_score": 25,
+          "barrel_rate_allowed": 3.7,
+          "vulnerability_score": 61.75,
+          "overall_score": 61.75,
+          "whip": 0.0,
+          "k_percent": 21.2,
+          "data_source": "custom_pitcher"
+        },
+        "arsenal_matchup": {
+          "matchup_available": false,
+          "overall_advantage": 0,
+          "confidence": 0,
+          "pitch_matchups": {},
+          "advantage_summary": "No arsenal data available",
+          "disadvantage_summary": "Limited matchup data"
+        },
+        "handedness_analysis": {
+          "matchup_available": false,
+          "advantage_score": 0,
+          "advantage_description": "No handedness data available"
+        },
+        "swing_analysis": {
+          "data_available": true,
+          "bat_speed": 77.31005898799316,
+          "attack_angle": 14.289215564621337,
+          "ideal_angle_rate": 0.6449399656946826,
+          "optimization_score": 94.2562540951973
+        }
+      },
+      "trend_analysis": {
+        "trend_available": true,
+        "games_analyzed": 14,
+        "recent_3_avg": 0.248,
+        "recent_5_avg": 0.2464,
+        "recent_7_avg": 0.24671428571428572,
+        "season_avg": 0.24821428571428572,
+        "trend_direction": "stable",
+        "trend_score": 0,
+        "hr_last_3": 0.0,
+        "hr_last_7": 0.0,
+        "is_trending_up": true,
+        "momentum": "positive"
+      },
+      "data_sources_used": [
+        "custom_batter_stats",
+        "exit_velocity_data",
+        "custom_pitcher_stats",
+        "pitcher_exit_velocity",
+        "daily_json_files",
+        "swing_path_data"
+      ],
+      "swing_optimization_score": 94.2562540951973,
+      "swing_attack_angle": 14.289215564621337,
+      "swing_ideal_rate": 0.6449399656946826,
+      "swing_bat_speed": 77.31005898799316,
+      "barrel_rate": 20.6,
+      "exit_velocity_avg": 94.5,
+      "hard_hit_percent": 60.3,
+      "sweet_spot_percent": 35.4
+    },
+    {
+      "playerName": "Matt Olson",
+      "player_name": "Matt Olson",
+      "team": "ATL",
+      "pitcher": "vs Jes\u00fas Luzardo",
+      "pitcher_name": "Jes\u00fas Luzardo",
+      "confidenceScore": 40.9591328254855,
+      "confidence_score": 40.9591328254855,
+      "classification": "Solid Bet",
+      "pathway": "batterDriven",
+      "reasoning": "Elite exit velocity: 93.3 mph (95th percentile); Elite barrel rate: 13.5% (crushing the ball consistently); Optimal swing mechanics: 79% efficiency; Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)",
+      "detailed_reasoning": [
+        "Elite exit velocity: 93.3 mph (95th percentile)",
+        "Elite barrel rate: 13.5% (crushing the ball consistently)",
+        "Optimal swing mechanics: 79% efficiency",
+        "Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)"
+      ],
+      "game": "PHI @ PHI",
+      "venue": "Citizens Bank Park",
+      "gameTime": "23:10",
+      "is_home": false,
+      "odds": {
+        "american": "+400",
+        "decimal": 5.0,
+        "source": "current"
+      },
+      "component_scores": {
+        "batter_analysis": {
+          "data_available": true,
+          "exit_velocity_avg": 93.3,
+          "exit_velocity_score": 95,
+          "exit_velocity_percentile": 95.0,
+          "barrel_rate": 13.5,
+          "barrel_rate_score": 82.85714285714286,
+          "hard_hit_percent": 54.0,
+          "iso": 0.189,
+          "home_runs": 21.0,
+          "power_score": 74.77272727272728,
+          "overall_score": 84.27759740259741,
+          "sweet_spot_percent": 36.7,
+          "data_source": "exit_velocity"
+        },
+        "pitcher_analysis": {
+          "data_available": true,
+          "era": 4.23,
+          "era_score": 65.0,
+          "hr_per_9": 0.0,
+          "hr_score": 50.0,
+          "exit_velocity_allowed": 89.2,
+          "contact_quality_score": 47.69230769230768,
+          "barrel_rate_allowed": 6.5,
+          "vulnerability_score": 55.42307692307692,
+          "overall_score": 55.42307692307692,
+          "whip": 0.0,
+          "k_percent": 27.8,
+          "data_source": "pitcher_exit_velocity"
+        },
+        "arsenal_matchup": {
+          "matchup_available": true,
+          "overall_advantage": 7.793880597014924,
+          "confidence": 1.0,
+          "pitch_matchups": {
+            "FF": {
+              "batter_slg": 0.569,
+              "pitcher_slg_allowed": 0.491,
+              "batter_woba": 0.421,
+              "batter_hard_hit": 61.6,
+              "pitcher_usage": 35.2,
+              "advantage_score": 8.809999999999997,
+              "sample_size": 170
+            },
+            "CH": {
+              "batter_slg": 0.393,
+              "pitcher_slg_allowed": 0.369,
+              "batter_woba": 0.339,
+              "batter_hard_hit": 50.0,
+              "pitcher_usage": 18.4,
+              "advantage_score": 5.850000000000001,
+              "sample_size": 69
+            }
+          },
+          "advantage_summary": "Strong vs FF (+8.8), CH (+5.9)",
+          "disadvantage_summary": "No major weaknesses",
+          "total_sample_size": 239
+        },
+        "handedness_analysis": {
+          "matchup_available": false,
+          "advantage_score": 0,
+          "advantage_description": "No handedness data available"
+        },
+        "swing_analysis": {
+          "data_available": true,
+          "bat_speed": 74.10717913333329,
+          "attack_angle": 8.835377148193897,
+          "ideal_angle_rate": 0.496,
+          "optimization_score": 79.3292724722221
+        }
+      },
+      "trend_analysis": {
+        "trend_available": true,
+        "games_analyzed": 14,
+        "recent_3_avg": 0.26866666666666666,
+        "recent_5_avg": 0.267,
+        "recent_7_avg": 0.2662857142857143,
+        "season_avg": 0.267,
+        "trend_direction": "stable",
+        "trend_score": 0,
+        "hr_last_3": 0.0,
+        "hr_last_7": 0.0,
+        "is_trending_up": true,
+        "momentum": "positive"
+      },
+      "data_sources_used": [
+        "custom_batter_stats",
+        "exit_velocity_data",
+        "custom_pitcher_stats",
+        "pitcher_exit_velocity",
+        "daily_json_files",
+        "pitch_arsenal_data",
+        "swing_path_data"
+      ],
+      "swing_optimization_score": 79.3292724722221,
+      "swing_attack_angle": 8.835377148193897,
+      "swing_ideal_rate": 0.496,
+      "swing_bat_speed": 74.10717913333329,
+      "barrel_rate": 13.5,
+      "exit_velocity_avg": 93.3,
+      "hard_hit_percent": 54.0,
+      "sweet_spot_percent": 36.7
+    },
+    {
+      "playerName": "Bryce Harper",
+      "player_name": "Bryce Harper",
+      "team": "PHI",
+      "pitcher": "vs Hurston Waldrep",
+      "pitcher_name": "Hurston Waldrep",
+      "confidenceScore": 40.34172620327899,
+      "confidence_score": 40.34172620327899,
+      "classification": "Solid Bet",
+      "pathway": "batterDriven",
+      "reasoning": "Above-average exit velocity: 91.2 mph; Strong barrel rate: 12.7% (quality contact); Strong power profile: 22.0 HRs, 0.231 ISO; Optimal swing mechanics: 79% efficiency; Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)",
+      "detailed_reasoning": [
+        "Above-average exit velocity: 91.2 mph",
+        "Strong barrel rate: 12.7% (quality contact)",
+        "Strong power profile: 22.0 HRs, 0.231 ISO",
+        "Optimal swing mechanics: 79% efficiency",
+        "Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)"
+      ],
+      "game": "ATL @ PHI",
+      "venue": "Citizens Bank Park",
+      "gameTime": "23:10",
+      "is_home": true,
+      "odds": {
+        "american": "+330",
+        "decimal": 4.3,
+        "source": "current"
+      },
+      "component_scores": {
+        "batter_analysis": {
+          "data_available": true,
+          "exit_velocity_avg": 91.2,
+          "exit_velocity_score": 78.18181818181823,
+          "exit_velocity_percentile": 75.0,
+          "barrel_rate": 12.7,
+          "barrel_rate_score": 78.57142857142857,
+          "hard_hit_percent": 48.1,
+          "iso": 0.231,
+          "home_runs": 22.0,
+          "power_score": 89.44444444444444,
+          "overall_score": 82.2406204906205,
+          "sweet_spot_percent": 38.3,
+          "data_source": "exit_velocity"
+        },
+        "pitcher_analysis": {
+          "data_available": true,
+          "era": 0.9,
+          "era_score": 95,
+          "hr_per_9": 0.0,
+          "hr_score": 50.0,
+          "exit_velocity_allowed": 87.6,
+          "contact_quality_score": 25,
+          "barrel_rate_allowed": 3.7,
+          "vulnerability_score": 61.75,
+          "overall_score": 61.75,
+          "whip": 0.0,
+          "k_percent": 21.2,
+          "data_source": "custom_pitcher"
+        },
+        "arsenal_matchup": {
+          "matchup_available": false,
+          "overall_advantage": 0,
+          "confidence": 0,
+          "pitch_matchups": {},
+          "advantage_summary": "No arsenal data available",
+          "disadvantage_summary": "Limited matchup data"
+        },
+        "handedness_analysis": {
+          "matchup_available": false,
+          "advantage_score": 0,
+          "advantage_description": "No handedness data available"
+        },
+        "swing_analysis": {
+          "data_available": true,
+          "bat_speed": 74.69344479690518,
+          "attack_angle": 11.30771348740172,
+          "ideal_angle_rate": 0.4545454545454545,
+          "optimization_score": 79.48466853642799
+        }
+      },
+      "trend_analysis": {
+        "trend_available": true,
+        "games_analyzed": 14,
+        "recent_3_avg": 0.27033333333333337,
+        "recent_5_avg": 0.269,
+        "recent_7_avg": 0.2672857142857143,
+        "season_avg": 0.26421428571428573,
+        "trend_direction": "stable",
+        "trend_score": 0,
+        "hr_last_3": 0.0,
+        "hr_last_7": 0.0,
+        "is_trending_up": true,
+        "momentum": "positive"
+      },
+      "data_sources_used": [
+        "custom_batter_stats",
+        "exit_velocity_data",
+        "custom_pitcher_stats",
+        "pitcher_exit_velocity",
+        "daily_json_files",
+        "swing_path_data"
+      ],
+      "swing_optimization_score": 79.48466853642799,
+      "swing_attack_angle": 11.30771348740172,
+      "swing_ideal_rate": 0.4545454545454545,
+      "swing_bat_speed": 74.69344479690518,
+      "barrel_rate": 12.7,
+      "exit_velocity_avg": 91.2,
+      "hard_hit_percent": 48.1,
+      "sweet_spot_percent": 38.3
+    },
+    {
+      "playerName": "Sean Murphy",
+      "player_name": "Sean Murphy",
+      "team": "ATL",
+      "pitcher": "vs Jes\u00fas Luzardo",
+      "pitcher_name": "Jes\u00fas Luzardo",
+      "confidenceScore": 35.37590908811062,
+      "confidence_score": 35.37590908811062,
+      "classification": "Solid Bet",
+      "pathway": "batterDriven",
+      "reasoning": "Elite barrel rate: 13.7% (crushing the ball consistently); Strong power profile: 16.0 HRs, 0.216 ISO; Optimal swing mechanics: 76% efficiency; Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)",
+      "detailed_reasoning": [
+        "Elite barrel rate: 13.7% (crushing the ball consistently)",
+        "Strong power profile: 16.0 HRs, 0.216 ISO",
+        "Optimal swing mechanics: 76% efficiency",
+        "Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)"
+      ],
+      "game": "PHI @ PHI",
+      "venue": "Citizens Bank Park",
+      "gameTime": "23:10",
+      "is_home": false,
+      "odds": {
+        "american": "+475",
+        "decimal": 5.75,
+        "source": "current"
+      },
+      "component_scores": {
+        "batter_analysis": {
+          "data_available": true,
+          "exit_velocity_avg": 88.9,
+          "exit_velocity_score": 51.11111111111121,
+          "exit_velocity_percentile": 50.0,
+          "barrel_rate": 13.7,
+          "barrel_rate_score": 83.92857142857142,
+          "hard_hit_percent": 42.3,
+          "iso": 0.216,
+          "home_runs": 16.0,
+          "power_score": 83.97727272727272,
+          "overall_score": 72.4595057720058,
+          "sweet_spot_percent": 31.1,
+          "data_source": "exit_velocity"
+        },
+        "pitcher_analysis": {
+          "data_available": true,
+          "era": 4.23,
+          "era_score": 65.0,
+          "hr_per_9": 0.0,
+          "hr_score": 50.0,
+          "exit_velocity_allowed": 89.2,
+          "contact_quality_score": 47.69230769230768,
+          "barrel_rate_allowed": 6.5,
+          "vulnerability_score": 55.42307692307692,
+          "overall_score": 55.42307692307692,
+          "whip": 0.0,
+          "k_percent": 27.8,
+          "data_source": "pitcher_exit_velocity"
+        },
+        "arsenal_matchup": {
+          "matchup_available": true,
+          "overall_advantage": -2.9899999999999998,
+          "confidence": 0.45,
+          "pitch_matchups": {
+            "FF": {
+              "batter_slg": 0.408,
+              "pitcher_slg_allowed": 0.491,
+              "batter_woba": 0.341,
+              "batter_hard_hit": 46.7,
+              "pitcher_usage": 35.2,
+              "advantage_score": -2.99,
+              "sample_size": 90
+            }
+          },
+          "advantage_summary": "Limited advantages found",
+          "disadvantage_summary": "No major weaknesses",
+          "total_sample_size": 90
+        },
+        "handedness_analysis": {
+          "matchup_available": true,
+          "matchup_key": "RHP_vs_RHB",
+          "woba": 0.0,
+          "iso": 0.0,
+          "hr_fb_percent": 0.0,
+          "advantage_score": 0,
+          "advantage_description": "Neutral handedness matchup"
+        },
+        "swing_analysis": {
+          "data_available": true,
+          "bat_speed": 72.53220579881655,
+          "attack_angle": 13.008687669134371,
+          "ideal_angle_rate": 0.5325443786982248,
+          "optimization_score": 76.1060144477317
+        }
+      },
+      "trend_analysis": {
+        "trend_available": true,
+        "games_analyzed": 7,
+        "recent_3_avg": 0.207,
+        "recent_5_avg": 0.20679999999999998,
+        "recent_7_avg": 0.2064285714285714,
+        "season_avg": 0.2064285714285714,
+        "trend_direction": "stable",
+        "trend_score": 0,
+        "hr_last_3": 0.0,
+        "hr_last_7": 0.0,
+        "is_trending_up": true,
+        "momentum": "positive"
+      },
+      "data_sources_used": [
+        "custom_batter_stats",
+        "exit_velocity_data",
+        "custom_pitcher_stats",
+        "pitcher_exit_velocity",
+        "daily_json_files",
+        "pitch_arsenal_data",
+        "swing_path_data"
+      ],
+      "swing_optimization_score": 76.1060144477317,
+      "swing_attack_angle": 13.008687669134371,
+      "swing_ideal_rate": 0.5325443786982248,
+      "swing_bat_speed": 72.53220579881655,
+      "barrel_rate": 13.7,
+      "exit_velocity_avg": 88.9,
+      "hard_hit_percent": 42.3,
+      "sweet_spot_percent": 31.1
+    },
+    {
+      "playerName": "Harrison Bader",
+      "player_name": "Harrison Bader",
+      "team": "PHI",
+      "pitcher": "vs Hurston Waldrep",
+      "pitcher_name": "Hurston Waldrep",
+      "confidenceScore": 34.59973670911212,
+      "confidence_score": 34.59973670911212,
+      "classification": "Value Play",
+      "pathway": "pitcherDriven",
+      "reasoning": "Strong barrel rate: 10.6% (quality contact); Hot recent streak: 0.293 AVG trending up; Optimal swing mechanics: 77% efficiency; Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)",
+      "detailed_reasoning": [
+        "Strong barrel rate: 10.6% (quality contact)",
+        "Hot recent streak: 0.293 AVG trending up",
+        "Optimal swing mechanics: 77% efficiency",
+        "Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)"
+      ],
+      "game": "ATL @ PHI",
+      "venue": "Citizens Bank Park",
+      "gameTime": "23:10",
+      "is_home": true,
+      "odds": {
+        "american": "+650",
+        "decimal": 7.5,
+        "source": "current"
+      },
+      "component_scores": {
+        "batter_analysis": {
+          "data_available": true,
+          "exit_velocity_avg": 87.1,
+          "exit_velocity_score": 35.0,
+          "exit_velocity_percentile": 25.0,
+          "barrel_rate": 10.6,
+          "barrel_rate_score": 67.36842105263158,
+          "hard_hit_percent": 42.0,
+          "iso": 0.178,
+          "home_runs": 14.0,
+          "power_score": 71.02272727272728,
+          "overall_score": 57.31848086124402,
+          "sweet_spot_percent": 31.0,
+          "data_source": "exit_velocity"
+        },
+        "pitcher_analysis": {
+          "data_available": true,
+          "era": 0.9,
+          "era_score": 95,
+          "hr_per_9": 0.0,
+          "hr_score": 50.0,
+          "exit_velocity_allowed": 87.6,
+          "contact_quality_score": 25,
+          "barrel_rate_allowed": 3.7,
+          "vulnerability_score": 61.75,
+          "overall_score": 61.75,
+          "whip": 0.0,
+          "k_percent": 21.2,
+          "data_source": "custom_pitcher"
+        },
+        "arsenal_matchup": {
+          "matchup_available": false,
+          "overall_advantage": 0,
+          "confidence": 0,
+          "pitch_matchups": {},
+          "advantage_summary": "No arsenal data available",
+          "disadvantage_summary": "Limited matchup data"
+        },
+        "handedness_analysis": {
+          "matchup_available": true,
+          "matchup_key": "RHP_vs_RHB",
+          "woba": 0.0,
+          "iso": 0.0,
+          "hr_fb_percent": 0.0,
+          "advantage_score": 0,
+          "advantage_description": "Neutral handedness matchup"
+        },
+        "swing_analysis": {
+          "data_available": true,
+          "bat_speed": 73.23552807881777,
+          "attack_angle": 11.034705028076347,
+          "ideal_angle_rate": 0.5098522167487683,
+          "optimization_score": 77.30641502463064
+        }
+      },
+      "trend_analysis": {
+        "trend_available": true,
+        "games_analyzed": 13,
+        "recent_3_avg": 0.2926666666666667,
+        "recent_5_avg": 0.288,
+        "recent_7_avg": 0.27785714285714286,
+        "season_avg": 0.23976923076923076,
+        "trend_direction": "hot",
+        "trend_score": 15,
+        "hr_last_3": 0.0,
+        "hr_last_7": 0.0,
+        "is_trending_up": true,
+        "momentum": "positive"
+      },
+      "data_sources_used": [
+        "custom_batter_stats",
+        "exit_velocity_data",
+        "custom_pitcher_stats",
+        "pitcher_exit_velocity",
+        "daily_json_files",
+        "swing_path_data"
+      ],
+      "swing_optimization_score": 77.30641502463064,
+      "swing_attack_angle": 11.034705028076347,
+      "swing_ideal_rate": 0.5098522167487683,
+      "swing_bat_speed": 73.23552807881777,
+      "barrel_rate": 10.6,
+      "exit_velocity_avg": 87.1,
+      "hard_hit_percent": 42.0,
+      "sweet_spot_percent": 31.0
+    },
+    {
+      "playerName": "J.T. Realmuto",
+      "player_name": "J.T. Realmuto",
+      "team": "PHI",
+      "pitcher": "vs Hurston Waldrep",
+      "pitcher_name": "Hurston Waldrep",
+      "confidenceScore": 33.505164764861846,
+      "confidence_score": 33.505164764861846,
+      "classification": "Value Play",
+      "pathway": "pitcherDriven",
+      "reasoning": "Above-average exit velocity: 90.4 mph; Optimal swing mechanics: 76% efficiency; Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)",
+      "detailed_reasoning": [
+        "Above-average exit velocity: 90.4 mph",
+        "Optimal swing mechanics: 76% efficiency",
+        "Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)"
+      ],
+      "game": "ATL @ PHI",
+      "venue": "Citizens Bank Park",
+      "gameTime": "23:10",
+      "is_home": true,
+      "odds": {
+        "american": "+500",
+        "decimal": 6.0,
+        "source": "current"
+      },
+      "component_scores": {
+        "batter_analysis": {
+          "data_available": true,
+          "exit_velocity_avg": 90.4,
+          "exit_velocity_score": 67.7777777777779,
+          "exit_velocity_percentile": 50.0,
+          "barrel_rate": 9.1,
+          "barrel_rate_score": 59.473684210526315,
+          "hard_hit_percent": 47.0,
+          "iso": 0.139,
+          "home_runs": 11.0,
+          "power_score": 52.0,
+          "overall_score": 59.764327485380164,
+          "sweet_spot_percent": 37.2,
+          "data_source": "exit_velocity"
+        },
+        "pitcher_analysis": {
+          "data_available": true,
+          "era": 0.9,
+          "era_score": 95,
+          "hr_per_9": 0.0,
+          "hr_score": 50.0,
+          "exit_velocity_allowed": 87.6,
+          "contact_quality_score": 25,
+          "barrel_rate_allowed": 3.7,
+          "vulnerability_score": 61.75,
+          "overall_score": 61.75,
+          "whip": 0.0,
+          "k_percent": 21.2,
+          "data_source": "custom_pitcher"
+        },
+        "arsenal_matchup": {
+          "matchup_available": false,
+          "overall_advantage": 0,
+          "confidence": 0,
+          "pitch_matchups": {},
+          "advantage_summary": "No arsenal data available",
+          "disadvantage_summary": "Limited matchup data"
+        },
+        "handedness_analysis": {
+          "matchup_available": true,
+          "matchup_key": "RHP_vs_RHB",
+          "woba": 0.0,
+          "iso": 0.0,
+          "hr_fb_percent": 0.0,
+          "advantage_score": 0,
+          "advantage_description": "Neutral handedness matchup"
+        },
+        "swing_analysis": {
+          "data_available": true,
+          "bat_speed": 72.27614833628323,
+          "attack_angle": 12.753367209094009,
+          "ideal_angle_rate": 0.55929203539823,
+          "optimization_score": 76.3622173082597
+        }
+      },
+      "trend_analysis": {
+        "trend_available": true,
+        "games_analyzed": 11,
+        "recent_3_avg": 0.26966666666666667,
+        "recent_5_avg": 0.2716,
+        "recent_7_avg": 0.2735714285714286,
+        "season_avg": 0.27436363636363637,
+        "trend_direction": "stable",
+        "trend_score": 0,
+        "hr_last_3": 0.0,
+        "hr_last_7": 0.0,
+        "is_trending_up": false,
+        "momentum": "negative"
+      },
+      "data_sources_used": [
+        "custom_batter_stats",
+        "exit_velocity_data",
+        "custom_pitcher_stats",
+        "pitcher_exit_velocity",
+        "daily_json_files",
+        "swing_path_data"
+      ],
+      "swing_optimization_score": 76.3622173082597,
+      "swing_attack_angle": 12.753367209094009,
+      "swing_ideal_rate": 0.55929203539823,
+      "swing_bat_speed": 72.27614833628323,
+      "barrel_rate": 9.1,
+      "exit_velocity_avg": 90.4,
+      "hard_hit_percent": 47.0,
+      "sweet_spot_percent": 37.2
+    },
+    {
+      "playerName": "Brandon Marsh",
+      "player_name": "Brandon Marsh",
+      "team": "PHI",
+      "pitcher": "vs Hurston Waldrep",
+      "pitcher_name": "Hurston Waldrep",
+      "confidenceScore": 33.042159218161466,
+      "confidence_score": 33.042159218161466,
+      "classification": "Value Play",
+      "pathway": "pitcherDriven",
+      "reasoning": "Above-average exit velocity: 91.2 mph; Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)",
+      "detailed_reasoning": [
+        "Above-average exit velocity: 91.2 mph",
+        "Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)"
+      ],
+      "game": "ATL @ PHI",
+      "venue": "Citizens Bank Park",
+      "gameTime": "23:10",
+      "is_home": true,
+      "odds": {
+        "american": "+550",
+        "decimal": 6.5,
+        "source": "current"
+      },
+      "component_scores": {
+        "batter_analysis": {
+          "data_available": true,
+          "exit_velocity_avg": 91.2,
+          "exit_velocity_score": 78.18181818181823,
+          "exit_velocity_percentile": 75.0,
+          "barrel_rate": 8.0,
+          "barrel_rate_score": 53.68421052631579,
+          "hard_hit_percent": 46.9,
+          "iso": 0.134,
+          "home_runs": 7.0,
+          "power_score": 49.680851063829785,
+          "overall_score": 60.85719739387154,
+          "sweet_spot_percent": 36.7,
+          "data_source": "exit_velocity"
+        },
+        "pitcher_analysis": {
+          "data_available": true,
+          "era": 0.9,
+          "era_score": 95,
+          "hr_per_9": 0.0,
+          "hr_score": 50.0,
+          "exit_velocity_allowed": 87.6,
+          "contact_quality_score": 25,
+          "barrel_rate_allowed": 3.7,
+          "vulnerability_score": 61.75,
+          "overall_score": 61.75,
+          "whip": 0.0,
+          "k_percent": 21.2,
+          "data_source": "custom_pitcher"
+        },
+        "arsenal_matchup": {
+          "matchup_available": false,
+          "overall_advantage": 0,
+          "confidence": 0,
+          "pitch_matchups": {},
+          "advantage_summary": "No arsenal data available",
+          "disadvantage_summary": "Limited matchup data"
+        },
+        "handedness_analysis": {
+          "matchup_available": false,
+          "advantage_score": 0,
+          "advantage_description": "No handedness data available"
+        },
+        "swing_analysis": {
+          "data_available": true,
+          "bat_speed": 71.62680390350863,
+          "attack_angle": 9.386034332969052,
+          "ideal_angle_rate": 0.4166666666666666,
+          "optimization_score": 69.11984471856684
+        }
+      },
+      "trend_analysis": {
+        "trend_available": true,
+        "games_analyzed": 13,
+        "recent_3_avg": 0.265,
+        "recent_5_avg": 0.26280000000000003,
+        "recent_7_avg": 0.2622857142857143,
+        "season_avg": 0.26461538461538464,
+        "trend_direction": "stable",
+        "trend_score": 0,
+        "hr_last_3": 0.0,
+        "hr_last_7": 0.0,
+        "is_trending_up": true,
+        "momentum": "positive"
+      },
+      "data_sources_used": [
+        "custom_batter_stats",
+        "exit_velocity_data",
+        "custom_pitcher_stats",
+        "pitcher_exit_velocity",
+        "daily_json_files"
+      ],
+      "swing_optimization_score": 69.11984471856684,
+      "swing_attack_angle": 9.386034332969052,
+      "swing_ideal_rate": 0.4166666666666666,
+      "swing_bat_speed": 71.62680390350863,
+      "barrel_rate": 8.0,
+      "exit_velocity_avg": 91.2,
+      "hard_hit_percent": 46.9,
+      "sweet_spot_percent": 36.7
+    },
+    {
+      "playerName": "Jurickson Profar",
+      "player_name": "Jurickson Profar",
+      "team": "ATL",
+      "pitcher": "vs Jes\u00fas Luzardo",
+      "pitcher_name": "Jes\u00fas Luzardo",
+      "confidenceScore": 31.64252783466962,
+      "confidence_score": 31.64252783466962,
+      "classification": "Value Play",
+      "pathway": "pitcherDriven",
+      "reasoning": "Strong power profile: 12.0 HRs, 0.223 ISO; Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)",
+      "detailed_reasoning": [
+        "Strong power profile: 12.0 HRs, 0.223 ISO",
+        "Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)"
+      ],
+      "game": "PHI @ PHI",
+      "venue": "Citizens Bank Park",
+      "gameTime": "23:10",
+      "is_home": false,
+      "odds": {
+        "american": "+500",
+        "decimal": 6.0,
+        "source": "current"
+      },
+      "component_scores": {
+        "batter_analysis": {
+          "data_available": true,
+          "exit_velocity_avg": 88.6,
+          "exit_velocity_score": 48.23529411764704,
+          "exit_velocity_percentile": 25.0,
+          "barrel_rate": 8.6,
+          "barrel_rate_score": 56.84210526315789,
+          "hard_hit_percent": 40.2,
+          "iso": 0.223,
+          "home_runs": 12.0,
+          "power_score": 86.48148148148148,
+          "overall_score": 64.20350303864234,
+          "sweet_spot_percent": 27.6,
+          "data_source": "custom_batter"
+        },
+        "pitcher_analysis": {
+          "data_available": true,
+          "era": 4.23,
+          "era_score": 65.0,
+          "hr_per_9": 0.0,
+          "hr_score": 50.0,
+          "exit_velocity_allowed": 89.2,
+          "contact_quality_score": 47.69230769230768,
+          "barrel_rate_allowed": 6.5,
+          "vulnerability_score": 55.42307692307692,
+          "overall_score": 55.42307692307692,
+          "whip": 0.0,
+          "k_percent": 27.8,
+          "data_source": "pitcher_exit_velocity"
+        },
+        "arsenal_matchup": {
+          "matchup_available": true,
+          "overall_advantage": -5.620000000000002,
+          "confidence": 0.335,
+          "pitch_matchups": {
+            "FF": {
+              "batter_slg": 0.393,
+              "pitcher_slg_allowed": 0.491,
+              "batter_woba": 0.368,
+              "batter_hard_hit": 25.0,
+              "pitcher_usage": 35.2,
+              "advantage_score": -5.620000000000002,
+              "sample_size": 67
+            }
+          },
+          "advantage_summary": "Limited advantages found",
+          "disadvantage_summary": "Struggles vs FF (-5.6)",
+          "total_sample_size": 67
+        },
+        "handedness_analysis": {
+          "matchup_available": false,
+          "advantage_score": 0,
+          "advantage_description": "No handedness data available"
+        },
+        "swing_analysis": {
+          "data_available": false,
+          "optimization_score": 50
+        }
+      },
+      "trend_analysis": {
+        "trend_available": true,
+        "games_analyzed": 14,
+        "recent_3_avg": 0.26633333333333337,
+        "recent_5_avg": 0.2654,
+        "recent_7_avg": 0.264,
+        "season_avg": 0.25785714285714284,
+        "trend_direction": "stable",
+        "trend_score": 0,
+        "hr_last_3": 0.0,
+        "hr_last_7": 0.0,
+        "is_trending_up": true,
+        "momentum": "positive"
+      },
+      "data_sources_used": [
+        "custom_batter_stats",
+        "exit_velocity_data",
+        "custom_pitcher_stats",
+        "pitcher_exit_velocity",
+        "daily_json_files",
+        "pitch_arsenal_data"
+      ],
+      "swing_optimization_score": 50,
+      "swing_attack_angle": 0,
+      "swing_ideal_rate": 0,
+      "swing_bat_speed": 0,
+      "barrel_rate": 8.6,
+      "exit_velocity_avg": 88.6,
+      "hard_hit_percent": 40.2,
+      "sweet_spot_percent": 27.6
+    },
+    {
+      "playerName": "Trea Turner",
+      "player_name": "Trea Turner",
+      "team": "PHI",
+      "pitcher": "vs Hurston Waldrep",
+      "pitcher_name": "Hurston Waldrep",
+      "confidenceScore": 31.422198594662056,
+      "confidence_score": 31.422198594662056,
+      "classification": "Value Play",
+      "pathway": "pitcherDriven",
+      "reasoning": "Optimal swing mechanics: 75% efficiency; Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)",
+      "detailed_reasoning": [
+        "Optimal swing mechanics: 75% efficiency",
+        "Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)"
+      ],
+      "game": "ATL @ PHI",
+      "venue": "Citizens Bank Park",
+      "gameTime": "23:10",
+      "is_home": true,
+      "odds": {
+        "american": "+550",
+        "decimal": 6.5,
+        "source": "current"
+      },
+      "component_scores": {
+        "batter_analysis": {
+          "data_available": true,
+          "exit_velocity_avg": 89.3,
+          "exit_velocity_score": 55.555555555555564,
+          "exit_velocity_percentile": 50.0,
+          "barrel_rate": 5.9,
+          "barrel_rate_score": 43.4375,
+          "hard_hit_percent": 41.6,
+          "iso": 0.152,
+          "home_runs": 14.0,
+          "power_score": 58.5,
+          "overall_score": 52.95069444444444,
+          "sweet_spot_percent": 35.3,
+          "data_source": "exit_velocity"
+        },
+        "pitcher_analysis": {
+          "data_available": true,
+          "era": 0.9,
+          "era_score": 95,
+          "hr_per_9": 0.0,
+          "hr_score": 50.0,
+          "exit_velocity_allowed": 87.6,
+          "contact_quality_score": 25,
+          "barrel_rate_allowed": 3.7,
+          "vulnerability_score": 61.75,
+          "overall_score": 61.75,
+          "whip": 0.0,
+          "k_percent": 21.2,
+          "data_source": "custom_pitcher"
+        },
+        "arsenal_matchup": {
+          "matchup_available": false,
+          "overall_advantage": 0,
+          "confidence": 0,
+          "pitch_matchups": {},
+          "advantage_summary": "No arsenal data available",
+          "disadvantage_summary": "Limited matchup data"
+        },
+        "handedness_analysis": {
+          "matchup_available": true,
+          "matchup_key": "RHP_vs_RHB",
+          "woba": 0.0,
+          "iso": 0.0,
+          "hr_fb_percent": 0.0,
+          "advantage_score": 0,
+          "advantage_description": "Neutral handedness matchup"
+        },
+        "swing_analysis": {
+          "data_available": true,
+          "bat_speed": 71.04381233486939,
+          "attack_angle": 8.122973993492273,
+          "ideal_angle_rate": 0.6205837173579108,
+          "optimization_score": 75.0663420442907
+        }
+      },
+      "trend_analysis": {
+        "trend_available": true,
+        "games_analyzed": 14,
+        "recent_3_avg": 0.29866666666666664,
+        "recent_5_avg": 0.29819999999999997,
+        "recent_7_avg": 0.29857142857142854,
+        "season_avg": 0.29742857142857143,
+        "trend_direction": "stable",
+        "trend_score": 0,
+        "hr_last_3": 0.0,
+        "hr_last_7": 0.0,
+        "is_trending_up": true,
+        "momentum": "positive"
+      },
+      "data_sources_used": [
+        "custom_batter_stats",
+        "exit_velocity_data",
+        "custom_pitcher_stats",
+        "pitcher_exit_velocity",
+        "daily_json_files",
+        "swing_path_data"
+      ],
+      "swing_optimization_score": 75.0663420442907,
+      "swing_attack_angle": 8.122973993492273,
+      "swing_ideal_rate": 0.6205837173579108,
+      "swing_bat_speed": 71.04381233486939,
+      "barrel_rate": 5.9,
+      "exit_velocity_avg": 89.3,
+      "hard_hit_percent": 41.6,
+      "sweet_spot_percent": 35.3
+    },
+    {
+      "playerName": "Alec Bohm",
+      "player_name": "Alec Bohm",
+      "team": "PHI",
+      "pitcher": "vs Hurston Waldrep",
+      "pitcher_name": "Hurston Waldrep",
+      "confidenceScore": 30.802808067375892,
+      "confidence_score": 30.802808067375892,
+      "classification": "Value Play",
+      "pathway": "pitcherDriven",
+      "reasoning": "Above-average exit velocity: 90.5 mph; Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)",
+      "detailed_reasoning": [
+        "Above-average exit velocity: 90.5 mph",
+        "Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)"
+      ],
+      "game": "ATL @ PHI",
+      "venue": "Citizens Bank Park",
+      "gameTime": "23:10",
+      "is_home": true,
+      "odds": {
+        "american": "+750",
+        "decimal": 8.5,
+        "source": "current"
+      },
+      "component_scores": {
+        "batter_analysis": {
+          "data_available": true,
+          "exit_velocity_avg": 90.5,
+          "exit_velocity_score": 68.88888888888894,
+          "exit_velocity_percentile": 50.0,
+          "barrel_rate": 6.6,
+          "barrel_rate_score": 46.71875,
+          "hard_hit_percent": 45.7,
+          "iso": 0.115,
+          "home_runs": 9.0,
+          "power_score": 43.61702127659574,
+          "overall_score": 53.392693557919635,
+          "sweet_spot_percent": 34.3,
+          "data_source": "exit_velocity"
+        },
+        "pitcher_analysis": {
+          "data_available": true,
+          "era": 0.9,
+          "era_score": 95,
+          "hr_per_9": 0.0,
+          "hr_score": 50.0,
+          "exit_velocity_allowed": 87.6,
+          "contact_quality_score": 25,
+          "barrel_rate_allowed": 3.7,
+          "vulnerability_score": 61.75,
+          "overall_score": 61.75,
+          "whip": 0.0,
+          "k_percent": 21.2,
+          "data_source": "custom_pitcher"
+        },
+        "arsenal_matchup": {
+          "matchup_available": false,
+          "overall_advantage": 0,
+          "confidence": 0,
+          "pitch_matchups": {},
+          "advantage_summary": "No arsenal data available",
+          "disadvantage_summary": "Limited matchup data"
+        },
+        "handedness_analysis": {
+          "matchup_available": true,
+          "matchup_key": "RHP_vs_RHB",
+          "woba": 0.0,
+          "iso": 0.0,
+          "hr_fb_percent": 0.0,
+          "advantage_score": 0,
+          "advantage_description": "Neutral handedness matchup"
+        },
+        "swing_analysis": {
+          "data_available": true,
+          "bat_speed": 71.30941707368419,
+          "attack_angle": 4.52325541516211,
+          "ideal_angle_rate": 0.431578947368421,
+          "optimization_score": 56.75334365789467
+        }
+      },
+      "trend_analysis": {
+        "trend_available": true,
+        "games_analyzed": 13,
+        "recent_3_avg": 0.2826666666666667,
+        "recent_5_avg": 0.28359999999999996,
+        "recent_7_avg": 0.283,
+        "season_avg": 0.28176923076923077,
+        "trend_direction": "stable",
+        "trend_score": 0,
+        "hr_last_3": 0.0,
+        "hr_last_7": 0.0,
+        "is_trending_up": false,
+        "momentum": "negative"
+      },
+      "data_sources_used": [
+        "custom_batter_stats",
+        "exit_velocity_data",
+        "custom_pitcher_stats",
+        "pitcher_exit_velocity",
+        "daily_json_files"
+      ],
+      "swing_optimization_score": 56.75334365789467,
+      "swing_attack_angle": 4.52325541516211,
+      "swing_ideal_rate": 0.431578947368421,
+      "swing_bat_speed": 71.30941707368419,
+      "barrel_rate": 6.6,
+      "exit_velocity_avg": 90.5,
+      "hard_hit_percent": 45.7,
+      "sweet_spot_percent": 34.3
+    },
+    {
+      "playerName": "Nick Castellanos",
+      "player_name": "Nick Castellanos",
+      "team": "PHI",
+      "pitcher": "vs Hurston Waldrep",
+      "pitcher_name": "Hurston Waldrep",
+      "confidenceScore": 30.039419504643966,
+      "confidence_score": 30.039419504643966,
+      "classification": "Value Play",
+      "pathway": "pitcherDriven",
+      "reasoning": "Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)",
+      "detailed_reasoning": [
+        "Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)"
+      ],
+      "game": "ATL @ PHI",
+      "venue": "Citizens Bank Park",
+      "gameTime": "23:10",
+      "is_home": true,
+      "odds": {
+        "american": "+550",
+        "decimal": 6.5,
+        "source": "current"
+      },
+      "component_scores": {
+        "batter_analysis": {
+          "data_available": true,
+          "exit_velocity_avg": 87.6,
+          "exit_velocity_score": 39.41176470588235,
+          "exit_velocity_percentile": 25.0,
+          "barrel_rate": 8.3,
+          "barrel_rate_score": 55.26315789473685,
+          "hard_hit_percent": 33.9,
+          "iso": 0.152,
+          "home_runs": 16.0,
+          "power_score": 58.5,
+          "overall_score": 50.848065015479875,
+          "sweet_spot_percent": 37.8,
+          "data_source": "exit_velocity"
+        },
+        "pitcher_analysis": {
+          "data_available": true,
+          "era": 0.9,
+          "era_score": 95,
+          "hr_per_9": 0.0,
+          "hr_score": 50.0,
+          "exit_velocity_allowed": 87.6,
+          "contact_quality_score": 25,
+          "barrel_rate_allowed": 3.7,
+          "vulnerability_score": 61.75,
+          "overall_score": 61.75,
+          "whip": 0.0,
+          "k_percent": 21.2,
+          "data_source": "custom_pitcher"
+        },
+        "arsenal_matchup": {
+          "matchup_available": false,
+          "overall_advantage": 0,
+          "confidence": 0,
+          "pitch_matchups": {},
+          "advantage_summary": "No arsenal data available",
+          "disadvantage_summary": "Limited matchup data"
+        },
+        "handedness_analysis": {
+          "matchup_available": true,
+          "matchup_key": "RHP_vs_RHB",
+          "woba": 0.0,
+          "iso": 0.0,
+          "hr_fb_percent": 0.0,
+          "advantage_score": 0,
+          "advantage_description": "Neutral handedness matchup"
+        },
+        "swing_analysis": {
+          "data_available": true,
+          "bat_speed": 70.11108516717319,
+          "attack_angle": 15.11322269997392,
+          "ideal_angle_rate": 0.4817629179331306,
+          "optimization_score": 67.14010782674752
+        }
+      },
+      "trend_analysis": {
+        "trend_available": true,
+        "games_analyzed": 10,
+        "recent_3_avg": 0.25333333333333335,
+        "recent_5_avg": 0.2548,
+        "recent_7_avg": 0.2552857142857143,
+        "season_avg": 0.2548,
+        "trend_direction": "stable",
+        "trend_score": 0,
+        "hr_last_3": 0.0,
+        "hr_last_7": 0.0,
+        "is_trending_up": false,
+        "momentum": "negative"
+      },
+      "data_sources_used": [
+        "custom_batter_stats",
+        "exit_velocity_data",
+        "custom_pitcher_stats",
+        "pitcher_exit_velocity",
+        "daily_json_files"
+      ],
+      "swing_optimization_score": 67.14010782674752,
+      "swing_attack_angle": 15.11322269997392,
+      "swing_ideal_rate": 0.4817629179331306,
+      "swing_bat_speed": 70.11108516717319,
+      "barrel_rate": 8.3,
+      "exit_velocity_avg": 87.6,
+      "hard_hit_percent": 33.9,
+      "sweet_spot_percent": 37.8
+    },
+    {
+      "playerName": "Bryson Stott",
+      "player_name": "Bryson Stott",
+      "team": "PHI",
+      "pitcher": "vs Hurston Waldrep",
+      "pitcher_name": "Hurston Waldrep",
+      "confidenceScore": 26.761844102002513,
+      "confidence_score": 26.761844102002513,
+      "classification": "Avoid",
+      "pathway": "pitcherDriven",
+      "reasoning": "Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)",
+      "detailed_reasoning": [
+        "Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)"
+      ],
+      "game": "ATL @ PHI",
+      "venue": "Citizens Bank Park",
+      "gameTime": "23:10",
+      "is_home": true,
+      "odds": {
+        "american": "+800",
+        "decimal": 9.0,
+        "source": "current"
+      },
+      "component_scores": {
+        "batter_analysis": {
+          "data_available": true,
+          "exit_velocity_avg": 87.4,
+          "exit_velocity_score": 37.647058823529505,
+          "exit_velocity_percentile": 25.0,
+          "barrel_rate": 4.4,
+          "barrel_rate_score": 36.40625,
+          "hard_hit_percent": 29.4,
+          "iso": 0.12,
+          "home_runs": 9.0,
+          "power_score": 45.212765957446805,
+          "overall_score": 39.92281367334171,
+          "sweet_spot_percent": 35.3,
+          "data_source": "exit_velocity"
+        },
+        "pitcher_analysis": {
+          "data_available": true,
+          "era": 0.9,
+          "era_score": 95,
+          "hr_per_9": 0.0,
+          "hr_score": 50.0,
+          "exit_velocity_allowed": 87.6,
+          "contact_quality_score": 25,
+          "barrel_rate_allowed": 3.7,
+          "vulnerability_score": 61.75,
+          "overall_score": 61.75,
+          "whip": 0.0,
+          "k_percent": 21.2,
+          "data_source": "custom_pitcher"
+        },
+        "arsenal_matchup": {
+          "matchup_available": false,
+          "overall_advantage": 0,
+          "confidence": 0,
+          "pitch_matchups": {},
+          "advantage_summary": "No arsenal data available",
+          "disadvantage_summary": "Limited matchup data"
+        },
+        "handedness_analysis": {
+          "matchup_available": false,
+          "advantage_score": 0,
+          "advantage_description": "No handedness data available"
+        },
+        "swing_analysis": {
+          "data_available": true,
+          "bat_speed": 69.53003204152253,
+          "attack_angle": 7.498966040593044,
+          "ideal_angle_rate": 0.5155709342560553,
+          "optimization_score": 60.71317015570945
+        }
+      },
+      "trend_analysis": {
+        "trend_available": true,
+        "games_analyzed": 13,
+        "recent_3_avg": 0.24433333333333332,
+        "recent_5_avg": 0.24459999999999998,
+        "recent_7_avg": 0.24528571428571427,
+        "season_avg": 0.24438461538461537,
+        "trend_direction": "stable",
+        "trend_score": 0,
+        "hr_last_3": 0.0,
+        "hr_last_7": 0.0,
+        "is_trending_up": false,
+        "momentum": "negative"
+      },
+      "data_sources_used": [
+        "custom_batter_stats",
+        "exit_velocity_data",
+        "custom_pitcher_stats",
+        "pitcher_exit_velocity",
+        "daily_json_files"
+      ],
+      "swing_optimization_score": 60.71317015570945,
+      "swing_attack_angle": 7.498966040593044,
+      "swing_ideal_rate": 0.5155709342560553,
+      "swing_bat_speed": 69.53003204152253,
+      "barrel_rate": 4.4,
+      "exit_velocity_avg": 87.4,
+      "hard_hit_percent": 29.4,
+      "sweet_spot_percent": 35.3
+    },
+    {
+      "playerName": "Ronald Acuna Jr.",
+      "player_name": "Ronald Acuna Jr.",
+      "team": "ATL",
+      "pitcher": "vs Jes\u00fas Luzardo",
+      "pitcher_name": "Jes\u00fas Luzardo",
+      "confidenceScore": 25,
+      "confidence_score": 25,
+      "classification": "Longshot",
+      "pathway": "pitcherDriven",
+      "reasoning": "Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)",
+      "detailed_reasoning": [
+        "Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)"
+      ],
+      "game": "PHI @ PHI",
+      "venue": "Citizens Bank Park",
+      "gameTime": "23:10",
+      "is_home": false,
+      "odds": {
+        "american": "+340",
+        "decimal": 4.4,
+        "source": "current"
+      },
+      "component_scores": {
+        "batter_analysis": {
+          "data_available": false,
+          "overall_score": 50
+        },
+        "pitcher_analysis": {
+          "data_available": true,
+          "era": 4.23,
+          "era_score": 65.0,
+          "hr_per_9": 0.0,
+          "hr_score": 50.0,
+          "exit_velocity_allowed": 89.2,
+          "contact_quality_score": 47.69230769230768,
+          "barrel_rate_allowed": 6.5,
+          "vulnerability_score": 55.42307692307692,
+          "overall_score": 55.42307692307692,
+          "whip": 0.0,
+          "k_percent": 27.8,
+          "data_source": "pitcher_exit_velocity"
+        },
+        "arsenal_matchup": {
+          "matchup_available": false,
+          "overall_advantage": 0,
+          "confidence": 0,
+          "pitch_matchups": {},
+          "advantage_summary": "No arsenal data available",
+          "disadvantage_summary": "Limited matchup data"
+        },
+        "handedness_analysis": {
+          "matchup_available": false,
+          "advantage_score": 0,
+          "advantage_description": "No handedness data available"
+        },
+        "swing_analysis": {
+          "data_available": false,
+          "optimization_score": 50
+        }
+      },
+      "trend_analysis": {
+        "trend_available": true,
+        "games_analyzed": 14,
+        "recent_3_avg": 0.29633333333333334,
+        "recent_5_avg": 0.2986,
+        "recent_7_avg": 0.29942857142857143,
+        "season_avg": 0.30078571428571427,
+        "trend_direction": "stable",
+        "trend_score": 0,
+        "hr_last_3": 0.0,
+        "hr_last_7": 0.0,
+        "is_trending_up": false,
+        "momentum": "negative"
+      },
+      "data_sources_used": [
+        "custom_pitcher_stats",
+        "pitcher_exit_velocity",
+        "daily_json_files"
+      ],
+      "swing_optimization_score": 50,
+      "swing_attack_angle": 0,
+      "swing_ideal_rate": 0,
+      "swing_bat_speed": 0,
+      "barrel_rate": 0,
+      "exit_velocity_avg": 0,
+      "hard_hit_percent": 0,
+      "sweet_spot_percent": 0
+    },
+    {
+      "playerName": "Ozzie Albies",
+      "player_name": "Ozzie Albies",
+      "team": "ATL",
+      "pitcher": "vs Jes\u00fas Luzardo",
+      "pitcher_name": "Jes\u00fas Luzardo",
+      "confidenceScore": 25,
+      "confidence_score": 25,
+      "classification": "Longshot",
+      "pathway": "pitcherDriven",
+      "reasoning": "Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)",
+      "detailed_reasoning": [
+        "Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)"
+      ],
+      "game": "PHI @ PHI",
+      "venue": "Citizens Bank Park",
+      "gameTime": "23:10",
+      "is_home": false,
+      "odds": {
+        "american": "+500",
+        "decimal": 6.0,
+        "source": "current"
+      },
+      "component_scores": {
+        "batter_analysis": {
+          "data_available": true,
+          "exit_velocity_avg": 87.4,
+          "exit_velocity_score": 37.647058823529505,
+          "exit_velocity_percentile": 25.0,
+          "barrel_rate": 4.1,
+          "barrel_rate_score": 35.0,
+          "hard_hit_percent": 30.8,
+          "iso": 0.116,
+          "home_runs": 13.0,
+          "power_score": 43.93617021276596,
+          "overall_score": 39.05413016270341,
+          "sweet_spot_percent": 33.6,
+          "data_source": "exit_velocity"
+        },
+        "pitcher_analysis": {
+          "data_available": true,
+          "era": 4.23,
+          "era_score": 65.0,
+          "hr_per_9": 0.0,
+          "hr_score": 50.0,
+          "exit_velocity_allowed": 89.2,
+          "contact_quality_score": 47.69230769230768,
+          "barrel_rate_allowed": 6.5,
+          "vulnerability_score": 55.42307692307692,
+          "overall_score": 55.42307692307692,
+          "whip": 0.0,
+          "k_percent": 27.8,
+          "data_source": "pitcher_exit_velocity"
+        },
+        "arsenal_matchup": {
+          "matchup_available": true,
+          "overall_advantage": -4.68820895522388,
+          "confidence": 1.0,
+          "pitch_matchups": {
+            "FF": {
+              "batter_slg": 0.432,
+              "pitcher_slg_allowed": 0.491,
+              "batter_woba": 0.336,
+              "batter_hard_hit": 36.2,
+              "pitcher_usage": 35.2,
+              "advantage_score": -3.83,
+              "sample_size": 165
+            },
+            "CH": {
+              "batter_slg": 0.26,
+              "pitcher_slg_allowed": 0.369,
+              "batter_woba": 0.239,
+              "batter_hard_hit": 26.1,
+              "pitcher_usage": 18.4,
+              "advantage_score": -6.329999999999998,
+              "sample_size": 98
+            }
+          },
+          "advantage_summary": "Limited advantages found",
+          "disadvantage_summary": "Struggles vs CH (-6.3)",
+          "total_sample_size": 263
+        },
+        "handedness_analysis": {
+          "matchup_available": false,
+          "advantage_score": 0,
+          "advantage_description": "No handedness data available"
+        },
+        "swing_analysis": {
+          "data_available": true,
+          "bat_speed": 68.58216745428983,
+          "attack_angle": 14.094062753769183,
+          "ideal_angle_rate": 0.5836849507735583,
+          "optimization_score": 66.50284072902045
+        }
+      },
+      "trend_analysis": {
+        "trend_available": true,
+        "games_analyzed": 14,
+        "recent_3_avg": 0.234,
+        "recent_5_avg": 0.23320000000000002,
+        "recent_7_avg": 0.23185714285714287,
+        "season_avg": 0.22971428571428573,
+        "trend_direction": "stable",
+        "trend_score": 0,
+        "hr_last_3": 0.0,
+        "hr_last_7": 0.0,
+        "is_trending_up": true,
+        "momentum": "positive"
+      },
+      "data_sources_used": [
+        "custom_batter_stats",
+        "exit_velocity_data",
+        "custom_pitcher_stats",
+        "pitcher_exit_velocity",
+        "daily_json_files",
+        "pitch_arsenal_data"
+      ],
+      "swing_optimization_score": 66.50284072902045,
+      "swing_attack_angle": 14.094062753769183,
+      "swing_ideal_rate": 0.5836849507735583,
+      "swing_bat_speed": 68.58216745428983,
+      "barrel_rate": 4.1,
+      "exit_velocity_avg": 87.4,
+      "hard_hit_percent": 30.8,
+      "sweet_spot_percent": 33.6
+    },
+    {
+      "playerName": "Nick Allen",
+      "player_name": "Nick Allen",
+      "team": "ATL",
+      "pitcher": "vs Jes\u00fas Luzardo",
+      "pitcher_name": "Jes\u00fas Luzardo",
+      "confidenceScore": 25,
+      "confidence_score": 25,
+      "classification": "Avoid",
+      "pathway": "pitcherDriven",
+      "reasoning": "Challenging matchup: Struggles vs FF (-14.8); Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)",
+      "detailed_reasoning": [
+        "Challenging matchup: Struggles vs FF (-14.8)",
+        "Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)"
+      ],
+      "game": "PHI @ PHI",
+      "venue": "Citizens Bank Park",
+      "gameTime": "23:10",
+      "is_home": false,
+      "odds": {
+        "american": "+1900",
+        "decimal": 20.0,
+        "source": "current"
+      },
+      "component_scores": {
+        "batter_analysis": {
+          "data_available": true,
+          "exit_velocity_avg": 84.7,
+          "exit_velocity_score": 25,
+          "exit_velocity_percentile": 10.0,
+          "barrel_rate": 0.0,
+          "barrel_rate_score": 50.0,
+          "hard_hit_percent": 21.4,
+          "iso": 0.028,
+          "home_runs": 0.0,
+          "power_score": 25,
+          "overall_score": 32.5,
+          "sweet_spot_percent": 28.8,
+          "data_source": "exit_velocity"
+        },
+        "pitcher_analysis": {
+          "data_available": true,
+          "era": 4.23,
+          "era_score": 65.0,
+          "hr_per_9": 0.0,
+          "hr_score": 50.0,
+          "exit_velocity_allowed": 89.2,
+          "contact_quality_score": 47.69230769230768,
+          "barrel_rate_allowed": 6.5,
+          "vulnerability_score": 55.42307692307692,
+          "overall_score": 55.42307692307692,
+          "whip": 0.0,
+          "k_percent": 27.8,
+          "data_source": "pitcher_exit_velocity"
+        },
+        "arsenal_matchup": {
+          "matchup_available": true,
+          "overall_advantage": -14.760000000000002,
+          "confidence": 0.59,
+          "pitch_matchups": {
+            "FF": {
+              "batter_slg": 0.26,
+              "pitcher_slg_allowed": 0.491,
+              "batter_woba": 0.295,
+              "batter_hard_hit": 20.5,
+              "pitcher_usage": 35.2,
+              "advantage_score": -14.760000000000002,
+              "sample_size": 118
+            }
+          },
+          "advantage_summary": "Limited advantages found",
+          "disadvantage_summary": "Struggles vs FF (-14.8)",
+          "total_sample_size": 118
+        },
+        "handedness_analysis": {
+          "matchup_available": true,
+          "matchup_key": "RHP_vs_RHB",
+          "woba": 0.0,
+          "iso": 0.0,
+          "hr_fb_percent": 0.0,
+          "advantage_score": 0,
+          "advantage_description": "Neutral handedness matchup"
+        },
+        "swing_analysis": {
+          "data_available": true,
+          "bat_speed": 64.38838574766349,
+          "attack_angle": 7.1605905137997965,
+          "ideal_angle_rate": 0.5116822429906542,
+          "optimization_score": 53.18808411214953
+        }
+      },
+      "trend_analysis": {
+        "trend_available": true,
+        "games_analyzed": 13,
+        "recent_3_avg": 0.222,
+        "recent_5_avg": 0.2214,
+        "recent_7_avg": 0.222,
+        "season_avg": 0.22430769230769232,
+        "trend_direction": "stable",
+        "trend_score": 0,
+        "hr_last_3": 0.0,
+        "hr_last_7": 0.0,
+        "is_trending_up": false,
+        "momentum": "stable"
+      },
+      "data_sources_used": [
+        "custom_batter_stats",
+        "exit_velocity_data",
+        "custom_pitcher_stats",
+        "pitcher_exit_velocity",
+        "daily_json_files",
+        "pitch_arsenal_data"
+      ],
+      "swing_optimization_score": 53.18808411214953,
+      "swing_attack_angle": 7.1605905137997965,
+      "swing_ideal_rate": 0.5116822429906542,
+      "swing_bat_speed": 64.38838574766349,
+      "barrel_rate": 0.0,
+      "exit_velocity_avg": 84.7,
+      "hard_hit_percent": 21.4,
+      "sweet_spot_percent": 28.8
+    }
+  ],
+  "pathwayBreakdown": {
+    "perfectStorm": [],
+    "batterDriven": [
+      {
+        "playerName": "Kyle Schwarber",
+        "player_name": "Kyle Schwarber",
+        "team": "PHI",
+        "pitcher": "vs Hurston Waldrep",
+        "pitcher_name": "Hurston Waldrep",
+        "confidenceScore": 44.61268762285592,
+        "confidence_score": 44.61268762285592,
+        "classification": "Solid Bet",
+        "pathway": "batterDriven",
+        "reasoning": "Elite exit velocity: 94.5 mph (95th percentile); Elite barrel rate: 20.6% (crushing the ball consistently); Strong power profile: 49.0 HRs, 0.333 ISO; Optimal swing mechanics: 94% efficiency; Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)",
+        "detailed_reasoning": [
+          "Elite exit velocity: 94.5 mph (95th percentile)",
+          "Elite barrel rate: 20.6% (crushing the ball consistently)",
+          "Strong power profile: 49.0 HRs, 0.333 ISO",
+          "Optimal swing mechanics: 94% efficiency",
+          "Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)"
+        ],
+        "game": "ATL @ PHI",
+        "venue": "Citizens Bank Park",
+        "gameTime": "23:10",
+        "is_home": true,
+        "odds": {
+          "american": "+210",
+          "decimal": 3.1,
+          "source": "current"
+        },
+        "component_scores": {
+          "batter_analysis": {
+            "data_available": true,
+            "exit_velocity_avg": 94.5,
+            "exit_velocity_score": 95,
+            "exit_velocity_percentile": 95.0,
+            "barrel_rate": 20.6,
+            "barrel_rate_score": 95,
+            "hard_hit_percent": 60.3,
+            "iso": 0.333,
+            "home_runs": 49.0,
+            "power_score": 95,
+            "overall_score": 95.0,
+            "sweet_spot_percent": 35.4,
+            "data_source": "exit_velocity"
+          },
+          "pitcher_analysis": {
+            "data_available": true,
+            "era": 0.9,
+            "era_score": 95,
+            "hr_per_9": 0.0,
+            "hr_score": 50.0,
+            "exit_velocity_allowed": 87.6,
+            "contact_quality_score": 25,
+            "barrel_rate_allowed": 3.7,
+            "vulnerability_score": 61.75,
+            "overall_score": 61.75,
+            "whip": 0.0,
+            "k_percent": 21.2,
+            "data_source": "custom_pitcher"
+          },
+          "arsenal_matchup": {
+            "matchup_available": false,
+            "overall_advantage": 0,
+            "confidence": 0,
+            "pitch_matchups": {},
+            "advantage_summary": "No arsenal data available",
+            "disadvantage_summary": "Limited matchup data"
+          },
+          "handedness_analysis": {
+            "matchup_available": false,
+            "advantage_score": 0,
+            "advantage_description": "No handedness data available"
+          },
+          "swing_analysis": {
+            "data_available": true,
+            "bat_speed": 77.31005898799316,
+            "attack_angle": 14.289215564621337,
+            "ideal_angle_rate": 0.6449399656946826,
+            "optimization_score": 94.2562540951973
+          }
+        },
+        "trend_analysis": {
+          "trend_available": true,
+          "games_analyzed": 14,
+          "recent_3_avg": 0.248,
+          "recent_5_avg": 0.2464,
+          "recent_7_avg": 0.24671428571428572,
+          "season_avg": 0.24821428571428572,
+          "trend_direction": "stable",
+          "trend_score": 0,
+          "hr_last_3": 0.0,
+          "hr_last_7": 0.0,
+          "is_trending_up": true,
+          "momentum": "positive"
+        },
+        "data_sources_used": [
+          "custom_batter_stats",
+          "exit_velocity_data",
+          "custom_pitcher_stats",
+          "pitcher_exit_velocity",
+          "daily_json_files",
+          "swing_path_data"
+        ],
+        "swing_optimization_score": 94.2562540951973,
+        "swing_attack_angle": 14.289215564621337,
+        "swing_ideal_rate": 0.6449399656946826,
+        "swing_bat_speed": 77.31005898799316,
+        "barrel_rate": 20.6,
+        "exit_velocity_avg": 94.5,
+        "hard_hit_percent": 60.3,
+        "sweet_spot_percent": 35.4
+      },
+      {
+        "playerName": "Matt Olson",
+        "player_name": "Matt Olson",
+        "team": "ATL",
+        "pitcher": "vs Jes\u00fas Luzardo",
+        "pitcher_name": "Jes\u00fas Luzardo",
+        "confidenceScore": 40.9591328254855,
+        "confidence_score": 40.9591328254855,
+        "classification": "Solid Bet",
+        "pathway": "batterDriven",
+        "reasoning": "Elite exit velocity: 93.3 mph (95th percentile); Elite barrel rate: 13.5% (crushing the ball consistently); Optimal swing mechanics: 79% efficiency; Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)",
+        "detailed_reasoning": [
+          "Elite exit velocity: 93.3 mph (95th percentile)",
+          "Elite barrel rate: 13.5% (crushing the ball consistently)",
+          "Optimal swing mechanics: 79% efficiency",
+          "Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)"
+        ],
+        "game": "PHI @ PHI",
+        "venue": "Citizens Bank Park",
+        "gameTime": "23:10",
+        "is_home": false,
+        "odds": {
+          "american": "+400",
+          "decimal": 5.0,
+          "source": "current"
+        },
+        "component_scores": {
+          "batter_analysis": {
+            "data_available": true,
+            "exit_velocity_avg": 93.3,
+            "exit_velocity_score": 95,
+            "exit_velocity_percentile": 95.0,
+            "barrel_rate": 13.5,
+            "barrel_rate_score": 82.85714285714286,
+            "hard_hit_percent": 54.0,
+            "iso": 0.189,
+            "home_runs": 21.0,
+            "power_score": 74.77272727272728,
+            "overall_score": 84.27759740259741,
+            "sweet_spot_percent": 36.7,
+            "data_source": "exit_velocity"
+          },
+          "pitcher_analysis": {
+            "data_available": true,
+            "era": 4.23,
+            "era_score": 65.0,
+            "hr_per_9": 0.0,
+            "hr_score": 50.0,
+            "exit_velocity_allowed": 89.2,
+            "contact_quality_score": 47.69230769230768,
+            "barrel_rate_allowed": 6.5,
+            "vulnerability_score": 55.42307692307692,
+            "overall_score": 55.42307692307692,
+            "whip": 0.0,
+            "k_percent": 27.8,
+            "data_source": "pitcher_exit_velocity"
+          },
+          "arsenal_matchup": {
+            "matchup_available": true,
+            "overall_advantage": 7.793880597014924,
+            "confidence": 1.0,
+            "pitch_matchups": {
+              "FF": {
+                "batter_slg": 0.569,
+                "pitcher_slg_allowed": 0.491,
+                "batter_woba": 0.421,
+                "batter_hard_hit": 61.6,
+                "pitcher_usage": 35.2,
+                "advantage_score": 8.809999999999997,
+                "sample_size": 170
+              },
+              "CH": {
+                "batter_slg": 0.393,
+                "pitcher_slg_allowed": 0.369,
+                "batter_woba": 0.339,
+                "batter_hard_hit": 50.0,
+                "pitcher_usage": 18.4,
+                "advantage_score": 5.850000000000001,
+                "sample_size": 69
+              }
+            },
+            "advantage_summary": "Strong vs FF (+8.8), CH (+5.9)",
+            "disadvantage_summary": "No major weaknesses",
+            "total_sample_size": 239
+          },
+          "handedness_analysis": {
+            "matchup_available": false,
+            "advantage_score": 0,
+            "advantage_description": "No handedness data available"
+          },
+          "swing_analysis": {
+            "data_available": true,
+            "bat_speed": 74.10717913333329,
+            "attack_angle": 8.835377148193897,
+            "ideal_angle_rate": 0.496,
+            "optimization_score": 79.3292724722221
+          }
+        },
+        "trend_analysis": {
+          "trend_available": true,
+          "games_analyzed": 14,
+          "recent_3_avg": 0.26866666666666666,
+          "recent_5_avg": 0.267,
+          "recent_7_avg": 0.2662857142857143,
+          "season_avg": 0.267,
+          "trend_direction": "stable",
+          "trend_score": 0,
+          "hr_last_3": 0.0,
+          "hr_last_7": 0.0,
+          "is_trending_up": true,
+          "momentum": "positive"
+        },
+        "data_sources_used": [
+          "custom_batter_stats",
+          "exit_velocity_data",
+          "custom_pitcher_stats",
+          "pitcher_exit_velocity",
+          "daily_json_files",
+          "pitch_arsenal_data",
+          "swing_path_data"
+        ],
+        "swing_optimization_score": 79.3292724722221,
+        "swing_attack_angle": 8.835377148193897,
+        "swing_ideal_rate": 0.496,
+        "swing_bat_speed": 74.10717913333329,
+        "barrel_rate": 13.5,
+        "exit_velocity_avg": 93.3,
+        "hard_hit_percent": 54.0,
+        "sweet_spot_percent": 36.7
+      },
+      {
+        "playerName": "Bryce Harper",
+        "player_name": "Bryce Harper",
+        "team": "PHI",
+        "pitcher": "vs Hurston Waldrep",
+        "pitcher_name": "Hurston Waldrep",
+        "confidenceScore": 40.34172620327899,
+        "confidence_score": 40.34172620327899,
+        "classification": "Solid Bet",
+        "pathway": "batterDriven",
+        "reasoning": "Above-average exit velocity: 91.2 mph; Strong barrel rate: 12.7% (quality contact); Strong power profile: 22.0 HRs, 0.231 ISO; Optimal swing mechanics: 79% efficiency; Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)",
+        "detailed_reasoning": [
+          "Above-average exit velocity: 91.2 mph",
+          "Strong barrel rate: 12.7% (quality contact)",
+          "Strong power profile: 22.0 HRs, 0.231 ISO",
+          "Optimal swing mechanics: 79% efficiency",
+          "Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)"
+        ],
+        "game": "ATL @ PHI",
+        "venue": "Citizens Bank Park",
+        "gameTime": "23:10",
+        "is_home": true,
+        "odds": {
+          "american": "+330",
+          "decimal": 4.3,
+          "source": "current"
+        },
+        "component_scores": {
+          "batter_analysis": {
+            "data_available": true,
+            "exit_velocity_avg": 91.2,
+            "exit_velocity_score": 78.18181818181823,
+            "exit_velocity_percentile": 75.0,
+            "barrel_rate": 12.7,
+            "barrel_rate_score": 78.57142857142857,
+            "hard_hit_percent": 48.1,
+            "iso": 0.231,
+            "home_runs": 22.0,
+            "power_score": 89.44444444444444,
+            "overall_score": 82.2406204906205,
+            "sweet_spot_percent": 38.3,
+            "data_source": "exit_velocity"
+          },
+          "pitcher_analysis": {
+            "data_available": true,
+            "era": 0.9,
+            "era_score": 95,
+            "hr_per_9": 0.0,
+            "hr_score": 50.0,
+            "exit_velocity_allowed": 87.6,
+            "contact_quality_score": 25,
+            "barrel_rate_allowed": 3.7,
+            "vulnerability_score": 61.75,
+            "overall_score": 61.75,
+            "whip": 0.0,
+            "k_percent": 21.2,
+            "data_source": "custom_pitcher"
+          },
+          "arsenal_matchup": {
+            "matchup_available": false,
+            "overall_advantage": 0,
+            "confidence": 0,
+            "pitch_matchups": {},
+            "advantage_summary": "No arsenal data available",
+            "disadvantage_summary": "Limited matchup data"
+          },
+          "handedness_analysis": {
+            "matchup_available": false,
+            "advantage_score": 0,
+            "advantage_description": "No handedness data available"
+          },
+          "swing_analysis": {
+            "data_available": true,
+            "bat_speed": 74.69344479690518,
+            "attack_angle": 11.30771348740172,
+            "ideal_angle_rate": 0.4545454545454545,
+            "optimization_score": 79.48466853642799
+          }
+        },
+        "trend_analysis": {
+          "trend_available": true,
+          "games_analyzed": 14,
+          "recent_3_avg": 0.27033333333333337,
+          "recent_5_avg": 0.269,
+          "recent_7_avg": 0.2672857142857143,
+          "season_avg": 0.26421428571428573,
+          "trend_direction": "stable",
+          "trend_score": 0,
+          "hr_last_3": 0.0,
+          "hr_last_7": 0.0,
+          "is_trending_up": true,
+          "momentum": "positive"
+        },
+        "data_sources_used": [
+          "custom_batter_stats",
+          "exit_velocity_data",
+          "custom_pitcher_stats",
+          "pitcher_exit_velocity",
+          "daily_json_files",
+          "swing_path_data"
+        ],
+        "swing_optimization_score": 79.48466853642799,
+        "swing_attack_angle": 11.30771348740172,
+        "swing_ideal_rate": 0.4545454545454545,
+        "swing_bat_speed": 74.69344479690518,
+        "barrel_rate": 12.7,
+        "exit_velocity_avg": 91.2,
+        "hard_hit_percent": 48.1,
+        "sweet_spot_percent": 38.3
+      },
+      {
+        "playerName": "Sean Murphy",
+        "player_name": "Sean Murphy",
+        "team": "ATL",
+        "pitcher": "vs Jes\u00fas Luzardo",
+        "pitcher_name": "Jes\u00fas Luzardo",
+        "confidenceScore": 35.37590908811062,
+        "confidence_score": 35.37590908811062,
+        "classification": "Solid Bet",
+        "pathway": "batterDriven",
+        "reasoning": "Elite barrel rate: 13.7% (crushing the ball consistently); Strong power profile: 16.0 HRs, 0.216 ISO; Optimal swing mechanics: 76% efficiency; Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)",
+        "detailed_reasoning": [
+          "Elite barrel rate: 13.7% (crushing the ball consistently)",
+          "Strong power profile: 16.0 HRs, 0.216 ISO",
+          "Optimal swing mechanics: 76% efficiency",
+          "Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)"
+        ],
+        "game": "PHI @ PHI",
+        "venue": "Citizens Bank Park",
+        "gameTime": "23:10",
+        "is_home": false,
+        "odds": {
+          "american": "+475",
+          "decimal": 5.75,
+          "source": "current"
+        },
+        "component_scores": {
+          "batter_analysis": {
+            "data_available": true,
+            "exit_velocity_avg": 88.9,
+            "exit_velocity_score": 51.11111111111121,
+            "exit_velocity_percentile": 50.0,
+            "barrel_rate": 13.7,
+            "barrel_rate_score": 83.92857142857142,
+            "hard_hit_percent": 42.3,
+            "iso": 0.216,
+            "home_runs": 16.0,
+            "power_score": 83.97727272727272,
+            "overall_score": 72.4595057720058,
+            "sweet_spot_percent": 31.1,
+            "data_source": "exit_velocity"
+          },
+          "pitcher_analysis": {
+            "data_available": true,
+            "era": 4.23,
+            "era_score": 65.0,
+            "hr_per_9": 0.0,
+            "hr_score": 50.0,
+            "exit_velocity_allowed": 89.2,
+            "contact_quality_score": 47.69230769230768,
+            "barrel_rate_allowed": 6.5,
+            "vulnerability_score": 55.42307692307692,
+            "overall_score": 55.42307692307692,
+            "whip": 0.0,
+            "k_percent": 27.8,
+            "data_source": "pitcher_exit_velocity"
+          },
+          "arsenal_matchup": {
+            "matchup_available": true,
+            "overall_advantage": -2.9899999999999998,
+            "confidence": 0.45,
+            "pitch_matchups": {
+              "FF": {
+                "batter_slg": 0.408,
+                "pitcher_slg_allowed": 0.491,
+                "batter_woba": 0.341,
+                "batter_hard_hit": 46.7,
+                "pitcher_usage": 35.2,
+                "advantage_score": -2.99,
+                "sample_size": 90
+              }
+            },
+            "advantage_summary": "Limited advantages found",
+            "disadvantage_summary": "No major weaknesses",
+            "total_sample_size": 90
+          },
+          "handedness_analysis": {
+            "matchup_available": true,
+            "matchup_key": "RHP_vs_RHB",
+            "woba": 0.0,
+            "iso": 0.0,
+            "hr_fb_percent": 0.0,
+            "advantage_score": 0,
+            "advantage_description": "Neutral handedness matchup"
+          },
+          "swing_analysis": {
+            "data_available": true,
+            "bat_speed": 72.53220579881655,
+            "attack_angle": 13.008687669134371,
+            "ideal_angle_rate": 0.5325443786982248,
+            "optimization_score": 76.1060144477317
+          }
+        },
+        "trend_analysis": {
+          "trend_available": true,
+          "games_analyzed": 7,
+          "recent_3_avg": 0.207,
+          "recent_5_avg": 0.20679999999999998,
+          "recent_7_avg": 0.2064285714285714,
+          "season_avg": 0.2064285714285714,
+          "trend_direction": "stable",
+          "trend_score": 0,
+          "hr_last_3": 0.0,
+          "hr_last_7": 0.0,
+          "is_trending_up": true,
+          "momentum": "positive"
+        },
+        "data_sources_used": [
+          "custom_batter_stats",
+          "exit_velocity_data",
+          "custom_pitcher_stats",
+          "pitcher_exit_velocity",
+          "daily_json_files",
+          "pitch_arsenal_data",
+          "swing_path_data"
+        ],
+        "swing_optimization_score": 76.1060144477317,
+        "swing_attack_angle": 13.008687669134371,
+        "swing_ideal_rate": 0.5325443786982248,
+        "swing_bat_speed": 72.53220579881655,
+        "barrel_rate": 13.7,
+        "exit_velocity_avg": 88.9,
+        "hard_hit_percent": 42.3,
+        "sweet_spot_percent": 31.1
+      }
+    ],
+    "pitcherDriven": [
+      {
+        "playerName": "Harrison Bader",
+        "player_name": "Harrison Bader",
+        "team": "PHI",
+        "pitcher": "vs Hurston Waldrep",
+        "pitcher_name": "Hurston Waldrep",
+        "confidenceScore": 34.59973670911212,
+        "confidence_score": 34.59973670911212,
+        "classification": "Value Play",
+        "pathway": "pitcherDriven",
+        "reasoning": "Strong barrel rate: 10.6% (quality contact); Hot recent streak: 0.293 AVG trending up; Optimal swing mechanics: 77% efficiency; Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)",
+        "detailed_reasoning": [
+          "Strong barrel rate: 10.6% (quality contact)",
+          "Hot recent streak: 0.293 AVG trending up",
+          "Optimal swing mechanics: 77% efficiency",
+          "Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)"
+        ],
+        "game": "ATL @ PHI",
+        "venue": "Citizens Bank Park",
+        "gameTime": "23:10",
+        "is_home": true,
+        "odds": {
+          "american": "+650",
+          "decimal": 7.5,
+          "source": "current"
+        },
+        "component_scores": {
+          "batter_analysis": {
+            "data_available": true,
+            "exit_velocity_avg": 87.1,
+            "exit_velocity_score": 35.0,
+            "exit_velocity_percentile": 25.0,
+            "barrel_rate": 10.6,
+            "barrel_rate_score": 67.36842105263158,
+            "hard_hit_percent": 42.0,
+            "iso": 0.178,
+            "home_runs": 14.0,
+            "power_score": 71.02272727272728,
+            "overall_score": 57.31848086124402,
+            "sweet_spot_percent": 31.0,
+            "data_source": "exit_velocity"
+          },
+          "pitcher_analysis": {
+            "data_available": true,
+            "era": 0.9,
+            "era_score": 95,
+            "hr_per_9": 0.0,
+            "hr_score": 50.0,
+            "exit_velocity_allowed": 87.6,
+            "contact_quality_score": 25,
+            "barrel_rate_allowed": 3.7,
+            "vulnerability_score": 61.75,
+            "overall_score": 61.75,
+            "whip": 0.0,
+            "k_percent": 21.2,
+            "data_source": "custom_pitcher"
+          },
+          "arsenal_matchup": {
+            "matchup_available": false,
+            "overall_advantage": 0,
+            "confidence": 0,
+            "pitch_matchups": {},
+            "advantage_summary": "No arsenal data available",
+            "disadvantage_summary": "Limited matchup data"
+          },
+          "handedness_analysis": {
+            "matchup_available": true,
+            "matchup_key": "RHP_vs_RHB",
+            "woba": 0.0,
+            "iso": 0.0,
+            "hr_fb_percent": 0.0,
+            "advantage_score": 0,
+            "advantage_description": "Neutral handedness matchup"
+          },
+          "swing_analysis": {
+            "data_available": true,
+            "bat_speed": 73.23552807881777,
+            "attack_angle": 11.034705028076347,
+            "ideal_angle_rate": 0.5098522167487683,
+            "optimization_score": 77.30641502463064
+          }
+        },
+        "trend_analysis": {
+          "trend_available": true,
+          "games_analyzed": 13,
+          "recent_3_avg": 0.2926666666666667,
+          "recent_5_avg": 0.288,
+          "recent_7_avg": 0.27785714285714286,
+          "season_avg": 0.23976923076923076,
+          "trend_direction": "hot",
+          "trend_score": 15,
+          "hr_last_3": 0.0,
+          "hr_last_7": 0.0,
+          "is_trending_up": true,
+          "momentum": "positive"
+        },
+        "data_sources_used": [
+          "custom_batter_stats",
+          "exit_velocity_data",
+          "custom_pitcher_stats",
+          "pitcher_exit_velocity",
+          "daily_json_files",
+          "swing_path_data"
+        ],
+        "swing_optimization_score": 77.30641502463064,
+        "swing_attack_angle": 11.034705028076347,
+        "swing_ideal_rate": 0.5098522167487683,
+        "swing_bat_speed": 73.23552807881777,
+        "barrel_rate": 10.6,
+        "exit_velocity_avg": 87.1,
+        "hard_hit_percent": 42.0,
+        "sweet_spot_percent": 31.0
+      },
+      {
+        "playerName": "J.T. Realmuto",
+        "player_name": "J.T. Realmuto",
+        "team": "PHI",
+        "pitcher": "vs Hurston Waldrep",
+        "pitcher_name": "Hurston Waldrep",
+        "confidenceScore": 33.505164764861846,
+        "confidence_score": 33.505164764861846,
+        "classification": "Value Play",
+        "pathway": "pitcherDriven",
+        "reasoning": "Above-average exit velocity: 90.4 mph; Optimal swing mechanics: 76% efficiency; Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)",
+        "detailed_reasoning": [
+          "Above-average exit velocity: 90.4 mph",
+          "Optimal swing mechanics: 76% efficiency",
+          "Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)"
+        ],
+        "game": "ATL @ PHI",
+        "venue": "Citizens Bank Park",
+        "gameTime": "23:10",
+        "is_home": true,
+        "odds": {
+          "american": "+500",
+          "decimal": 6.0,
+          "source": "current"
+        },
+        "component_scores": {
+          "batter_analysis": {
+            "data_available": true,
+            "exit_velocity_avg": 90.4,
+            "exit_velocity_score": 67.7777777777779,
+            "exit_velocity_percentile": 50.0,
+            "barrel_rate": 9.1,
+            "barrel_rate_score": 59.473684210526315,
+            "hard_hit_percent": 47.0,
+            "iso": 0.139,
+            "home_runs": 11.0,
+            "power_score": 52.0,
+            "overall_score": 59.764327485380164,
+            "sweet_spot_percent": 37.2,
+            "data_source": "exit_velocity"
+          },
+          "pitcher_analysis": {
+            "data_available": true,
+            "era": 0.9,
+            "era_score": 95,
+            "hr_per_9": 0.0,
+            "hr_score": 50.0,
+            "exit_velocity_allowed": 87.6,
+            "contact_quality_score": 25,
+            "barrel_rate_allowed": 3.7,
+            "vulnerability_score": 61.75,
+            "overall_score": 61.75,
+            "whip": 0.0,
+            "k_percent": 21.2,
+            "data_source": "custom_pitcher"
+          },
+          "arsenal_matchup": {
+            "matchup_available": false,
+            "overall_advantage": 0,
+            "confidence": 0,
+            "pitch_matchups": {},
+            "advantage_summary": "No arsenal data available",
+            "disadvantage_summary": "Limited matchup data"
+          },
+          "handedness_analysis": {
+            "matchup_available": true,
+            "matchup_key": "RHP_vs_RHB",
+            "woba": 0.0,
+            "iso": 0.0,
+            "hr_fb_percent": 0.0,
+            "advantage_score": 0,
+            "advantage_description": "Neutral handedness matchup"
+          },
+          "swing_analysis": {
+            "data_available": true,
+            "bat_speed": 72.27614833628323,
+            "attack_angle": 12.753367209094009,
+            "ideal_angle_rate": 0.55929203539823,
+            "optimization_score": 76.3622173082597
+          }
+        },
+        "trend_analysis": {
+          "trend_available": true,
+          "games_analyzed": 11,
+          "recent_3_avg": 0.26966666666666667,
+          "recent_5_avg": 0.2716,
+          "recent_7_avg": 0.2735714285714286,
+          "season_avg": 0.27436363636363637,
+          "trend_direction": "stable",
+          "trend_score": 0,
+          "hr_last_3": 0.0,
+          "hr_last_7": 0.0,
+          "is_trending_up": false,
+          "momentum": "negative"
+        },
+        "data_sources_used": [
+          "custom_batter_stats",
+          "exit_velocity_data",
+          "custom_pitcher_stats",
+          "pitcher_exit_velocity",
+          "daily_json_files",
+          "swing_path_data"
+        ],
+        "swing_optimization_score": 76.3622173082597,
+        "swing_attack_angle": 12.753367209094009,
+        "swing_ideal_rate": 0.55929203539823,
+        "swing_bat_speed": 72.27614833628323,
+        "barrel_rate": 9.1,
+        "exit_velocity_avg": 90.4,
+        "hard_hit_percent": 47.0,
+        "sweet_spot_percent": 37.2
+      },
+      {
+        "playerName": "Brandon Marsh",
+        "player_name": "Brandon Marsh",
+        "team": "PHI",
+        "pitcher": "vs Hurston Waldrep",
+        "pitcher_name": "Hurston Waldrep",
+        "confidenceScore": 33.042159218161466,
+        "confidence_score": 33.042159218161466,
+        "classification": "Value Play",
+        "pathway": "pitcherDriven",
+        "reasoning": "Above-average exit velocity: 91.2 mph; Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)",
+        "detailed_reasoning": [
+          "Above-average exit velocity: 91.2 mph",
+          "Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)"
+        ],
+        "game": "ATL @ PHI",
+        "venue": "Citizens Bank Park",
+        "gameTime": "23:10",
+        "is_home": true,
+        "odds": {
+          "american": "+550",
+          "decimal": 6.5,
+          "source": "current"
+        },
+        "component_scores": {
+          "batter_analysis": {
+            "data_available": true,
+            "exit_velocity_avg": 91.2,
+            "exit_velocity_score": 78.18181818181823,
+            "exit_velocity_percentile": 75.0,
+            "barrel_rate": 8.0,
+            "barrel_rate_score": 53.68421052631579,
+            "hard_hit_percent": 46.9,
+            "iso": 0.134,
+            "home_runs": 7.0,
+            "power_score": 49.680851063829785,
+            "overall_score": 60.85719739387154,
+            "sweet_spot_percent": 36.7,
+            "data_source": "exit_velocity"
+          },
+          "pitcher_analysis": {
+            "data_available": true,
+            "era": 0.9,
+            "era_score": 95,
+            "hr_per_9": 0.0,
+            "hr_score": 50.0,
+            "exit_velocity_allowed": 87.6,
+            "contact_quality_score": 25,
+            "barrel_rate_allowed": 3.7,
+            "vulnerability_score": 61.75,
+            "overall_score": 61.75,
+            "whip": 0.0,
+            "k_percent": 21.2,
+            "data_source": "custom_pitcher"
+          },
+          "arsenal_matchup": {
+            "matchup_available": false,
+            "overall_advantage": 0,
+            "confidence": 0,
+            "pitch_matchups": {},
+            "advantage_summary": "No arsenal data available",
+            "disadvantage_summary": "Limited matchup data"
+          },
+          "handedness_analysis": {
+            "matchup_available": false,
+            "advantage_score": 0,
+            "advantage_description": "No handedness data available"
+          },
+          "swing_analysis": {
+            "data_available": true,
+            "bat_speed": 71.62680390350863,
+            "attack_angle": 9.386034332969052,
+            "ideal_angle_rate": 0.4166666666666666,
+            "optimization_score": 69.11984471856684
+          }
+        },
+        "trend_analysis": {
+          "trend_available": true,
+          "games_analyzed": 13,
+          "recent_3_avg": 0.265,
+          "recent_5_avg": 0.26280000000000003,
+          "recent_7_avg": 0.2622857142857143,
+          "season_avg": 0.26461538461538464,
+          "trend_direction": "stable",
+          "trend_score": 0,
+          "hr_last_3": 0.0,
+          "hr_last_7": 0.0,
+          "is_trending_up": true,
+          "momentum": "positive"
+        },
+        "data_sources_used": [
+          "custom_batter_stats",
+          "exit_velocity_data",
+          "custom_pitcher_stats",
+          "pitcher_exit_velocity",
+          "daily_json_files"
+        ],
+        "swing_optimization_score": 69.11984471856684,
+        "swing_attack_angle": 9.386034332969052,
+        "swing_ideal_rate": 0.4166666666666666,
+        "swing_bat_speed": 71.62680390350863,
+        "barrel_rate": 8.0,
+        "exit_velocity_avg": 91.2,
+        "hard_hit_percent": 46.9,
+        "sweet_spot_percent": 36.7
+      },
+      {
+        "playerName": "Jurickson Profar",
+        "player_name": "Jurickson Profar",
+        "team": "ATL",
+        "pitcher": "vs Jes\u00fas Luzardo",
+        "pitcher_name": "Jes\u00fas Luzardo",
+        "confidenceScore": 31.64252783466962,
+        "confidence_score": 31.64252783466962,
+        "classification": "Value Play",
+        "pathway": "pitcherDriven",
+        "reasoning": "Strong power profile: 12.0 HRs, 0.223 ISO; Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)",
+        "detailed_reasoning": [
+          "Strong power profile: 12.0 HRs, 0.223 ISO",
+          "Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)"
+        ],
+        "game": "PHI @ PHI",
+        "venue": "Citizens Bank Park",
+        "gameTime": "23:10",
+        "is_home": false,
+        "odds": {
+          "american": "+500",
+          "decimal": 6.0,
+          "source": "current"
+        },
+        "component_scores": {
+          "batter_analysis": {
+            "data_available": true,
+            "exit_velocity_avg": 88.6,
+            "exit_velocity_score": 48.23529411764704,
+            "exit_velocity_percentile": 25.0,
+            "barrel_rate": 8.6,
+            "barrel_rate_score": 56.84210526315789,
+            "hard_hit_percent": 40.2,
+            "iso": 0.223,
+            "home_runs": 12.0,
+            "power_score": 86.48148148148148,
+            "overall_score": 64.20350303864234,
+            "sweet_spot_percent": 27.6,
+            "data_source": "custom_batter"
+          },
+          "pitcher_analysis": {
+            "data_available": true,
+            "era": 4.23,
+            "era_score": 65.0,
+            "hr_per_9": 0.0,
+            "hr_score": 50.0,
+            "exit_velocity_allowed": 89.2,
+            "contact_quality_score": 47.69230769230768,
+            "barrel_rate_allowed": 6.5,
+            "vulnerability_score": 55.42307692307692,
+            "overall_score": 55.42307692307692,
+            "whip": 0.0,
+            "k_percent": 27.8,
+            "data_source": "pitcher_exit_velocity"
+          },
+          "arsenal_matchup": {
+            "matchup_available": true,
+            "overall_advantage": -5.620000000000002,
+            "confidence": 0.335,
+            "pitch_matchups": {
+              "FF": {
+                "batter_slg": 0.393,
+                "pitcher_slg_allowed": 0.491,
+                "batter_woba": 0.368,
+                "batter_hard_hit": 25.0,
+                "pitcher_usage": 35.2,
+                "advantage_score": -5.620000000000002,
+                "sample_size": 67
+              }
+            },
+            "advantage_summary": "Limited advantages found",
+            "disadvantage_summary": "Struggles vs FF (-5.6)",
+            "total_sample_size": 67
+          },
+          "handedness_analysis": {
+            "matchup_available": false,
+            "advantage_score": 0,
+            "advantage_description": "No handedness data available"
+          },
+          "swing_analysis": {
+            "data_available": false,
+            "optimization_score": 50
+          }
+        },
+        "trend_analysis": {
+          "trend_available": true,
+          "games_analyzed": 14,
+          "recent_3_avg": 0.26633333333333337,
+          "recent_5_avg": 0.2654,
+          "recent_7_avg": 0.264,
+          "season_avg": 0.25785714285714284,
+          "trend_direction": "stable",
+          "trend_score": 0,
+          "hr_last_3": 0.0,
+          "hr_last_7": 0.0,
+          "is_trending_up": true,
+          "momentum": "positive"
+        },
+        "data_sources_used": [
+          "custom_batter_stats",
+          "exit_velocity_data",
+          "custom_pitcher_stats",
+          "pitcher_exit_velocity",
+          "daily_json_files",
+          "pitch_arsenal_data"
+        ],
+        "swing_optimization_score": 50,
+        "swing_attack_angle": 0,
+        "swing_ideal_rate": 0,
+        "swing_bat_speed": 0,
+        "barrel_rate": 8.6,
+        "exit_velocity_avg": 88.6,
+        "hard_hit_percent": 40.2,
+        "sweet_spot_percent": 27.6
+      },
+      {
+        "playerName": "Trea Turner",
+        "player_name": "Trea Turner",
+        "team": "PHI",
+        "pitcher": "vs Hurston Waldrep",
+        "pitcher_name": "Hurston Waldrep",
+        "confidenceScore": 31.422198594662056,
+        "confidence_score": 31.422198594662056,
+        "classification": "Value Play",
+        "pathway": "pitcherDriven",
+        "reasoning": "Optimal swing mechanics: 75% efficiency; Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)",
+        "detailed_reasoning": [
+          "Optimal swing mechanics: 75% efficiency",
+          "Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)"
+        ],
+        "game": "ATL @ PHI",
+        "venue": "Citizens Bank Park",
+        "gameTime": "23:10",
+        "is_home": true,
+        "odds": {
+          "american": "+550",
+          "decimal": 6.5,
+          "source": "current"
+        },
+        "component_scores": {
+          "batter_analysis": {
+            "data_available": true,
+            "exit_velocity_avg": 89.3,
+            "exit_velocity_score": 55.555555555555564,
+            "exit_velocity_percentile": 50.0,
+            "barrel_rate": 5.9,
+            "barrel_rate_score": 43.4375,
+            "hard_hit_percent": 41.6,
+            "iso": 0.152,
+            "home_runs": 14.0,
+            "power_score": 58.5,
+            "overall_score": 52.95069444444444,
+            "sweet_spot_percent": 35.3,
+            "data_source": "exit_velocity"
+          },
+          "pitcher_analysis": {
+            "data_available": true,
+            "era": 0.9,
+            "era_score": 95,
+            "hr_per_9": 0.0,
+            "hr_score": 50.0,
+            "exit_velocity_allowed": 87.6,
+            "contact_quality_score": 25,
+            "barrel_rate_allowed": 3.7,
+            "vulnerability_score": 61.75,
+            "overall_score": 61.75,
+            "whip": 0.0,
+            "k_percent": 21.2,
+            "data_source": "custom_pitcher"
+          },
+          "arsenal_matchup": {
+            "matchup_available": false,
+            "overall_advantage": 0,
+            "confidence": 0,
+            "pitch_matchups": {},
+            "advantage_summary": "No arsenal data available",
+            "disadvantage_summary": "Limited matchup data"
+          },
+          "handedness_analysis": {
+            "matchup_available": true,
+            "matchup_key": "RHP_vs_RHB",
+            "woba": 0.0,
+            "iso": 0.0,
+            "hr_fb_percent": 0.0,
+            "advantage_score": 0,
+            "advantage_description": "Neutral handedness matchup"
+          },
+          "swing_analysis": {
+            "data_available": true,
+            "bat_speed": 71.04381233486939,
+            "attack_angle": 8.122973993492273,
+            "ideal_angle_rate": 0.6205837173579108,
+            "optimization_score": 75.0663420442907
+          }
+        },
+        "trend_analysis": {
+          "trend_available": true,
+          "games_analyzed": 14,
+          "recent_3_avg": 0.29866666666666664,
+          "recent_5_avg": 0.29819999999999997,
+          "recent_7_avg": 0.29857142857142854,
+          "season_avg": 0.29742857142857143,
+          "trend_direction": "stable",
+          "trend_score": 0,
+          "hr_last_3": 0.0,
+          "hr_last_7": 0.0,
+          "is_trending_up": true,
+          "momentum": "positive"
+        },
+        "data_sources_used": [
+          "custom_batter_stats",
+          "exit_velocity_data",
+          "custom_pitcher_stats",
+          "pitcher_exit_velocity",
+          "daily_json_files",
+          "swing_path_data"
+        ],
+        "swing_optimization_score": 75.0663420442907,
+        "swing_attack_angle": 8.122973993492273,
+        "swing_ideal_rate": 0.6205837173579108,
+        "swing_bat_speed": 71.04381233486939,
+        "barrel_rate": 5.9,
+        "exit_velocity_avg": 89.3,
+        "hard_hit_percent": 41.6,
+        "sweet_spot_percent": 35.3
+      },
+      {
+        "playerName": "Alec Bohm",
+        "player_name": "Alec Bohm",
+        "team": "PHI",
+        "pitcher": "vs Hurston Waldrep",
+        "pitcher_name": "Hurston Waldrep",
+        "confidenceScore": 30.802808067375892,
+        "confidence_score": 30.802808067375892,
+        "classification": "Value Play",
+        "pathway": "pitcherDriven",
+        "reasoning": "Above-average exit velocity: 90.5 mph; Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)",
+        "detailed_reasoning": [
+          "Above-average exit velocity: 90.5 mph",
+          "Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)"
+        ],
+        "game": "ATL @ PHI",
+        "venue": "Citizens Bank Park",
+        "gameTime": "23:10",
+        "is_home": true,
+        "odds": {
+          "american": "+750",
+          "decimal": 8.5,
+          "source": "current"
+        },
+        "component_scores": {
+          "batter_analysis": {
+            "data_available": true,
+            "exit_velocity_avg": 90.5,
+            "exit_velocity_score": 68.88888888888894,
+            "exit_velocity_percentile": 50.0,
+            "barrel_rate": 6.6,
+            "barrel_rate_score": 46.71875,
+            "hard_hit_percent": 45.7,
+            "iso": 0.115,
+            "home_runs": 9.0,
+            "power_score": 43.61702127659574,
+            "overall_score": 53.392693557919635,
+            "sweet_spot_percent": 34.3,
+            "data_source": "exit_velocity"
+          },
+          "pitcher_analysis": {
+            "data_available": true,
+            "era": 0.9,
+            "era_score": 95,
+            "hr_per_9": 0.0,
+            "hr_score": 50.0,
+            "exit_velocity_allowed": 87.6,
+            "contact_quality_score": 25,
+            "barrel_rate_allowed": 3.7,
+            "vulnerability_score": 61.75,
+            "overall_score": 61.75,
+            "whip": 0.0,
+            "k_percent": 21.2,
+            "data_source": "custom_pitcher"
+          },
+          "arsenal_matchup": {
+            "matchup_available": false,
+            "overall_advantage": 0,
+            "confidence": 0,
+            "pitch_matchups": {},
+            "advantage_summary": "No arsenal data available",
+            "disadvantage_summary": "Limited matchup data"
+          },
+          "handedness_analysis": {
+            "matchup_available": true,
+            "matchup_key": "RHP_vs_RHB",
+            "woba": 0.0,
+            "iso": 0.0,
+            "hr_fb_percent": 0.0,
+            "advantage_score": 0,
+            "advantage_description": "Neutral handedness matchup"
+          },
+          "swing_analysis": {
+            "data_available": true,
+            "bat_speed": 71.30941707368419,
+            "attack_angle": 4.52325541516211,
+            "ideal_angle_rate": 0.431578947368421,
+            "optimization_score": 56.75334365789467
+          }
+        },
+        "trend_analysis": {
+          "trend_available": true,
+          "games_analyzed": 13,
+          "recent_3_avg": 0.2826666666666667,
+          "recent_5_avg": 0.28359999999999996,
+          "recent_7_avg": 0.283,
+          "season_avg": 0.28176923076923077,
+          "trend_direction": "stable",
+          "trend_score": 0,
+          "hr_last_3": 0.0,
+          "hr_last_7": 0.0,
+          "is_trending_up": false,
+          "momentum": "negative"
+        },
+        "data_sources_used": [
+          "custom_batter_stats",
+          "exit_velocity_data",
+          "custom_pitcher_stats",
+          "pitcher_exit_velocity",
+          "daily_json_files"
+        ],
+        "swing_optimization_score": 56.75334365789467,
+        "swing_attack_angle": 4.52325541516211,
+        "swing_ideal_rate": 0.431578947368421,
+        "swing_bat_speed": 71.30941707368419,
+        "barrel_rate": 6.6,
+        "exit_velocity_avg": 90.5,
+        "hard_hit_percent": 45.7,
+        "sweet_spot_percent": 34.3
+      },
+      {
+        "playerName": "Nick Castellanos",
+        "player_name": "Nick Castellanos",
+        "team": "PHI",
+        "pitcher": "vs Hurston Waldrep",
+        "pitcher_name": "Hurston Waldrep",
+        "confidenceScore": 30.039419504643966,
+        "confidence_score": 30.039419504643966,
+        "classification": "Value Play",
+        "pathway": "pitcherDriven",
+        "reasoning": "Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)",
+        "detailed_reasoning": [
+          "Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)"
+        ],
+        "game": "ATL @ PHI",
+        "venue": "Citizens Bank Park",
+        "gameTime": "23:10",
+        "is_home": true,
+        "odds": {
+          "american": "+550",
+          "decimal": 6.5,
+          "source": "current"
+        },
+        "component_scores": {
+          "batter_analysis": {
+            "data_available": true,
+            "exit_velocity_avg": 87.6,
+            "exit_velocity_score": 39.41176470588235,
+            "exit_velocity_percentile": 25.0,
+            "barrel_rate": 8.3,
+            "barrel_rate_score": 55.26315789473685,
+            "hard_hit_percent": 33.9,
+            "iso": 0.152,
+            "home_runs": 16.0,
+            "power_score": 58.5,
+            "overall_score": 50.848065015479875,
+            "sweet_spot_percent": 37.8,
+            "data_source": "exit_velocity"
+          },
+          "pitcher_analysis": {
+            "data_available": true,
+            "era": 0.9,
+            "era_score": 95,
+            "hr_per_9": 0.0,
+            "hr_score": 50.0,
+            "exit_velocity_allowed": 87.6,
+            "contact_quality_score": 25,
+            "barrel_rate_allowed": 3.7,
+            "vulnerability_score": 61.75,
+            "overall_score": 61.75,
+            "whip": 0.0,
+            "k_percent": 21.2,
+            "data_source": "custom_pitcher"
+          },
+          "arsenal_matchup": {
+            "matchup_available": false,
+            "overall_advantage": 0,
+            "confidence": 0,
+            "pitch_matchups": {},
+            "advantage_summary": "No arsenal data available",
+            "disadvantage_summary": "Limited matchup data"
+          },
+          "handedness_analysis": {
+            "matchup_available": true,
+            "matchup_key": "RHP_vs_RHB",
+            "woba": 0.0,
+            "iso": 0.0,
+            "hr_fb_percent": 0.0,
+            "advantage_score": 0,
+            "advantage_description": "Neutral handedness matchup"
+          },
+          "swing_analysis": {
+            "data_available": true,
+            "bat_speed": 70.11108516717319,
+            "attack_angle": 15.11322269997392,
+            "ideal_angle_rate": 0.4817629179331306,
+            "optimization_score": 67.14010782674752
+          }
+        },
+        "trend_analysis": {
+          "trend_available": true,
+          "games_analyzed": 10,
+          "recent_3_avg": 0.25333333333333335,
+          "recent_5_avg": 0.2548,
+          "recent_7_avg": 0.2552857142857143,
+          "season_avg": 0.2548,
+          "trend_direction": "stable",
+          "trend_score": 0,
+          "hr_last_3": 0.0,
+          "hr_last_7": 0.0,
+          "is_trending_up": false,
+          "momentum": "negative"
+        },
+        "data_sources_used": [
+          "custom_batter_stats",
+          "exit_velocity_data",
+          "custom_pitcher_stats",
+          "pitcher_exit_velocity",
+          "daily_json_files"
+        ],
+        "swing_optimization_score": 67.14010782674752,
+        "swing_attack_angle": 15.11322269997392,
+        "swing_ideal_rate": 0.4817629179331306,
+        "swing_bat_speed": 70.11108516717319,
+        "barrel_rate": 8.3,
+        "exit_velocity_avg": 87.6,
+        "hard_hit_percent": 33.9,
+        "sweet_spot_percent": 37.8
+      },
+      {
+        "playerName": "Bryson Stott",
+        "player_name": "Bryson Stott",
+        "team": "PHI",
+        "pitcher": "vs Hurston Waldrep",
+        "pitcher_name": "Hurston Waldrep",
+        "confidenceScore": 26.761844102002513,
+        "confidence_score": 26.761844102002513,
+        "classification": "Avoid",
+        "pathway": "pitcherDriven",
+        "reasoning": "Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)",
+        "detailed_reasoning": [
+          "Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)"
+        ],
+        "game": "ATL @ PHI",
+        "venue": "Citizens Bank Park",
+        "gameTime": "23:10",
+        "is_home": true,
+        "odds": {
+          "american": "+800",
+          "decimal": 9.0,
+          "source": "current"
+        },
+        "component_scores": {
+          "batter_analysis": {
+            "data_available": true,
+            "exit_velocity_avg": 87.4,
+            "exit_velocity_score": 37.647058823529505,
+            "exit_velocity_percentile": 25.0,
+            "barrel_rate": 4.4,
+            "barrel_rate_score": 36.40625,
+            "hard_hit_percent": 29.4,
+            "iso": 0.12,
+            "home_runs": 9.0,
+            "power_score": 45.212765957446805,
+            "overall_score": 39.92281367334171,
+            "sweet_spot_percent": 35.3,
+            "data_source": "exit_velocity"
+          },
+          "pitcher_analysis": {
+            "data_available": true,
+            "era": 0.9,
+            "era_score": 95,
+            "hr_per_9": 0.0,
+            "hr_score": 50.0,
+            "exit_velocity_allowed": 87.6,
+            "contact_quality_score": 25,
+            "barrel_rate_allowed": 3.7,
+            "vulnerability_score": 61.75,
+            "overall_score": 61.75,
+            "whip": 0.0,
+            "k_percent": 21.2,
+            "data_source": "custom_pitcher"
+          },
+          "arsenal_matchup": {
+            "matchup_available": false,
+            "overall_advantage": 0,
+            "confidence": 0,
+            "pitch_matchups": {},
+            "advantage_summary": "No arsenal data available",
+            "disadvantage_summary": "Limited matchup data"
+          },
+          "handedness_analysis": {
+            "matchup_available": false,
+            "advantage_score": 0,
+            "advantage_description": "No handedness data available"
+          },
+          "swing_analysis": {
+            "data_available": true,
+            "bat_speed": 69.53003204152253,
+            "attack_angle": 7.498966040593044,
+            "ideal_angle_rate": 0.5155709342560553,
+            "optimization_score": 60.71317015570945
+          }
+        },
+        "trend_analysis": {
+          "trend_available": true,
+          "games_analyzed": 13,
+          "recent_3_avg": 0.24433333333333332,
+          "recent_5_avg": 0.24459999999999998,
+          "recent_7_avg": 0.24528571428571427,
+          "season_avg": 0.24438461538461537,
+          "trend_direction": "stable",
+          "trend_score": 0,
+          "hr_last_3": 0.0,
+          "hr_last_7": 0.0,
+          "is_trending_up": false,
+          "momentum": "negative"
+        },
+        "data_sources_used": [
+          "custom_batter_stats",
+          "exit_velocity_data",
+          "custom_pitcher_stats",
+          "pitcher_exit_velocity",
+          "daily_json_files"
+        ],
+        "swing_optimization_score": 60.71317015570945,
+        "swing_attack_angle": 7.498966040593044,
+        "swing_ideal_rate": 0.5155709342560553,
+        "swing_bat_speed": 69.53003204152253,
+        "barrel_rate": 4.4,
+        "exit_velocity_avg": 87.4,
+        "hard_hit_percent": 29.4,
+        "sweet_spot_percent": 35.3
+      },
+      {
+        "playerName": "Ronald Acuna Jr.",
+        "player_name": "Ronald Acuna Jr.",
+        "team": "ATL",
+        "pitcher": "vs Jes\u00fas Luzardo",
+        "pitcher_name": "Jes\u00fas Luzardo",
+        "confidenceScore": 25,
+        "confidence_score": 25,
+        "classification": "Longshot",
+        "pathway": "pitcherDriven",
+        "reasoning": "Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)",
+        "detailed_reasoning": [
+          "Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)"
+        ],
+        "game": "PHI @ PHI",
+        "venue": "Citizens Bank Park",
+        "gameTime": "23:10",
+        "is_home": false,
+        "odds": {
+          "american": "+340",
+          "decimal": 4.4,
+          "source": "current"
+        },
+        "component_scores": {
+          "batter_analysis": {
+            "data_available": false,
+            "overall_score": 50
+          },
+          "pitcher_analysis": {
+            "data_available": true,
+            "era": 4.23,
+            "era_score": 65.0,
+            "hr_per_9": 0.0,
+            "hr_score": 50.0,
+            "exit_velocity_allowed": 89.2,
+            "contact_quality_score": 47.69230769230768,
+            "barrel_rate_allowed": 6.5,
+            "vulnerability_score": 55.42307692307692,
+            "overall_score": 55.42307692307692,
+            "whip": 0.0,
+            "k_percent": 27.8,
+            "data_source": "pitcher_exit_velocity"
+          },
+          "arsenal_matchup": {
+            "matchup_available": false,
+            "overall_advantage": 0,
+            "confidence": 0,
+            "pitch_matchups": {},
+            "advantage_summary": "No arsenal data available",
+            "disadvantage_summary": "Limited matchup data"
+          },
+          "handedness_analysis": {
+            "matchup_available": false,
+            "advantage_score": 0,
+            "advantage_description": "No handedness data available"
+          },
+          "swing_analysis": {
+            "data_available": false,
+            "optimization_score": 50
+          }
+        },
+        "trend_analysis": {
+          "trend_available": true,
+          "games_analyzed": 14,
+          "recent_3_avg": 0.29633333333333334,
+          "recent_5_avg": 0.2986,
+          "recent_7_avg": 0.29942857142857143,
+          "season_avg": 0.30078571428571427,
+          "trend_direction": "stable",
+          "trend_score": 0,
+          "hr_last_3": 0.0,
+          "hr_last_7": 0.0,
+          "is_trending_up": false,
+          "momentum": "negative"
+        },
+        "data_sources_used": [
+          "custom_pitcher_stats",
+          "pitcher_exit_velocity",
+          "daily_json_files"
+        ],
+        "swing_optimization_score": 50,
+        "swing_attack_angle": 0,
+        "swing_ideal_rate": 0,
+        "swing_bat_speed": 0,
+        "barrel_rate": 0,
+        "exit_velocity_avg": 0,
+        "hard_hit_percent": 0,
+        "sweet_spot_percent": 0
+      },
+      {
+        "playerName": "Ozzie Albies",
+        "player_name": "Ozzie Albies",
+        "team": "ATL",
+        "pitcher": "vs Jes\u00fas Luzardo",
+        "pitcher_name": "Jes\u00fas Luzardo",
+        "confidenceScore": 25,
+        "confidence_score": 25,
+        "classification": "Longshot",
+        "pathway": "pitcherDriven",
+        "reasoning": "Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)",
+        "detailed_reasoning": [
+          "Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)"
+        ],
+        "game": "PHI @ PHI",
+        "venue": "Citizens Bank Park",
+        "gameTime": "23:10",
+        "is_home": false,
+        "odds": {
+          "american": "+500",
+          "decimal": 6.0,
+          "source": "current"
+        },
+        "component_scores": {
+          "batter_analysis": {
+            "data_available": true,
+            "exit_velocity_avg": 87.4,
+            "exit_velocity_score": 37.647058823529505,
+            "exit_velocity_percentile": 25.0,
+            "barrel_rate": 4.1,
+            "barrel_rate_score": 35.0,
+            "hard_hit_percent": 30.8,
+            "iso": 0.116,
+            "home_runs": 13.0,
+            "power_score": 43.93617021276596,
+            "overall_score": 39.05413016270341,
+            "sweet_spot_percent": 33.6,
+            "data_source": "exit_velocity"
+          },
+          "pitcher_analysis": {
+            "data_available": true,
+            "era": 4.23,
+            "era_score": 65.0,
+            "hr_per_9": 0.0,
+            "hr_score": 50.0,
+            "exit_velocity_allowed": 89.2,
+            "contact_quality_score": 47.69230769230768,
+            "barrel_rate_allowed": 6.5,
+            "vulnerability_score": 55.42307692307692,
+            "overall_score": 55.42307692307692,
+            "whip": 0.0,
+            "k_percent": 27.8,
+            "data_source": "pitcher_exit_velocity"
+          },
+          "arsenal_matchup": {
+            "matchup_available": true,
+            "overall_advantage": -4.68820895522388,
+            "confidence": 1.0,
+            "pitch_matchups": {
+              "FF": {
+                "batter_slg": 0.432,
+                "pitcher_slg_allowed": 0.491,
+                "batter_woba": 0.336,
+                "batter_hard_hit": 36.2,
+                "pitcher_usage": 35.2,
+                "advantage_score": -3.83,
+                "sample_size": 165
+              },
+              "CH": {
+                "batter_slg": 0.26,
+                "pitcher_slg_allowed": 0.369,
+                "batter_woba": 0.239,
+                "batter_hard_hit": 26.1,
+                "pitcher_usage": 18.4,
+                "advantage_score": -6.329999999999998,
+                "sample_size": 98
+              }
+            },
+            "advantage_summary": "Limited advantages found",
+            "disadvantage_summary": "Struggles vs CH (-6.3)",
+            "total_sample_size": 263
+          },
+          "handedness_analysis": {
+            "matchup_available": false,
+            "advantage_score": 0,
+            "advantage_description": "No handedness data available"
+          },
+          "swing_analysis": {
+            "data_available": true,
+            "bat_speed": 68.58216745428983,
+            "attack_angle": 14.094062753769183,
+            "ideal_angle_rate": 0.5836849507735583,
+            "optimization_score": 66.50284072902045
+          }
+        },
+        "trend_analysis": {
+          "trend_available": true,
+          "games_analyzed": 14,
+          "recent_3_avg": 0.234,
+          "recent_5_avg": 0.23320000000000002,
+          "recent_7_avg": 0.23185714285714287,
+          "season_avg": 0.22971428571428573,
+          "trend_direction": "stable",
+          "trend_score": 0,
+          "hr_last_3": 0.0,
+          "hr_last_7": 0.0,
+          "is_trending_up": true,
+          "momentum": "positive"
+        },
+        "data_sources_used": [
+          "custom_batter_stats",
+          "exit_velocity_data",
+          "custom_pitcher_stats",
+          "pitcher_exit_velocity",
+          "daily_json_files",
+          "pitch_arsenal_data"
+        ],
+        "swing_optimization_score": 66.50284072902045,
+        "swing_attack_angle": 14.094062753769183,
+        "swing_ideal_rate": 0.5836849507735583,
+        "swing_bat_speed": 68.58216745428983,
+        "barrel_rate": 4.1,
+        "exit_velocity_avg": 87.4,
+        "hard_hit_percent": 30.8,
+        "sweet_spot_percent": 33.6
+      },
+      {
+        "playerName": "Nick Allen",
+        "player_name": "Nick Allen",
+        "team": "ATL",
+        "pitcher": "vs Jes\u00fas Luzardo",
+        "pitcher_name": "Jes\u00fas Luzardo",
+        "confidenceScore": 25,
+        "confidence_score": 25,
+        "classification": "Avoid",
+        "pathway": "pitcherDriven",
+        "reasoning": "Challenging matchup: Struggles vs FF (-14.8); Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)",
+        "detailed_reasoning": [
+          "Challenging matchup: Struggles vs FF (-14.8)",
+          "Hitter-friendly venue: Citizens Bank Park (HR factor: 1.06)"
+        ],
+        "game": "PHI @ PHI",
+        "venue": "Citizens Bank Park",
+        "gameTime": "23:10",
+        "is_home": false,
+        "odds": {
+          "american": "+1900",
+          "decimal": 20.0,
+          "source": "current"
+        },
+        "component_scores": {
+          "batter_analysis": {
+            "data_available": true,
+            "exit_velocity_avg": 84.7,
+            "exit_velocity_score": 25,
+            "exit_velocity_percentile": 10.0,
+            "barrel_rate": 0.0,
+            "barrel_rate_score": 50.0,
+            "hard_hit_percent": 21.4,
+            "iso": 0.028,
+            "home_runs": 0.0,
+            "power_score": 25,
+            "overall_score": 32.5,
+            "sweet_spot_percent": 28.8,
+            "data_source": "exit_velocity"
+          },
+          "pitcher_analysis": {
+            "data_available": true,
+            "era": 4.23,
+            "era_score": 65.0,
+            "hr_per_9": 0.0,
+            "hr_score": 50.0,
+            "exit_velocity_allowed": 89.2,
+            "contact_quality_score": 47.69230769230768,
+            "barrel_rate_allowed": 6.5,
+            "vulnerability_score": 55.42307692307692,
+            "overall_score": 55.42307692307692,
+            "whip": 0.0,
+            "k_percent": 27.8,
+            "data_source": "pitcher_exit_velocity"
+          },
+          "arsenal_matchup": {
+            "matchup_available": true,
+            "overall_advantage": -14.760000000000002,
+            "confidence": 0.59,
+            "pitch_matchups": {
+              "FF": {
+                "batter_slg": 0.26,
+                "pitcher_slg_allowed": 0.491,
+                "batter_woba": 0.295,
+                "batter_hard_hit": 20.5,
+                "pitcher_usage": 35.2,
+                "advantage_score": -14.760000000000002,
+                "sample_size": 118
+              }
+            },
+            "advantage_summary": "Limited advantages found",
+            "disadvantage_summary": "Struggles vs FF (-14.8)",
+            "total_sample_size": 118
+          },
+          "handedness_analysis": {
+            "matchup_available": true,
+            "matchup_key": "RHP_vs_RHB",
+            "woba": 0.0,
+            "iso": 0.0,
+            "hr_fb_percent": 0.0,
+            "advantage_score": 0,
+            "advantage_description": "Neutral handedness matchup"
+          },
+          "swing_analysis": {
+            "data_available": true,
+            "bat_speed": 64.38838574766349,
+            "attack_angle": 7.1605905137997965,
+            "ideal_angle_rate": 0.5116822429906542,
+            "optimization_score": 53.18808411214953
+          }
+        },
+        "trend_analysis": {
+          "trend_available": true,
+          "games_analyzed": 13,
+          "recent_3_avg": 0.222,
+          "recent_5_avg": 0.2214,
+          "recent_7_avg": 0.222,
+          "season_avg": 0.22430769230769232,
+          "trend_direction": "stable",
+          "trend_score": 0,
+          "hr_last_3": 0.0,
+          "hr_last_7": 0.0,
+          "is_trending_up": false,
+          "momentum": "stable"
+        },
+        "data_sources_used": [
+          "custom_batter_stats",
+          "exit_velocity_data",
+          "custom_pitcher_stats",
+          "pitcher_exit_velocity",
+          "daily_json_files",
+          "pitch_arsenal_data"
+        ],
+        "swing_optimization_score": 53.18808411214953,
+        "swing_attack_angle": 7.1605905137997965,
+        "swing_ideal_rate": 0.5116822429906542,
+        "swing_bat_speed": 64.38838574766349,
+        "barrel_rate": 0.0,
+        "exit_velocity_avg": 84.7,
+        "hard_hit_percent": 21.4,
+        "sweet_spot_percent": 28.8
+      }
+    ]
+  },
+  "summary": {
+    "totalPicks": 15,
+    "averageConfidence": 32.5,
+    "personalStraight": 0,
+    "longshots": 2,
+    "processingTimeSeconds": 2.8
+  },
+  "dataQuality": {
+    "customBatterStats": 608,
+    "customPitcherStats": 754,
+    "exitVelocityData": 254,
+    "pitcherExitVelocityData": 364,
+    "handednessSplits": 508,
+    "swingPathData": 215,
+    "pitchArsenalHitter": 343,
+    "pitchArsenalPitcher": 314,
+    "baseballApiAvailable": true,
+    "percentileBenchmarksBuilt": true
+  },
+  "comprehensiveFeatures": {
+    "percentileBasedScoring": true,
+    "multiSourceDataIntegration": true,
+    "rollingTrendAnalysis": true,
+    "baseballApiIntegration": true,
+    "handednessMatchupAnalysis": true,
+    "swingPathOptimization": true,
+    "launchAngleMastersIntegration": true,
+    "barrelMatchupIntegration": true,
+    "detailedReasoningGeneration": true
+  },
+  "archiveMetadata": {
+    "archivedAt": "2025-08-31T18:30:05.665043",
+    "runType": "Midday Adjustment",
+    "originalFilename": "hellraiser_analysis_2025-08-31.json",
+    "cronTriggered": true,
+    "gameContext": {
+      "gamesScheduled": true,
+      "gameCount": 15,
+      "earliestGame": "16:10",
+      "latestGame": "23:10",
+      "analysisTime": "18:30",
+      "timingContext": {
+        "beforeAllGames": false,
+        "betweenGames": true,
+        "afterAllGames": false
+      }
+    }
+  }
+}
