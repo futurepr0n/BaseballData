@@ -1,0 +1,22 @@
+{
+  "daily_playbyplay_summary": {
+    "date": "yesterday",
+    "start_time": "2025-08-19T08:05:06.599828",
+    "end_time": "2025-08-19T08:08:54.368711",
+    "duration_seconds": 227.768883,
+    "duration_formatted": "0:03:47.768883",
+    "result": {
+      "success": true,
+      "processed": 11,
+      "failed": 1,
+      "total": 12,
+      "success_rate": 91.66666666666666,
+      "file_archived": false
+    },
+    "configuration": {
+      "data_path": "/app/BaseballData/data",
+      "playbyplay_output_path": "/app/BaseballData/data/play-by-play",
+      "scanned_path": "/app/BaseballData/SCANNED"
+    }
+  }
+}
