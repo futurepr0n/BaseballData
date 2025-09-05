@@ -1,6 +1,6 @@
 {
-  "date": "2025-09-04",
-  "generatedAt": "2025-09-04T17:13:44.230Z",
+  "date": "2025-09-05",
+  "generatedAt": "2025-09-05T01:32:59.369Z",
   "propType": "home_runs",
   "propInfo": {
     "key": "home_runs",
@@ -22,10 +22,10 @@
       "fullName": "C. Raleigh",
       "team": "SEA",
       "seasonTotal": 51,
-      "rate": 0.375,
-      "recentRate": 0.375,
-      "prob1Plus": 35,
-      "prob2Plus": 6.2,
+      "rate": 0.372,
+      "recentRate": 0.372,
+      "prob1Plus": 34.8,
+      "prob2Plus": 6.1,
       "multiHitRate": 0,
       "trend": "stable",
       "confidence": "high",
@@ -46,24 +46,67 @@
         "recent5Games": [],
         "seasonOverview": {
           "seasonTotal": 51,
-          "seasonAverage": "0.375",
-          "gamesPlayed": 136,
+          "seasonAverage": "0.372",
+          "gamesPlayed": 137,
           "leagueAverage": 0.9,
-          "projectedTotal": 61
+          "projectedTotal": 60
         },
         "opponentHistory": {},
         "totalHistoricalGames": 0
       },
       "value": 51,
-      "games": 136,
+      "games": 137,
       "avg": 0,
       "rawPlayer": {
         "name": "C. Raleigh",
         "team": "SEA",
         "HR": 51,
-        "games": 136,
+        "games": 137,
         "rate": "0.100",
-        "hrsPerGame": "0.38"
+        "hrsPerGame": "0.37"
+      }
+    },
+    {
+      "id": "D. Varsho-TOR",
+      "name": "D. Varsho",
+      "fullName": "D. Varsho",
+      "team": "TOR",
+      "seasonTotal": 18,
+      "rate": 0.353,
+      "recentRate": 0.353,
+      "prob1Plus": 29.7,
+      "prob2Plus": 4.9,
+      "multiHitRate": 0,
+      "trend": "stable",
+      "confidence": "high",
+      "strategicFactors": {
+        "badges": [],
+        "parkFactor": 1,
+        "confidenceBoost": 0,
+        "stadiumContext": null
+      },
+      "chartData": {
+        "recent5Games": [],
+        "seasonOverview": {
+          "seasonTotal": 18,
+          "seasonAverage": "0.353",
+          "gamesPlayed": 51,
+          "leagueAverage": 0.9,
+          "projectedTotal": 57
+        },
+        "opponentHistory": {},
+        "totalHistoricalGames": 0
+      },
+      "value": 18,
+      "games": 51,
+      "avg": 0,
+      "rawPlayer": {
+        "name": "D. Varsho",
+        "team": "TOR",
+        "HR": 18,
+        "games": 51,
+        "rate": "0.102",
+        "hrsPerGame": "0.35"
       }
     },
     {
@@ -72,10 +115,10 @@
       "fullName": "K. Schwarber",
       "team": "PHI",
       "seasonTotal": 49,
-      "rate": 0.355,
-      "recentRate": 0.355,
-      "prob1Plus": 33.5,
-      "prob2Plus": 5.6,
+      "rate": 0.35,
+      "recentRate": 0.35,
+      "prob1Plus": 33.1,
+      "prob2Plus": 5.5,
       "multiHitRate": 0,
       "trend": "stable",
       "confidence": "high",
@@ -96,117 +139,24 @@
         "recent5Games": [],
         "seasonOverview": {
           "seasonTotal": 49,
-          "seasonAverage": "0.355",
-          "gamesPlayed": 138,
+          "seasonAverage": "0.350",
+          "gamesPlayed": 140,
           "leagueAverage": 0.9,
-          "projectedTotal": 58
+          "projectedTotal": 57
         },
         "opponentHistory": {},
         "totalHistoricalGames": 0
       },
       "value": 49,
-      "games": 138,
+      "games": 140,
       "avg": 0,
       "rawPlayer": {
         "name": "K. Schwarber",
         "team": "PHI",
         "HR": 49,
-        "games": 138,
-        "rate": "0.095",
-        "hrsPerGame": "0.36"
-      }
-    },
-    {
-      "id": "S. Ohtani-LAD",
-      "name": "S. Ohtani",
-      "fullName": "S. Ohtani",
-      "team": "LAD",
-      "seasonTotal": 46,
-      "rate": 0.341,
-      "recentRate": 0.341,
-      "prob1Plus": 32.3,
-      "prob2Plus": 5.2,
-      "multiHitRate": 0,
-      "trend": "stable",
-      "confidence": "high",
-      "strategicFactors": {
-        "badges": [
-          {
-            "type": "HR_CANDIDATE",
-            "source": "hr_analysis",
-            "reason": "46 HRs this season",
-            "boost": 12
-          }
-        ],
-        "parkFactor": 1,
-        "confidenceBoost": 12,
-        "stadiumContext": null
-      },
-      "chartData": {
-        "recent5Games": [],
-        "seasonOverview": {
-          "seasonTotal": 46,
-          "seasonAverage": "0.341",
-          "gamesPlayed": 135,
-          "leagueAverage": 0.9,
-          "projectedTotal": 55
-        },
-        "opponentHistory": {},
-        "totalHistoricalGames": 0
-      },
-      "value": 46,
-      "games": 135,
-      "avg": 0,
-      "rawPlayer": {
-        "name": "S. Ohtani",
-        "team": "LAD",
-        "HR": 46,
-        "games": 135,
-        "rate": "0.088",
-        "hrsPerGame": "0.34"
-      }
-    },
-    {
-      "id": "D. Varsho-TOR",
-      "name": "D. Varsho",
-      "fullName": "D. Varsho",
-      "team": "TOR",
-      "seasonTotal": 17,
-      "rate": 0.34,
-      "recentRate": 0.34,
-      "prob1Plus": 28.8,
-      "prob2Plus": 4.6,
-      "multiHitRate": 0,
-      "trend": "stable",
-      "confidence": "high",
-      "strategicFactors": {
-        "badges": [],
-        "parkFactor": 1,
-        "confidenceBoost": 0,
-        "stadiumContext": null
-      },
-      "chartData": {
-        "recent5Games": [],
-        "seasonOverview": {
-          "seasonTotal": 17,
-          "seasonAverage": "0.340",
-          "gamesPlayed": 50,
-          "leagueAverage": 0.9,
-          "projectedTotal": 55
-        },
-        "opponentHistory": {},
-        "totalHistoricalGames": 0
-      },
-      "value": 17,
-      "games": 50,
-      "avg": 0,
-      "rawPlayer": {
-        "name": "D. Varsho",
-        "team": "TOR",
-        "HR": 17,
-        "games": 50,
-        "rate": "0.099",
-        "hrsPerGame": "0.34"
+        "games": 140,
+        "rate": "0.094",
+        "hrsPerGame": "0.35"
       }
     },
     {
@@ -260,15 +210,65 @@
       }
     },
     {
+      "id": "S. Ohtani-LAD",
+      "name": "S. Ohtani",
+      "fullName": "S. Ohtani",
+      "team": "LAD",
+      "seasonTotal": 46,
+      "rate": 0.338,
+      "recentRate": 0.338,
+      "prob1Plus": 32.1,
+      "prob2Plus": 5.1,
+      "multiHitRate": 0,
+      "trend": "stable",
+      "confidence": "high",
+      "strategicFactors": {
+        "badges": [
+          {
+            "type": "HR_CANDIDATE",
+            "source": "hr_analysis",
+            "reason": "46 HRs this season",
+            "boost": 12
+          }
+        ],
+        "parkFactor": 1,
+        "confidenceBoost": 12,
+        "stadiumContext": null
+      },
+      "chartData": {
+        "recent5Games": [],
+        "seasonOverview": {
+          "seasonTotal": 46,
+          "seasonAverage": "0.338",
+          "gamesPlayed": 136,
+          "leagueAverage": 0.9,
+          "projectedTotal": 55
+        },
+        "opponentHistory": {},
+        "totalHistoricalGames": 0
+      },
+      "value": 46,
+      "games": 136,
+      "avg": 0,
+      "rawPlayer": {
+        "name": "S. Ohtani",
+        "team": "LAD",
+        "HR": 46,
+        "games": 136,
+        "rate": "0.087",
+        "hrsPerGame": "0.34"
+      }
+    },
+    {
       "id": "A. Judge-NYY",
       "name": "A. Judge",
       "fullName": "A. Judge",
       "team": "NYY",
       "seasonTotal": 43,
-      "rate": 0.336,
-      "recentRate": 0.336,
-      "prob1Plus": 32,
-      "prob2Plus": 5.1,
+      "rate": 0.333,
+      "recentRate": 0.333,
+      "prob1Plus": 31.7,
+      "prob2Plus": 5,
       "multiHitRate": 0,
       "trend": "stable",
       "confidence": "high",
@@ -289,8 +289,8 @@
         "recent5Games": [],
         "seasonOverview": {
           "seasonTotal": 43,
-          "seasonAverage": "0.336",
-          "gamesPlayed": 128,
+          "seasonAverage": "0.333",
+          "gamesPlayed": 129,
           "leagueAverage": 0.9,
           "projectedTotal": 54
         },
@@ -298,56 +298,13 @@
         "totalHistoricalGames": 0
       },
       "value": 43,
-      "games": 128,
+      "games": 129,
       "avg": 0,
       "rawPlayer": {
         "name": "A. Judge",
         "team": "NYY",
         "HR": 43,
-        "games": 128,
-        "rate": "0.092",
-        "hrsPerGame": "0.34"
-      }
-    },
-    {
-      "id": "C. Montgomery-CHW",
-      "name": "C. Montgomery",
-      "fullName": "C. Montgomery",
-      "team": "CHW",
-      "seasonTotal": 16,
-      "rate": 0.333,
-      "recentRate": 0.333,
-      "prob1Plus": 28.3,
-      "prob2Plus": 4.5,
-      "multiHitRate": 0,
-      "trend": "stable",
-      "confidence": "high",
-      "strategicFactors": {
-        "badges": [],
-        "parkFactor": 1,
-        "confidenceBoost": 0,
-        "stadiumContext": null
-      },
-      "chartData": {
-        "recent5Games": [],
-        "seasonOverview": {
-          "seasonTotal": 16,
-          "seasonAverage": "0.333",
-          "gamesPlayed": 48,
-          "leagueAverage": 0.9,
-          "projectedTotal": 54
-        },
-        "opponentHistory": {},
-        "totalHistoricalGames": 0
-      },
-      "value": 16,
-      "games": 48,
-      "avg": 0,
-      "rawPlayer": {
-        "name": "C. Montgomery",
-        "team": "CHW",
-        "HR": 16,
-        "games": 48,
+        "games": 129,
         "rate": "0.091",
         "hrsPerGame": "0.33"
       }
@@ -396,15 +353,15 @@
       }
     },
     {
-      "id": "G. Stanton-NYY",
-      "name": "G. Stanton",
-      "fullName": "G. Stanton",
-      "team": "NYY",
-      "seasonTotal": 17,
-      "rate": 0.304,
-      "recentRate": 0.304,
-      "prob1Plus": 26.2,
-      "prob2Plus": 3.8,
+      "id": "C. Montgomery-CHW",
+      "name": "C. Montgomery",
+      "fullName": "C. Montgomery",
+      "team": "CHW",
+      "seasonTotal": 16,
+      "rate": 0.327,
+      "recentRate": 0.327,
+      "prob1Plus": 27.9,
+      "prob2Plus": 4.3,
       "multiHitRate": 0,
       "trend": "stable",
       "confidence": "high",
@@ -417,25 +374,68 @@
       "chartData": {
         "recent5Games": [],
         "seasonOverview": {
-          "seasonTotal": 17,
-          "seasonAverage": "0.304",
-          "gamesPlayed": 56,
+          "seasonTotal": 16,
+          "seasonAverage": "0.327",
+          "gamesPlayed": 49,
           "leagueAverage": 0.9,
-          "projectedTotal": 49
+          "projectedTotal": 53
         },
         "opponentHistory": {},
         "totalHistoricalGames": 0
       },
-      "value": 17,
-      "games": 56,
+      "value": 16,
+      "games": 49,
+      "avg": 0,
+      "rawPlayer": {
+        "name": "C. Montgomery",
+        "team": "CHW",
+        "HR": 16,
+        "games": 49,
+        "rate": "0.089",
+        "hrsPerGame": "0.33"
+      }
+    },
+    {
+      "id": "G. Stanton-NYY",
+      "name": "G. Stanton",
+      "fullName": "G. Stanton",
+      "team": "NYY",
+      "seasonTotal": 18,
+      "rate": 0.316,
+      "recentRate": 0.316,
+      "prob1Plus": 27.1,
+      "prob2Plus": 4.1,
+      "multiHitRate": 0,
+      "trend": "stable",
+      "confidence": "high",
+      "strategicFactors": {
+        "badges": [],
+        "parkFactor": 1,
+        "confidenceBoost": 0,
+        "stadiumContext": null
+      },
+      "chartData": {
+        "recent5Games": [],
+        "seasonOverview": {
+          "seasonTotal": 18,
+          "seasonAverage": "0.316",
+          "gamesPlayed": 57,
+          "leagueAverage": 0.9,
+          "projectedTotal": 51
+        },
+        "opponentHistory": {},
+        "totalHistoricalGames": 0
+      },
+      "value": 18,
+      "games": 57,
       "avg": 0,
       "rawPlayer": {
         "name": "G. Stanton",
         "team": "NYY",
-        "HR": 17,
-        "games": 56,
-        "rate": "0.096",
-        "hrsPerGame": "0.30"
+        "HR": 18,
+        "games": 57,
+        "rate": "0.099",
+        "hrsPerGame": "0.32"
       }
     },
     {
@@ -444,9 +444,9 @@
       "fullName": "J. Caminero",
       "team": "TB",
       "seasonTotal": 40,
-      "rate": 0.303,
-      "recentRate": 0.303,
-      "prob1Plus": 29.3,
+      "rate": 0.301,
+      "recentRate": 0.301,
+      "prob1Plus": 29.1,
       "prob2Plus": 4.2,
       "multiHitRate": 0,
       "trend": "stable",
@@ -468,8 +468,8 @@
         "recent5Games": [],
         "seasonOverview": {
           "seasonTotal": 40,
-          "seasonAverage": "0.303",
-          "gamesPlayed": 132,
+          "seasonAverage": "0.301",
+          "gamesPlayed": 133,
           "leagueAverage": 0.9,
           "projectedTotal": 49
         },
@@ -477,14 +477,14 @@
         "totalHistoricalGames": 0
       },
       "value": 40,
-      "games": 132,
+      "games": 133,
       "avg": 0,
       "rawPlayer": {
         "name": "J. Caminero",
         "team": "TB",
         "HR": 40,
-        "games": 132,
-        "rate": "0.077",
+        "games": 133,
+        "rate": "0.076",
         "hrsPerGame": "0.30"
       }
     },
@@ -493,11 +493,11 @@
       "name": "N. Kurtz",
       "fullName": "N. Kurtz",
       "team": "OAK",
-      "seasonTotal": 27,
-      "rate": 0.284,
-      "recentRate": 0.284,
-      "prob1Plus": 26.7,
-      "prob2Plus": 3.6,
+      "seasonTotal": 28,
+      "rate": 0.292,
+      "recentRate": 0.292,
+      "prob1Plus": 27.3,
+      "prob2Plus": 3.8,
       "multiHitRate": 0,
       "trend": "stable",
       "confidence": "high",
@@ -506,7 +506,7 @@
           {
             "type": "DUE_FOR_HR",
             "source": "hr_analysis",
-            "reason": "27 HRs - due for power surge",
+            "reason": "28 HRs - due for power surge",
             "boost": 8
           }
         ],
@@ -517,25 +517,25 @@
       "chartData": {
         "recent5Games": [],
         "seasonOverview": {
-          "seasonTotal": 27,
-          "seasonAverage": "0.284",
-          "gamesPlayed": 95,
+          "seasonTotal": 28,
+          "seasonAverage": "0.292",
+          "gamesPlayed": 96,
           "leagueAverage": 0.9,
-          "projectedTotal": 46
+          "projectedTotal": 47
         },
         "opponentHistory": {},
         "totalHistoricalGames": 0
       },
-      "value": 27,
-      "games": 95,
+      "value": 28,
+      "games": 96,
       "avg": 0,
       "rawPlayer": {
         "name": "N. Kurtz",
         "team": "OAK",
-        "HR": 27,
-        "games": 95,
-        "rate": "0.080",
-        "hrsPerGame": "0.28"
+        "HR": 28,
+        "games": 96,
+        "rate": "0.082",
+        "hrsPerGame": "0.29"
       }
     },
     {
@@ -544,9 +544,9 @@
       "fullName": "S. Langeliers",
       "team": "OAK",
       "seasonTotal": 29,
-      "rate": 0.276,
-      "recentRate": 0.276,
-      "prob1Plus": 26.1,
+      "rate": 0.274,
+      "recentRate": 0.274,
+      "prob1Plus": 25.9,
       "prob2Plus": 3.4,
       "multiHitRate": 0,
       "trend": "stable",
@@ -568,24 +568,24 @@
         "recent5Games": [],
         "seasonOverview": {
           "seasonTotal": 29,
-          "seasonAverage": "0.276",
-          "gamesPlayed": 105,
+          "seasonAverage": "0.274",
+          "gamesPlayed": 106,
           "leagueAverage": 0.9,
-          "projectedTotal": 45
+          "projectedTotal": 44
         },
         "opponentHistory": {},
         "totalHistoricalGames": 0
       },
       "value": 29,
-      "games": 105,
+      "games": 106,
       "avg": 0,
       "rawPlayer": {
         "name": "S. Langeliers",
         "team": "OAK",
         "HR": 29,
-        "games": 105,
+        "games": 106,
         "rate": "0.071",
-        "hrsPerGame": "0.28"
+        "hrsPerGame": "0.27"
       }
     },
     {
@@ -594,9 +594,9 @@
       "fullName": "B. Buxton",
       "team": "MIN",
       "seasonTotal": 29,
-      "rate": 0.276,
-      "recentRate": 0.276,
-      "prob1Plus": 26.1,
+      "rate": 0.274,
+      "recentRate": 0.274,
+      "prob1Plus": 25.9,
       "prob2Plus": 3.4,
       "multiHitRate": 0,
       "trend": "stable",
@@ -618,24 +618,24 @@
         "recent5Games": [],
         "seasonOverview": {
           "seasonTotal": 29,
-          "seasonAverage": "0.276",
-          "gamesPlayed": 105,
+          "seasonAverage": "0.274",
+          "gamesPlayed": 106,
           "leagueAverage": 0.9,
-          "projectedTotal": 45
+          "projectedTotal": 44
         },
         "opponentHistory": {},
         "totalHistoricalGames": 0
       },
       "value": 29,
-      "games": 105,
+      "games": 106,
       "avg": 0,
       "rawPlayer": {
         "name": "B. Buxton",
         "team": "MIN",
         "HR": 29,
-        "games": 105,
-        "rate": "0.072",
-        "hrsPerGame": "0.28"
+        "games": 106,
+        "rate": "0.071",
+        "hrsPerGame": "0.27"
       }
     },
     {
@@ -687,9 +687,9 @@
       "fullName": "J. Soto",
       "team": "NYM",
       "seasonTotal": 37,
-      "rate": 0.27,
-      "recentRate": 0.27,
-      "prob1Plus": 26.5,
+      "rate": 0.268,
+      "recentRate": 0.268,
+      "prob1Plus": 26.3,
       "prob2Plus": 3.4,
       "multiHitRate": 0,
       "trend": "stable",
@@ -711,23 +711,23 @@
         "recent5Games": [],
         "seasonOverview": {
           "seasonTotal": 37,
-          "seasonAverage": "0.270",
-          "gamesPlayed": 137,
+          "seasonAverage": "0.268",
+          "gamesPlayed": 138,
           "leagueAverage": 0.9,
-          "projectedTotal": 44
+          "projectedTotal": 43
         },
         "opponentHistory": {},
         "totalHistoricalGames": 0
       },
       "value": 37,
-      "games": 137,
+      "games": 138,
       "avg": 0,
       "rawPlayer": {
         "name": "J. Soto",
         "team": "NYM",
         "HR": 37,
-        "games": 137,
-        "rate": "0.076",
+        "games": 138,
+        "rate": "0.075",
         "hrsPerGame": "0.27"
       }
     },
@@ -737,10 +737,10 @@
       "fullName": "J. Chisholm Jr.",
       "team": "NYY",
       "seasonTotal": 28,
-      "rate": 0.264,
-      "recentRate": 0.264,
-      "prob1Plus": 25.1,
-      "prob2Plus": 3.2,
+      "rate": 0.262,
+      "recentRate": 0.262,
+      "prob1Plus": 24.9,
+      "prob2Plus": 3.1,
       "multiHitRate": 0,
       "trend": "stable",
       "confidence": "high",
@@ -761,24 +761,124 @@
         "recent5Games": [],
         "seasonOverview": {
           "seasonTotal": 28,
-          "seasonAverage": "0.264",
-          "gamesPlayed": 106,
+          "seasonAverage": "0.262",
+          "gamesPlayed": 107,
           "leagueAverage": 0.9,
-          "projectedTotal": 43
+          "projectedTotal": 42
         },
         "opponentHistory": {},
         "totalHistoricalGames": 0
       },
       "value": 28,
-      "games": 106,
+      "games": 107,
       "avg": 0,
       "rawPlayer": {
         "name": "J. Chisholm Jr.",
         "team": "NYY",
         "HR": 28,
-        "games": 106,
-        "rate": "0.074",
+        "games": 107,
+        "rate": "0.073",
         "hrsPerGame": "0.26"
+      }
+    },
+    {
+      "id": "J. Adell-LAA",
+      "name": "J. Adell",
+      "fullName": "J. Adell",
+      "team": "LAA",
+      "seasonTotal": 33,
+      "rate": 0.25,
+      "recentRate": 0.25,
+      "prob1Plus": 24.8,
+      "prob2Plus": 3,
+      "multiHitRate": 0,
+      "trend": "stable",
+      "confidence": "high",
+      "strategicFactors": {
+        "badges": [
+          {
+            "type": "HR_CANDIDATE",
+            "source": "hr_analysis",
+            "reason": "33 HRs this season",
+            "boost": 12
+          }
+        ],
+        "parkFactor": 1,
+        "confidenceBoost": 12,
+        "stadiumContext": null
+      },
+      "chartData": {
+        "recent5Games": [],
+        "seasonOverview": {
+          "seasonTotal": 33,
+          "seasonAverage": "0.250",
+          "gamesPlayed": 132,
+          "leagueAverage": 0.9,
+          "projectedTotal": 41
+        },
+        "opponentHistory": {},
+        "totalHistoricalGames": 0
+      },
+      "value": 33,
+      "games": 132,
+      "avg": 0,
+      "rawPlayer": {
+        "name": "J. Adell",
+        "team": "LAA",
+        "HR": 33,
+        "games": 132,
+        "rate": "0.073",
+        "hrsPerGame": "0.25"
+      }
+    },
+    {
+      "id": "B. Lowe-TB",
+      "name": "B. Lowe",
+      "fullName": "B. Lowe",
+      "team": "TB",
+      "seasonTotal": 28,
+      "rate": 0.241,
+      "recentRate": 0.241,
+      "prob1Plus": 23.2,
+      "prob2Plus": 2.7,
+      "multiHitRate": 0,
+      "trend": "stable",
+      "confidence": "high",
+      "strategicFactors": {
+        "badges": [
+          {
+            "type": "DUE_FOR_HR",
+            "source": "hr_analysis",
+            "reason": "28 HRs - due for power surge",
+            "boost": 8
+          }
+        ],
+        "parkFactor": 1,
+        "confidenceBoost": 8,
+        "stadiumContext": null
+      },
+      "chartData": {
+        "recent5Games": [],
+        "seasonOverview": {
+          "seasonTotal": 28,
+          "seasonAverage": "0.241",
+          "gamesPlayed": 116,
+          "leagueAverage": 0.9,
+          "projectedTotal": 39
+        },
+        "opponentHistory": {},
+        "totalHistoricalGames": 0
+      },
+      "value": 28,
+      "games": 116,
+      "avg": 0,
+      "rawPlayer": {
+        "name": "B. Lowe",
+        "team": "TB",
+        "HR": 28,
+        "games": 116,
+        "rate": "0.065",
+        "hrsPerGame": "0.24"
       }
     },
     {
@@ -787,10 +887,10 @@
       "fullName": "M. Yastrzemski",
       "team": "KC",
       "seasonTotal": 7,
-      "rate": 0.25,
-      "recentRate": 0.25,
-      "prob1Plus": 22.1,
-      "prob2Plus": 2.6,
+      "rate": 0.241,
+      "recentRate": 0.241,
+      "prob1Plus": 21.4,
+      "prob2Plus": 2.5,
       "multiHitRate": 0,
       "trend": "stable",
       "confidence": "high",
@@ -804,123 +904,23 @@
         "recent5Games": [],
         "seasonOverview": {
           "seasonTotal": 7,
-          "seasonAverage": "0.250",
-          "gamesPlayed": 28,
-          "leagueAverage": 0.9,
-          "projectedTotal": 41
-        },
-        "opponentHistory": {},
-        "totalHistoricalGames": 0
-      },
-      "value": 7,
-      "games": 28,
-      "avg": 0,
-      "rawPlayer": {
-        "name": "M. Yastrzemski",
-        "team": "KC",
-        "HR": 7,
-        "games": 28,
-        "rate": "0.081",
-        "hrsPerGame": "0.25"
-      }
-    },
-    {
-      "id": "J. Adell-LAA",
-      "name": "J. Adell",
-      "fullName": "J. Adell",
-      "team": "LAA",
-      "seasonTotal": 32,
-      "rate": 0.244,
-      "recentRate": 0.244,
-      "prob1Plus": 24.3,
-      "prob2Plus": 2.8,
-      "multiHitRate": 0,
-      "trend": "stable",
-      "confidence": "high",
-      "strategicFactors": {
-        "badges": [
-          {
-            "type": "HR_CANDIDATE",
-            "source": "hr_analysis",
-            "reason": "32 HRs this season",
-            "boost": 12
-          }
-        ],
-        "parkFactor": 1,
-        "confidenceBoost": 12,
-        "stadiumContext": null
-      },
-      "chartData": {
-        "recent5Games": [],
-        "seasonOverview": {
-          "seasonTotal": 32,
-          "seasonAverage": "0.244",
-          "gamesPlayed": 131,
-          "leagueAverage": 0.9,
-          "projectedTotal": 40
-        },
-        "opponentHistory": {},
-        "totalHistoricalGames": 0
-      },
-      "value": 32,
-      "games": 131,
-      "avg": 0,
-      "rawPlayer": {
-        "name": "J. Adell",
-        "team": "LAA",
-        "HR": 32,
-        "games": 131,
-        "rate": "0.071",
-        "hrsPerGame": "0.24"
-      }
-    },
-    {
-      "id": "B. Lowe-TB",
-      "name": "B. Lowe",
-      "fullName": "B. Lowe",
-      "team": "TB",
-      "seasonTotal": 28,
-      "rate": 0.243,
-      "recentRate": 0.243,
-      "prob1Plus": 23.3,
-      "prob2Plus": 2.7,
-      "multiHitRate": 0,
-      "trend": "stable",
-      "confidence": "high",
-      "strategicFactors": {
-        "badges": [
-          {
-            "type": "DUE_FOR_HR",
-            "source": "hr_analysis",
-            "reason": "28 HRs - due for power surge",
-            "boost": 8
-          }
-        ],
-        "parkFactor": 1,
-        "confidenceBoost": 8,
-        "stadiumContext": null
-      },
-      "chartData": {
-        "recent5Games": [],
-        "seasonOverview": {
-          "seasonTotal": 28,
-          "seasonAverage": "0.243",
-          "gamesPlayed": 115,
+          "seasonAverage": "0.241",
+          "gamesPlayed": 29,
           "leagueAverage": 0.9,
           "projectedTotal": 39
         },
         "opponentHistory": {},
         "totalHistoricalGames": 0
       },
-      "value": 28,
-      "games": 115,
+      "value": 7,
+      "games": 29,
       "avg": 0,
       "rawPlayer": {
-        "name": "B. Lowe",
-        "team": "TB",
-        "HR": 28,
-        "games": 115,
-        "rate": "0.065",
+        "name": "M. Yastrzemski",
+        "team": "KC",
+        "HR": 7,
+        "games": 29,
+        "rate": "0.080",
         "hrsPerGame": "0.24"
       }
     },
@@ -929,106 +929,6 @@
       "name": "T. Grisham",
       "fullName": "T. Grisham",
       "team": "NYY",
-      "seasonTotal": 29,
-      "rate": 0.24,
-      "recentRate": 0.24,
-      "prob1Plus": 23,
-      "prob2Plus": 2.6,
-      "multiHitRate": 0,
-      "trend": "stable",
-      "confidence": "high",
-      "strategicFactors": {
-        "badges": [
-          {
-            "type": "DUE_FOR_HR",
-            "source": "hr_analysis",
-            "reason": "29 HRs - due for power surge",
-            "boost": 8
-          }
-        ],
-        "parkFactor": 1,
-        "confidenceBoost": 8,
-        "stadiumContext": null
-      },
-      "chartData": {
-        "recent5Games": [],
-        "seasonOverview": {
-          "seasonTotal": 29,
-          "seasonAverage": "0.240",
-          "gamesPlayed": 121,
-          "leagueAverage": 0.9,
-          "projectedTotal": 39
-        },
-        "opponentHistory": {},
-        "totalHistoricalGames": 0
-      },
-      "value": 29,
-      "games": 121,
-      "avg": 0,
-      "rawPlayer": {
-        "name": "T. Grisham",
-        "team": "NYY",
-        "HR": 29,
-        "games": 121,
-        "rate": "0.070",
-        "hrsPerGame": "0.24"
-      }
-    },
-    {
-      "id": "R. Greene-DET",
-      "name": "R. Greene",
-      "fullName": "R. Greene",
-      "team": "DET",
-      "seasonTotal": 32,
-      "rate": 0.239,
-      "recentRate": 0.239,
-      "prob1Plus": 23.8,
-      "prob2Plus": 2.7,
-      "multiHitRate": 0,
-      "trend": "stable",
-      "confidence": "high",
-      "strategicFactors": {
-        "badges": [
-          {
-            "type": "HR_CANDIDATE",
-            "source": "hr_analysis",
-            "reason": "32 HRs this season",
-            "boost": 12
-          }
-        ],
-        "parkFactor": 1,
-        "confidenceBoost": 12,
-        "stadiumContext": null
-      },
-      "chartData": {
-        "recent5Games": [],
-        "seasonOverview": {
-          "seasonTotal": 32,
-          "seasonAverage": "0.239",
-          "gamesPlayed": 134,
-          "leagueAverage": 0.9,
-          "projectedTotal": 39
-        },
-        "opponentHistory": {},
-        "totalHistoricalGames": 0
-      },
-      "value": 32,
-      "games": 134,
-      "avg": 0,
-      "rawPlayer": {
-        "name": "R. Greene",
-        "team": "DET",
-        "HR": 32,
-        "games": 134,
-        "rate": "0.063",
-        "hrsPerGame": "0.24"
-      }
-    },
-    {
-      "id": "C. Carroll-ARI",
-      "name": "C. Carroll",
-      "fullName": "C. Carroll",
-      "team": "ARI",
       "seasonTotal": 29,
       "rate": 0.238,
       "recentRate": 0.238,
@@ -1066,10 +966,110 @@
       "games": 122,
       "avg": 0,
       "rawPlayer": {
+        "name": "T. Grisham",
+        "team": "NYY",
+        "HR": 29,
+        "games": 122,
+        "rate": "0.069",
+        "hrsPerGame": "0.24"
+      }
+    },
+    {
+      "id": "R. Greene-DET",
+      "name": "R. Greene",
+      "fullName": "R. Greene",
+      "team": "DET",
+      "seasonTotal": 32,
+      "rate": 0.237,
+      "recentRate": 0.237,
+      "prob1Plus": 23.6,
+      "prob2Plus": 2.7,
+      "multiHitRate": 0,
+      "trend": "stable",
+      "confidence": "high",
+      "strategicFactors": {
+        "badges": [
+          {
+            "type": "HR_CANDIDATE",
+            "source": "hr_analysis",
+            "reason": "32 HRs this season",
+            "boost": 12
+          }
+        ],
+        "parkFactor": 1,
+        "confidenceBoost": 12,
+        "stadiumContext": null
+      },
+      "chartData": {
+        "recent5Games": [],
+        "seasonOverview": {
+          "seasonTotal": 32,
+          "seasonAverage": "0.237",
+          "gamesPlayed": 135,
+          "leagueAverage": 0.9,
+          "projectedTotal": 38
+        },
+        "opponentHistory": {},
+        "totalHistoricalGames": 0
+      },
+      "value": 32,
+      "games": 135,
+      "avg": 0,
+      "rawPlayer": {
+        "name": "R. Greene",
+        "team": "DET",
+        "HR": 32,
+        "games": 135,
+        "rate": "0.062",
+        "hrsPerGame": "0.24"
+      }
+    },
+    {
+      "id": "C. Carroll-ARI",
+      "name": "C. Carroll",
+      "fullName": "C. Carroll",
+      "team": "ARI",
+      "seasonTotal": 29,
+      "rate": 0.236,
+      "recentRate": 0.236,
+      "prob1Plus": 22.7,
+      "prob2Plus": 2.6,
+      "multiHitRate": 0,
+      "trend": "stable",
+      "confidence": "high",
+      "strategicFactors": {
+        "badges": [
+          {
+            "type": "DUE_FOR_HR",
+            "source": "hr_analysis",
+            "reason": "29 HRs - due for power surge",
+            "boost": 8
+          }
+        ],
+        "parkFactor": 1,
+        "confidenceBoost": 8,
+        "stadiumContext": null
+      },
+      "chartData": {
+        "recent5Games": [],
+        "seasonOverview": {
+          "seasonTotal": 29,
+          "seasonAverage": "0.236",
+          "gamesPlayed": 123,
+          "leagueAverage": 0.9,
+          "projectedTotal": 38
+        },
+        "opponentHistory": {},
+        "totalHistoricalGames": 0
+      },
+      "value": 29,
+      "games": 123,
+      "avg": 0,
+      "rawPlayer": {
         "name": "C. Carroll",
         "team": "ARI",
         "HR": 29,
-        "games": 122,
+        "games": 123,
         "rate": "0.059",
         "hrsPerGame": "0.24"
       }
@@ -1080,9 +1080,9 @@
       "fullName": "P. Alonso",
       "team": "NYM",
       "seasonTotal": 33,
-      "rate": 0.237,
-      "recentRate": 0.237,
-      "prob1Plus": 23.7,
+      "rate": 0.236,
+      "recentRate": 0.236,
+      "prob1Plus": 23.5,
       "prob2Plus": 2.7,
       "multiHitRate": 0,
       "trend": "stable",
@@ -1104,8 +1104,8 @@
         "recent5Games": [],
         "seasonOverview": {
           "seasonTotal": 33,
-          "seasonAverage": "0.237",
-          "gamesPlayed": 139,
+          "seasonAverage": "0.236",
+          "gamesPlayed": 140,
           "leagueAverage": 0.9,
           "projectedTotal": 38
         },
@@ -1113,14 +1113,14 @@
         "totalHistoricalGames": 0
       },
       "value": 33,
-      "games": 139,
+      "games": 140,
       "avg": 0,
       "rawPlayer": {
         "name": "P. Alonso",
         "team": "NYM",
         "HR": 33,
-        "games": 139,
-        "rate": "0.062",
+        "games": 140,
+        "rate": "0.061",
         "hrsPerGame": "0.24"
       }
     },
@@ -1130,10 +1130,10 @@
       "fullName": "K. Marte",
       "team": "ARI",
       "seasonTotal": 25,
-      "rate": 0.236,
-      "recentRate": 0.236,
-      "prob1Plus": 22.7,
-      "prob2Plus": 2.6,
+      "rate": 0.234,
+      "recentRate": 0.234,
+      "prob1Plus": 22.5,
+      "prob2Plus": 2.5,
       "multiHitRate": 0,
       "trend": "stable",
       "confidence": "high",
@@ -1154,8 +1154,8 @@
         "recent5Games": [],
         "seasonOverview": {
           "seasonTotal": 25,
-          "seasonAverage": "0.236",
-          "gamesPlayed": 106,
+          "seasonAverage": "0.234",
+          "gamesPlayed": 107,
           "leagueAverage": 0.9,
           "projectedTotal": 38
         },
@@ -1163,15 +1163,65 @@
         "totalHistoricalGames": 0
       },
       "value": 25,
-      "games": 106,
+      "games": 107,
       "avg": 0,
       "rawPlayer": {
         "name": "K. Marte",
         "team": "ARI",
         "HR": 25,
-        "games": 106,
+        "games": 107,
         "rate": "0.063",
-        "hrsPerGame": "0.24"
+        "hrsPerGame": "0.23"
+      }
+    },
+    {
+      "id": "G. Springer-TOR",
+      "name": "G. Springer",
+      "fullName": "G. Springer",
+      "team": "TOR",
+      "seasonTotal": 27,
+      "rate": 0.229,
+      "recentRate": 0.229,
+      "prob1Plus": 22.1,
+      "prob2Plus": 2.4,
+      "multiHitRate": 0,
+      "trend": "stable",
+      "confidence": "high",
+      "strategicFactors": {
+        "badges": [
+          {
+            "type": "DUE_FOR_HR",
+            "source": "hr_analysis",
+            "reason": "27 HRs - due for power surge",
+            "boost": 8
+          }
+        ],
+        "parkFactor": 1,
+        "confidenceBoost": 8,
+        "stadiumContext": null
+      },
+      "chartData": {
+        "recent5Games": [],
+        "seasonOverview": {
+          "seasonTotal": 27,
+          "seasonAverage": "0.229",
+          "gamesPlayed": 118,
+          "leagueAverage": 0.9,
+          "projectedTotal": 37
+        },
+        "opponentHistory": {},
+        "totalHistoricalGames": 0
+      },
+      "value": 27,
+      "games": 118,
+      "avg": 0,
+      "rawPlayer": {
+        "name": "G. Springer",
+        "team": "TOR",
+        "HR": 27,
+        "games": 118,
+        "rate": "0.066",
+        "hrsPerGame": "0.23"
       }
     },
     {
@@ -1180,10 +1230,10 @@
       "fullName": "R. Laureano",
       "team": "SD",
       "seasonTotal": 7,
-      "rate": 0.233,
-      "recentRate": 0.233,
-      "prob1Plus": 20.8,
-      "prob2Plus": 2.3,
+      "rate": 0.226,
+      "recentRate": 0.226,
+      "prob1Plus": 20.2,
+      "prob2Plus": 2.2,
       "multiHitRate": 0,
       "trend": "stable",
       "confidence": "high",
@@ -1197,23 +1247,23 @@
         "recent5Games": [],
         "seasonOverview": {
           "seasonTotal": 7,
-          "seasonAverage": "0.233",
-          "gamesPlayed": 30,
+          "seasonAverage": "0.226",
+          "gamesPlayed": 31,
           "leagueAverage": 0.9,
-          "projectedTotal": 38
+          "projectedTotal": 37
         },
         "opponentHistory": {},
         "totalHistoricalGames": 0
       },
       "value": 7,
-      "games": 30,
+      "games": 31,
       "avg": 0,
       "rawPlayer": {
         "name": "R. Laureano",
         "team": "SD",
         "HR": 7,
-        "games": 30,
-        "rate": "0.062",
+        "games": 31,
+        "rate": "0.061",
         "hrsPerGame": "0.23"
       }
     },
@@ -1223,9 +1273,9 @@
       "fullName": "T. Ward",
       "team": "LAA",
       "seasonTotal": 30,
-      "rate": 0.224,
-      "recentRate": 0.224,
-      "prob1Plus": 22.5,
+      "rate": 0.222,
+      "recentRate": 0.222,
+      "prob1Plus": 22.3,
       "prob2Plus": 2.4,
       "multiHitRate": 0,
       "trend": "stable",
@@ -1247,8 +1297,8 @@
         "recent5Games": [],
         "seasonOverview": {
           "seasonTotal": 30,
-          "seasonAverage": "0.224",
-          "gamesPlayed": 134,
+          "seasonAverage": "0.222",
+          "gamesPlayed": 135,
           "leagueAverage": 0.9,
           "projectedTotal": 36
         },
@@ -1256,56 +1306,13 @@
         "totalHistoricalGames": 0
       },
       "value": 30,
-      "games": 134,
+      "games": 135,
       "avg": 0,
       "rawPlayer": {
         "name": "T. Ward",
         "team": "LAA",
         "HR": 30,
-        "games": 134,
-        "rate": "0.060",
-        "hrsPerGame": "0.22"
-      }
-    },
-    {
-      "id": "R. Devers-SF",
-      "name": "R. Devers",
-      "fullName": "R. Devers",
-      "team": "SF",
-      "seasonTotal": 15,
-      "rate": 0.224,
-      "recentRate": 0.224,
-      "prob1Plus": 20.1,
-      "prob2Plus": 2.2,
-      "multiHitRate": 0,
-      "trend": "stable",
-      "confidence": "high",
-      "strategicFactors": {
-        "badges": [],
-        "parkFactor": 1,
-        "confidenceBoost": 0,
-        "stadiumContext": null
-      },
-      "chartData": {
-        "recent5Games": [],
-        "seasonOverview": {
-          "seasonTotal": 15,
-          "seasonAverage": "0.224",
-          "gamesPlayed": 67,
-          "leagueAverage": 0.9,
-          "projectedTotal": 36
-        },
-        "opponentHistory": {},
-        "totalHistoricalGames": 0
-      },
-      "value": 15,
-      "games": 67,
-      "avg": 0,
-      "rawPlayer": {
-        "name": "R. Devers",
-        "team": "SF",
-        "HR": 15,
-        "games": 67,
+        "games": 135,
         "rate": "0.060",
         "hrsPerGame": "0.22"
       }
@@ -1316,9 +1323,9 @@
       "fullName": "H. Goodman",
       "team": "COL",
       "seasonTotal": 27,
-      "rate": 0.223,
-      "recentRate": 0.223,
-      "prob1Plus": 21.6,
+      "rate": 0.221,
+      "recentRate": 0.221,
+      "prob1Plus": 21.4,
       "prob2Plus": 2.3,
       "multiHitRate": 0,
       "trend": "stable",
@@ -1340,8 +1347,8 @@
         "recent5Games": [],
         "seasonOverview": {
           "seasonTotal": 27,
-          "seasonAverage": "0.223",
-          "gamesPlayed": 121,
+          "seasonAverage": "0.221",
+          "gamesPlayed": 122,
           "leagueAverage": 0.9,
           "projectedTotal": 36
         },
@@ -1349,64 +1356,57 @@
         "totalHistoricalGames": 0
       },
       "value": 27,
-      "games": 121,
+      "games": 122,
       "avg": 0,
       "rawPlayer": {
         "name": "H. Goodman",
         "team": "COL",
         "HR": 27,
-        "games": 121,
-        "rate": "0.060",
+        "games": 122,
+        "rate": "0.059",
         "hrsPerGame": "0.22"
       }
     },
     {
-      "id": "G. Springer-TOR",
-      "name": "G. Springer",
-      "fullName": "G. Springer",
-      "team": "TOR",
-      "seasonTotal": 26,
-      "rate": 0.222,
-      "recentRate": 0.222,
-      "prob1Plus": 21.5,
-      "prob2Plus": 2.3,
+      "id": "R. Devers-SF",
+      "name": "R. Devers",
+      "fullName": "R. Devers",
+      "team": "SF",
+      "seasonTotal": 15,
+      "rate": 0.221,
+      "recentRate": 0.221,
+      "prob1Plus": 19.8,
+      "prob2Plus": 2.1,
       "multiHitRate": 0,
       "trend": "stable",
       "confidence": "high",
       "strategicFactors": {
-        "badges": [
-          {
-            "type": "DUE_FOR_HR",
-            "source": "hr_analysis",
-            "reason": "26 HRs - due for power surge",
-            "boost": 8
-          }
-        ],
+        "badges": [],
         "parkFactor": 1,
-        "confidenceBoost": 8,
+        "confidenceBoost": 0,
         "stadiumContext": null
       },
       "chartData": {
         "recent5Games": [],
         "seasonOverview": {
-          "seasonTotal": 26,
-          "seasonAverage": "0.222",
-          "gamesPlayed": 117,
+          "seasonTotal": 15,
+          "seasonAverage": "0.221",
+          "gamesPlayed": 68,
           "leagueAverage": 0.9,
           "projectedTotal": 36
         },
         "opponentHistory": {},
         "totalHistoricalGames": 0
       },
-      "value": 26,
-      "games": 117,
+      "value": 15,
+      "games": 68,
       "avg": 0,
       "rawPlayer": {
-        "name": "G. Springer",
-        "team": "TOR",
-        "HR": 26,
-        "games": 117,
-        "rate": "0.064",
+        "name": "R. Devers",
+        "team": "SF",
+        "HR": 15,
+        "games": 68,
+        "rate": "0.059",
         "hrsPerGame": "0.22"
       }
     },
@@ -1416,10 +1416,10 @@
       "fullName": "M. Wallner",
       "team": "MIN",
       "seasonTotal": 20,
-      "rate": 0.22,
-      "recentRate": 0.22,
-      "prob1Plus": 21.3,
-      "prob2Plus": 2.3,
+      "rate": 0.217,
+      "recentRate": 0.217,
+      "prob1Plus": 21.1,
+      "prob2Plus": 2.2,
       "multiHitRate": 0,
       "trend": "stable",
       "confidence": "high",
@@ -1440,23 +1440,23 @@
         "recent5Games": [],
         "seasonOverview": {
           "seasonTotal": 20,
-          "seasonAverage": "0.220",
-          "gamesPlayed": 91,
+          "seasonAverage": "0.217",
+          "gamesPlayed": 92,
           "leagueAverage": 0.9,
-          "projectedTotal": 36
+          "projectedTotal": 35
         },
         "opponentHistory": {},
         "totalHistoricalGames": 0
       },
       "value": 20,
-      "games": 91,
+      "games": 92,
       "avg": 0,
       "rawPlayer": {
         "name": "M. Wallner",
         "team": "MIN",
         "HR": 20,
-        "games": 91,
-        "rate": "0.068",
+        "games": 92,
+        "rate": "0.067",
         "hrsPerGame": "0.22"
       }
     },
@@ -1511,114 +1511,14 @@
       }
     },
     {
-      "id": "S. Torkelson-DET",
-      "name": "S. Torkelson",
-      "fullName": "S. Torkelson",
+      "id": "K. Carpenter-DET",
+      "name": "K. Carpenter",
+      "fullName": "K. Carpenter",
       "team": "DET",
-      "seasonTotal": 28,
-      "rate": 0.212,
-      "recentRate": 0.212,
-      "prob1Plus": 20.6,
-      "prob2Plus": 2.2,
-      "multiHitRate": 0,
-      "trend": "stable",
-      "confidence": "high",
-      "strategicFactors": {
-        "badges": [
-          {
-            "type": "DUE_FOR_HR",
-            "source": "hr_analysis",
-            "reason": "28 HRs - due for power surge",
-            "boost": 8
-          }
-        ],
-        "parkFactor": 1,
-        "confidenceBoost": 8,
-        "stadiumContext": null
-      },
-      "chartData": {
-        "recent5Games": [],
-        "seasonOverview": {
-          "seasonTotal": 28,
-          "seasonAverage": "0.212",
-          "gamesPlayed": 132,
-          "leagueAverage": 0.9,
-          "projectedTotal": 34
-        },
-        "opponentHistory": {},
-        "totalHistoricalGames": 0
-      },
-      "value": 28,
-      "games": 132,
-      "avg": 0,
-      "rawPlayer": {
-        "name": "S. Torkelson",
-        "team": "DET",
-        "HR": 28,
-        "games": 132,
-        "rate": "0.059",
-        "hrsPerGame": "0.21"
-      }
-    },
-    {
-      "id": "Z. Neto-LAA",
-      "name": "Z. Neto",
-      "fullName": "Z. Neto",
-      "team": "LAA",
-      "seasonTotal": 25,
-      "rate": 0.21,
-      "recentRate": 0.21,
-      "prob1Plus": 20.5,
-      "prob2Plus": 2.2,
-      "multiHitRate": 0,
-      "trend": "stable",
-      "confidence": "high",
-      "strategicFactors": {
-        "badges": [
-          {
-            "type": "DUE_FOR_HR",
-            "source": "hr_analysis",
-            "reason": "25 HRs - due for power surge",
-            "boost": 8
-          }
-        ],
-        "parkFactor": 1,
-        "confidenceBoost": 8,
-        "stadiumContext": null
-      },
-      "chartData": {
-        "recent5Games": [],
-        "seasonOverview": {
-          "seasonTotal": 25,
-          "seasonAverage": "0.210",
-          "gamesPlayed": 119,
-          "leagueAverage": 0.9,
-          "projectedTotal": 34
-        },
-        "opponentHistory": {},
-        "totalHistoricalGames": 0
-      },
-      "value": 25,
-      "games": 119,
-      "avg": 0,
-      "rawPlayer": {
-        "name": "Z. Neto",
-        "team": "LAA",
-        "HR": 25,
-        "games": 119,
-        "rate": "0.053",
-        "hrsPerGame": "0.21"
-      }
-    },
-    {
-      "id": "B. Harper-PHI",
-      "name": "B. Harper",
-      "fullName": "B. Harper",
-      "team": "PHI",
       "seasonTotal": 23,
-      "rate": 0.209,
-      "recentRate": 0.209,
-      "prob1Plus": 20.4,
+      "rate": 0.211,
+      "recentRate": 0.211,
+      "prob1Plus": 20.5,
       "prob2Plus": 2.2,
       "multiHitRate": 0,
       "trend": "stable",
@@ -1640,8 +1540,8 @@
         "recent5Games": [],
         "seasonOverview": {
           "seasonTotal": 23,
-          "seasonAverage": "0.209",
-          "gamesPlayed": 110,
+          "seasonAverage": "0.211",
+          "gamesPlayed": 109,
           "leagueAverage": 0.9,
           "projectedTotal": 34
         },
@@ -1649,14 +1549,114 @@
         "totalHistoricalGames": 0
       },
       "value": 23,
-      "games": 110,
+      "games": 109,
       "avg": 0,
       "rawPlayer": {
-        "name": "B. Harper",
-        "team": "PHI",
+        "name": "K. Carpenter",
+        "team": "DET",
         "HR": 23,
-        "games": 110,
-        "rate": "0.055",
+        "games": 109,
+        "rate": "0.063",
+        "hrsPerGame": "0.21"
+      }
+    },
+    {
+      "id": "S. Torkelson-DET",
+      "name": "S. Torkelson",
+      "fullName": "S. Torkelson",
+      "team": "DET",
+      "seasonTotal": 28,
+      "rate": 0.211,
+      "recentRate": 0.211,
+      "prob1Plus": 20.5,
+      "prob2Plus": 2.2,
+      "multiHitRate": 0,
+      "trend": "stable",
+      "confidence": "high",
+      "strategicFactors": {
+        "badges": [
+          {
+            "type": "DUE_FOR_HR",
+            "source": "hr_analysis",
+            "reason": "28 HRs - due for power surge",
+            "boost": 8
+          }
+        ],
+        "parkFactor": 1,
+        "confidenceBoost": 8,
+        "stadiumContext": null
+      },
+      "chartData": {
+        "recent5Games": [],
+        "seasonOverview": {
+          "seasonTotal": 28,
+          "seasonAverage": "0.211",
+          "gamesPlayed": 133,
+          "leagueAverage": 0.9,
+          "projectedTotal": 34
+        },
+        "opponentHistory": {},
+        "totalHistoricalGames": 0
+      },
+      "value": 28,
+      "games": 133,
+      "avg": 0,
+      "rawPlayer": {
+        "name": "S. Torkelson",
+        "team": "DET",
+        "HR": 28,
+        "games": 133,
+        "rate": "0.059",
+        "hrsPerGame": "0.21"
+      }
+    },
+    {
+      "id": "C. Bellinger-NYY",
+      "name": "C. Bellinger",
+      "fullName": "C. Bellinger",
+      "team": "NYY",
+      "seasonTotal": 27,
+      "rate": 0.209,
+      "recentRate": 0.209,
+      "prob1Plus": 20.4,
+      "prob2Plus": 2.2,
+      "multiHitRate": 0,
+      "trend": "stable",
+      "confidence": "high",
+      "strategicFactors": {
+        "badges": [
+          {
+            "type": "DUE_FOR_HR",
+            "source": "hr_analysis",
+            "reason": "27 HRs - due for power surge",
+            "boost": 8
+          }
+        ],
+        "parkFactor": 1,
+        "confidenceBoost": 8,
+        "stadiumContext": null
+      },
+      "chartData": {
+        "recent5Games": [],
+        "seasonOverview": {
+          "seasonTotal": 27,
+          "seasonAverage": "0.209",
+          "gamesPlayed": 129,
+          "leagueAverage": 0.9,
+          "projectedTotal": 34
+        },
+        "opponentHistory": {},
+        "totalHistoricalGames": 0
+      },
+      "value": 27,
+      "games": 129,
+      "avg": 0,
+      "rawPlayer": {
+        "name": "C. Bellinger",
+        "team": "NYY",
+        "HR": 27,
+        "games": 129,
+        "rate": "0.054",
         "hrsPerGame": "0.21"
       }
     },
@@ -1711,11 +1711,61 @@
       }
     },
     {
-      "id": "V. Pasquantino-KC",
-      "name": "V. Pasquantino",
-      "fullName": "V. Pasquantino",
-      "team": "KC",
-      "seasonTotal": 28,
+      "id": "Z. Neto-LAA",
+      "name": "Z. Neto",
+      "fullName": "Z. Neto",
+      "team": "LAA",
+      "seasonTotal": 25,
+      "rate": 0.208,
+      "recentRate": 0.208,
+      "prob1Plus": 20.3,
+      "prob2Plus": 2.2,
+      "multiHitRate": 0,
+      "trend": "stable",
+      "confidence": "high",
+      "strategicFactors": {
+        "badges": [
+          {
+            "type": "DUE_FOR_HR",
+            "source": "hr_analysis",
+            "reason": "25 HRs - due for power surge",
+            "boost": 8
+          }
+        ],
+        "parkFactor": 1,
+        "confidenceBoost": 8,
+        "stadiumContext": null
+      },
+      "chartData": {
+        "recent5Games": [],
+        "seasonOverview": {
+          "seasonTotal": 25,
+          "seasonAverage": "0.208",
+          "gamesPlayed": 120,
+          "leagueAverage": 0.9,
+          "projectedTotal": 34
+        },
+        "opponentHistory": {},
+        "totalHistoricalGames": 0
+      },
+      "value": 25,
+      "games": 120,
+      "avg": 0,
+      "rawPlayer": {
+        "name": "Z. Neto",
+        "team": "LAA",
+        "HR": 25,
+        "games": 120,
+        "rate": "0.053",
+        "hrsPerGame": "0.21"
+      }
+    },
+    {
+      "id": "B. Harper-PHI",
+      "name": "B. Harper",
+      "fullName": "B. Harper",
+      "team": "PHI",
+      "seasonTotal": 23,
       "rate": 0.207,
       "recentRate": 0.207,
       "prob1Plus": 20.2,
@@ -1728,7 +1778,7 @@
           {
             "type": "DUE_FOR_HR",
             "source": "hr_analysis",
-            "reason": "28 HRs - due for power surge",
+            "reason": "23 HRs - due for power surge",
             "boost": 8
           }
         ],
@@ -1739,23 +1789,23 @@
       "chartData": {
         "recent5Games": [],
         "seasonOverview": {
-          "seasonTotal": 28,
+          "seasonTotal": 23,
           "seasonAverage": "0.207",
-          "gamesPlayed": 135,
+          "gamesPlayed": 111,
           "leagueAverage": 0.9,
           "projectedTotal": 34
         },
         "opponentHistory": {},
         "totalHistoricalGames": 0
       },
-      "value": 28,
-      "games": 135,
+      "value": 23,
+      "games": 111,
       "avg": 0,
       "rawPlayer": {
-        "name": "V. Pasquantino",
-        "team": "KC",
-        "HR": 28,
-        "games": 135,
+        "name": "B. Harper",
+        "team": "PHI",
+        "HR": 23,
+        "games": 111,
         "rate": "0.054",
         "hrsPerGame": "0.21"
       }
@@ -1804,11 +1854,11 @@
       }
     },
     {
-      "id": "S. Suzuki-CHC",
-      "name": "S. Suzuki",
-      "fullName": "S. Suzuki",
-      "team": "CHC",
-      "seasonTotal": 27,
+      "id": "V. Pasquantino-KC",
+      "name": "V. Pasquantino",
+      "fullName": "V. Pasquantino",
+      "team": "KC",
+      "seasonTotal": 28,
       "rate": 0.206,
       "recentRate": 0.206,
       "prob1Plus": 20.1,
@@ -1821,7 +1871,7 @@
           {
             "type": "DUE_FOR_HR",
             "source": "hr_analysis",
-            "reason": "27 HRs - due for power surge",
+            "reason": "28 HRs - due for power surge",
             "boost": 8
           }
         ],
@@ -1832,24 +1882,24 @@
       "chartData": {
         "recent5Games": [],
         "seasonOverview": {
-          "seasonTotal": 27,
+          "seasonTotal": 28,
           "seasonAverage": "0.206",
-          "gamesPlayed": 131,
+          "gamesPlayed": 136,
           "leagueAverage": 0.9,
           "projectedTotal": 33
         },
         "opponentHistory": {},
         "totalHistoricalGames": 0
       },
-      "value": 27,
-      "games": 131,
+      "value": 28,
+      "games": 136,
       "avg": 0,
       "rawPlayer": {
-        "name": "S. Suzuki",
-        "team": "CHC",
-        "HR": 27,
-        "games": 131,
-        "rate": "0.053",
+        "name": "V. Pasquantino",
+        "team": "KC",
+        "HR": 28,
+        "games": 136,
+        "rate": "0.054",
         "hrsPerGame": "0.21"
       }
     },
@@ -1900,49 +1950,6 @@
         "HR": 21,
         "games": 102,
         "rate": "0.055",
-        "hrsPerGame": "0.21"
-      }
-    },
-    {
-      "id": "R. McGuire-CHC",
-      "name": "R. McGuire",
-      "fullName": "R. McGuire",
-      "team": "CHC",
-      "seasonTotal": 7,
-      "rate": 0.206,
-      "recentRate": 0.206,
-      "prob1Plus": 18.6,
-      "prob2Plus": 2,
-      "multiHitRate": 0,
-      "trend": "stable",
-      "confidence": "high",
-      "strategicFactors": {
-        "badges": [],
-        "parkFactor": 1,
-        "confidenceBoost": 0,
-        "stadiumContext": null
-      },
-      "chartData": {
-        "recent5Games": [],
-        "seasonOverview": {
-          "seasonTotal": 7,
-          "seasonAverage": "0.206",
-          "gamesPlayed": 34,
-          "leagueAverage": 0.9,
-          "projectedTotal": 33
-        },
-        "opponentHistory": {},
-        "totalHistoricalGames": 0
-      },
-      "value": 7,
-      "games": 34,
-      "avg": 0,
-      "rawPlayer": {
-        "name": "R. McGuire",
-        "team": "CHC",
-        "HR": 7,
-        "games": 34,
-        "rate": "0.068",
         "hrsPerGame": "0.21"
       }
     },
@@ -2033,54 +2040,11 @@
       }
     },
     {
-      "id": "R. Acuna Jr.-ATL",
-      "name": "R. Acuna Jr.",
-      "fullName": "R. Acuna Jr.",
-      "team": "ATL",
-      "seasonTotal": 15,
-      "rate": 0.205,
-      "recentRate": 0.205,
-      "prob1Plus": 18.6,
-      "prob2Plus": 2,
-      "multiHitRate": 0,
-      "trend": "stable",
-      "confidence": "high",
-      "strategicFactors": {
-        "badges": [],
-        "parkFactor": 1,
-        "confidenceBoost": 0,
-        "stadiumContext": null
-      },
-      "chartData": {
-        "recent5Games": [],
-        "seasonOverview": {
-          "seasonTotal": 15,
-          "seasonAverage": "0.205",
-          "gamesPlayed": 73,
-          "leagueAverage": 0.9,
-          "projectedTotal": 33
-        },
-        "opponentHistory": {},
-        "totalHistoricalGames": 0
-      },
-      "value": 15,
-      "games": 73,
-      "avg": 0,
-      "rawPlayer": {
-        "name": "R. Acuna Jr.",
-        "team": "ATL",
-        "HR": 15,
-        "games": 73,
-        "rate": "0.057",
-        "hrsPerGame": "0.21"
-      }
-    },
-    {
-      "id": "K. Manzardo-CLE",
-      "name": "K. Manzardo",
-      "fullName": "K. Manzardo",
-      "team": "CLE",
-      "seasonTotal": 24,
+      "id": "S. Suzuki-CHC",
+      "name": "S. Suzuki",
+      "fullName": "S. Suzuki",
+      "team": "CHC",
+      "seasonTotal": 27,
       "rate": 0.205,
       "recentRate": 0.205,
       "prob1Plus": 20,
@@ -2093,7 +2057,7 @@
           {
             "type": "DUE_FOR_HR",
             "source": "hr_analysis",
-            "reason": "24 HRs - due for power surge",
+            "reason": "27 HRs - due for power surge",
             "boost": 8
           }
         ],
@@ -2104,25 +2068,25 @@
       "chartData": {
         "recent5Games": [],
         "seasonOverview": {
-          "seasonTotal": 24,
+          "seasonTotal": 27,
           "seasonAverage": "0.205",
-          "gamesPlayed": 117,
+          "gamesPlayed": 132,
           "leagueAverage": 0.9,
           "projectedTotal": 33
         },
         "opponentHistory": {},
         "totalHistoricalGames": 0
       },
-      "value": 24,
-      "games": 117,
+      "value": 27,
+      "games": 132,
       "avg": 0,
       "rawPlayer": {
-        "name": "K. Manzardo",
-        "team": "CLE",
-        "HR": 24,
-        "games": 117,
-        "rate": "0.063",
-        "hrsPerGame": "0.21"
+        "name": "S. Suzuki",
+        "team": "CHC",
+        "HR": 27,
+        "games": 132,
+        "rate": "0.053",
+        "hrsPerGame": "0.20"
       }
     },
     {
@@ -2219,61 +2183,11 @@
       }
     },
     {
-      "id": "K. Carpenter-DET",
-      "name": "K. Carpenter",
-      "fullName": "K. Carpenter",
-      "team": "DET",
-      "seasonTotal": 22,
-      "rate": 0.204,
-      "recentRate": 0.204,
-      "prob1Plus": 19.9,
-      "prob2Plus": 2.2,
-      "multiHitRate": 0,
-      "trend": "stable",
-      "confidence": "high",
-      "strategicFactors": {
-        "badges": [
-          {
-            "type": "DUE_FOR_HR",
-            "source": "hr_analysis",
-            "reason": "22 HRs - due for power surge",
-            "boost": 8
-          }
-        ],
-        "parkFactor": 1,
-        "confidenceBoost": 8,
-        "stadiumContext": null
-      },
-      "chartData": {
-        "recent5Games": [],
-        "seasonOverview": {
-          "seasonTotal": 22,
-          "seasonAverage": "0.204",
-          "gamesPlayed": 108,
-          "leagueAverage": 0.9,
-          "projectedTotal": 33
-        },
-        "opponentHistory": {},
-        "totalHistoricalGames": 0
-      },
-      "value": 22,
-      "games": 108,
-      "avg": 0,
-      "rawPlayer": {
-        "name": "K. Carpenter",
-        "team": "DET",
-        "HR": 22,
-        "games": 108,
-        "rate": "0.061",
-        "hrsPerGame": "0.20"
-      }
-    },
-    {
-      "id": "C. Bellinger-NYY",
-      "name": "C. Bellinger",
-      "fullName": "C. Bellinger",
-      "team": "NYY",
-      "seasonTotal": 26,
+      "id": "K. Manzardo-CLE",
+      "name": "K. Manzardo",
+      "fullName": "K. Manzardo",
+      "team": "CLE",
+      "seasonTotal": 24,
       "rate": 0.203,
       "recentRate": 0.203,
       "prob1Plus": 19.9,
@@ -2286,7 +2200,7 @@
           {
             "type": "DUE_FOR_HR",
             "source": "hr_analysis",
-            "reason": "26 HRs - due for power surge",
+            "reason": "24 HRs - due for power surge",
             "boost": 8
           }
         ],
@@ -2297,24 +2211,67 @@
       "chartData": {
         "recent5Games": [],
         "seasonOverview": {
-          "seasonTotal": 26,
+          "seasonTotal": 24,
           "seasonAverage": "0.203",
-          "gamesPlayed": 128,
+          "gamesPlayed": 118,
           "leagueAverage": 0.9,
           "projectedTotal": 33
         },
         "opponentHistory": {},
         "totalHistoricalGames": 0
       },
-      "value": 26,
-      "games": 128,
+      "value": 24,
+      "games": 118,
       "avg": 0,
       "rawPlayer": {
-        "name": "C. Bellinger",
-        "team": "NYY",
-        "HR": 26,
-        "games": 128,
-        "rate": "0.052",
+        "name": "K. Manzardo",
+        "team": "CLE",
+        "HR": 24,
+        "games": 118,
+        "rate": "0.062",
+        "hrsPerGame": "0.20"
+      }
+    },
+    {
+      "id": "R. Acuna Jr.-ATL",
+      "name": "R. Acuna Jr.",
+      "fullName": "R. Acuna Jr.",
+      "team": "ATL",
+      "seasonTotal": 15,
+      "rate": 0.203,
+      "recentRate": 0.203,
+      "prob1Plus": 18.3,
+      "prob2Plus": 2,
+      "multiHitRate": 0,
+      "trend": "stable",
+      "confidence": "high",
+      "strategicFactors": {
+        "badges": [],
+        "parkFactor": 1,
+        "confidenceBoost": 0,
+        "stadiumContext": null
+      },
+      "chartData": {
+        "recent5Games": [],
+        "seasonOverview": {
+          "seasonTotal": 15,
+          "seasonAverage": "0.203",
+          "gamesPlayed": 74,
+          "leagueAverage": 0.9,
+          "projectedTotal": 33
+        },
+        "opponentHistory": {},
+        "totalHistoricalGames": 0
+      },
+      "value": 15,
+      "games": 74,
+      "avg": 0,
+      "rawPlayer": {
+        "name": "R. Acuna Jr.",
+        "team": "ATL",
+        "HR": 15,
+        "games": 74,
+        "rate": "0.057",
         "hrsPerGame": "0.20"
       }
     },
@@ -2358,6 +2315,56 @@
         "HR": 19,
         "games": 94,
         "rate": "0.054",
+        "hrsPerGame": "0.20"
+      }
+    },
+    {
+      "id": "J. Rodriguez-SEA",
+      "name": "J. Rodriguez",
+      "fullName": "J. Rodriguez",
+      "team": "SEA",
+      "seasonTotal": 28,
+      "rate": 0.201,
+      "recentRate": 0.201,
+      "prob1Plus": 19.7,
+      "prob2Plus": 2.2,
+      "multiHitRate": 0,
+      "trend": "stable",
+      "confidence": "high",
+      "strategicFactors": {
+        "badges": [
+          {
+            "type": "DUE_FOR_HR",
+            "source": "hr_analysis",
+            "reason": "28 HRs - due for power surge",
+            "boost": 8
+          }
+        ],
+        "parkFactor": 1,
+        "confidenceBoost": 8,
+        "stadiumContext": null
+      },
+      "chartData": {
+        "recent5Games": [],
+        "seasonOverview": {
+          "seasonTotal": 28,
+          "seasonAverage": "0.201",
+          "gamesPlayed": 139,
+          "leagueAverage": 0.9,
+          "projectedTotal": 33
+        },
+        "opponentHistory": {},
+        "totalHistoricalGames": 0
+      },
+      "value": 28,
+      "games": 139,
+      "avg": 0,
+      "rawPlayer": {
+        "name": "J. Rodriguez",
+        "team": "SEA",
+        "HR": 28,
+        "games": 139,
+        "rate": "0.049",
         "hrsPerGame": "0.20"
       }
     },
@@ -2420,10 +2427,10 @@
         "fullName": "C. Raleigh",
         "team": "SEA",
         "seasonTotal": 51,
-        "rate": 0.375,
-        "recentRate": 0.375,
-        "prob1Plus": 35,
-        "prob2Plus": 6.2,
+        "rate": 0.372,
+        "recentRate": 0.372,
+        "prob1Plus": 34.8,
+        "prob2Plus": 6.1,
         "multiHitRate": 0,
         "trend": "stable",
         "confidence": "high",
@@ -2444,66 +2451,73 @@
           "recent5Games": [],
           "seasonOverview": {
             "seasonTotal": 51,
-            "seasonAverage": "0.375",
-            "gamesPlayed": 136,
+            "seasonAverage": "0.372",
+            "gamesPlayed": 137,
             "leagueAverage": 0.9,
-            "projectedTotal": 61
+            "projectedTotal": 60
           },
           "opponentHistory": {},
           "totalHistoricalGames": 0
         },
         "value": 51,
-        "games": 136,
+        "games": 137,
         "avg": 0,
         "rawPlayer": {
           "name": "C. Raleigh",
           "team": "SEA",
           "HR": 51,
-          "games": 136,
+          "games": 137,
           "rate": "0.100",
-          "hrsPerGame": "0.38"
+          "hrsPerGame": "0.37"
         }
       },
       {
-        "id": "E. Suarez-SEA",
-        "name": "E. Suarez",
-        "fullName": "E. Suarez",
+        "id": "J. Rodriguez-SEA",
+        "name": "J. Rodriguez",
+        "fullName": "J. Rodriguez",
         "team": "SEA",
-        "seasonTotal": 6,
-        "rate": 0.2,
-        "recentRate": 0.2,
-        "prob1Plus": 18.1,
-        "prob2Plus": 2,
+        "seasonTotal": 28,
+        "rate": 0.201,
+        "recentRate": 0.201,
+        "prob1Plus": 19.7,
+        "prob2Plus": 2.2,
         "multiHitRate": 0,
         "trend": "stable",
         "confidence": "high",
         "strategicFactors": {
-          "badges": [],
+          "badges": [
+            {
+              "type": "DUE_FOR_HR",
+              "source": "hr_analysis",
+              "reason": "28 HRs - due for power surge",
+              "boost": 8
+            }
+          ],
           "parkFactor": 1,
-          "confidenceBoost": 0,
+          "confidenceBoost": 8,
           "stadiumContext": null
         },
         "chartData": {
           "recent5Games": [],
           "seasonOverview": {
-            "seasonTotal": 6,
-            "seasonAverage": "0.200",
-            "gamesPlayed": 30,
+            "seasonTotal": 28,
+            "seasonAverage": "0.201",
+            "gamesPlayed": 139,
             "leagueAverage": 0.9,
-            "projectedTotal": 32
+            "projectedTotal": 33
           },
           "opponentHistory": {},
           "totalHistoricalGames": 0
         },
-        "value": 6,
-        "games": 30,
+        "value": 28,
+        "games": 139,
         "avg": 0,
         "rawPlayer": {
-          "name": "E. Suarez",
+          "name": "J. Rodriguez",
           "team": "SEA",
-          "HR": 6,
-          "games": 30,
-          "rate": "0.055",
+          "HR": 28,
+          "games": 139,
+          "rate": "0.049",
           "hrsPerGame": "0.20"
         }
       },
@@ -2513,9 +2527,9 @@
         "fullName": "J. Polanco",
         "team": "SEA",
         "seasonTotal": 23,
-        "rate": 0.197,
-        "recentRate": 0.197,
-        "prob1Plus": 19.3,
+        "rate": 0.195,
+        "recentRate": 0.195,
+        "prob1Plus": 19.1,
         "prob2Plus": 2.2,
         "multiHitRate": 0,
         "trend": "stable",
@@ -2537,8 +2551,8 @@
           "recent5Games": [],
           "seasonOverview": {
             "seasonTotal": 23,
-            "seasonAverage": "0.197",
-            "gamesPlayed": 117,
+            "seasonAverage": "0.195",
+            "gamesPlayed": 118,
             "leagueAverage": 0.9,
             "projectedTotal": 32
           },
@@ -2546,65 +2560,58 @@
           "totalHistoricalGames": 0
         },
         "value": 23,
-        "games": 117,
+        "games": 118,
         "avg": 0,
         "rawPlayer": {
           "name": "J. Polanco",
           "team": "SEA",
           "HR": 23,
-          "games": 117,
+          "games": 118,
           "rate": "0.058",
-          "hrsPerGame": "0.20"
+          "hrsPerGame": "0.19"
         }
       },
       {
-        "id": "J. Rodriguez-SEA",
-        "name": "J. Rodriguez",
-        "fullName": "J. Rodriguez",
+        "id": "E. Suarez-SEA",
+        "name": "E. Suarez",
+        "fullName": "E. Suarez",
         "team": "SEA",
-        "seasonTotal": 27,
-        "rate": 0.196,
-        "recentRate": 0.196,
-        "prob1Plus": 19.2,
-        "prob2Plus": 2.2,
+        "seasonTotal": 6,
+        "rate": 0.194,
+        "recentRate": 0.194,
+        "prob1Plus": 17.6,
+        "prob2Plus": 2,
         "multiHitRate": 0,
         "trend": "stable",
         "confidence": "high",
         "strategicFactors": {
-          "badges": [
-            {
-              "type": "DUE_FOR_HR",
-              "source": "hr_analysis",
-              "reason": "27 HRs - due for power surge",
-              "boost": 8
-            }
-          ],
+          "badges": [],
           "parkFactor": 1,
-          "confidenceBoost": 8,
+          "confidenceBoost": 0,
           "stadiumContext": null
         },
         "chartData": {
           "recent5Games": [],
           "seasonOverview": {
-            "seasonTotal": 27,
-            "seasonAverage": "0.196",
-            "gamesPlayed": 138,
+            "seasonTotal": 6,
+            "seasonAverage": "0.194",
+            "gamesPlayed": 31,
             "leagueAverage": 0.9,
-            "projectedTotal": 32
+            "projectedTotal": 31
           },
           "opponentHistory": {},
           "totalHistoricalGames": 0
         },
-        "value": 27,
-        "games": 138,
+        "value": 6,
+        "games": 31,
         "avg": 0,
         "rawPlayer": {
-          "name": "J. Rodriguez",
+          "name": "E. Suarez",
           "team": "SEA",
-          "HR": 27,
-          "games": 138,
-          "rate": "0.048",
-          "hrsPerGame": "0.20"
+          "HR": 6,
+          "games": 31,
+          "rate": "0.053",
+          "hrsPerGame": "0.19"
         }
       },
       {
@@ -2613,9 +2620,9 @@
         "fullName": "R. Arozarena",
         "team": "SEA",
         "seasonTotal": 26,
-        "rate": 0.19,
-        "recentRate": 0.19,
-        "prob1Plus": 18.7,
+        "rate": 0.188,
+        "recentRate": 0.188,
+        "prob1Plus": 18.5,
         "prob2Plus": 2.2,
         "multiHitRate": 0,
         "trend": "stable",
@@ -2637,8 +2644,8 @@
           "recent5Games": [],
           "seasonOverview": {
             "seasonTotal": 26,
-            "seasonAverage": "0.190",
-            "gamesPlayed": 137,
+            "seasonAverage": "0.188",
+            "gamesPlayed": 138,
             "leagueAverage": 0.9,
             "projectedTotal": 31
           },
@@ -2646,13 +2653,13 @@
           "totalHistoricalGames": 0
         },
         "value": 26,
-        "games": 137,
+        "games": 138,
         "avg": 0,
         "rawPlayer": {
           "name": "R. Arozarena",
           "team": "SEA",
           "HR": 26,
-          "games": 137,
+          "games": 138,
           "rate": "0.050",
           "hrsPerGame": "0.19"
         }
@@ -2701,6 +2708,194 @@
         }
       }
     ],
+    "TOR": [
+      {
+        "id": "D. Varsho-TOR",
+        "name": "D. Varsho",
+        "fullName": "D. Varsho",
+        "team": "TOR",
+        "seasonTotal": 18,
+        "rate": 0.353,
+        "recentRate": 0.353,
+        "prob1Plus": 29.7,
+        "prob2Plus": 4.9,
+        "multiHitRate": 0,
+        "trend": "stable",
+        "confidence": "high",
+        "strategicFactors": {
+          "badges": [],
+          "parkFactor": 1,
+          "confidenceBoost": 0,
+          "stadiumContext": null
+        },
+        "chartData": {
+          "recent5Games": [],
+          "seasonOverview": {
+            "seasonTotal": 18,
+            "seasonAverage": "0.353",
+            "gamesPlayed": 51,
+            "leagueAverage": 0.9,
+            "projectedTotal": 57
+          },
+          "opponentHistory": {},
+          "totalHistoricalGames": 0
+        },
+        "value": 18,
+        "games": 51,
+        "avg": 0,
+        "rawPlayer": {
+          "name": "D. Varsho",
+          "team": "TOR",
+          "HR": 18,
+          "games": 51,
+          "rate": "0.102",
+          "hrsPerGame": "0.35"
+        }
+      },
+      {
+        "id": "G. Springer-TOR",
+        "name": "G. Springer",
+        "fullName": "G. Springer",
+        "team": "TOR",
+        "seasonTotal": 27,
+        "rate": 0.229,
+        "recentRate": 0.229,
+        "prob1Plus": 22.1,
+        "prob2Plus": 2.4,
+        "multiHitRate": 0,
+        "trend": "stable",
+        "confidence": "high",
+        "strategicFactors": {
+          "badges": [
+            {
+              "type": "DUE_FOR_HR",
+              "source": "hr_analysis",
+              "reason": "27 HRs - due for power surge",
+              "boost": 8
+            }
+          ],
+          "parkFactor": 1,
+          "confidenceBoost": 8,
+          "stadiumContext": null
+        },
+        "chartData": {
+          "recent5Games": [],
+          "seasonOverview": {
+            "seasonTotal": 27,
+            "seasonAverage": "0.229",
+            "gamesPlayed": 118,
+            "leagueAverage": 0.9,
+            "projectedTotal": 37
+          },
+          "opponentHistory": {},
+          "totalHistoricalGames": 0
+        },
+        "value": 27,
+        "games": 118,
+        "avg": 0,
+        "rawPlayer": {
+          "name": "G. Springer",
+          "team": "TOR",
+          "HR": 27,
+          "games": 118,
+          "rate": "0.066",
+          "hrsPerGame": "0.23"
+        }
+      },
+      {
+        "id": "A. Barger-TOR",
+        "name": "A. Barger",
+        "fullName": "A. Barger",
+        "team": "TOR",
+        "seasonTotal": 19,
+        "rate": 0.167,
+        "recentRate": 0.167,
+        "prob1Plus": 15.4,
+        "prob2Plus": 2,
+        "multiHitRate": 0,
+        "trend": "stable",
+        "confidence": "high",
+        "strategicFactors": {
+          "badges": [],
+          "parkFactor": 1,
+          "confidenceBoost": 0,
+          "stadiumContext": null
+        },
+        "chartData": {
+          "recent5Games": [],
+          "seasonOverview": {
+            "seasonTotal": 19,
+            "seasonAverage": "0.167",
+            "gamesPlayed": 114,
+            "leagueAverage": 0.9,
+            "projectedTotal": 27
+          },
+          "opponentHistory": {},
+          "totalHistoricalGames": 0
+        },
+        "value": 19,
+        "games": 114,
+        "avg": 0,
+        "rawPlayer": {
+          "name": "A. Barger",
+          "team": "TOR",
+          "HR": 19,
+          "games": 114,
+          "rate": "0.048",
+          "hrsPerGame": "0.17"
+        }
+      },
+      {
+        "id": "V. Guerrero Jr.-TOR",
+        "name": "V. Guerrero Jr.",
+        "fullName": "V. Guerrero Jr.",
+        "team": "TOR",
+        "seasonTotal": 22,
+        "rate": 0.164,
+        "recentRate": 0.164,
+        "prob1Plus": 16.4,
+        "prob2Plus": 2.2,
+        "multiHitRate": 0,
+        "trend": "stable",
+        "confidence": "high",
+        "strategicFactors": {
+          "badges": [
+            {
+              "type": "DUE_FOR_HR",
+              "source": "hr_analysis",
+              "reason": "22 HRs - due for power surge",
+              "boost": 8
+            }
+          ],
+          "parkFactor": 1,
+          "confidenceBoost": 8,
+          "stadiumContext": null
+        },
+        "chartData": {
+          "recent5Games": [],
+          "seasonOverview": {
+            "seasonTotal": 22,
+            "seasonAverage": "0.164",
+            "gamesPlayed": 134,
+            "leagueAverage": 0.9,
+            "projectedTotal": 27
+          },
+          "opponentHistory": {},
+          "totalHistoricalGames": 0
+        },
+        "value": 22,
+        "games": 134,
+        "avg": 0,
+        "rawPlayer": {
+          "name": "V. Guerrero Jr.",
+          "team": "TOR",
+          "HR": 22,
+          "games": 134,
+          "rate": "0.044",
+          "hrsPerGame": "0.16"
+        }
+      }
+    ],
     "PHI": [
       {
         "id": "K. Schwarber-PHI",
@@ -2708,10 +2903,10 @@
         "fullName": "K. Schwarber",
         "team": "PHI",
         "seasonTotal": 49,
-        "rate": 0.355,
-        "recentRate": 0.355,
-        "prob1Plus": 33.5,
-        "prob2Plus": 5.6,
+        "rate": 0.35,
+        "recentRate": 0.35,
+        "prob1Plus": 33.1,
+        "prob2Plus": 5.5,
         "multiHitRate": 0,
         "trend": "stable",
         "confidence": "high",
@@ -2732,24 +2927,24 @@
           "recent5Games": [],
           "seasonOverview": {
             "seasonTotal": 49,
-            "seasonAverage": "0.355",
-            "gamesPlayed": 138,
+            "seasonAverage": "0.350",
+            "gamesPlayed": 140,
             "leagueAverage": 0.9,
-            "projectedTotal": 58
+            "projectedTotal": 57
           },
           "opponentHistory": {},
           "totalHistoricalGames": 0
         },
         "value": 49,
-        "games": 138,
+        "games": 140,
         "avg": 0,
         "rawPlayer": {
           "name": "K. Schwarber",
           "team": "PHI",
           "HR": 49,
-          "games": 138,
-          "rate": "0.095",
-          "hrsPerGame": "0.36"
+          "games": 140,
+          "rate": "0.094",
+          "hrsPerGame": "0.35"
         }
       },
       {
@@ -2758,9 +2953,9 @@
         "fullName": "B. Harper",
         "team": "PHI",
         "seasonTotal": 23,
-        "rate": 0.209,
-        "recentRate": 0.209,
-        "prob1Plus": 20.4,
+        "rate": 0.207,
+        "recentRate": 0.207,
+        "prob1Plus": 20.2,
         "prob2Plus": 2.2,
         "multiHitRate": 0,
         "trend": "stable",
@@ -2782,8 +2977,8 @@
           "recent5Games": [],
           "seasonOverview": {
             "seasonTotal": 23,
-            "seasonAverage": "0.209",
-            "gamesPlayed": 110,
+            "seasonAverage": "0.207",
+            "gamesPlayed": 111,
             "leagueAverage": 0.9,
             "projectedTotal": 34
           },
@@ -2791,348 +2986,15 @@
           "totalHistoricalGames": 0
         },
         "value": 23,
-        "games": 110,
+        "games": 111,
         "avg": 0,
         "rawPlayer": {
           "name": "B. Harper",
           "team": "PHI",
           "HR": 23,
-          "games": 110,
-          "rate": "0.055",
+          "games": 111,
+          "rate": "0.054",
           "hrsPerGame": "0.21"
-        }
-      }
-    ],
-    "LAD": [
-      {
-        "id": "S. Ohtani-LAD",
-        "name": "S. Ohtani",
-        "fullName": "S. Ohtani",
-        "team": "LAD",
-        "seasonTotal": 46,
-        "rate": 0.341,
-        "recentRate": 0.341,
-        "prob1Plus": 32.3,
-        "prob2Plus": 5.2,
-        "multiHitRate": 0,
-        "trend": "stable",
-        "confidence": "high",
-        "strategicFactors": {
-          "badges": [
-            {
-              "type": "HR_CANDIDATE",
-              "source": "hr_analysis",
-              "reason": "46 HRs this season",
-              "boost": 12
-            }
-          ],
-          "parkFactor": 1,
-          "confidenceBoost": 12,
-          "stadiumContext": null
-        },
-        "chartData": {
-          "recent5Games": [],
-          "seasonOverview": {
-            "seasonTotal": 46,
-            "seasonAverage": "0.341",
-            "gamesPlayed": 135,
-            "leagueAverage": 0.9,
-            "projectedTotal": 55
-          },
-          "opponentHistory": {},
-          "totalHistoricalGames": 0
-        },
-        "value": 46,
-        "games": 135,
-        "avg": 0,
-        "rawPlayer": {
-          "name": "S. Ohtani",
-          "team": "LAD",
-          "HR": 46,
-          "games": 135,
-          "rate": "0.088",
-          "hrsPerGame": "0.34"
-        }
-      },
-      {
-        "id": "M. Muncy-LAD",
-        "name": "M. Muncy",
-        "fullName": "M. Muncy",
-        "team": "LAD",
-        "seasonTotal": 17,
-        "rate": 0.191,
-        "recentRate": 0.191,
-        "prob1Plus": 17.4,
-        "prob2Plus": 2,
-        "multiHitRate": 0,
-        "trend": "stable",
-        "confidence": "high",
-        "strategicFactors": {
-          "badges": [],
-          "parkFactor": 1,
-          "confidenceBoost": 0,
-          "stadiumContext": null
-        },
-        "chartData": {
-          "recent5Games": [],
-          "seasonOverview": {
-            "seasonTotal": 17,
-            "seasonAverage": "0.191",
-            "gamesPlayed": 89,
-            "leagueAverage": 0.9,
-            "projectedTotal": 31
-          },
-          "opponentHistory": {},
-          "totalHistoricalGames": 0
-        },
-        "value": 17,
-        "games": 89,
-        "avg": 0,
-        "rawPlayer": {
-          "name": "M. Muncy",
-          "team": "LAD",
-          "HR": 17,
-          "games": 89,
-          "rate": "0.061",
-          "hrsPerGame": "0.19"
-        }
-      },
-      {
-        "id": "T. Hernández-LAD",
-        "name": "T. Hernández",
-        "fullName": "T. Hernández",
-        "team": "LAD",
-        "seasonTotal": 21,
-        "rate": 0.186,
-        "recentRate": 0.186,
-        "prob1Plus": 18.3,
-        "prob2Plus": 2.2,
-        "multiHitRate": 0,
-        "trend": "stable",
-        "confidence": "high",
-        "strategicFactors": {
-          "badges": [
-            {
-              "type": "DUE_FOR_HR",
-              "source": "hr_analysis",
-              "reason": "21 HRs - due for power surge",
-              "boost": 8
-            }
-          ],
-          "parkFactor": 1,
-          "confidenceBoost": 8,
-          "stadiumContext": null
-        },
-        "chartData": {
-          "recent5Games": [],
-          "seasonOverview": {
-            "seasonTotal": 21,
-            "seasonAverage": "0.186",
-            "gamesPlayed": 113,
-            "leagueAverage": 0.9,
-            "projectedTotal": 30
-          },
-          "opponentHistory": {},
-          "totalHistoricalGames": 0
-        },
-        "value": 21,
-        "games": 113,
-        "avg": 0,
-        "rawPlayer": {
-          "name": "T. Hernández",
-          "team": "LAD",
-          "HR": 21,
-          "games": 113,
-          "rate": "0.049",
-          "hrsPerGame": "0.19"
-        }
-      },
-      {
-        "id": "A. Pages-LAD",
-        "name": "A. Pages",
-        "fullName": "A. Pages",
-        "team": "LAD",
-        "seasonTotal": 24,
-        "rate": 0.179,
-        "recentRate": 0.179,
-        "prob1Plus": 17.7,
-        "prob2Plus": 2.2,
-        "multiHitRate": 0,
-        "trend": "stable",
-        "confidence": "high",
-        "strategicFactors": {
-          "badges": [
-            {
-              "type": "DUE_FOR_HR",
-              "source": "hr_analysis",
-              "reason": "24 HRs - due for power surge",
-              "boost": 8
-            }
-          ],
-          "parkFactor": 1,
-          "confidenceBoost": 8,
-          "stadiumContext": null
-        },
-        "chartData": {
-          "recent5Games": [],
-          "seasonOverview": {
-            "seasonTotal": 24,
-            "seasonAverage": "0.179",
-            "gamesPlayed": 134,
-            "leagueAverage": 0.9,
-            "projectedTotal": 29
-          },
-          "opponentHistory": {},
-          "totalHistoricalGames": 0
-        },
-        "value": 24,
-        "games": 134,
-        "avg": 0,
-        "rawPlayer": {
-          "name": "A. Pages",
-          "team": "LAD",
-          "HR": 24,
-          "games": 134,
-          "rate": "0.048",
-          "hrsPerGame": "0.18"
-        }
-      }
-    ],
-    "TOR": [
-      {
-        "id": "D. Varsho-TOR",
-        "name": "D. Varsho",
-        "fullName": "D. Varsho",
-        "team": "TOR",
-        "seasonTotal": 17,
-        "rate": 0.34,
-        "recentRate": 0.34,
-        "prob1Plus": 28.8,
-        "prob2Plus": 4.6,
-        "multiHitRate": 0,
-        "trend": "stable",
-        "confidence": "high",
-        "strategicFactors": {
-          "badges": [],
-          "parkFactor": 1,
-          "confidenceBoost": 0,
-          "stadiumContext": null
-        },
-        "chartData": {
-          "recent5Games": [],
-          "seasonOverview": {
-            "seasonTotal": 17,
-            "seasonAverage": "0.340",
-            "gamesPlayed": 50,
-            "leagueAverage": 0.9,
-            "projectedTotal": 55
-          },
-          "opponentHistory": {},
-          "totalHistoricalGames": 0
-        },
-        "value": 17,
-        "games": 50,
-        "avg": 0,
-        "rawPlayer": {
-          "name": "D. Varsho",
-          "team": "TOR",
-          "HR": 17,
-          "games": 50,
-          "rate": "0.099",
-          "hrsPerGame": "0.34"
-        }
-      },
-      {
-        "id": "G. Springer-TOR",
-        "name": "G. Springer",
-        "fullName": "G. Springer",
-        "team": "TOR",
-        "seasonTotal": 26,
-        "rate": 0.222,
-        "recentRate": 0.222,
-        "prob1Plus": 21.5,
-        "prob2Plus": 2.3,
-        "multiHitRate": 0,
-        "trend": "stable",
-        "confidence": "high",
-        "strategicFactors": {
-          "badges": [
-            {
-              "type": "DUE_FOR_HR",
-              "source": "hr_analysis",
-              "reason": "26 HRs - due for power surge",
-              "boost": 8
-            }
-          ],
-          "parkFactor": 1,
-          "confidenceBoost": 8,
-          "stadiumContext": null
-        },
-        "chartData": {
-          "recent5Games": [],
-          "seasonOverview": {
-            "seasonTotal": 26,
-            "seasonAverage": "0.222",
-            "gamesPlayed": 117,
-            "leagueAverage": 0.9,
-            "projectedTotal": 36
-          },
-          "opponentHistory": {},
-          "totalHistoricalGames": 0
-        },
-        "value": 26,
-        "games": 117,
-        "avg": 0,
-        "rawPlayer": {
-          "name": "G. Springer",
-          "team": "TOR",
-          "HR": 26,
-          "games": 117,
-          "rate": "0.064",
-          "hrsPerGame": "0.22"
-        }
-      },
-      {
-        "id": "A. Barger-TOR",
-        "name": "A. Barger",
-        "fullName": "A. Barger",
-        "team": "TOR",
-        "seasonTotal": 18,
-        "rate": 0.159,
-        "recentRate": 0.159,
-        "prob1Plus": 14.7,
-        "prob2Plus": 2,
-        "multiHitRate": 0,
-        "trend": "stable",
-        "confidence": "high",
-        "strategicFactors": {
-          "badges": [],
-          "parkFactor": 1,
-          "confidenceBoost": 0,
-          "stadiumContext": null
-        },
-        "chartData": {
-          "recent5Games": [],
-          "seasonOverview": {
-            "seasonTotal": 18,
-            "seasonAverage": "0.159",
-            "gamesPlayed": 113,
-            "leagueAverage": 0.9,
-            "projectedTotal": 26
-          },
-          "opponentHistory": {},
-          "totalHistoricalGames": 0
-        },
-        "value": 18,
-        "games": 113,
-        "avg": 0,
-        "rawPlayer": {
-          "name": "A. Barger",
-          "team": "TOR",
-          "HR": 18,
-          "games": 113,
-          "rate": "0.046",
-          "hrsPerGame": "0.16"
         }
       }
     ],
@@ -3193,6 +3055,446 @@
         "fullName": "C. Carroll",
         "team": "ARI",
         "seasonTotal": 29,
+        "rate": 0.236,
+        "recentRate": 0.236,
+        "prob1Plus": 22.7,
+        "prob2Plus": 2.6,
+        "multiHitRate": 0,
+        "trend": "stable",
+        "confidence": "high",
+        "strategicFactors": {
+          "badges": [
+            {
+              "type": "DUE_FOR_HR",
+              "source": "hr_analysis",
+              "reason": "29 HRs - due for power surge",
+              "boost": 8
+            }
+          ],
+          "parkFactor": 1,
+          "confidenceBoost": 8,
+          "stadiumContext": null
+        },
+        "chartData": {
+          "recent5Games": [],
+          "seasonOverview": {
+            "seasonTotal": 29,
+            "seasonAverage": "0.236",
+            "gamesPlayed": 123,
+            "leagueAverage": 0.9,
+            "projectedTotal": 38
+          },
+          "opponentHistory": {},
+          "totalHistoricalGames": 0
+        },
+        "value": 29,
+        "games": 123,
+        "avg": 0,
+        "rawPlayer": {
+          "name": "C. Carroll",
+          "team": "ARI",
+          "HR": 29,
+          "games": 123,
+          "rate": "0.059",
+          "hrsPerGame": "0.24"
+        }
+      },
+      {
+        "id": "K. Marte-ARI",
+        "name": "K. Marte",
+        "fullName": "K. Marte",
+        "team": "ARI",
+        "seasonTotal": 25,
+        "rate": 0.234,
+        "recentRate": 0.234,
+        "prob1Plus": 22.5,
+        "prob2Plus": 2.5,
+        "multiHitRate": 0,
+        "trend": "stable",
+        "confidence": "high",
+        "strategicFactors": {
+          "badges": [
+            {
+              "type": "DUE_FOR_HR",
+              "source": "hr_analysis",
+              "reason": "25 HRs - due for power surge",
+              "boost": 8
+            }
+          ],
+          "parkFactor": 1,
+          "confidenceBoost": 8,
+          "stadiumContext": null
+        },
+        "chartData": {
+          "recent5Games": [],
+          "seasonOverview": {
+            "seasonTotal": 25,
+            "seasonAverage": "0.234",
+            "gamesPlayed": 107,
+            "leagueAverage": 0.9,
+            "projectedTotal": 38
+          },
+          "opponentHistory": {},
+          "totalHistoricalGames": 0
+        },
+        "value": 25,
+        "games": 107,
+        "avg": 0,
+        "rawPlayer": {
+          "name": "K. Marte",
+          "team": "ARI",
+          "HR": 25,
+          "games": 107,
+          "rate": "0.063",
+          "hrsPerGame": "0.23"
+        }
+      }
+    ],
+    "LAD": [
+      {
+        "id": "S. Ohtani-LAD",
+        "name": "S. Ohtani",
+        "fullName": "S. Ohtani",
+        "team": "LAD",
+        "seasonTotal": 46,
+        "rate": 0.338,
+        "recentRate": 0.338,
+        "prob1Plus": 32.1,
+        "prob2Plus": 5.1,
+        "multiHitRate": 0,
+        "trend": "stable",
+        "confidence": "high",
+        "strategicFactors": {
+          "badges": [
+            {
+              "type": "HR_CANDIDATE",
+              "source": "hr_analysis",
+              "reason": "46 HRs this season",
+              "boost": 12
+            }
+          ],
+          "parkFactor": 1,
+          "confidenceBoost": 12,
+          "stadiumContext": null
+        },
+        "chartData": {
+          "recent5Games": [],
+          "seasonOverview": {
+            "seasonTotal": 46,
+            "seasonAverage": "0.338",
+            "gamesPlayed": 136,
+            "leagueAverage": 0.9,
+            "projectedTotal": 55
+          },
+          "opponentHistory": {},
+          "totalHistoricalGames": 0
+        },
+        "value": 46,
+        "games": 136,
+        "avg": 0,
+        "rawPlayer": {
+          "name": "S. Ohtani",
+          "team": "LAD",
+          "HR": 46,
+          "games": 136,
+          "rate": "0.087",
+          "hrsPerGame": "0.34"
+        }
+      },
+      {
+        "id": "M. Muncy-LAD",
+        "name": "M. Muncy",
+        "fullName": "M. Muncy",
+        "team": "LAD",
+        "seasonTotal": 17,
+        "rate": 0.191,
+        "recentRate": 0.191,
+        "prob1Plus": 17.4,
+        "prob2Plus": 2,
+        "multiHitRate": 0,
+        "trend": "stable",
+        "confidence": "high",
+        "strategicFactors": {
+          "badges": [],
+          "parkFactor": 1,
+          "confidenceBoost": 0,
+          "stadiumContext": null
+        },
+        "chartData": {
+          "recent5Games": [],
+          "seasonOverview": {
+            "seasonTotal": 17,
+            "seasonAverage": "0.191",
+            "gamesPlayed": 89,
+            "leagueAverage": 0.9,
+            "projectedTotal": 31
+          },
+          "opponentHistory": {},
+          "totalHistoricalGames": 0
+        },
+        "value": 17,
+        "games": 89,
+        "avg": 0,
+        "rawPlayer": {
+          "name": "M. Muncy",
+          "team": "LAD",
+          "HR": 17,
+          "games": 89,
+          "rate": "0.061",
+          "hrsPerGame": "0.19"
+        }
+      },
+      {
+        "id": "T. Hernández-LAD",
+        "name": "T. Hernández",
+        "fullName": "T. Hernández",
+        "team": "LAD",
+        "seasonTotal": 21,
+        "rate": 0.184,
+        "recentRate": 0.184,
+        "prob1Plus": 18.2,
+        "prob2Plus": 2.2,
+        "multiHitRate": 0,
+        "trend": "stable",
+        "confidence": "high",
+        "strategicFactors": {
+          "badges": [
+            {
+              "type": "DUE_FOR_HR",
+              "source": "hr_analysis",
+              "reason": "21 HRs - due for power surge",
+              "boost": 8
+            }
+          ],
+          "parkFactor": 1,
+          "confidenceBoost": 8,
+          "stadiumContext": null
+        },
+        "chartData": {
+          "recent5Games": [],
+          "seasonOverview": {
+            "seasonTotal": 21,
+            "seasonAverage": "0.184",
+            "gamesPlayed": 114,
+            "leagueAverage": 0.9,
+            "projectedTotal": 30
+          },
+          "opponentHistory": {},
+          "totalHistoricalGames": 0
+        },
+        "value": 21,
+        "games": 114,
+        "avg": 0,
+        "rawPlayer": {
+          "name": "T. Hernández",
+          "team": "LAD",
+          "HR": 21,
+          "games": 114,
+          "rate": "0.049",
+          "hrsPerGame": "0.18"
+        }
+      },
+      {
+        "id": "A. Pages-LAD",
+        "name": "A. Pages",
+        "fullName": "A. Pages",
+        "team": "LAD",
+        "seasonTotal": 24,
+        "rate": 0.178,
+        "recentRate": 0.178,
+        "prob1Plus": 17.6,
+        "prob2Plus": 2.2,
+        "multiHitRate": 0,
+        "trend": "stable",
+        "confidence": "high",
+        "strategicFactors": {
+          "badges": [
+            {
+              "type": "DUE_FOR_HR",
+              "source": "hr_analysis",
+              "reason": "24 HRs - due for power surge",
+              "boost": 8
+            }
+          ],
+          "parkFactor": 1,
+          "confidenceBoost": 8,
+          "stadiumContext": null
+        },
+        "chartData": {
+          "recent5Games": [],
+          "seasonOverview": {
+            "seasonTotal": 24,
+            "seasonAverage": "0.178",
+            "gamesPlayed": 135,
+            "leagueAverage": 0.9,
+            "projectedTotal": 29
+          },
+          "opponentHistory": {},
+          "totalHistoricalGames": 0
+        },
+        "value": 24,
+        "games": 135,
+        "avg": 0,
+        "rawPlayer": {
+          "name": "A. Pages",
+          "team": "LAD",
+          "HR": 24,
+          "games": 135,
+          "rate": "0.048",
+          "hrsPerGame": "0.18"
+        }
+      }
+    ],
+    "NYY": [
+      {
+        "id": "A. Judge-NYY",
+        "name": "A. Judge",
+        "fullName": "A. Judge",
+        "team": "NYY",
+        "seasonTotal": 43,
+        "rate": 0.333,
+        "recentRate": 0.333,
+        "prob1Plus": 31.7,
+        "prob2Plus": 5,
+        "multiHitRate": 0,
+        "trend": "stable",
+        "confidence": "high",
+        "strategicFactors": {
+          "badges": [
+            {
+              "type": "HR_CANDIDATE",
+              "source": "hr_analysis",
+              "reason": "43 HRs this season",
+              "boost": 12
+            }
+          ],
+          "parkFactor": 1,
+          "confidenceBoost": 12,
+          "stadiumContext": null
+        },
+        "chartData": {
+          "recent5Games": [],
+          "seasonOverview": {
+            "seasonTotal": 43,
+            "seasonAverage": "0.333",
+            "gamesPlayed": 129,
+            "leagueAverage": 0.9,
+            "projectedTotal": 54
+          },
+          "opponentHistory": {},
+          "totalHistoricalGames": 0
+        },
+        "value": 43,
+        "games": 129,
+        "avg": 0,
+        "rawPlayer": {
+          "name": "A. Judge",
+          "team": "NYY",
+          "HR": 43,
+          "games": 129,
+          "rate": "0.091",
+          "hrsPerGame": "0.33"
+        }
+      },
+      {
+        "id": "G. Stanton-NYY",
+        "name": "G. Stanton",
+        "fullName": "G. Stanton",
+        "team": "NYY",
+        "seasonTotal": 18,
+        "rate": 0.316,
+        "recentRate": 0.316,
+        "prob1Plus": 27.1,
+        "prob2Plus": 4.1,
+        "multiHitRate": 0,
+        "trend": "stable",
+        "confidence": "high",
+        "strategicFactors": {
+          "badges": [],
+          "parkFactor": 1,
+          "confidenceBoost": 0,
+          "stadiumContext": null
+        },
+        "chartData": {
+          "recent5Games": [],
+          "seasonOverview": {
+            "seasonTotal": 18,
+            "seasonAverage": "0.316",
+            "gamesPlayed": 57,
+            "leagueAverage": 0.9,
+            "projectedTotal": 51
+          },
+          "opponentHistory": {},
+          "totalHistoricalGames": 0
+        },
+        "value": 18,
+        "games": 57,
+        "avg": 0,
+        "rawPlayer": {
+          "name": "G. Stanton",
+          "team": "NYY",
+          "HR": 18,
+          "games": 57,
+          "rate": "0.099",
+          "hrsPerGame": "0.32"
+        }
+      },
+      {
+        "id": "J. Chisholm Jr.-NYY",
+        "name": "J. Chisholm Jr.",
+        "fullName": "J. Chisholm Jr.",
+        "team": "NYY",
+        "seasonTotal": 28,
+        "rate": 0.262,
+        "recentRate": 0.262,
+        "prob1Plus": 24.9,
+        "prob2Plus": 3.1,
+        "multiHitRate": 0,
+        "trend": "stable",
+        "confidence": "high",
+        "strategicFactors": {
+          "badges": [
+            {
+              "type": "DUE_FOR_HR",
+              "source": "hr_analysis",
+              "reason": "28 HRs - due for power surge",
+              "boost": 8
+            }
+          ],
+          "parkFactor": 1,
+          "confidenceBoost": 8,
+          "stadiumContext": null
+        },
+        "chartData": {
+          "recent5Games": [],
+          "seasonOverview": {
+            "seasonTotal": 28,
+            "seasonAverage": "0.262",
+            "gamesPlayed": 107,
+            "leagueAverage": 0.9,
+            "projectedTotal": 42
+          },
+          "opponentHistory": {},
+          "totalHistoricalGames": 0
+        },
+        "value": 28,
+        "games": 107,
+        "avg": 0,
+        "rawPlayer": {
+          "name": "J. Chisholm Jr.",
+          "team": "NYY",
+          "HR": 28,
+          "games": 107,
+          "rate": "0.073",
+          "hrsPerGame": "0.26"
+        }
+      },
+      {
+        "id": "T. Grisham-NYY",
+        "name": "T. Grisham",
+        "fullName": "T. Grisham",
+        "team": "NYY",
+        "seasonTotal": 29,
         "rate": 0.238,
         "recentRate": 0.238,
         "prob1Plus": 22.8,
@@ -3229,256 +3531,11 @@
         "games": 122,
         "avg": 0,
         "rawPlayer": {
-          "name": "C. Carroll",
-          "team": "ARI",
-          "HR": 29,
-          "games": 122,
-          "rate": "0.059",
-          "hrsPerGame": "0.24"
-        }
-      },
-      {
-        "id": "K. Marte-ARI",
-        "name": "K. Marte",
-        "fullName": "K. Marte",
-        "team": "ARI",
-        "seasonTotal": 25,
-        "rate": 0.236,
-        "recentRate": 0.236,
-        "prob1Plus": 22.7,
-        "prob2Plus": 2.6,
-        "multiHitRate": 0,
-        "trend": "stable",
-        "confidence": "high",
-        "strategicFactors": {
-          "badges": [
-            {
-              "type": "DUE_FOR_HR",
-              "source": "hr_analysis",
-              "reason": "25 HRs - due for power surge",
-              "boost": 8
-            }
-          ],
-          "parkFactor": 1,
-          "confidenceBoost": 8,
-          "stadiumContext": null
-        },
-        "chartData": {
-          "recent5Games": [],
-          "seasonOverview": {
-            "seasonTotal": 25,
-            "seasonAverage": "0.236",
-            "gamesPlayed": 106,
-            "leagueAverage": 0.9,
-            "projectedTotal": 38
-          },
-          "opponentHistory": {},
-          "totalHistoricalGames": 0
-        },
-        "value": 25,
-        "games": 106,
-        "avg": 0,
-        "rawPlayer": {
-          "name": "K. Marte",
-          "team": "ARI",
-          "HR": 25,
-          "games": 106,
-          "rate": "0.063",
-          "hrsPerGame": "0.24"
-        }
-      }
-    ],
-    "NYY": [
-      {
-        "id": "A. Judge-NYY",
-        "name": "A. Judge",
-        "fullName": "A. Judge",
-        "team": "NYY",
-        "seasonTotal": 43,
-        "rate": 0.336,
-        "recentRate": 0.336,
-        "prob1Plus": 32,
-        "prob2Plus": 5.1,
-        "multiHitRate": 0,
-        "trend": "stable",
-        "confidence": "high",
-        "strategicFactors": {
-          "badges": [
-            {
-              "type": "HR_CANDIDATE",
-              "source": "hr_analysis",
-              "reason": "43 HRs this season",
-              "boost": 12
-            }
-          ],
-          "parkFactor": 1,
-          "confidenceBoost": 12,
-          "stadiumContext": null
-        },
-        "chartData": {
-          "recent5Games": [],
-          "seasonOverview": {
-            "seasonTotal": 43,
-            "seasonAverage": "0.336",
-            "gamesPlayed": 128,
-            "leagueAverage": 0.9,
-            "projectedTotal": 54
-          },
-          "opponentHistory": {},
-          "totalHistoricalGames": 0
-        },
-        "value": 43,
-        "games": 128,
-        "avg": 0,
-        "rawPlayer": {
-          "name": "A. Judge",
-          "team": "NYY",
-          "HR": 43,
-          "games": 128,
-          "rate": "0.092",
-          "hrsPerGame": "0.34"
-        }
-      },
-      {
-        "id": "G. Stanton-NYY",
-        "name": "G. Stanton",
-        "fullName": "G. Stanton",
-        "team": "NYY",
-        "seasonTotal": 17,
-        "rate": 0.304,
-        "recentRate": 0.304,
-        "prob1Plus": 26.2,
-        "prob2Plus": 3.8,
-        "multiHitRate": 0,
-        "trend": "stable",
-        "confidence": "high",
-        "strategicFactors": {
-          "badges": [],
-          "parkFactor": 1,
-          "confidenceBoost": 0,
-          "stadiumContext": null
-        },
-        "chartData": {
-          "recent5Games": [],
-          "seasonOverview": {
-            "seasonTotal": 17,
-            "seasonAverage": "0.304",
-            "gamesPlayed": 56,
-            "leagueAverage": 0.9,
-            "projectedTotal": 49
-          },
-          "opponentHistory": {},
-          "totalHistoricalGames": 0
-        },
-        "value": 17,
-        "games": 56,
-        "avg": 0,
-        "rawPlayer": {
-          "name": "G. Stanton",
-          "team": "NYY",
-          "HR": 17,
-          "games": 56,
-          "rate": "0.096",
-          "hrsPerGame": "0.30"
-        }
-      },
-      {
-        "id": "J. Chisholm Jr.-NYY",
-        "name": "J. Chisholm Jr.",
-        "fullName": "J. Chisholm Jr.",
-        "team": "NYY",
-        "seasonTotal": 28,
-        "rate": 0.264,
-        "recentRate": 0.264,
-        "prob1Plus": 25.1,
-        "prob2Plus": 3.2,
-        "multiHitRate": 0,
-        "trend": "stable",
-        "confidence": "high",
-        "strategicFactors": {
-          "badges": [
-            {
-              "type": "DUE_FOR_HR",
-              "source": "hr_analysis",
-              "reason": "28 HRs - due for power surge",
-              "boost": 8
-            }
-          ],
-          "parkFactor": 1,
-          "confidenceBoost": 8,
-          "stadiumContext": null
-        },
-        "chartData": {
-          "recent5Games": [],
-          "seasonOverview": {
-            "seasonTotal": 28,
-            "seasonAverage": "0.264",
-            "gamesPlayed": 106,
-            "leagueAverage": 0.9,
-            "projectedTotal": 43
-          },
-          "opponentHistory": {},
-          "totalHistoricalGames": 0
-        },
-        "value": 28,
-        "games": 106,
-        "avg": 0,
-        "rawPlayer": {
-          "name": "J. Chisholm Jr.",
-          "team": "NYY",
-          "HR": 28,
-          "games": 106,
-          "rate": "0.074",
-          "hrsPerGame": "0.26"
-        }
-      },
-      {
-        "id": "T. Grisham-NYY",
-        "name": "T. Grisham",
-        "fullName": "T. Grisham",
-        "team": "NYY",
-        "seasonTotal": 29,
-        "rate": 0.24,
-        "recentRate": 0.24,
-        "prob1Plus": 23,
-        "prob2Plus": 2.6,
-        "multiHitRate": 0,
-        "trend": "stable",
-        "confidence": "high",
-        "strategicFactors": {
-          "badges": [
-            {
-              "type": "DUE_FOR_HR",
-              "source": "hr_analysis",
-              "reason": "29 HRs - due for power surge",
-              "boost": 8
-            }
-          ],
-          "parkFactor": 1,
-          "confidenceBoost": 8,
-          "stadiumContext": null
-        },
-        "chartData": {
-          "recent5Games": [],
-          "seasonOverview": {
-            "seasonTotal": 29,
-            "seasonAverage": "0.240",
-            "gamesPlayed": 121,
-            "leagueAverage": 0.9,
-            "projectedTotal": 39
-          },
-          "opponentHistory": {},
-          "totalHistoricalGames": 0
-        },
-        "value": 29,
-        "games": 121,
-        "avg": 0,
-        "rawPlayer": {
           "name": "T. Grisham",
           "team": "NYY",
           "HR": 29,
-          "games": 121,
-          "rate": "0.070",
+          "games": 122,
+          "rate": "0.069",
           "hrsPerGame": "0.24"
         }
       },
@@ -3487,10 +3544,10 @@
         "name": "C. Bellinger",
         "fullName": "C. Bellinger",
         "team": "NYY",
-        "seasonTotal": 26,
-        "rate": 0.203,
-        "recentRate": 0.203,
-        "prob1Plus": 19.9,
+        "seasonTotal": 27,
+        "rate": 0.209,
+        "recentRate": 0.209,
+        "prob1Plus": 20.4,
         "prob2Plus": 2.2,
         "multiHitRate": 0,
         "trend": "stable",
@@ -3500,7 +3557,7 @@
             {
               "type": "DUE_FOR_HR",
               "source": "hr_analysis",
-              "reason": "26 HRs - due for power surge",
+              "reason": "27 HRs - due for power surge",
               "boost": 8
             }
           ],
@@ -3511,25 +3568,25 @@
         "chartData": {
           "recent5Games": [],
           "seasonOverview": {
-            "seasonTotal": 26,
-            "seasonAverage": "0.203",
-            "gamesPlayed": 128,
+            "seasonTotal": 27,
+            "seasonAverage": "0.209",
+            "gamesPlayed": 129,
             "leagueAverage": 0.9,
-            "projectedTotal": 33
+            "projectedTotal": 34
           },
           "opponentHistory": {},
           "totalHistoricalGames": 0
         },
-        "value": 26,
-        "games": 128,
+        "value": 27,
+        "games": 129,
         "avg": 0,
         "rawPlayer": {
           "name": "C. Bellinger",
           "team": "NYY",
-          "HR": 26,
-          "games": 128,
-          "rate": "0.052",
-          "hrsPerGame": "0.20"
+          "HR": 27,
+          "games": 129,
+          "rate": "0.054",
+          "hrsPerGame": "0.21"
         }
       },
       {
@@ -3538,9 +3595,9 @@
         "fullName": "B. Rice",
         "team": "NYY",
         "seasonTotal": 22,
-        "rate": 0.19,
-        "recentRate": 0.19,
-        "prob1Plus": 18.7,
+        "rate": 0.188,
+        "recentRate": 0.188,
+        "prob1Plus": 18.5,
         "prob2Plus": 2.2,
         "multiHitRate": 0,
         "trend": "stable",
@@ -3562,23 +3619,23 @@
           "recent5Games": [],
           "seasonOverview": {
             "seasonTotal": 22,
-            "seasonAverage": "0.190",
-            "gamesPlayed": 116,
+            "seasonAverage": "0.188",
+            "gamesPlayed": 117,
             "leagueAverage": 0.9,
-            "projectedTotal": 31
+            "projectedTotal": 30
           },
           "opponentHistory": {},
           "totalHistoricalGames": 0
         },
         "value": 22,
-        "games": 116,
+        "games": 117,
         "avg": 0,
         "rawPlayer": {
           "name": "B. Rice",
           "team": "NYY",
           "HR": 22,
-          "games": 116,
-          "rate": "0.057",
+          "games": 117,
+          "rate": "0.056",
           "hrsPerGame": "0.19"
         }
       },
@@ -3587,130 +3644,49 @@
         "name": "A. Wells",
         "fullName": "A. Wells",
         "team": "NYY",
-        "seasonTotal": 19,
-        "rate": 0.178,
-        "recentRate": 0.178,
-        "prob1Plus": 16.3,
-        "prob2Plus": 2,
+        "seasonTotal": 20,
+        "rate": 0.185,
+        "recentRate": 0.185,
+        "prob1Plus": 18.3,
+        "prob2Plus": 2.2,
         "multiHitRate": 0,
         "trend": "stable",
         "confidence": "high",
         "strategicFactors": {
-          "badges": [],
+          "badges": [
+            {
+              "type": "DUE_FOR_HR",
+              "source": "hr_analysis",
+              "reason": "20 HRs - due for power surge",
+              "boost": 8
+            }
+          ],
           "parkFactor": 1,
-          "confidenceBoost": 0,
+          "confidenceBoost": 8,
           "stadiumContext": null
         },
         "chartData": {
           "recent5Games": [],
           "seasonOverview": {
-            "seasonTotal": 19,
-            "seasonAverage": "0.178",
-            "gamesPlayed": 107,
+            "seasonTotal": 20,
+            "seasonAverage": "0.185",
+            "gamesPlayed": 108,
             "leagueAverage": 0.9,
-            "projectedTotal": 29
+            "projectedTotal": 30
           },
           "opponentHistory": {},
           "totalHistoricalGames": 0
         },
-        "value": 19,
-        "games": 107,
+        "value": 20,
+        "games": 108,
         "avg": 0,
         "rawPlayer": {
           "name": "A. Wells",
           "team": "NYY",
-          "HR": 19,
-          "games": 107,
-          "rate": "0.055",
-          "hrsPerGame": "0.18"
-        }
-      }
-    ],
-    "CHW": [
-      {
-        "id": "C. Montgomery-CHW",
-        "name": "C. Montgomery",
-        "fullName": "C. Montgomery",
-        "team": "CHW",
-        "seasonTotal": 16,
-        "rate": 0.333,
-        "recentRate": 0.333,
-        "prob1Plus": 28.3,
-        "prob2Plus": 4.5,
-        "multiHitRate": 0,
-        "trend": "stable",
-        "confidence": "high",
-        "strategicFactors": {
-          "badges": [],
-          "parkFactor": 1,
-          "confidenceBoost": 0,
-          "stadiumContext": null
-        },
-        "chartData": {
-          "recent5Games": [],
-          "seasonOverview": {
-            "seasonTotal": 16,
-            "seasonAverage": "0.333",
-            "gamesPlayed": 48,
-            "leagueAverage": 0.9,
-            "projectedTotal": 54
-          },
-          "opponentHistory": {},
-          "totalHistoricalGames": 0
-        },
-        "value": 16,
-        "games": 48,
-        "avg": 0,
-        "rawPlayer": {
-          "name": "C. Montgomery",
-          "team": "CHW",
-          "HR": 16,
-          "games": 48,
-          "rate": "0.091",
-          "hrsPerGame": "0.33"
-        }
-      },
-      {
-        "id": "T. Elko-CHW",
-        "name": "T. Elko",
-        "fullName": "T. Elko",
-        "team": "CHW",
-        "seasonTotal": 4,
-        "rate": 0.174,
-        "recentRate": 0.174,
-        "prob1Plus": 16,
-        "prob2Plus": 2,
-        "multiHitRate": 0,
-        "trend": "stable",
-        "confidence": "high",
-        "strategicFactors": {
-          "badges": [],
-          "parkFactor": 1,
-          "confidenceBoost": 0,
-          "stadiumContext": null
-        },
-        "chartData": {
-          "recent5Games": [],
-          "seasonOverview": {
-            "seasonTotal": 4,
-            "seasonAverage": "0.174",
-            "gamesPlayed": 23,
-            "leagueAverage": 0.9,
-            "projectedTotal": 28
-          },
-          "opponentHistory": {},
-          "totalHistoricalGames": 0
-        },
-        "value": 4,
-        "games": 23,
-        "avg": 0,
-        "rawPlayer": {
-          "name": "T. Elko",
-          "team": "CHW",
-          "HR": 4,
-          "games": 23,
-          "rate": "0.060",
-          "hrsPerGame": "0.17"
+          "HR": 20,
+          "games": 108,
+          "rate": "0.057",
+          "hrsPerGame": "0.19"
         }
       }
     ],
@@ -3814,9 +3790,9 @@
         "fullName": "A. Ramirez",
         "team": "MIA",
         "seasonTotal": 19,
-        "rate": 0.168,
-        "recentRate": 0.168,
-        "prob1Plus": 15.5,
+        "rate": 0.167,
+        "recentRate": 0.167,
+        "prob1Plus": 15.4,
         "prob2Plus": 2,
         "multiHitRate": 0,
         "trend": "stable",
@@ -3831,8 +3807,8 @@
           "recent5Games": [],
           "seasonOverview": {
             "seasonTotal": 19,
-            "seasonAverage": "0.168",
-            "gamesPlayed": 113,
+            "seasonAverage": "0.167",
+            "gamesPlayed": 114,
             "leagueAverage": 0.9,
             "projectedTotal": 27
           },
@@ -3840,13 +3816,13 @@
           "totalHistoricalGames": 0
         },
         "value": 19,
-        "games": 113,
+        "games": 114,
         "avg": 0,
         "rawPlayer": {
           "name": "A. Ramirez",
           "team": "MIA",
           "HR": 19,
-          "games": 113,
+          "games": 114,
           "rate": "0.042",
           "hrsPerGame": "0.17"
         }
@@ -3895,6 +3871,94 @@
         }
       }
     ],
+    "CHW": [
+      {
+        "id": "C. Montgomery-CHW",
+        "name": "C. Montgomery",
+        "fullName": "C. Montgomery",
+        "team": "CHW",
+        "seasonTotal": 16,
+        "rate": 0.327,
+        "recentRate": 0.327,
+        "prob1Plus": 27.9,
+        "prob2Plus": 4.3,
+        "multiHitRate": 0,
+        "trend": "stable",
+        "confidence": "high",
+        "strategicFactors": {
+          "badges": [],
+          "parkFactor": 1,
+          "confidenceBoost": 0,
+          "stadiumContext": null
+        },
+        "chartData": {
+          "recent5Games": [],
+          "seasonOverview": {
+            "seasonTotal": 16,
+            "seasonAverage": "0.327",
+            "gamesPlayed": 49,
+            "leagueAverage": 0.9,
+            "projectedTotal": 53
+          },
+          "opponentHistory": {},
+          "totalHistoricalGames": 0
+        },
+        "value": 16,
+        "games": 49,
+        "avg": 0,
+        "rawPlayer": {
+          "name": "C. Montgomery",
+          "team": "CHW",
+          "HR": 16,
+          "games": 49,
+          "rate": "0.089",
+          "hrsPerGame": "0.33"
+        }
+      },
+      {
+        "id": "T. Elko-CHW",
+        "name": "T. Elko",
+        "fullName": "T. Elko",
+        "team": "CHW",
+        "seasonTotal": 4,
+        "rate": 0.174,
+        "recentRate": 0.174,
+        "prob1Plus": 16,
+        "prob2Plus": 2,
+        "multiHitRate": 0,
+        "trend": "stable",
+        "confidence": "high",
+        "strategicFactors": {
+          "badges": [],
+          "parkFactor": 1,
+          "confidenceBoost": 0,
+          "stadiumContext": null
+        },
+        "chartData": {
+          "recent5Games": [],
+          "seasonOverview": {
+            "seasonTotal": 4,
+            "seasonAverage": "0.174",
+            "gamesPlayed": 23,
+            "leagueAverage": 0.9,
+            "projectedTotal": 28
+          },
+          "opponentHistory": {},
+          "totalHistoricalGames": 0
+        },
+        "value": 4,
+        "games": 23,
+        "avg": 0,
+        "rawPlayer": {
+          "name": "T. Elko",
+          "team": "CHW",
+          "HR": 4,
+          "games": 23,
+          "rate": "0.060",
+          "hrsPerGame": "0.17"
+        }
+      }
+    ],
     "TB": [
       {
         "id": "J. Caminero-TB",
@@ -3902,9 +3966,9 @@
         "fullName": "J. Caminero",
         "team": "TB",
         "seasonTotal": 40,
-        "rate": 0.303,
-        "recentRate": 0.303,
-        "prob1Plus": 29.3,
+        "rate": 0.301,
+        "recentRate": 0.301,
+        "prob1Plus": 29.1,
         "prob2Plus": 4.2,
         "multiHitRate": 0,
         "trend": "stable",
@@ -3926,8 +3990,8 @@
           "recent5Games": [],
           "seasonOverview": {
             "seasonTotal": 40,
-            "seasonAverage": "0.303",
-            "gamesPlayed": 132,
+            "seasonAverage": "0.301",
+            "gamesPlayed": 133,
             "leagueAverage": 0.9,
             "projectedTotal": 49
           },
@@ -3935,14 +3999,14 @@
           "totalHistoricalGames": 0
         },
         "value": 40,
-        "games": 132,
+        "games": 133,
         "avg": 0,
         "rawPlayer": {
           "name": "J. Caminero",
           "team": "TB",
           "HR": 40,
-          "games": 132,
-          "rate": "0.077",
+          "games": 133,
+          "rate": "0.076",
           "hrsPerGame": "0.30"
         }
       },
@@ -3952,9 +4016,9 @@
         "fullName": "B. Lowe",
         "team": "TB",
         "seasonTotal": 28,
-        "rate": 0.243,
-        "recentRate": 0.243,
-        "prob1Plus": 23.3,
+        "rate": 0.241,
+        "recentRate": 0.241,
+        "prob1Plus": 23.2,
         "prob2Plus": 2.7,
         "multiHitRate": 0,
         "trend": "stable",
@@ -3976,8 +4040,8 @@
           "recent5Games": [],
           "seasonOverview": {
             "seasonTotal": 28,
-            "seasonAverage": "0.243",
-            "gamesPlayed": 115,
+            "seasonAverage": "0.241",
+            "gamesPlayed": 116,
             "leagueAverage": 0.9,
             "projectedTotal": 39
           },
@@ -3985,13 +4049,13 @@
           "totalHistoricalGames": 0
         },
         "value": 28,
-        "games": 115,
+        "games": 116,
         "avg": 0,
         "rawPlayer": {
           "name": "B. Lowe",
           "team": "TB",
           "HR": 28,
-          "games": 115,
+          "games": 116,
           "rate": "0.065",
           "hrsPerGame": "0.24"
         }
@@ -4002,9 +4066,9 @@
         "fullName": "Y. Diaz",
         "team": "TB",
         "seasonTotal": 22,
-        "rate": 0.171,
-        "recentRate": 0.171,
-        "prob1Plus": 16.9,
+        "rate": 0.169,
+        "recentRate": 0.169,
+        "prob1Plus": 16.8,
         "prob2Plus": 2.2,
         "multiHitRate": 0,
         "trend": "stable",
@@ -4026,22 +4090,22 @@
           "recent5Games": [],
           "seasonOverview": {
             "seasonTotal": 22,
-            "seasonAverage": "0.171",
-            "gamesPlayed": 129,
+            "seasonAverage": "0.169",
+            "gamesPlayed": 130,
             "leagueAverage": 0.9,
-            "projectedTotal": 28
+            "projectedTotal": 27
           },
           "opponentHistory": {},
           "totalHistoricalGames": 0
         },
         "value": 22,
-        "games": 129,
+        "games": 130,
         "avg": 0,
         "rawPlayer": {
           "name": "Y. Diaz",
           "team": "TB",
           "HR": 22,
-          "games": 129,
+          "games": 130,
           "rate": "0.043",
           "hrsPerGame": "0.17"
         }
@@ -4053,11 +4117,11 @@
         "name": "N. Kurtz",
         "fullName": "N. Kurtz",
         "team": "OAK",
-        "seasonTotal": 27,
-        "rate": 0.284,
-        "recentRate": 0.284,
-        "prob1Plus": 26.7,
-        "prob2Plus": 3.6,
+        "seasonTotal": 28,
+        "rate": 0.292,
+        "recentRate": 0.292,
+        "prob1Plus": 27.3,
+        "prob2Plus": 3.8,
         "multiHitRate": 0,
         "trend": "stable",
         "confidence": "high",
@@ -4066,7 +4130,7 @@
             {
               "type": "DUE_FOR_HR",
               "source": "hr_analysis",
-              "reason": "27 HRs - due for power surge",
+              "reason": "28 HRs - due for power surge",
               "boost": 8
             }
           ],
@@ -4077,25 +4141,25 @@
         "chartData": {
           "recent5Games": [],
           "seasonOverview": {
-            "seasonTotal": 27,
-            "seasonAverage": "0.284",
-            "gamesPlayed": 95,
+            "seasonTotal": 28,
+            "seasonAverage": "0.292",
+            "gamesPlayed": 96,
             "leagueAverage": 0.9,
-            "projectedTotal": 46
+            "projectedTotal": 47
           },
           "opponentHistory": {},
           "totalHistoricalGames": 0
         },
-        "value": 27,
-        "games": 95,
+        "value": 28,
+        "games": 96,
         "avg": 0,
         "rawPlayer": {
           "name": "N. Kurtz",
           "team": "OAK",
-          "HR": 27,
-          "games": 95,
-          "rate": "0.080",
-          "hrsPerGame": "0.28"
+          "HR": 28,
+          "games": 96,
+          "rate": "0.082",
+          "hrsPerGame": "0.29"
         }
       },
       {
@@ -4104,9 +4168,9 @@
         "fullName": "S. Langeliers",
         "team": "OAK",
         "seasonTotal": 29,
-        "rate": 0.276,
-        "recentRate": 0.276,
-        "prob1Plus": 26.1,
+        "rate": 0.274,
+        "recentRate": 0.274,
+        "prob1Plus": 25.9,
         "prob2Plus": 3.4,
         "multiHitRate": 0,
         "trend": "stable",
@@ -4128,24 +4192,24 @@
           "recent5Games": [],
           "seasonOverview": {
             "seasonTotal": 29,
-            "seasonAverage": "0.276",
-            "gamesPlayed": 105,
+            "seasonAverage": "0.274",
+            "gamesPlayed": 106,
             "leagueAverage": 0.9,
-            "projectedTotal": 45
+            "projectedTotal": 44
           },
           "opponentHistory": {},
           "totalHistoricalGames": 0
         },
         "value": 29,
-        "games": 105,
+        "games": 106,
         "avg": 0,
         "rawPlayer": {
           "name": "S. Langeliers",
           "team": "OAK",
           "HR": 29,
-          "games": 105,
+          "games": 106,
           "rate": "0.071",
-          "hrsPerGame": "0.28"
+          "hrsPerGame": "0.27"
         }
       },
       {
@@ -4154,9 +4218,9 @@
         "fullName": "B. Rooker",
         "team": "OAK",
         "seasonTotal": 27,
-        "rate": 0.193,
-        "recentRate": 0.193,
-        "prob1Plus": 18.9,
+        "rate": 0.191,
+        "recentRate": 0.191,
+        "prob1Plus": 18.8,
         "prob2Plus": 2.2,
         "multiHitRate": 0,
         "trend": "stable",
@@ -4178,8 +4242,8 @@
           "recent5Games": [],
           "seasonOverview": {
             "seasonTotal": 27,
-            "seasonAverage": "0.193",
-            "gamesPlayed": 140,
+            "seasonAverage": "0.191",
+            "gamesPlayed": 141,
             "leagueAverage": 0.9,
             "projectedTotal": 31
           },
@@ -4187,14 +4251,14 @@
           "totalHistoricalGames": 0
         },
         "value": 27,
-        "games": 140,
+        "games": 141,
         "avg": 0,
         "rawPlayer": {
           "name": "B. Rooker",
           "team": "OAK",
           "HR": 27,
-          "games": 140,
-          "rate": "0.050",
+          "games": 141,
+          "rate": "0.049",
           "hrsPerGame": "0.19"
         }
       },
@@ -4204,9 +4268,9 @@
         "fullName": "T. Soderstrom",
         "team": "OAK",
         "seasonTotal": 23,
-        "rate": 0.165,
-        "recentRate": 0.165,
-        "prob1Plus": 16.5,
+        "rate": 0.164,
+        "recentRate": 0.164,
+        "prob1Plus": 16.4,
         "prob2Plus": 2.2,
         "multiHitRate": 0,
         "trend": "stable",
@@ -4228,8 +4292,8 @@
           "recent5Games": [],
           "seasonOverview": {
             "seasonTotal": 23,
-            "seasonAverage": "0.165",
-            "gamesPlayed": 139,
+            "seasonAverage": "0.164",
+            "gamesPlayed": 140,
             "leagueAverage": 0.9,
             "projectedTotal": 27
           },
@@ -4237,15 +4301,15 @@
           "totalHistoricalGames": 0
         },
         "value": 23,
-        "games": 139,
+        "games": 140,
         "avg": 0,
         "rawPlayer": {
           "name": "T. Soderstrom",
           "team": "OAK",
           "HR": 23,
-          "games": 139,
+          "games": 140,
           "rate": "0.046",
-          "hrsPerGame": "0.17"
+          "hrsPerGame": "0.16"
         }
       }
     ],
@@ -4256,9 +4320,9 @@
         "fullName": "B. Buxton",
         "team": "MIN",
         "seasonTotal": 29,
-        "rate": 0.276,
-        "recentRate": 0.276,
-        "prob1Plus": 26.1,
+        "rate": 0.274,
+        "recentRate": 0.274,
+        "prob1Plus": 25.9,
         "prob2Plus": 3.4,
         "multiHitRate": 0,
         "trend": "stable",
@@ -4280,24 +4344,24 @@
           "recent5Games": [],
           "seasonOverview": {
             "seasonTotal": 29,
-            "seasonAverage": "0.276",
-            "gamesPlayed": 105,
+            "seasonAverage": "0.274",
+            "gamesPlayed": 106,
             "leagueAverage": 0.9,
-            "projectedTotal": 45
+            "projectedTotal": 44
           },
           "opponentHistory": {},
           "totalHistoricalGames": 0
         },
         "value": 29,
-        "games": 105,
+        "games": 106,
         "avg": 0,
         "rawPlayer": {
           "name": "B. Buxton",
           "team": "MIN",
           "HR": 29,
-          "games": 105,
-          "rate": "0.072",
-          "hrsPerGame": "0.28"
+          "games": 106,
+          "rate": "0.071",
+          "hrsPerGame": "0.27"
         }
       },
       {
@@ -4306,10 +4370,10 @@
         "fullName": "M. Wallner",
         "team": "MIN",
         "seasonTotal": 20,
-        "rate": 0.22,
-        "recentRate": 0.22,
-        "prob1Plus": 21.3,
-        "prob2Plus": 2.3,
+        "rate": 0.217,
+        "recentRate": 0.217,
+        "prob1Plus": 21.1,
+        "prob2Plus": 2.2,
         "multiHitRate": 0,
         "trend": "stable",
         "confidence": "high",
@@ -4330,23 +4394,23 @@
           "recent5Games": [],
           "seasonOverview": {
             "seasonTotal": 20,
-            "seasonAverage": "0.220",
-            "gamesPlayed": 91,
+            "seasonAverage": "0.217",
+            "gamesPlayed": 92,
             "leagueAverage": 0.9,
-            "projectedTotal": 36
+            "projectedTotal": 35
           },
           "opponentHistory": {},
           "totalHistoricalGames": 0
         },
         "value": 20,
-        "games": 91,
+        "games": 92,
         "avg": 0,
         "rawPlayer": {
           "name": "M. Wallner",
           "team": "MIN",
           "HR": 20,
-          "games": 91,
-          "rate": "0.068",
+          "games": 92,
+          "rate": "0.067",
           "hrsPerGame": "0.22"
         }
       }
@@ -4444,9 +4508,9 @@
         "fullName": "J. Altuve",
         "team": "HOU",
         "seasonTotal": 24,
-        "rate": 0.179,
-        "recentRate": 0.179,
-        "prob1Plus": 17.7,
+        "rate": 0.178,
+        "recentRate": 0.178,
+        "prob1Plus": 17.6,
         "prob2Plus": 2.2,
         "multiHitRate": 0,
         "trend": "stable",
@@ -4468,8 +4532,8 @@
           "recent5Games": [],
           "seasonOverview": {
             "seasonTotal": 24,
-            "seasonAverage": "0.179",
-            "gamesPlayed": 134,
+            "seasonAverage": "0.178",
+            "gamesPlayed": 135,
             "leagueAverage": 0.9,
             "projectedTotal": 29
           },
@@ -4477,65 +4541,15 @@
           "totalHistoricalGames": 0
         },
         "value": 24,
-        "games": 134,
+        "games": 135,
         "avg": 0,
         "rawPlayer": {
           "name": "J. Altuve",
           "team": "HOU",
           "HR": 24,
-          "games": 134,
+          "games": 135,
           "rate": "0.046",
           "hrsPerGame": "0.18"
-        }
-      },
-      {
-        "id": "C. Walker-HOU",
-        "name": "C. Walker",
-        "fullName": "C. Walker",
-        "team": "HOU",
-        "seasonTotal": 21,
-        "rate": 0.159,
-        "recentRate": 0.159,
-        "prob1Plus": 15.9,
-        "prob2Plus": 2.2,
-        "multiHitRate": 0,
-        "trend": "stable",
-        "confidence": "high",
-        "strategicFactors": {
-          "badges": [
-            {
-              "type": "DUE_FOR_HR",
-              "source": "hr_analysis",
-              "reason": "21 HRs - due for power surge",
-              "boost": 8
-            }
-          ],
-          "parkFactor": 1,
-          "confidenceBoost": 8,
-          "stadiumContext": null
-        },
-        "chartData": {
-          "recent5Games": [],
-          "seasonOverview": {
-            "seasonTotal": 21,
-            "seasonAverage": "0.159",
-            "gamesPlayed": 132,
-            "leagueAverage": 0.9,
-            "projectedTotal": 26
-          },
-          "opponentHistory": {},
-          "totalHistoricalGames": 0
-        },
-        "value": 21,
-        "games": 132,
-        "avg": 0,
-        "rawPlayer": {
-          "name": "C. Walker",
-          "team": "HOU",
-          "HR": 21,
-          "games": 132,
-          "rate": "0.042",
-          "hrsPerGame": "0.16"
         }
       }
     ],
@@ -4546,9 +4560,9 @@
         "fullName": "J. Soto",
         "team": "NYM",
         "seasonTotal": 37,
-        "rate": 0.27,
-        "recentRate": 0.27,
-        "prob1Plus": 26.5,
+        "rate": 0.268,
+        "recentRate": 0.268,
+        "prob1Plus": 26.3,
         "prob2Plus": 3.4,
         "multiHitRate": 0,
         "trend": "stable",
@@ -4570,23 +4584,23 @@
           "recent5Games": [],
           "seasonOverview": {
             "seasonTotal": 37,
-            "seasonAverage": "0.270",
-            "gamesPlayed": 137,
+            "seasonAverage": "0.268",
+            "gamesPlayed": 138,
             "leagueAverage": 0.9,
-            "projectedTotal": 44
+            "projectedTotal": 43
           },
           "opponentHistory": {},
           "totalHistoricalGames": 0
         },
         "value": 37,
-        "games": 137,
+        "games": 138,
         "avg": 0,
         "rawPlayer": {
           "name": "J. Soto",
           "team": "NYM",
           "HR": 37,
-          "games": 137,
-          "rate": "0.076",
+          "games": 138,
+          "rate": "0.075",
           "hrsPerGame": "0.27"
         }
       },
@@ -4596,9 +4610,9 @@
         "fullName": "P. Alonso",
         "team": "NYM",
         "seasonTotal": 33,
-        "rate": 0.237,
-        "recentRate": 0.237,
-        "prob1Plus": 23.7,
+        "rate": 0.236,
+        "recentRate": 0.236,
+        "prob1Plus": 23.5,
         "prob2Plus": 2.7,
         "multiHitRate": 0,
         "trend": "stable",
@@ -4620,8 +4634,8 @@
           "recent5Games": [],
           "seasonOverview": {
             "seasonTotal": 33,
-            "seasonAverage": "0.237",
-            "gamesPlayed": 139,
+            "seasonAverage": "0.236",
+            "gamesPlayed": 140,
             "leagueAverage": 0.9,
             "projectedTotal": 38
           },
@@ -4629,14 +4643,14 @@
           "totalHistoricalGames": 0
         },
         "value": 33,
-        "games": 139,
+        "games": 140,
         "avg": 0,
         "rawPlayer": {
           "name": "P. Alonso",
           "team": "NYM",
           "HR": 33,
-          "games": 139,
-          "rate": "0.062",
+          "games": 140,
+          "rate": "0.061",
           "hrsPerGame": "0.24"
         }
       },
@@ -4646,9 +4660,9 @@
         "fullName": "F. Lindor",
         "team": "NYM",
         "seasonTotal": 26,
-        "rate": 0.19,
-        "recentRate": 0.19,
-        "prob1Plus": 18.7,
+        "rate": 0.188,
+        "recentRate": 0.188,
+        "prob1Plus": 18.5,
         "prob2Plus": 2.2,
         "multiHitRate": 0,
         "trend": "stable",
@@ -4670,8 +4684,8 @@
           "recent5Games": [],
           "seasonOverview": {
             "seasonTotal": 26,
-            "seasonAverage": "0.190",
-            "gamesPlayed": 137,
+            "seasonAverage": "0.188",
+            "gamesPlayed": 138,
             "leagueAverage": 0.9,
             "projectedTotal": 31
           },
@@ -4679,14 +4693,14 @@
           "totalHistoricalGames": 0
         },
         "value": 26,
-        "games": 137,
+        "games": 138,
         "avg": 0,
         "rawPlayer": {
           "name": "F. Lindor",
           "team": "NYM",
           "HR": 26,
-          "games": 137,
-          "rate": "0.047",
+          "games": 138,
+          "rate": "0.046",
           "hrsPerGame": "0.19"
         }
       },
@@ -4696,9 +4710,9 @@
         "fullName": "B. Nimmo",
         "team": "NYM",
         "seasonTotal": 22,
-        "rate": 0.167,
-        "recentRate": 0.167,
-        "prob1Plus": 16.6,
+        "rate": 0.165,
+        "recentRate": 0.165,
+        "prob1Plus": 16.5,
         "prob2Plus": 2.2,
         "multiHitRate": 0,
         "trend": "stable",
@@ -4720,8 +4734,8 @@
           "recent5Games": [],
           "seasonOverview": {
             "seasonTotal": 22,
-            "seasonAverage": "0.167",
-            "gamesPlayed": 132,
+            "seasonAverage": "0.165",
+            "gamesPlayed": 133,
             "leagueAverage": 0.9,
             "projectedTotal": 27
           },
@@ -4729,160 +4743,15 @@
           "totalHistoricalGames": 0
         },
         "value": 22,
-        "games": 132,
+        "games": 133,
         "avg": 0,
         "rawPlayer": {
           "name": "B. Nimmo",
           "team": "NYM",
           "HR": 22,
-          "games": 132,
+          "games": 133,
           "rate": "0.044",
           "hrsPerGame": "0.17"
-        }
-      }
-    ],
-    "KC": [
-      {
-        "id": "M. Yastrzemski-KC",
-        "name": "M. Yastrzemski",
-        "fullName": "M. Yastrzemski",
-        "team": "KC",
-        "seasonTotal": 7,
-        "rate": 0.25,
-        "recentRate": 0.25,
-        "prob1Plus": 22.1,
-        "prob2Plus": 2.6,
-        "multiHitRate": 0,
-        "trend": "stable",
-        "confidence": "high",
-        "strategicFactors": {
-          "badges": [],
-          "parkFactor": 1,
-          "confidenceBoost": 0,
-          "stadiumContext": null
-        },
-        "chartData": {
-          "recent5Games": [],
-          "seasonOverview": {
-            "seasonTotal": 7,
-            "seasonAverage": "0.250",
-            "gamesPlayed": 28,
-            "leagueAverage": 0.9,
-            "projectedTotal": 41
-          },
-          "opponentHistory": {},
-          "totalHistoricalGames": 0
-        },
-        "value": 7,
-        "games": 28,
-        "avg": 0,
-        "rawPlayer": {
-          "name": "M. Yastrzemski",
-          "team": "KC",
-          "HR": 7,
-          "games": 28,
-          "rate": "0.081",
-          "hrsPerGame": "0.25"
-        }
-      },
-      {
-        "id": "V. Pasquantino-KC",
-        "name": "V. Pasquantino",
-        "fullName": "V. Pasquantino",
-        "team": "KC",
-        "seasonTotal": 28,
-        "rate": 0.207,
-        "recentRate": 0.207,
-        "prob1Plus": 20.2,
-        "prob2Plus": 2.2,
-        "multiHitRate": 0,
-        "trend": "stable",
-        "confidence": "high",
-        "strategicFactors": {
-          "badges": [
-            {
-              "type": "DUE_FOR_HR",
-              "source": "hr_analysis",
-              "reason": "28 HRs - due for power surge",
-              "boost": 8
-            }
-          ],
-          "parkFactor": 1,
-          "confidenceBoost": 8,
-          "stadiumContext": null
-        },
-        "chartData": {
-          "recent5Games": [],
-          "seasonOverview": {
-            "seasonTotal": 28,
-            "seasonAverage": "0.207",
-            "gamesPlayed": 135,
-            "leagueAverage": 0.9,
-            "projectedTotal": 34
-          },
-          "opponentHistory": {},
-          "totalHistoricalGames": 0
-        },
-        "value": 28,
-        "games": 135,
-        "avg": 0,
-        "rawPlayer": {
-          "name": "V. Pasquantino",
-          "team": "KC",
-          "HR": 28,
-          "games": 135,
-          "rate": "0.054",
-          "hrsPerGame": "0.21"
-        }
-      },
-      {
-        "id": "S. Perez-KC",
-        "name": "S. Perez",
-        "fullName": "S. Perez",
-        "team": "KC",
-        "seasonTotal": 23,
-        "rate": 0.177,
-        "recentRate": 0.177,
-        "prob1Plus": 17.5,
-        "prob2Plus": 2.2,
-        "multiHitRate": 0,
-        "trend": "stable",
-        "confidence": "high",
-        "strategicFactors": {
-          "badges": [
-            {
-              "type": "DUE_FOR_HR",
-              "source": "hr_analysis",
-              "reason": "23 HRs - due for power surge",
-              "boost": 8
-            }
-          ],
-          "parkFactor": 1,
-          "confidenceBoost": 8,
-          "stadiumContext": null
-        },
-        "chartData": {
-          "recent5Games": [],
-          "seasonOverview": {
-            "seasonTotal": 23,
-            "seasonAverage": "0.177",
-            "gamesPlayed": 130,
-            "leagueAverage": 0.9,
-            "projectedTotal": 29
-          },
-          "opponentHistory": {},
-          "totalHistoricalGames": 0
-        },
-        "value": 23,
-        "games": 130,
-        "avg": 0,
-        "rawPlayer": {
-          "name": "S. Perez",
-          "team": "KC",
-          "HR": 23,
-          "games": 130,
-          "rate": "0.046",
-          "hrsPerGame": "0.18"
         }
       }
     ],
@@ -4892,11 +4761,11 @@
         "name": "J. Adell",
         "fullName": "J. Adell",
         "team": "LAA",
-        "seasonTotal": 32,
-        "rate": 0.244,
-        "recentRate": 0.244,
-        "prob1Plus": 24.3,
-        "prob2Plus": 2.8,
+        "seasonTotal": 33,
+        "rate": 0.25,
+        "recentRate": 0.25,
+        "prob1Plus": 24.8,
+        "prob2Plus": 3,
         "multiHitRate": 0,
         "trend": "stable",
         "confidence": "high",
@@ -4905,7 +4774,7 @@
             {
               "type": "HR_CANDIDATE",
               "source": "hr_analysis",
-              "reason": "32 HRs this season",
+              "reason": "33 HRs this season",
               "boost": 12
             }
           ],
@@ -4916,25 +4785,25 @@
         "chartData": {
           "recent5Games": [],
           "seasonOverview": {
-            "seasonTotal": 32,
-            "seasonAverage": "0.244",
-            "gamesPlayed": 131,
+            "seasonTotal": 33,
+            "seasonAverage": "0.250",
+            "gamesPlayed": 132,
             "leagueAverage": 0.9,
-            "projectedTotal": 40
+            "projectedTotal": 41
           },
           "opponentHistory": {},
           "totalHistoricalGames": 0
         },
-        "value": 32,
-        "games": 131,
+        "value": 33,
+        "games": 132,
         "avg": 0,
         "rawPlayer": {
           "name": "J. Adell",
           "team": "LAA",
-          "HR": 32,
-          "games": 131,
-          "rate": "0.071",
-          "hrsPerGame": "0.24"
+          "HR": 33,
+          "games": 132,
+          "rate": "0.073",
+          "hrsPerGame": "0.25"
         }
       },
       {
@@ -4943,9 +4812,9 @@
         "fullName": "T. Ward",
         "team": "LAA",
         "seasonTotal": 30,
-        "rate": 0.224,
-        "recentRate": 0.224,
-        "prob1Plus": 22.5,
+        "rate": 0.222,
+        "recentRate": 0.222,
+        "prob1Plus": 22.3,
         "prob2Plus": 2.4,
         "multiHitRate": 0,
         "trend": "stable",
@@ -4967,8 +4836,8 @@
           "recent5Games": [],
           "seasonOverview": {
             "seasonTotal": 30,
-            "seasonAverage": "0.224",
-            "gamesPlayed": 134,
+            "seasonAverage": "0.222",
+            "gamesPlayed": 135,
             "leagueAverage": 0.9,
             "projectedTotal": 36
           },
@@ -4976,13 +4845,13 @@
           "totalHistoricalGames": 0
         },
         "value": 30,
-        "games": 134,
+        "games": 135,
         "avg": 0,
         "rawPlayer": {
           "name": "T. Ward",
           "team": "LAA",
           "HR": 30,
-          "games": 134,
+          "games": 135,
           "rate": "0.060",
           "hrsPerGame": "0.22"
         }
@@ -4993,9 +4862,9 @@
         "fullName": "Z. Neto",
         "team": "LAA",
         "seasonTotal": 25,
-        "rate": 0.21,
-        "recentRate": 0.21,
-        "prob1Plus": 20.5,
+        "rate": 0.208,
+        "recentRate": 0.208,
+        "prob1Plus": 20.3,
         "prob2Plus": 2.2,
         "multiHitRate": 0,
         "trend": "stable",
@@ -5017,8 +4886,8 @@
           "recent5Games": [],
           "seasonOverview": {
             "seasonTotal": 25,
-            "seasonAverage": "0.210",
-            "gamesPlayed": 119,
+            "seasonAverage": "0.208",
+            "gamesPlayed": 120,
             "leagueAverage": 0.9,
             "projectedTotal": 34
           },
@@ -5026,13 +4895,13 @@
           "totalHistoricalGames": 0
         },
         "value": 25,
-        "games": 119,
+        "games": 120,
         "avg": 0,
         "rawPlayer": {
           "name": "Z. Neto",
           "team": "LAA",
           "HR": 25,
-          "games": 119,
+          "games": 120,
           "rate": "0.053",
           "hrsPerGame": "0.21"
         }
@@ -5093,9 +4962,9 @@
         "fullName": "L. O'Hoppe",
         "team": "LAA",
         "seasonTotal": 19,
-        "rate": 0.181,
-        "recentRate": 0.181,
-        "prob1Plus": 16.6,
+        "rate": 0.179,
+        "recentRate": 0.179,
+        "prob1Plus": 16.4,
         "prob2Plus": 2,
         "multiHitRate": 0,
         "trend": "stable",
@@ -5110,8 +4979,8 @@
           "recent5Games": [],
           "seasonOverview": {
             "seasonTotal": 19,
-            "seasonAverage": "0.181",
-            "gamesPlayed": 105,
+            "seasonAverage": "0.179",
+            "gamesPlayed": 106,
             "leagueAverage": 0.9,
             "projectedTotal": 29
           },
@@ -5119,13 +4988,13 @@
           "totalHistoricalGames": 0
         },
         "value": 19,
-        "games": 105,
+        "games": 106,
         "avg": 0,
         "rawPlayer": {
           "name": "L. O'Hoppe",
           "team": "LAA",
           "HR": 19,
-          "games": 105,
+          "games": 106,
           "rate": "0.050",
           "hrsPerGame": "0.18"
         }
@@ -5136,9 +5005,9 @@
         "fullName": "Y. Moncada",
         "team": "LAA",
         "seasonTotal": 11,
-        "rate": 0.167,
-        "recentRate": 0.167,
-        "prob1Plus": 15.4,
+        "rate": 0.164,
+        "recentRate": 0.164,
+        "prob1Plus": 15.1,
         "prob2Plus": 2,
         "multiHitRate": 0,
         "trend": "stable",
@@ -5153,8 +5022,8 @@
           "recent5Games": [],
           "seasonOverview": {
             "seasonTotal": 11,
-            "seasonAverage": "0.167",
-            "gamesPlayed": 66,
+            "seasonAverage": "0.164",
+            "gamesPlayed": 67,
             "leagueAverage": 0.9,
             "projectedTotal": 27
           },
@@ -5162,78 +5031,71 @@
           "totalHistoricalGames": 0
         },
         "value": 11,
-        "games": 66,
+        "games": 67,
         "avg": 0,
         "rawPlayer": {
           "name": "Y. Moncada",
           "team": "LAA",
           "HR": 11,
-          "games": 66,
-          "rate": "0.054",
-          "hrsPerGame": "0.17"
+          "games": 67,
+          "rate": "0.053",
+          "hrsPerGame": "0.16"
         }
       }
     ],
-    "DET": [
+    "KC": [
       {
-        "id": "R. Greene-DET",
-        "name": "R. Greene",
-        "fullName": "R. Greene",
-        "team": "DET",
-        "seasonTotal": 32,
-        "rate": 0.239,
-        "recentRate": 0.239,
-        "prob1Plus": 23.8,
-        "prob2Plus": 2.7,
+        "id": "M. Yastrzemski-KC",
+        "name": "M. Yastrzemski",
+        "fullName": "M. Yastrzemski",
+        "team": "KC",
+        "seasonTotal": 7,
+        "rate": 0.241,
+        "recentRate": 0.241,
+        "prob1Plus": 21.4,
+        "prob2Plus": 2.5,
         "multiHitRate": 0,
         "trend": "stable",
         "confidence": "high",
         "strategicFactors": {
-          "badges": [
-            {
-              "type": "HR_CANDIDATE",
-              "source": "hr_analysis",
-              "reason": "32 HRs this season",
-              "boost": 12
-            }
-          ],
+          "badges": [],
           "parkFactor": 1,
-          "confidenceBoost": 12,
+          "confidenceBoost": 0,
           "stadiumContext": null
         },
         "chartData": {
           "recent5Games": [],
           "seasonOverview": {
-            "seasonTotal": 32,
-            "seasonAverage": "0.239",
-            "gamesPlayed": 134,
+            "seasonTotal": 7,
+            "seasonAverage": "0.241",
+            "gamesPlayed": 29,
             "leagueAverage": 0.9,
             "projectedTotal": 39
           },
           "opponentHistory": {},
           "totalHistoricalGames": 0
         },
-        "value": 32,
-        "games": 134,
+        "value": 7,
+        "games": 29,
         "avg": 0,
         "rawPlayer": {
-          "name": "R. Greene",
-          "team": "DET",
-          "HR": 32,
-          "games": 134,
-          "rate": "0.063",
+          "name": "M. Yastrzemski",
+          "team": "KC",
+          "HR": 7,
+          "games": 29,
+          "rate": "0.080",
           "hrsPerGame": "0.24"
         }
       },
       {
-        "id": "S. Torkelson-DET",
-        "name": "S. Torkelson",
-        "fullName": "S. Torkelson",
-        "team": "DET",
+        "id": "V. Pasquantino-KC",
+        "name": "V. Pasquantino",
+        "fullName": "V. Pasquantino",
+        "team": "KC",
         "seasonTotal": 28,
-        "rate": 0.212,
-        "recentRate": 0.212,
-        "prob1Plus": 20.6,
+        "rate": 0.206,
+        "recentRate": 0.206,
+        "prob1Plus": 20.1,
         "prob2Plus": 2.2,
         "multiHitRate": 0,
         "trend": "stable",
@@ -5255,35 +5117,35 @@
           "recent5Games": [],
           "seasonOverview": {
             "seasonTotal": 28,
-            "seasonAverage": "0.212",
-            "gamesPlayed": 132,
+            "seasonAverage": "0.206",
+            "gamesPlayed": 136,
             "leagueAverage": 0.9,
-            "projectedTotal": 34
+            "projectedTotal": 33
           },
           "opponentHistory": {},
           "totalHistoricalGames": 0
         },
         "value": 28,
-        "games": 132,
+        "games": 136,
         "avg": 0,
         "rawPlayer": {
-          "name": "S. Torkelson",
-          "team": "DET",
+          "name": "V. Pasquantino",
+          "team": "KC",
           "HR": 28,
-          "games": 132,
-          "rate": "0.059",
+          "games": 136,
+          "rate": "0.054",
           "hrsPerGame": "0.21"
         }
       },
       {
-        "id": "K. Carpenter-DET",
-        "name": "K. Carpenter",
-        "fullName": "K. Carpenter",
-        "team": "DET",
-        "seasonTotal": 22,
-        "rate": 0.204,
-        "recentRate": 0.204,
-        "prob1Plus": 19.9,
+        "id": "S. Perez-KC",
+        "name": "S. Perez",
+        "fullName": "S. Perez",
+        "team": "KC",
+        "seasonTotal": 23,
+        "rate": 0.176,
+        "recentRate": 0.176,
+        "prob1Plus": 17.4,
         "prob2Plus": 2.2,
         "multiHitRate": 0,
         "trend": "stable",
@@ -5293,7 +5155,7 @@
             {
               "type": "DUE_FOR_HR",
               "source": "hr_analysis",
-              "reason": "22 HRs - due for power surge",
+              "reason": "23 HRs - due for power surge",
               "boost": 8
             }
           ],
@@ -5304,25 +5166,177 @@
         "chartData": {
           "recent5Games": [],
           "seasonOverview": {
-            "seasonTotal": 22,
-            "seasonAverage": "0.204",
-            "gamesPlayed": 108,
+            "seasonTotal": 23,
+            "seasonAverage": "0.176",
+            "gamesPlayed": 131,
             "leagueAverage": 0.9,
-            "projectedTotal": 33
+            "projectedTotal": 28
           },
           "opponentHistory": {},
           "totalHistoricalGames": 0
         },
-        "value": 22,
-        "games": 108,
+        "value": 23,
+        "games": 131,
+        "avg": 0,
+        "rawPlayer": {
+          "name": "S. Perez",
+          "team": "KC",
+          "HR": 23,
+          "games": 131,
+          "rate": "0.045",
+          "hrsPerGame": "0.18"
+        }
+      }
+    ],
+    "DET": [
+      {
+        "id": "R. Greene-DET",
+        "name": "R. Greene",
+        "fullName": "R. Greene",
+        "team": "DET",
+        "seasonTotal": 32,
+        "rate": 0.237,
+        "recentRate": 0.237,
+        "prob1Plus": 23.6,
+        "prob2Plus": 2.7,
+        "multiHitRate": 0,
+        "trend": "stable",
+        "confidence": "high",
+        "strategicFactors": {
+          "badges": [
+            {
+              "type": "HR_CANDIDATE",
+              "source": "hr_analysis",
+              "reason": "32 HRs this season",
+              "boost": 12
+            }
+          ],
+          "parkFactor": 1,
+          "confidenceBoost": 12,
+          "stadiumContext": null
+        },
+        "chartData": {
+          "recent5Games": [],
+          "seasonOverview": {
+            "seasonTotal": 32,
+            "seasonAverage": "0.237",
+            "gamesPlayed": 135,
+            "leagueAverage": 0.9,
+            "projectedTotal": 38
+          },
+          "opponentHistory": {},
+          "totalHistoricalGames": 0
+        },
+        "value": 32,
+        "games": 135,
+        "avg": 0,
+        "rawPlayer": {
+          "name": "R. Greene",
+          "team": "DET",
+          "HR": 32,
+          "games": 135,
+          "rate": "0.062",
+          "hrsPerGame": "0.24"
+        }
+      },
+      {
+        "id": "K. Carpenter-DET",
+        "name": "K. Carpenter",
+        "fullName": "K. Carpenter",
+        "team": "DET",
+        "seasonTotal": 23,
+        "rate": 0.211,
+        "recentRate": 0.211,
+        "prob1Plus": 20.5,
+        "prob2Plus": 2.2,
+        "multiHitRate": 0,
+        "trend": "stable",
+        "confidence": "high",
+        "strategicFactors": {
+          "badges": [
+            {
+              "type": "DUE_FOR_HR",
+              "source": "hr_analysis",
+              "reason": "23 HRs - due for power surge",
+              "boost": 8
+            }
+          ],
+          "parkFactor": 1,
+          "confidenceBoost": 8,
+          "stadiumContext": null
+        },
+        "chartData": {
+          "recent5Games": [],
+          "seasonOverview": {
+            "seasonTotal": 23,
+            "seasonAverage": "0.211",
+            "gamesPlayed": 109,
+            "leagueAverage": 0.9,
+            "projectedTotal": 34
+          },
+          "opponentHistory": {},
+          "totalHistoricalGames": 0
+        },
+        "value": 23,
+        "games": 109,
         "avg": 0,
         "rawPlayer": {
           "name": "K. Carpenter",
           "team": "DET",
-          "HR": 22,
-          "games": 108,
-          "rate": "0.061",
-          "hrsPerGame": "0.20"
+          "HR": 23,
+          "games": 109,
+          "rate": "0.063",
+          "hrsPerGame": "0.21"
+        }
+      },
+      {
+        "id": "S. Torkelson-DET",
+        "name": "S. Torkelson",
+        "fullName": "S. Torkelson",
+        "team": "DET",
+        "seasonTotal": 28,
+        "rate": 0.211,
+        "recentRate": 0.211,
+        "prob1Plus": 20.5,
+        "prob2Plus": 2.2,
+        "multiHitRate": 0,
+        "trend": "stable",
+        "confidence": "high",
+        "strategicFactors": {
+          "badges": [
+            {
+              "type": "DUE_FOR_HR",
+              "source": "hr_analysis",
+              "reason": "28 HRs - due for power surge",
+              "boost": 8
+            }
+          ],
+          "parkFactor": 1,
+          "confidenceBoost": 8,
+          "stadiumContext": null
+        },
+        "chartData": {
+          "recent5Games": [],
+          "seasonOverview": {
+            "seasonTotal": 28,
+            "seasonAverage": "0.211",
+            "gamesPlayed": 133,
+            "leagueAverage": 0.9,
+            "projectedTotal": 34
+          },
+          "opponentHistory": {},
+          "totalHistoricalGames": 0
+        },
+        "value": 28,
+        "games": 133,
+        "avg": 0,
+        "rawPlayer": {
+          "name": "S. Torkelson",
+          "team": "DET",
+          "HR": 28,
+          "games": 133,
+          "rate": "0.059",
+          "hrsPerGame": "0.21"
         }
       }
     ],
@@ -5333,10 +5347,10 @@
         "fullName": "R. Laureano",
         "team": "SD",
         "seasonTotal": 7,
-        "rate": 0.233,
-        "recentRate": 0.233,
-        "prob1Plus": 20.8,
-        "prob2Plus": 2.3,
+        "rate": 0.226,
+        "recentRate": 0.226,
+        "prob1Plus": 20.2,
+        "prob2Plus": 2.2,
         "multiHitRate": 0,
         "trend": "stable",
         "confidence": "high",
@@ -5350,24 +5364,119 @@
           "recent5Games": [],
           "seasonOverview": {
             "seasonTotal": 7,
-            "seasonAverage": "0.233",
-            "gamesPlayed": 30,
+            "seasonAverage": "0.226",
+            "gamesPlayed": 31,
             "leagueAverage": 0.9,
-            "projectedTotal": 38
+            "projectedTotal": 37
           },
           "opponentHistory": {},
           "totalHistoricalGames": 0
         },
         "value": 7,
-        "games": 30,
+        "games": 31,
         "avg": 0,
         "rawPlayer": {
           "name": "R. Laureano",
           "team": "SD",
           "HR": 7,
-          "games": 30,
-          "rate": "0.062",
+          "games": 31,
+          "rate": "0.061",
           "hrsPerGame": "0.23"
+        }
+      }
+    ],
+    "COL": [
+      {
+        "id": "H. Goodman-COL",
+        "name": "H. Goodman",
+        "fullName": "H. Goodman",
+        "team": "COL",
+        "seasonTotal": 27,
+        "rate": 0.221,
+        "recentRate": 0.221,
+        "prob1Plus": 21.4,
+        "prob2Plus": 2.3,
+        "multiHitRate": 0,
+        "trend": "stable",
+        "confidence": "high",
+        "strategicFactors": {
+          "badges": [
+            {
+              "type": "DUE_FOR_HR",
+              "source": "hr_analysis",
+              "reason": "27 HRs - due for power surge",
+              "boost": 8
+            }
+          ],
+          "parkFactor": 1,
+          "confidenceBoost": 8,
+          "stadiumContext": null
+        },
+        "chartData": {
+          "recent5Games": [],
+          "seasonOverview": {
+            "seasonTotal": 27,
+            "seasonAverage": "0.221",
+            "gamesPlayed": 122,
+            "leagueAverage": 0.9,
+            "projectedTotal": 36
+          },
+          "opponentHistory": {},
+          "totalHistoricalGames": 0
+        },
+        "value": 27,
+        "games": 122,
+        "avg": 0,
+        "rawPlayer": {
+          "name": "H. Goodman",
+          "team": "COL",
+          "HR": 27,
+          "games": 122,
+          "rate": "0.059",
+          "hrsPerGame": "0.22"
+        }
+      },
+      {
+        "id": "R. McMahon-COL",
+        "name": "R. McMahon",
+        "fullName": "R. McMahon",
+        "team": "COL",
+        "seasonTotal": 16,
+        "rate": 0.162,
+        "recentRate": 0.162,
+        "prob1Plus": 14.9,
+        "prob2Plus": 2,
+        "multiHitRate": 0,
+        "trend": "stable",
+        "confidence": "high",
+        "strategicFactors": {
+          "badges": [],
+          "parkFactor": 1,
+          "confidenceBoost": 0,
+          "stadiumContext": null
+        },
+        "chartData": {
+          "recent5Games": [],
+          "seasonOverview": {
+            "seasonTotal": 16,
+            "seasonAverage": "0.162",
+            "gamesPlayed": 99,
+            "leagueAverage": 0.9,
+            "projectedTotal": 26
+          },
+          "opponentHistory": {},
+          "totalHistoricalGames": 0
+        },
+        "value": 16,
+        "games": 99,
+        "avg": 0,
+        "rawPlayer": {
+          "name": "R. McMahon",
+          "team": "COL",
+          "HR": 16,
+          "games": 99,
+          "rate": "0.046",
+          "hrsPerGame": "0.16"
         }
       }
     ],
@@ -5378,10 +5487,10 @@
         "fullName": "R. Devers",
         "team": "SF",
         "seasonTotal": 15,
-        "rate": 0.224,
-        "recentRate": 0.224,
-        "prob1Plus": 20.1,
-        "prob2Plus": 2.2,
+        "rate": 0.221,
+        "recentRate": 0.221,
+        "prob1Plus": 19.8,
+        "prob2Plus": 2.1,
         "multiHitRate": 0,
         "trend": "stable",
         "confidence": "high",
@@ -5395,8 +5504,8 @@
           "recent5Games": [],
           "seasonOverview": {
             "seasonTotal": 15,
-            "seasonAverage": "0.224",
-            "gamesPlayed": 67,
+            "seasonAverage": "0.221",
+            "gamesPlayed": 68,
             "leagueAverage": 0.9,
             "projectedTotal": 36
           },
@@ -5404,14 +5513,14 @@
           "totalHistoricalGames": 0
         },
         "value": 15,
-        "games": 67,
+        "games": 68,
         "avg": 0,
         "rawPlayer": {
           "name": "R. Devers",
           "team": "SF",
           "HR": 15,
-          "games": 67,
-          "rate": "0.060",
+          "games": 68,
+          "rate": "0.059",
           "hrsPerGame": "0.22"
         }
       },
@@ -5464,9 +5573,9 @@
         "fullName": "W. Adames",
         "team": "SF",
         "seasonTotal": 26,
-        "rate": 0.19,
-        "recentRate": 0.19,
-        "prob1Plus": 18.7,
+        "rate": 0.188,
+        "recentRate": 0.188,
+        "prob1Plus": 18.5,
         "prob2Plus": 2.2,
         "multiHitRate": 0,
         "trend": "stable",
@@ -5488,8 +5597,8 @@
           "recent5Games": [],
           "seasonOverview": {
             "seasonTotal": 26,
-            "seasonAverage": "0.190",
-            "gamesPlayed": 137,
+            "seasonAverage": "0.188",
+            "gamesPlayed": 138,
             "leagueAverage": 0.9,
             "projectedTotal": 31
           },
@@ -5497,13 +5606,13 @@
           "totalHistoricalGames": 0
         },
         "value": 26,
-        "games": 137,
+        "games": 138,
         "avg": 0,
         "rawPlayer": {
           "name": "W. Adames",
           "team": "SF",
           "HR": 26,
-          "games": 137,
+          "games": 138,
           "rate": "0.051",
           "hrsPerGame": "0.19"
         }
@@ -5513,56 +5622,11 @@
         "name": "M. Chapman",
         "fullName": "M. Chapman",
         "team": "SF",
-        "seasonTotal": 18,
-        "rate": 0.17,
-        "recentRate": 0.17,
-        "prob1Plus": 15.6,
-        "prob2Plus": 2,
-        "multiHitRate": 0,
-        "trend": "stable",
-        "confidence": "high",
-        "strategicFactors": {
-          "badges": [],
-          "parkFactor": 1,
-          "confidenceBoost": 0,
-          "stadiumContext": null
-        },
-        "chartData": {
-          "recent5Games": [],
-          "seasonOverview": {
-            "seasonTotal": 18,
-            "seasonAverage": "0.170",
-            "gamesPlayed": 106,
-            "leagueAverage": 0.9,
-            "projectedTotal": 28
-          },
-          "opponentHistory": {},
-          "totalHistoricalGames": 0
-        },
-        "value": 18,
-        "games": 106,
-        "avg": 0,
-        "rawPlayer": {
-          "name": "M. Chapman",
-          "team": "SF",
-          "HR": 18,
-          "games": 106,
-          "rate": "0.048",
-          "hrsPerGame": "0.17"
-        }
-      }
-    ],
-    "COL": [
-      {
-        "id": "H. Goodman-COL",
-        "name": "H. Goodman",
-        "fullName": "H. Goodman",
-        "team": "COL",
-        "seasonTotal": 27,
-        "rate": 0.223,
-        "recentRate": 0.223,
-        "prob1Plus": 21.6,
-        "prob2Plus": 2.3,
+        "seasonTotal": 20,
+        "rate": 0.187,
+        "recentRate": 0.187,
+        "prob1Plus": 18.4,
+        "prob2Plus": 2.2,
         "multiHitRate": 0,
         "trend": "stable",
         "confidence": "high",
@@ -5571,7 +5635,7 @@
             {
               "type": "DUE_FOR_HR",
               "source": "hr_analysis",
-              "reason": "27 HRs - due for power surge",
+              "reason": "20 HRs - due for power surge",
               "boost": 8
             }
           ],
@@ -5582,68 +5646,25 @@
         "chartData": {
           "recent5Games": [],
           "seasonOverview": {
-            "seasonTotal": 27,
-            "seasonAverage": "0.223",
-            "gamesPlayed": 121,
+            "seasonTotal": 20,
+            "seasonAverage": "0.187",
+            "gamesPlayed": 107,
             "leagueAverage": 0.9,
-            "projectedTotal": 36
+            "projectedTotal": 30
           },
           "opponentHistory": {},
           "totalHistoricalGames": 0
         },
-        "value": 27,
-        "games": 121,
+        "value": 20,
+        "games": 107,
         "avg": 0,
         "rawPlayer": {
-          "name": "H. Goodman",
-          "team": "COL",
-          "HR": 27,
-          "games": 121,
-          "rate": "0.060",
-          "hrsPerGame": "0.22"
-        }
-      },
-      {
-        "id": "R. McMahon-COL",
-        "name": "R. McMahon",
-        "fullName": "R. McMahon",
-        "team": "COL",
-        "seasonTotal": 16,
-        "rate": 0.162,
-        "recentRate": 0.162,
-        "prob1Plus": 14.9,
-        "prob2Plus": 2,
-        "multiHitRate": 0,
-        "trend": "stable",
-        "confidence": "high",
-        "strategicFactors": {
-          "badges": [],
-          "parkFactor": 1,
-          "confidenceBoost": 0,
-          "stadiumContext": null
-        },
-        "chartData": {
-          "recent5Games": [],
-          "seasonOverview": {
-            "seasonTotal": 16,
-            "seasonAverage": "0.162",
-            "gamesPlayed": 99,
-            "leagueAverage": 0.9,
-            "projectedTotal": 26
-          },
-          "opponentHistory": {},
-          "totalHistoricalGames": 0
-        },
-        "value": 16,
-        "games": 99,
-        "avg": 0,
-        "rawPlayer": {
-          "name": "R. McMahon",
-          "team": "COL",
-          "HR": 16,
-          "games": 99,
-          "rate": "0.046",
-          "hrsPerGame": "0.16"
+          "name": "M. Chapman",
+          "team": "SF",
+          "HR": 20,
+          "games": 107,
+          "rate": "0.053",
+          "hrsPerGame": "0.19"
         }
       }
     ],
@@ -5704,9 +5725,9 @@
         "fullName": "S. Suzuki",
         "team": "CHC",
         "seasonTotal": 27,
-        "rate": 0.206,
-        "recentRate": 0.206,
-        "prob1Plus": 20.1,
+        "rate": 0.205,
+        "recentRate": 0.205,
+        "prob1Plus": 20,
         "prob2Plus": 2.2,
         "multiHitRate": 0,
         "trend": "stable",
@@ -5728,8 +5749,8 @@
           "recent5Games": [],
           "seasonOverview": {
             "seasonTotal": 27,
-            "seasonAverage": "0.206",
-            "gamesPlayed": 131,
+            "seasonAverage": "0.205",
+            "gamesPlayed": 132,
             "leagueAverage": 0.9,
             "projectedTotal": 33
           },
@@ -5737,15 +5758,15 @@
           "totalHistoricalGames": 0
         },
         "value": 27,
-        "games": 131,
+        "games": 132,
         "avg": 0,
         "rawPlayer": {
           "name": "S. Suzuki",
           "team": "CHC",
           "HR": 27,
-          "games": 131,
+          "games": 132,
           "rate": "0.053",
-          "hrsPerGame": "0.21"
+          "hrsPerGame": "0.20"
         }
       },
       {
@@ -5754,9 +5775,9 @@
         "fullName": "R. McGuire",
         "team": "CHC",
         "seasonTotal": 7,
-        "rate": 0.206,
-        "recentRate": 0.206,
-        "prob1Plus": 18.6,
+        "rate": 0.2,
+        "recentRate": 0.2,
+        "prob1Plus": 18.1,
         "prob2Plus": 2,
         "multiHitRate": 0,
         "trend": "stable",
@@ -5771,24 +5792,24 @@
           "recent5Games": [],
           "seasonOverview": {
             "seasonTotal": 7,
-            "seasonAverage": "0.206",
-            "gamesPlayed": 34,
+            "seasonAverage": "0.200",
+            "gamesPlayed": 35,
             "leagueAverage": 0.9,
-            "projectedTotal": 33
+            "projectedTotal": 32
           },
           "opponentHistory": {},
           "totalHistoricalGames": 0
         },
         "value": 7,
-        "games": 34,
+        "games": 35,
         "avg": 0,
         "rawPlayer": {
           "name": "R. McGuire",
           "team": "CHC",
           "HR": 7,
-          "games": 34,
-          "rate": "0.068",
-          "hrsPerGame": "0.21"
+          "games": 35,
+          "rate": "0.066",
+          "hrsPerGame": "0.20"
         }
       },
       {
@@ -5797,9 +5818,9 @@
         "fullName": "M. Busch",
         "team": "CHC",
         "seasonTotal": 26,
-        "rate": 0.198,
-        "recentRate": 0.198,
-        "prob1Plus": 19.4,
+        "rate": 0.197,
+        "recentRate": 0.197,
+        "prob1Plus": 19.3,
         "prob2Plus": 2.2,
         "multiHitRate": 0,
         "trend": "stable",
@@ -5821,8 +5842,8 @@
           "recent5Games": [],
           "seasonOverview": {
             "seasonTotal": 26,
-            "seasonAverage": "0.198",
-            "gamesPlayed": 131,
+            "seasonAverage": "0.197",
+            "gamesPlayed": 132,
             "leagueAverage": 0.9,
             "projectedTotal": 32
           },
@@ -5830,13 +5851,13 @@
           "totalHistoricalGames": 0
         },
         "value": 26,
-        "games": 131,
+        "games": 132,
         "avg": 0,
         "rawPlayer": {
           "name": "M. Busch",
           "team": "CHC",
           "HR": 26,
-          "games": 131,
+          "games": 132,
           "rate": "0.059",
           "hrsPerGame": "0.20"
         }
@@ -5942,9 +5963,9 @@
         "fullName": "R. Acuna Jr.",
         "team": "ATL",
         "seasonTotal": 15,
-        "rate": 0.205,
-        "recentRate": 0.205,
-        "prob1Plus": 18.6,
+        "rate": 0.203,
+        "recentRate": 0.203,
+        "prob1Plus": 18.3,
         "prob2Plus": 2,
         "multiHitRate": 0,
         "trend": "stable",
@@ -5959,8 +5980,8 @@
           "recent5Games": [],
           "seasonOverview": {
             "seasonTotal": 15,
-            "seasonAverage": "0.205",
-            "gamesPlayed": 73,
+            "seasonAverage": "0.203",
+            "gamesPlayed": 74,
             "leagueAverage": 0.9,
             "projectedTotal": 33
           },
@@ -5968,15 +5989,15 @@
           "totalHistoricalGames": 0
         },
         "value": 15,
-        "games": 73,
+        "games": 74,
         "avg": 0,
         "rawPlayer": {
           "name": "R. Acuna Jr.",
           "team": "ATL",
           "HR": 15,
-          "games": 73,
+          "games": 74,
           "rate": "0.057",
-          "hrsPerGame": "0.21"
+          "hrsPerGame": "0.20"
         }
       },
       {
@@ -6018,7 +6039,7 @@
           "team": "ATL",
           "HR": 16,
           "games": 93,
-          "rate": "0.057",
+          "rate": "0.056",
           "hrsPerGame": "0.17"
         }
       }
@@ -6080,9 +6101,9 @@
         "fullName": "W. Langford",
         "team": "TEX",
         "seasonTotal": 21,
-        "rate": 0.178,
-        "recentRate": 0.178,
-        "prob1Plus": 17.6,
+        "rate": 0.176,
+        "recentRate": 0.176,
+        "prob1Plus": 17.5,
         "prob2Plus": 2.2,
         "multiHitRate": 0,
         "trend": "stable",
@@ -6104,8 +6125,8 @@
           "recent5Games": [],
           "seasonOverview": {
             "seasonTotal": 21,
-            "seasonAverage": "0.178",
-            "gamesPlayed": 118,
+            "seasonAverage": "0.176",
+            "gamesPlayed": 119,
             "leagueAverage": 0.9,
             "projectedTotal": 29
           },
@@ -6113,14 +6134,14 @@
           "totalHistoricalGames": 0
         },
         "value": 21,
-        "games": 118,
+        "games": 119,
         "avg": 0,
         "rawPlayer": {
           "name": "W. Langford",
           "team": "TEX",
           "HR": 21,
-          "games": 118,
-          "rate": "0.048",
+          "games": 119,
+          "rate": "0.047",
           "hrsPerGame": "0.18"
         }
       },
@@ -6130,9 +6151,9 @@
         "fullName": "M. Helman",
         "team": "TEX",
         "seasonTotal": 3,
-        "rate": 0.176,
-        "recentRate": 0.176,
-        "prob1Plus": 16.2,
+        "rate": 0.167,
+        "recentRate": 0.167,
+        "prob1Plus": 15.4,
         "prob2Plus": 2,
         "multiHitRate": 0,
         "trend": "stable",
@@ -6147,24 +6168,24 @@
           "recent5Games": [],
           "seasonOverview": {
             "seasonTotal": 3,
-            "seasonAverage": "0.176",
-            "gamesPlayed": 17,
+            "seasonAverage": "0.167",
+            "gamesPlayed": 18,
             "leagueAverage": 0.9,
-            "projectedTotal": 29
+            "projectedTotal": 27
           },
           "opponentHistory": {},
           "totalHistoricalGames": 0
         },
         "value": 3,
-        "games": 17,
+        "games": 18,
         "avg": 0,
         "rawPlayer": {
           "name": "M. Helman",
           "team": "TEX",
           "HR": 3,
-          "games": 17,
-          "rate": "0.079",
-          "hrsPerGame": "0.18"
+          "games": 18,
+          "rate": "0.075",
+          "hrsPerGame": "0.17"
         }
       }
     ],
@@ -6268,9 +6289,9 @@
         "fullName": "A. Bregman",
         "team": "BOS",
         "seasonTotal": 16,
-        "rate": 0.17,
-        "recentRate": 0.17,
-        "prob1Plus": 15.7,
+        "rate": 0.168,
+        "recentRate": 0.168,
+        "prob1Plus": 15.5,
         "prob2Plus": 2,
         "multiHitRate": 0,
         "trend": "stable",
@@ -6285,22 +6306,22 @@
           "recent5Games": [],
           "seasonOverview": {
             "seasonTotal": 16,
-            "seasonAverage": "0.170",
-            "gamesPlayed": 94,
+            "seasonAverage": "0.168",
+            "gamesPlayed": 95,
             "leagueAverage": 0.9,
-            "projectedTotal": 28
+            "projectedTotal": 27
           },
           "opponentHistory": {},
           "totalHistoricalGames": 0
         },
         "value": 16,
-        "games": 94,
+        "games": 95,
         "avg": 0,
         "rawPlayer": {
           "name": "A. Bregman",
           "team": "BOS",
           "HR": 16,
-          "games": 94,
+          "games": 95,
           "rate": "0.045",
           "hrsPerGame": "0.17"
         }
@@ -6311,9 +6332,9 @@
         "fullName": "T. Story",
         "team": "BOS",
         "seasonTotal": 23,
-        "rate": 0.169,
-        "recentRate": 0.169,
-        "prob1Plus": 16.8,
+        "rate": 0.168,
+        "recentRate": 0.168,
+        "prob1Plus": 16.7,
         "prob2Plus": 2.2,
         "multiHitRate": 0,
         "trend": "stable",
@@ -6335,8 +6356,8 @@
           "recent5Games": [],
           "seasonOverview": {
             "seasonTotal": 23,
-            "seasonAverage": "0.169",
-            "gamesPlayed": 136,
+            "seasonAverage": "0.168",
+            "gamesPlayed": 137,
             "leagueAverage": 0.9,
             "projectedTotal": 27
           },
@@ -6344,57 +6365,14 @@
           "totalHistoricalGames": 0
         },
         "value": 23,
-        "games": 136,
+        "games": 137,
         "avg": 0,
         "rawPlayer": {
           "name": "T. Story",
           "team": "BOS",
           "HR": 23,
-          "games": 136,
+          "games": 137,
           "rate": "0.044",
-          "hrsPerGame": "0.17"
-        }
-      },
-      {
-        "id": "N. Lowe-BOS",
-        "name": "N. Lowe",
-        "fullName": "N. Lowe",
-        "team": "BOS",
-        "seasonTotal": 2,
-        "rate": 0.167,
-        "recentRate": 0.167,
-        "prob1Plus": 15.4,
-        "prob2Plus": 2,
-        "multiHitRate": 0,
-        "trend": "stable",
-        "confidence": "medium",
-        "strategicFactors": {
-          "badges": [],
-          "parkFactor": 1,
-          "confidenceBoost": 0,
-          "stadiumContext": null
-        },
-        "chartData": {
-          "recent5Games": [],
-          "seasonOverview": {
-            "seasonTotal": 2,
-            "seasonAverage": "0.167",
-            "gamesPlayed": 12,
-            "leagueAverage": 0.9,
-            "projectedTotal": 27
-          },
-          "opponentHistory": {},
-          "totalHistoricalGames": 0
-        },
-        "value": 2,
-        "games": 12,
-        "avg": 0,
-        "rawPlayer": {
-          "name": "N. Lowe",
-          "team": "BOS",
-          "HR": 2,
-          "games": 12,
-          "rate": "0.056",
           "hrsPerGame": "0.17"
         }
       }
@@ -6530,6 +6508,49 @@
         }
       },
       {
+        "id": "C. Cowser-BAL",
+        "name": "C. Cowser",
+        "fullName": "C. Cowser",
+        "team": "BAL",
+        "seasonTotal": 13,
+        "rate": 0.178,
+        "recentRate": 0.178,
+        "prob1Plus": 16.3,
+        "prob2Plus": 2,
+        "multiHitRate": 0,
+        "trend": "stable",
+        "confidence": "high",
+        "strategicFactors": {
+          "badges": [],
+          "parkFactor": 1,
+          "confidenceBoost": 0,
+          "stadiumContext": null
+        },
+        "chartData": {
+          "recent5Games": [],
+          "seasonOverview": {
+            "seasonTotal": 13,
+            "seasonAverage": "0.178",
+            "gamesPlayed": 73,
+            "leagueAverage": 0.9,
+            "projectedTotal": 29
+          },
+          "opponentHistory": {},
+          "totalHistoricalGames": 0
+        },
+        "value": 13,
+        "games": 73,
+        "avg": 0,
+        "rawPlayer": {
+          "name": "C. Cowser",
+          "team": "BAL",
+          "HR": 13,
+          "games": 73,
+          "rate": "0.049",
+          "hrsPerGame": "0.18"
+        }
+      },
+      {
         "id": "G. Sanchez-BAL",
         "name": "G. Sanchez",
         "fullName": "G. Sanchez",
@@ -6573,14 +6594,14 @@
         }
       },
       {
-        "id": "C. Cowser-BAL",
-        "name": "C. Cowser",
-        "fullName": "C. Cowser",
+        "id": "A. Jackson-BAL",
+        "name": "A. Jackson",
+        "fullName": "A. Jackson",
         "team": "BAL",
-        "seasonTotal": 12,
-        "rate": 0.167,
-        "recentRate": 0.167,
-        "prob1Plus": 15.4,
+        "seasonTotal": 5,
+        "rate": 0.172,
+        "recentRate": 0.172,
+        "prob1Plus": 15.8,
         "prob2Plus": 2,
         "multiHitRate": 0,
         "trend": "stable",
@@ -6594,24 +6615,24 @@
         "chartData": {
           "recent5Games": [],
           "seasonOverview": {
-            "seasonTotal": 12,
-            "seasonAverage": "0.167",
-            "gamesPlayed": 72,
+            "seasonTotal": 5,
+            "seasonAverage": "0.172",
+            "gamesPlayed": 29,
             "leagueAverage": 0.9,
-            "projectedTotal": 27
+            "projectedTotal": 28
           },
           "opponentHistory": {},
           "totalHistoricalGames": 0
         },
-        "value": 12,
-        "games": 72,
+        "value": 5,
+        "games": 29,
         "avg": 0,
         "rawPlayer": {
-          "name": "C. Cowser",
+          "name": "A. Jackson",
           "team": "BAL",
-          "HR": 12,
-          "games": 72,
-          "rate": "0.046",
+          "HR": 5,
+          "games": 29,
+          "rate": "0.070",
           "hrsPerGame": "0.17"
         }
       },
@@ -6699,108 +6720,6 @@
           "games": 91,
           "rate": "0.048",
           "hrsPerGame": "0.16"
-        }
-      }
-    ],
-    "CLE": [
-      {
-        "id": "K. Manzardo-CLE",
-        "name": "K. Manzardo",
-        "fullName": "K. Manzardo",
-        "team": "CLE",
-        "seasonTotal": 24,
-        "rate": 0.205,
-        "recentRate": 0.205,
-        "prob1Plus": 20,
-        "prob2Plus": 2.2,
-        "multiHitRate": 0,
-        "trend": "stable",
-        "confidence": "high",
-        "strategicFactors": {
-          "badges": [
-            {
-              "type": "DUE_FOR_HR",
-              "source": "hr_analysis",
-              "reason": "24 HRs - due for power surge",
-              "boost": 8
-            }
-          ],
-          "parkFactor": 1,
-          "confidenceBoost": 8,
-          "stadiumContext": null
-        },
-        "chartData": {
-          "recent5Games": [],
-          "seasonOverview": {
-            "seasonTotal": 24,
-            "seasonAverage": "0.205",
-            "gamesPlayed": 117,
-            "leagueAverage": 0.9,
-            "projectedTotal": 33
-          },
-          "opponentHistory": {},
-          "totalHistoricalGames": 0
-        },
-        "value": 24,
-        "games": 117,
-        "avg": 0,
-        "rawPlayer": {
-          "name": "K. Manzardo",
-          "team": "CLE",
-          "HR": 24,
-          "games": 117,
-          "rate": "0.063",
-          "hrsPerGame": "0.21"
-        }
-      },
-      {
-        "id": "J. Ramirez-CLE",
-        "name": "J. Ramirez",
-        "fullName": "J. Ramirez",
-        "team": "CLE",
-        "seasonTotal": 26,
-        "rate": 0.198,
-        "recentRate": 0.198,
-        "prob1Plus": 19.4,
-        "prob2Plus": 2.2,
-        "multiHitRate": 0,
-        "trend": "stable",
-        "confidence": "high",
-        "strategicFactors": {
-          "badges": [
-            {
-              "type": "DUE_FOR_HR",
-              "source": "hr_analysis",
-              "reason": "26 HRs - due for power surge",
-              "boost": 8
-            }
-          ],
-          "parkFactor": 1,
-          "confidenceBoost": 8,
-          "stadiumContext": null
-        },
-        "chartData": {
-          "recent5Games": [],
-          "seasonOverview": {
-            "seasonTotal": 26,
-            "seasonAverage": "0.198",
-            "gamesPlayed": 131,
-            "leagueAverage": 0.9,
-            "projectedTotal": 32
-          },
-          "opponentHistory": {},
-          "totalHistoricalGames": 0
-        },
-        "value": 26,
-        "games": 131,
-        "avg": 0,
-        "rawPlayer": {
-          "name": "J. Ramirez",
-          "team": "CLE",
-          "HR": 26,
-          "games": 131,
-          "rate": "0.053",
-          "hrsPerGame": "0.20"
         }
       }
     ],
@@ -6904,9 +6823,9 @@
         "fullName": "J. Chourio",
         "team": "MIL",
         "seasonTotal": 18,
-        "rate": 0.165,
-        "recentRate": 0.165,
-        "prob1Plus": 15.2,
+        "rate": 0.164,
+        "recentRate": 0.164,
+        "prob1Plus": 15.1,
         "prob2Plus": 2,
         "multiHitRate": 0,
         "trend": "stable",
@@ -6921,8 +6840,8 @@
           "recent5Games": [],
           "seasonOverview": {
             "seasonTotal": 18,
-            "seasonAverage": "0.165",
-            "gamesPlayed": 109,
+            "seasonAverage": "0.164",
+            "gamesPlayed": 110,
             "leagueAverage": 0.9,
             "projectedTotal": 27
           },
@@ -6930,28 +6849,78 @@
           "totalHistoricalGames": 0
         },
         "value": 18,
-        "games": 109,
+        "games": 110,
         "avg": 0,
         "rawPlayer": {
           "name": "J. Chourio",
           "team": "MIL",
           "HR": 18,
-          "games": 109,
+          "games": 110,
           "rate": "0.039",
-          "hrsPerGame": "0.17"
+          "hrsPerGame": "0.16"
         }
       }
     ],
-    "WSH": [
+    "CLE": [
       {
-        "id": "J. Wood-WSH",
-        "name": "J. Wood",
-        "fullName": "J. Wood",
-        "team": "WSH",
+        "id": "K. Manzardo-CLE",
+        "name": "K. Manzardo",
+        "fullName": "K. Manzardo",
+        "team": "CLE",
+        "seasonTotal": 24,
+        "rate": 0.203,
+        "recentRate": 0.203,
+        "prob1Plus": 19.9,
+        "prob2Plus": 2.2,
+        "multiHitRate": 0,
+        "trend": "stable",
+        "confidence": "high",
+        "strategicFactors": {
+          "badges": [
+            {
+              "type": "DUE_FOR_HR",
+              "source": "hr_analysis",
+              "reason": "24 HRs - due for power surge",
+              "boost": 8
+            }
+          ],
+          "parkFactor": 1,
+          "confidenceBoost": 8,
+          "stadiumContext": null
+        },
+        "chartData": {
+          "recent5Games": [],
+          "seasonOverview": {
+            "seasonTotal": 24,
+            "seasonAverage": "0.203",
+            "gamesPlayed": 118,
+            "leagueAverage": 0.9,
+            "projectedTotal": 33
+          },
+          "opponentHistory": {},
+          "totalHistoricalGames": 0
+        },
+        "value": 24,
+        "games": 118,
+        "avg": 0,
+        "rawPlayer": {
+          "name": "K. Manzardo",
+          "team": "CLE",
+          "HR": 24,
+          "games": 118,
+          "rate": "0.062",
+          "hrsPerGame": "0.20"
+        }
+      },
+      {
+        "id": "J. Ramirez-CLE",
+        "name": "J. Ramirez",
+        "fullName": "J. Ramirez",
+        "team": "CLE",
         "seasonTotal": 26,
-        "rate": 0.193,
-        "recentRate": 0.193,
-        "prob1Plus": 18.9,
+        "rate": 0.197,
+        "recentRate": 0.197,
+        "prob1Plus": 19.3,
         "prob2Plus": 2.2,
         "multiHitRate": 0,
         "trend": "stable",
@@ -6973,8 +6942,60 @@
           "recent5Games": [],
           "seasonOverview": {
             "seasonTotal": 26,
-            "seasonAverage": "0.193",
-            "gamesPlayed": 135,
+            "seasonAverage": "0.197",
+            "gamesPlayed": 132,
+            "leagueAverage": 0.9,
+            "projectedTotal": 32
+          },
+          "opponentHistory": {},
+          "totalHistoricalGames": 0
+        },
+        "value": 26,
+        "games": 132,
+        "avg": 0,
+        "rawPlayer": {
+          "name": "J. Ramirez",
+          "team": "CLE",
+          "HR": 26,
+          "games": 132,
+          "rate": "0.053",
+          "hrsPerGame": "0.20"
+        }
+      }
+    ],
+    "WSH": [
+      {
+        "id": "J. Wood-WSH",
+        "name": "J. Wood",
+        "fullName": "J. Wood",
+        "team": "WSH",
+        "seasonTotal": 26,
+        "rate": 0.191,
+        "recentRate": 0.191,
+        "prob1Plus": 18.8,
+        "prob2Plus": 2.2,
+        "multiHitRate": 0,
+        "trend": "stable",
+        "confidence": "high",
+        "strategicFactors": {
+          "badges": [
+            {
+              "type": "DUE_FOR_HR",
+              "source": "hr_analysis",
+              "reason": "26 HRs - due for power surge",
+              "boost": 8
+            }
+          ],
+          "parkFactor": 1,
+          "confidenceBoost": 8,
+          "stadiumContext": null
+        },
+        "chartData": {
+          "recent5Games": [],
+          "seasonOverview": {
+            "seasonTotal": 26,
+            "seasonAverage": "0.191",
+            "gamesPlayed": 136,
             "leagueAverage": 0.9,
             "projectedTotal": 31
           },
@@ -6982,14 +7003,14 @@
           "totalHistoricalGames": 0
         },
         "value": 26,
-        "games": 135,
+        "games": 136,
         "avg": 0,
         "rawPlayer": {
           "name": "J. Wood",
           "team": "WSH",
           "HR": 26,
-          "games": 135,
-          "rate": "0.051",
+          "games": 136,
+          "rate": "0.050",
           "hrsPerGame": "0.19"
         }
       }
@@ -7001,9 +7022,9 @@
         "fullName": "N. Marte",
         "team": "CIN",
         "seasonTotal": 12,
-        "rate": 0.174,
-        "recentRate": 0.174,
-        "prob1Plus": 16,
+        "rate": 0.171,
+        "recentRate": 0.171,
+        "prob1Plus": 15.8,
         "prob2Plus": 2,
         "multiHitRate": 0,
         "trend": "stable",
@@ -7018,8 +7039,8 @@
           "recent5Games": [],
           "seasonOverview": {
             "seasonTotal": 12,
-            "seasonAverage": "0.174",
-            "gamesPlayed": 69,
+            "seasonAverage": "0.171",
+            "gamesPlayed": 70,
             "leagueAverage": 0.9,
             "projectedTotal": 28
           },
@@ -7027,14 +7048,14 @@
           "totalHistoricalGames": 0
         },
         "value": 12,
-        "games": 69,
+        "games": 70,
         "avg": 0,
         "rawPlayer": {
           "name": "N. Marte",
           "team": "CIN",
           "HR": 12,
-          "games": 69,
-          "rate": "0.048",
+          "games": 70,
+          "rate": "0.046",
           "hrsPerGame": "0.17"
         }
       },
@@ -7077,7 +7098,7 @@
           "team": "CIN",
           "HR": 6,
           "games": 36,
-          "rate": "0.048",
+          "rate": "0.047",
           "hrsPerGame": "0.17"
         }
       },
@@ -7132,9 +7153,9 @@
         "fullName": "O. Cruz",
         "team": "PIT",
         "seasonTotal": 19,
-        "rate": 0.167,
-        "recentRate": 0.167,
-        "prob1Plus": 15.4,
+        "rate": 0.165,
+        "recentRate": 0.165,
+        "prob1Plus": 15.2,
         "prob2Plus": 2,
         "multiHitRate": 0,
         "trend": "stable",
@@ -7149,8 +7170,8 @@
           "recent5Games": [],
           "seasonOverview": {
             "seasonTotal": 19,
-            "seasonAverage": "0.167",
-            "gamesPlayed": 114,
+            "seasonAverage": "0.165",
+            "gamesPlayed": 115,
             "leagueAverage": 0.9,
             "projectedTotal": 27
           },
@@ -7158,20 +7179,20 @@
           "totalHistoricalGames": 0
         },
         "value": 19,
-        "games": 114,
+        "games": 115,
         "avg": 0,
         "rawPlayer": {
           "name": "O. Cruz",
           "team": "PIT",
           "HR": 19,
-          "games": 114,
-          "rate": "0.047",
+          "games": 115,
+          "rate": "0.046",
           "hrsPerGame": "0.17"
         }
       }
     ]
   },
-  "lastUpdated": "2025-09-04T17:13:39.822Z",
+  "lastUpdated": "2025-09-05T01:32:55.448Z",
   "chartDataIncluded": true,
   "dataSourcesUsed": {
     "rollingStats": true,
